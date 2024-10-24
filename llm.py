@@ -68,7 +68,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Annotate references with a large language model.')
 
     parser.add_argument("--data", type=str, help="Path to the JSON file containing the references.", default="data/refs.json")
-    parser.add_argument("--output", type=str, help="Path to the output JSON file.", default="data/llm.json")
+    parser.add_argument("--output", type=str, help="Path to the output JSON file.", default="out/llm.json")
 
     args = parser.parse_args()
     main(args)
