@@ -1,0 +1,2158 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="methods-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15153.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Method Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Developing the multi-dimensional mobility divide index (MDI) as a methodology to assess the accessibility level of public transport systems</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Repetto</surname>
+                        <given-names>Cino</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Benzi</surname>
+                        <given-names>Leonardo</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-9011-5044</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Bagnasco</surname>
+                        <given-names>Martina</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-4851-4997</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Hatzakis</surname>
+                        <given-names>Tally</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-6014-8117</uri>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Brinkmann</surname>
+                        <given-names>Florian</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Al&#x010d;iauskait&#x0117;</surname>
+                        <given-names>Laura</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Andrushevich</surname>
+                        <given-names>Alexey (Aliaksei)</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-7138-8872</uri>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Koenig</surname>
+                        <given-names>Alexandra</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-6332-3817</uri>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>T Bridge S.p.A., Genova, Italy</aff>
+                <aff id="a2">
+                    <label>2</label>Trilateral Research, Marine Point, Ireland</aff>
+                <aff id="a3">
+                    <label>3</label>German Aerospace Center (DLR), Braunschweig, Germany</aff>
+                <aff id="a4">
+                    <label>4</label>ENIL, Brussels, Belgium</aff>
+                <aff id="a5">
+                    <label>5</label>iHomeLab, University of Applied Sciences and Arts, Lucerne, Switzerland</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:c.repetto@tbridge.it">c.repetto@tbridge.it</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>12</month>
+            <year>2022</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2022</year>
+            </pub-date>
+         <volume>2</volume>
+            <elocation-id>143</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>16</day>
+                    <month>11</month>
+               <year>2022</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Repetto C et al.</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/2-143/pdf"/>
+            <abstract>
+                <p>
+                    <bold>Background</bold>: This paper presents the development of a multi-dimensional mobility divide index (MDI) for assessing the accessibility of public transport developed using a co-design approach, directly involving end-users in the index design process. The index measures the gap that persons with disabilities feel they need to over-come to use public transport in the same way non-disabled citizens do. The MDI covers six accessibility-related dimensions: 1) safety, 2) convenience, 3) comfort, 4) affordability, 5) travel time, and 6) autonomy.</p>
+                <p>
+                    <bold>Methods</bold>: The method paper describes the step-by-step approach to create the MDI as a set of indicators to be rated by people with different access needs to 1) provide evidence of the main criticalities to be addressed through the design and implementation of new inclusive mobility solutions, 2) guide the design of new inclusive mobility solutions and measure their impacts, and 3) inform the transport sector encouraging positive changes in transport by providing recommendations for policy-making, new directions for service innovation, improvements and practical advice or highlighting investment priorities to pave the way for a more inclusive mobility. </p>
+                <p>
+                    <bold>Results</bold>: We present our findings in ways that can inform universal design and provide actionable information to researchers, policymakers, transport and urban planners, operators, and stakeholders&#x2019; representatives to promote inclusive and equitable mobility solutions for all. </p>
+                <p>
+                    <bold>Conclusions</bold>: Finally, we suggest follow up research and innovation, as well as recommendations for its uptake and utilisation in the pursuit of European accessibility standards and requirements for products and services in the mobility sector.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>accessibility</kwd>
+                <kwd>public transport</kwd>
+                <kwd>method development</kwd>
+                <kwd>people with disabilities</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>875588</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No [875588] (TRansport Innovation for vulnerable-to-exclusion People needs Satisfaction [TRIPS]). </funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>The article presents an innovative method for the assessment of the level of the accessibility of the public transport services, from the disabled users perspective.</p>
+            <p>The method has been developed from the concept of the &#x2018;mobility divide&#x2019;, that is the gap that person with reduced mobility have to overcome in order to have equal mobility opportunities. The adoption of these accessibility metrics is recommended for all kinds of urban transport services. The accuracy and transferability of the mobility divide index (MDI) has been assessed in the framework of the European Project &#x2019;TRIPS&#x2019; (TRansport Innovation for Persons with disabilities needs Satisfaction).</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <sec>
+                <title>The challenge of measuring accessibility</title>
+                <p>Put simply, &#x201c;Accessibility is about getting there...easily&#x201d; (
+                    <xref ref-type="bibr" rid="ref-2">Austrian Mobility Research, 2013</xref>; 
+                    <xref ref-type="bibr" rid="ref-23">ISEMOA Project: Improving seamless energy-efficient mobility chains for all. Accessibility &#x2013; Why we need it</xref>), where accessibility is defined as the ease of access or how easily people can reach desired activities. It is a factor on three levels: 1) macro-level (e.g., geographical accessibility and land-use patterns in terms of location, distance etc.), 2) meso-level (e.g., availability of sustainable transport modes and service level, and 3) micro-level (e.g., occurrence of various barriers (e.g., physical barriers (
+                    <xref ref-type="bibr" rid="ref-50">Wennberg 
+                        <italic toggle="yes">et al.,</italic> 2012</xref>).</p>
+                <p>The 
+                    <xref ref-type="bibr" rid="ref-48">UNIACCESS Project: Design of universal accessibility systems for public transport</xref> on Design of Universal Accessibility Systems for Public Transport highlighted the needs and issues (especially for people with disabilities) for each step of the journey, such as the preparation phase Information (timetables, fares, alternative transport); ticketing services (adapted booking and information system on tickets); safe and accessible pedestrian environment on the way to the public transport station; getting on the platforms, waiting at the bus surroundings and waiting modalities; getting to the larger terminal displays, services and assistance; gaps between the vehicle and platform, aid devices facilities, pushbuttons, driver&#x2019;s awareness during boarding and disembarking the vehicle; information display system, priority signalling and seating, height of ticketing machines, and non-existence of obstacles during the journey itself.</p>
+                <p>As we can see from this list, inaccessibility can be caused by any barrier of using public transport that affects people&#x2019;s motivation or capacity to travel. People&#x2019;s motivation or capacity to travel has knock on effects on people&#x2019;s choices in other facets of life, such as going to school or work, seeing the doctor, running errands, but also meeting friends, visiting a restaurant, a gym or cinema, or simply being outdoors; hence inaccessible transport is a basis of discrimination. </p>
+                <p>Despite increasing awareness about the importance of equal access to public transport for all citizens, including persons with disabilities, there is still lack of metrics that can measure accessibility in ways that are meaningful to all users and reflect everyone&#x2019;s struggles with transport inaccessibility in their everyday life (
+                    <xref ref-type="bibr" rid="ref-31">Miller, 2018b</xref>). </p>
+            </sec>
+            <sec>
+                <title>State of the art/ literature review</title>
+                <p>Attempts to measure accessibility by institutional actors strive for objective and quantifiable measures of accessibility, but they are mostly excluding users from the development of such metrics (
+                    <xref ref-type="bibr" rid="ref-38">OECD/ITF, 2019</xref>). Hence, objective metrics identify 
+                    <underline>whether or not</underline> &#x2018;an idealised average user&#x2019; can access a specific service, but not 
+                    <underline>how easy</underline> it is for users of various abilities to do so. As such, they bare little relevance to actual users, particularly people with disabilities who have quite different access needs from the norm. Hence, such metrics provide little actionable information as to which gaps to address to satisfy users and decrease their perceived and lived discrimination. A number of projects have already begun to address this concern.</p>
+                <p>For example, the 
+                    <xref ref-type="bibr" rid="ref-29">MEDIATE Project: MEthodology for Describing the Accessibility of Transport in Europe</xref> established a set of indicators to be used for measuring the accessibility of public transport throughout Europe. The Project addressed several stakeholders, amongst whom are &#x2018;end-user groups&#x2019;. As part of their user involvement effort, they included older and disabled people to understand the faced barriers, in all stages planning, implementation, monitoring, and evaluation. Data collection in order to quantify the fulfilment of the indicators was addressed to 25 urban public transport authorities from 15 countries (
+                    <xref ref-type="bibr" rid="ref-8">Carvalho 
+                        <italic toggle="yes">et al.,</italic> 2011</xref>). An End User Platform to elicit real users&#x2019; needs and high-quality user input in the identification of indicators and the development of the self-assessment tool for measuring accessibility was the result of this project (
+                    <xref ref-type="bibr" rid="ref-30">MEthodology for Describing the Accessibility of Transport in Europe: Final publishable summary report</xref>).</p>
+                <p>Furthermore, the PTaccess project (
+                    <xref ref-type="bibr" rid="ref-42">PTaccess Project: Public Transport Systems&#x2019; Accessibility for Disabled People in Europe</xref>) also attempted to measure the actual state of accessibility of urban and rural public transport systems. They analysed the accessibility of passenger information, the accessibility issues in ticketing, the accessibility of stops and stations, the accessibility of vehicles, as well as the safety and reliability of services
+                    <sup>10</sup>. Research was driven by experts, rather than users. Three national experts within each country were chosen for their public transport accessibility, disability and policy knowledge and experience. Interviews were carried out at the national level in 25 EU Member States with:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>an individual of a national organisation representing disabled people;</p>
+                    </list-item>
+                    <list-item>
+                        <p>a representative of a public transport operator; and</p>
+                    </list-item>
+                    <list-item>
+                        <p>a representative of the national government.</p>
+                    </list-item>
+                </list>
+                <p>The information derived from Interviews was complemented by intensive internet research and resulted in a good practice report covering more than 70 examples of mobility systems in various countries. Examples covered individual transport modes without taking into account multimodal aspects or the entire travel chain. Good practice has accounted for different types of disabilities (motor, visual, hearing and cognitive impairments), yet it did not involve users in their evaluation or selection.</p>
+                <p>The INCLUSION project (2017 &#x2013; 2020, 
+                    <ext-link ext-link-type="uri" xlink:href="https://cordis.europa.eu/project/id/770115/">https://cordis.europa.eu/project/id/770115/</ext-link>) focused on understanding, assessing, and evaluating the accessibility and inclusiveness of transport solutions, identifying gaps and unmet needs to ensure accessible, inclusive, and equitable conditions for all, especially vulnerable user categories. The project team analysed 51 case studies from different locations with regards to accessibility and inclusion. A methodology consisting of four layers of requirements (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>) was developed for validating the mobility needs of &#x2018;vulnerable to exclusion&#x2019; users and population groups, based on a workshop with stakeholders and on interviews which included user groups, operators/service providers, consultancy groups, academic researchers, networking organisations and other experts.</p>
+                <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                    <label>Figure 1. </label>
+                    <caption>
+                        <title>Classification of major user needs (INCLUSION Project, public, D1.3, page 43).</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure1.gif"/>
+                </fig>
+                <p>The project gave clear recommendation to include users in the requirement specification and co-design process of mobility measures. Using such practices, a number of innovative solutions were tested and validated through real-life experiments in Innovation Pilot Labs targeting a mix of urban, peri-/sub-urban and rural areas in Belgium, Germany, Hungary, Italy, Spain, and the UK. A total of 15 innovative measures have been developed and implemented from the identified innovations addressing different transport environments, socio-economic contexts, and cultural and geographical conditions. The project proposed solutions to improve the accessibility of public transport. The solutions and measures used were based on the requirements of local users and collected via questionnaires and social media.</p>
+                <p>
+                    <xref ref-type="table" rid="T1">Table 1</xref> contains the comparison of previously described accessibility projects regarding target group, user involvement in method design and development, as well as user involvement in method validation. Furthermore, several scientific works also address accessibility related aspects within public transportation sector developments.</p>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                    <label>Table 1. </label>
+                    <caption>
+                        <title>Comparison of different accessibility projects regarding target group, user involvement in method design and development and user involvement in method validation.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Reference project</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Target group</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">User involvement in method 
+                                    <break/>design and development</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">User involvement
+                                    <break/> in method
+                                    <break/> validation</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <xref ref-type="bibr" rid="ref-48">UNIACCESS Project: Design of universal accessibility systems for public transport</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Policy makers /Decision
+                                    <break/> makers / Government, Public
+                                    <break/> administrators / Authorities, 
+                                    <break/>Organisations of disabled people</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Initial steps during design stage</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">No information</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <xref ref-type="bibr" rid="ref-29">MEDIATE Project: MEthodology for Describing the Accessibility of Transport in Europe</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">local authorities and operators 
+                                    <break/>(to investigate the accessibility of
+                                    <break/> the public transport system)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">by an End User Platform involving 
+                                    <break/>relevant end user organisations,
+                                    <break/> including disabled people, older 
+                                    <break/>people and other people facing
+                                    <break/> barriers to accessing urban transport</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">No information.</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <xref ref-type="bibr" rid="ref-42">PTaccess Project: Public Transport Systems&#x2019; Accessibility for Disabled People in Europe</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Policy makers /Decision
+                                    <break/> makers / Government, Public 
+                                    <break/>administrators / Authorities, 
+                                    <break/>Organisations of disabled people</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">By including experts in interviews</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">No Information</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <xref ref-type="bibr" rid="ref-22">INCLUSION. Project: Towards more accessIble and iNCLUSIve mObility solutions for EuropeaN prioritised areas</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">regulators, policy makers, 
+                                    <break/>stakeholder associations etc. at 
+                                    <break/>various levels</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Users were involved in user needs
+                                    <break/> classification and (partly) in the
+                                    <break/> design planning of pilot tests</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">No information</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>For example, in line with their professional interests, transport planners tend to focus on the accessibility of transport modes and services (such as metros), while urban planners place more emphasis on land use metrics (such as distance to the next public facility).</p>
+                <p>According to our users, however &#x201c;accessibility is a door-to-door issue&#x201d;. Hence current approaches ignore the importance of multimodality. In addition, objective measures of accessibility may capture 
+                    <underline>distance</underline> and travel 
+                    <underline>time from</underline> a place A to a place B, ignoring other dimensions equally or even more important to users as well as individual differences between them
+                    <sup>12</sup>. Other methodologies mostly identify 
+                    <underline>whether or not</underline> users can access a specific service, but not 
+                    <underline>how easy</underline> it is for them to do so.</p>
+                <p>There is an increasing recognition that the measurement of accessibility should consider users&#x2019; travel disutility or impedance, individuals&#x2019; travel preferences and constraints, should we want metrics to inform transport planning, operations, and policy. In addition, differences in personal needs, abilities, and travel patterns are often responsible for disparities in accessibility which can lead to unreliable analysis of transport equity (
+                    <xref ref-type="bibr" rid="ref-13">Dixit &amp; Sivakumar, 2020</xref>). Shedding light in such differences can yield actionable inputs for policy makers and decision makers (
+                    <xref ref-type="bibr" rid="ref-31">Miller, 2018b</xref>). 
+                    <xref ref-type="bibr" rid="ref-100">Miller (2020)</xref> summarises the issues with measuring accessibility to date. Although in his paper Miller refers to accessibility in terms of the reachability of local destinations, findings could extend to the accessibility of transportation modes (e.g., stations). The author suggests that objective models of accessibility are of little value to users&#x2019; and do not reflect their conception of utility, as well as little operational relevance in terms of the use of accessibility measures in planning analysis and decision making with regards to its economic evaluation. To increase their operational usefulness, the author suggests alternative ways of selecting of explanatory variables, levels of (dis)aggregation, treatment of travel modes, parameter estimation/specification, and travel choices and destinations, as well as a yardstick of comparison that can define meaningful thresholds for improvements in utility for users.</p>
+                <p>The literature review by 
+                    <xref ref-type="bibr" rid="ref-100">Miller (2020)</xref> identified a lack of compelling, robust theoretical foundation for measuring accessibility. This lack is based on several challenges, among them: 1) there is no objective, normative standard for what constitutes &#x2018;good&#x2019; or &#x2018;acceptable&#x2019; accessibility, 2) the subjective (person-based) nature of most accessibility measures makes comparison of accessibility levels across groups difficult, 3) accessibility measures are ad hoc in derivation to various degrees, which makes transfer hard, 4) all conventional accessibility measures are static in nature, based on a snapshot in time, 5) the relationship between accessibility and land value is not as well established, and 6) the complexity of the concept and its measures makes accessibility very difficult for the public, politicians and even many planners to understand and use.</p>
+                <p>In a nutshell, previous projects, publications and approaches have focused on different individual aspects of accessibility, for example, travel planning and execution, including assistance and companions for disabled people, as well as the topic as a whole. In their research, policies and evaluation indicators for assessing accessibility for people with disabilities were also considered from various viewpoints.</p>
+            </sec>
+            <sec>
+                <title>Research needs</title>
+                <p>Our critical evaluation of prior work highlights the lack of comprehensive, user-centric accessibility metrics that captures the main criticalities that affect users&#x2019; daily travel experience and reflects their prioritization, but are also meaningful, and easy-to-understand. The majority of previous projects did not sufficiently involve people with disabilities neither in method design and development nor method validation to ensure that the new indices represent their specific needs. In our experience, this is a critical point for meaningfully reflecting users&#x2019; perspective. It was yet clear that there is a real operational and managerial need for data and information that can inform transport investments and priorities to meet EU&#x2019;s strategic priorities on accessibility as reflected on the European Commission's Study on &#x2018;Urban Mobility &#x2013; Assessing and improving the accessibility of urban areas&#x2019; (
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://transport.ec.europa.eu/facts-fundings/calls-tenders/assessing-and-improving-accessibility-urban-areas_en">https://transport.ec.europa.eu/facts-fundings/calls-tenders/assessing-and-improving-accessibility-urban-areas_en</ext-link>).</p>
+                <p>Hence, the TRIPS consortium set out to devise a brand-new measurement system for users to audit transport systems that provides a common understanding and definition of accessibility and developing a set of comparable indicators from users&#x2019; viewpoint. To this end, our effort was directed by the following three key challenges:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>1. </label>
+                        <p>MULTIDIMENSIONALITY. The concept of &#x2018;accessibility&#x2019; is complex and multi-dimensional. People with disabilities face simultaneously a number of interrelated factors that hinder them from travelling or at least significantly worsen their travel experience. Hence, it was necessary to establish all he factors affecting their travel and the relationships between them.</p>
+                    </list-item>
+                    <list-item>
+                        <label>2. </label>
+                        <p>QUANTIFICATION. Factors affecting accessibility may stem from functional features of the transport infrastructure and/or service and can be objectively measured (e.g., distance to the nearest bus stop), it is usually users&#x2019; subjective experience of the use of the transport system that matters to them. The challenge of a comprehensive metric is to translate such personal experiences in manageable quantitative data that can drive priorities and operational decisions.</p>
+                    </list-item>
+                    <list-item>
+                        <label>3. </label>
+                        <p>USER-RELATED RELEVANCE: The impact of the various transport infrastructure and/or service on accessibility may differ greatly depending on their disability. For example, the nearest bus stop may be easily accessible to the blind but really hard to get to by people on wheelchairs. Hence, 
+                            <underline>accessibility</underline> depends (at least in part) from the user&#x2019;s individual needs, attitudes and abilities. Moreover, it would be non-sensical and unhelpful operationally to average out their evaluations.</p>
+                    </list-item>
+                </list>
+                <p>The goal is a new measurement system that reflects a definition of accessibility compatible with these three challenges to develop a synthetic metric that can still capture the complexity of the concept in a manageable way.</p>
+            </sec>
+        </sec>
+        <sec sec-type="methods">
+            <title>Method</title>
+            <sec>
+                <title>The mobility divide index &#x2013; definition and purpose</title>
+                <p>To address the goal set above, the research team developed the concept of a 
+                    <underline>mobility divide</underline>, defined as &#x201c;the gap that a vulnerable user has to overcome in order to have pair access opportunities to transport services, in comparison with normally endowed users&#x201d; (
+                    <xref ref-type="fig" rid="f2">Figure 2</xref>). The mobility divide focuses on the user experience and on the barriers that a person with disability has to face, as a consequence of his/her conditions. Under such perspective, the level of accessibility of a transport system can be represented by the measure of the gap: the wider is the gap, the more unequal are the access opportunities for a person with disability.</p>
+                <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                    <label>Figure 2. </label>
+                    <caption>
+                        <title>The mobility divide.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure2.gif"/>
+                </fig>
+                <p>The mobility divide index (MDI) has been envisioned as the composite of a set of indicators that aims to provide an overall measure of accessibility, through the evaluation of the mobility divide. The MDI multilevel structure enables a synthetic overall rating of the audited service, but also it provides different views, since it can be sorted with different keys, such as the kind of impairment or the audited transport service, so several perspectives can be made available for analysis and for a better understanding of the plus and minus of the local mobility system.</p>
+                <p>To this end, the index is designed to be:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>
+                            <underline>Holistic</underline>, offering an easy to interpret and valid instrument to support the decision-making without dropping the underlying information base. Hence, the structure of the index has been shaped as a multi-level framework (shown in 
+                            <xref ref-type="fig" rid="f3">Figure 3</xref>) comprising a set of factors organised under discreet 
+                            <underline>dimensions</underline> that in combination reflect different facets of the mobility divide.</p>
+                    </list-item>
+                </list>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>
+                            <underline>User-Centric</underline>, directly reflecting the travel experience of disabled users, and it is proposed as a mean to allow them to share their perspective on the mobility services. Through such rating scheme, they can prioritize all aspects relevant to ensure a really inclusive transport system.</p>
+                    </list-item>
+                    <list-item>
+                        <p>
+                            <underline>Personalisable</underline>, allowing any users to represent their subjective travel experience according to their specific impairment, expectations and attitudes and perceptions of the mobility divide.</p>
+                    </list-item>
+                    <list-item>
+                        <p>
+                            <underline>From users for users</underline>, involving disabled users in naming, defining of what affected their journeys (factors) and clustering and re-clustering of such items in groups according to their impact (dimensions) through an iterative, co-design process of reflecting. Such participatory approach ensures that the resulting indicators system measures accessibility in ways meaningful to users, yet useful to transport professionals.</p>
+                    </list-item>
+                    <list-item>
+                        <p>
+                            <underline>End-to-end, addressing</underline> all the phases of the journey experience from planning to arriving in one&#x2019;s destination as per the &#x2018;journey cycle' defined by Lafratta (
+                            <xref ref-type="fig" rid="f4">Figure 4</xref> - Assessment of Accessibility Standards for Disabled People in Land Based Public Transport Vehicles, 
+                            <xref ref-type="bibr" rid="ref-47">Lafratta (2008)</xref>).</p>
+                    </list-item>
+                </list>
+                <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                    <label>Figure 3. </label>
+                    <caption>
+                        <title>The mobility divide index (MDI) framework.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure3.gif"/>
+                </fig>
+                <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                    <label>Figure 4. </label>
+                    <caption>
+                        <title>The Journey Cycle (
+                            <xref ref-type="bibr" rid="ref-47">Lafratta, 2008</xref>).</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure4.gif"/>
+                </fig>
+                <p>The journey process model represents the typical phases of &#x2018;normal&#x2019; travel; in order to deal with more complex use cases, it was integrated with further components, that can describe more optional phases, such as &#x2018;Modal Interchange&#x2019; and &#x2018;Disruption to Business-As-Usual&#x2019;.</p>
+                <p>This allowed us to drill into the factors affecting accessibility in each phase yet being able to synthesise an index that measures the accessibility of the end-to-end journey, accounting for multimodal evaluations. The disabled users can use the MDI to audit the transport ecosystem from their own perspective, and to provide evidence on accessibility gaps and specific malfunction. Moreover, the auditing process collects data on punctual criticalities. As a result, actionable information can be provided to relevant stakeholders: researchers, transport planners, and policy makers to translate it into change actions.</p>
+                <p>Our aspiration is to establish a new common evaluation standard available for researchers, policymakers, transport and urban planners, operators, and stakeholders&#x2019; representatives to provide suggestions and recommendations to achieve more inclusive solutions in the transport sector. While the index provides user feedback on the transport system in their city, one could envision that a wide adoption of the MDI across European cities could help us take stock of the level of accessibility of the mobility systems at both the national and European level.</p>
+            </sec>
+            <sec>
+                <title>Development of the MDI &#x2013; the approach</title>
+                <p>The development of the MDI was based on a multi-step approach, visualized in the flowchart below (
+                    <xref ref-type="fig" rid="f5">Figure 5</xref>). In the following, each step of the index development is described in detail.</p>
+                <fig fig-type="figure" id="f5" orientation="portrait" position="float">
+                    <label>Figure 5. </label>
+                    <caption>
+                        <title>The method followed for the design of the mobility divide index (MDI).</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure5.gif"/>
+                </fig>
+            </sec>
+            <sec>
+                <title>Baseline MDI framework development</title>
+                <p>The index design process started by reviewing the literature on the main urban transport features that hinder people with disabilities to use public transport in the same way non-disabled citizens can. The literature analysis started in July 2020 and ended in September 2020 parallell to the writing of the TRIPS Deliverable 2.2, a report that synthesises insights gained from researcher observations and in-depth interviews with disabled people about their journeys and mobility needs, challenges and attitudes toward mobility solutions and criteria for travel, as well as their approaches to transport service barriers they have to face day by day. </p>
+                <p>This groundwork started from the analysis of different web sources, from specialized websites, user communities, to scientific papers, European standards and best practices, and European projects. Sources were identified basing our research on the assumption that people with disabilities can face obstacles related to the following main categories: 1) accessibility to services and facilities, 2) transport organization and operation, 3) travel conditions and interactions with staff and passengers (
+                    <xref ref-type="bibr" rid="ref-6">Bromley 
+                        <italic toggle="yes">et al.,</italic> 2007</xref>; 
+                    <xref ref-type="bibr" rid="ref-4">Bezzina &amp; Spiteri, 2005</xref>; 
+                    <xref ref-type="bibr" rid="ref-7">Burdett &amp; Pomeroy, 2011</xref>; 
+                    <xref ref-type="bibr" rid="ref-11">DFID High Volume Transport Policy Brief, 2019</xref>; 
+                    <xref ref-type="bibr" rid="ref-16">European Commission, 2019</xref>; 
+                    <xref ref-type="bibr" rid="ref-18">Geurs, 2018</xref>; 
+                    <xref ref-type="bibr" rid="ref-20">Henry, 2009</xref>; 
+                    <xref ref-type="bibr" rid="ref-25">Jenkins 
+                        <italic toggle="yes">et al.,</italic> 2015</xref>; 
+                    <xref ref-type="bibr" rid="ref-26">L&#x00e4;ttman 
+                        <italic toggle="yes">et al.,</italic> 2018</xref>; 
+                    <xref ref-type="bibr" rid="ref-28">Lubitow 
+                        <italic toggle="yes">et al.,</italic> 2017</xref>; 
+                    <xref ref-type="bibr" rid="ref-35">Nardo 
+                        <italic toggle="yes">et al.,</italic> 2018</xref>; 
+                    <xref ref-type="bibr" rid="ref-36">National Aging and Disability Transportation Center: Falls Prevention Awareness in Public Transportation</xref>; 
+                    <xref ref-type="bibr" rid="ref-37">Nidirect: Travelling by train</xref>; 
+                    <xref ref-type="bibr" rid="ref-41">Park, 2020</xref>; 
+                    <xref ref-type="bibr" rid="ref-46">Stjernborg, 2019</xref>; 
+                    <xref ref-type="bibr" rid="ref-34">Sze &amp; Christensen, 2017</xref>; 
+                    <xref ref-type="bibr" rid="ref-27">Yang 
+                        <italic toggle="yes">et al.,</italic> 2020</xref>).</p>
+                <p>Therefore, data were collected into different spreadsheets trying to allocate the same accessibility barriers together in the logic of developing an index. </p>
+                <p>Data collection was enriched with findings from the Qualitative Insight Report (
+                    <xref ref-type="bibr" rid="ref-1">Al&#x010d;iauskait&#x0117; 
+                        <italic toggle="yes">et al.</italic>, 2020</xref>), helped us gain local insights about accessibility in the seven project cities, and an understanding of the potential topics under consideration. These were based on a social media content analysis as well as interviews with 49 persons with disabilities. Barriers related to 1) public awareness and assistance; 2) information provision and communication; 3) infrastructure; 4) regulations; 5) vehicles; 6) stops and stations; 7) emotional barriers; 8) general service quality; and 9) COVID-19.</p>
+                <p>Content analysis of findings from both the multi-disciplinary literature research and qualitative insights report were broadly clustered according to key issue expressed around the following key dimensions that formed the baseline MDI framework for discussion with users.</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Comfort: People often experience barriers in accessing vehicles, services, and infrastructures, like toilets or ramps;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Safety: Often, basic needs for safety are not fulfilled in public transport systems, e.g., due to the driving behaviour or a lack of safety measures;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Convenience: Services often fail to meet the requirements of users, e.g., often high lead times for booking specialized transport;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Travel Time: Users face challenges in using public transport due to a lack of services, e.g., missing assistance services at ramps;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Autonomy: Often assistance services, like ordering a ramp at platforms, are essential for using public transport services, which impede independent travel.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Co-design</title>
+                <p>This initial framework was used to engage users in reflexive discussions. It was put under scrutiny and critical evaluation in dedicated workshops. During the workshops we actively involved two representatives from ENIL and nine team leaders of the project&#x2019;s expert user groups. All participants are experienced disability rights activists either persons with disabilities themselves or persons working directly with persons with disabilities. Research was conducted in line with the ethical policies of EU as described in TRIPS Grant Agreement and detailed in TRIPS DMP (Deliverables D1.5 and D1.6) and as per Deliverable 9.1. H-POPD &#x2013; Requirement No. 2 describing the way TRIPS aligns with the European Commission (EC) regulations on personal data protection, all of which have been approved during the project interim review. Written informed consent was obtained from participants prior to inclusion in the study.</p>
+                <p>During the first brainstorming workshop, held on 30 September 2020, we asked participants to recount everyday barriers they face during a typical journey on the public transport services and to correlate the insights with the proposed dimensions (comfort, safety, convenience, travel time, and autonomy). This work helped attendees to better understand and give personal definitions of such concepts.</p>
+                <p>Out of the five dimensions participants agreed that travel time and autonomy can be more readily and objectively assessed through a discrete scale of levels, whereas the comfort, safety, and convenience dimensions where more open to subjective interpretation of personal experience and merited a deeper discussion. Consequently, participants were randomly assigned to different focus groups, each devoted to each of these &#x2018;subjective dimension&#x2019;.</p>
+                <p>People were asked to reflect about their dimension (e.g., comfort) in relation to each of the phases in the journey cycle (
+                    <xref ref-type="bibr" rid="ref-47">Lafratta, 2008</xref>) (see 
+                    <xref ref-type="fig" rid="f5">Figure 5</xref>). All factors from all workshops in all dimensions were collected in an integrated spreadsheet (see 
+                    <xref ref-type="table" rid="T2">Table 2</xref> below) (
+                    <xref ref-type="bibr" rid="ref-5">Benzi, 2022</xref>).</p>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Extract of the spreadsheet used in the workshop held on 30 September 2020 (
+                            <xref ref-type="bibr" rid="ref-5">Benzi, 2022</xref>).</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#FFFF00">Evaluation
+                                    <break/> criteria</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#FFFF00">Parameters</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#FFFF00">Comments or
+                                    <break/> proposed changes</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#FFFF00">Additional
+                                    <break/> parameters</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#92D050">Journey
+                                    <break/> planning</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#92D050">Travel to
+                                    <break/> transport
+                                    <break/> station\
+                                    <break/>stop</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#92D050">Arriving 
+                                    <break/>at 
+                                    <break/>station/
+                                    <break/>stop</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#92D050">Buying
+                                    <break/> ticket</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#92D050">Finding
+                                    <break/> the
+                                    <break/> correct 
+                                    <break/>service</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#92D050">Boarding 
+                                    <break/>the chosen
+                                    <break/> mean of
+                                    <break/> transport</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#92D050">Getting to
+                                    <break/> the desire 
+                                    <break/>destination</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#92D050">Alighting
+                                    <break/> from
+                                    <break/> transport 
+                                    <break/>mean</th>
+                                <th align="center" colspan="1" rowspan="1" style="background-color:#95B3D7">Priority
+                                    <break/> (from 1
+                                    <break/> to 10)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="2">Social 
+                                    <break/>barriers</td>
+                                <td align="center" colspan="1" rowspan="1">
+                                    <italic toggle="yes">feeling of</italic>
+                                    <break/>
+                                    <italic toggle="yes"> insecurity </italic>
+                                    <break/>
+                                    <italic toggle="yes">caused </italic>
+                                    <break/>
+                                    <italic toggle="yes">by other </italic>
+                                    <break/>
+                                    <italic toggle="yes">passengers/</italic>
+                                    <break/>
+                                    <italic toggle="yes">drivers/staff </italic>
+                                    <break/>
+                                    <italic toggle="yes">attitudes</italic>
+                                </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes">Person1.: &#x201c;It is</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes"> important to divide</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes"> passengers/drivers</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes">/staff attitudes&#x201d;</italic>
+                                    </styled-content>
+                                    <break/> 
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">Person2: I'd separate </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">passengers/drivers/</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">staff into different </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">rows here</italic>
+                                    </styled-content> 
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes">Person3: </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes">Why should one feel</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes">as an inconvenience?</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes"> We have the same</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes">right to travel and</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes">need the accessibility</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes"> which is a right? This</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes">should be worded as</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes"> feeling of insecurity</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes"> due to hinders,</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes">poor treatment, and</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes"> disrespect.</italic>
+                                    </styled-content> 
+                        </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">Person2:</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes"> In this case </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">'insecurity' is</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes"> very relate</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes"> to comfort,</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes"> because </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">sometimes </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">you feel you</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes"> are bothering</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes"> the staff and </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">drivers</italic>
+                                    </styled-content>
+                                </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <italic toggle="yes">
+                                        <styled-content style="#FF3A00" style-type="color">Person1 X</styled-content> 
+                           </italic>
+                                    <break/>
+                                    <italic toggle="yes">
+                                        <styled-content style="#1F4994" style-type="color">Person2 X</styled-content>
+                                    </italic>
+                                </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes">Person1</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes"> X</italic>
+                                    </styled-content> 
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">Person </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">N/A</italic>
+                                    </styled-content>
+                                </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes">Person1 X</italic>
+                                    </styled-content>
+                                    <break/> 
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">Person2 X</italic>
+                                    </styled-content>
+                                </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes">Person1 </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes">X</italic>
+                                    </styled-content>
+                                    <break/> 
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">Person2</italic>
+                                    </styled-content>
+                                    <break/> 
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes"> X</italic>
+                                    </styled-content>
+                                </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes">Person1 </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes">X</italic>
+                                    </styled-content> 
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">Person2</italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes"> X</italic>
+                                    </styled-content>
+                                </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <italic toggle="yes">
+                                        <styled-content style="#FF3A00" style-type="color">Person1 X</styled-content> 
+                           </italic>
+                                    <break/>
+                                    <italic toggle="yes">
+                                        <styled-content style="#1F4994" style-type="color">Person2 X</styled-content>
+                                    </italic>
+                                </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <italic toggle="yes">
+                                        <styled-content style="#FF3A00" style-type="color">Person1 X</styled-content> 
+                           </italic>
+                                    <break/>
+                                    <italic toggle="yes">
+                                        <styled-content style="#1F4994" style-type="color">Person2 X</styled-content>
+                                    </italic>
+                                </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <italic toggle="yes">
+                                        <styled-content style="#FF3A00" style-type="color">Person1 X</styled-content> 
+                           </italic>
+                                    <break/>
+                                    <italic toggle="yes">
+                                        <styled-content style="#1F4994" style-type="color">Person2 X</styled-content>
+                                    </italic>
+                                </td>
+                                <td align="center" colspan="1" rowspan="2">
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes">Person1 </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#FF3A00" style-type="color">
+                                        <italic toggle="yes">7</italic>
+                                    </styled-content> 
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">Person2 </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#1F4994" style-type="color">
+                                        <italic toggle="yes">8</italic>
+                                    </styled-content> 
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes">Person3 </italic>
+                                    </styled-content>
+                                    <break/>
+                                    <styled-content style="#6F6228" style-type="color">
+                                        <italic toggle="yes">10</italic>
+                                    </styled-content>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1">
+                                    <italic toggle="yes">Fear of </italic>
+                                    <break/>
+                                    <italic toggle="yes">being an</italic>
+                                    <break/>
+                                    <italic toggle="yes"> inconvenience</italic>
+                                    <break/>
+                                    <italic toggle="yes"> to personnel</italic>
+                                    <break/>
+                                    <italic toggle="yes"> and other</italic>
+                                    <break/>
+                                    <italic toggle="yes"> passengers</italic>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>As a take-home task, participants were asked to prioritize the comfort, safety, and convenience factors and provide comments, examples, and eventual changes about clustering and naming. A person within each participant group was selected as coordinator and tasked to integrate feedback into the master spreadsheet. Through this process, &#x2018;affordability&#x2019; was proposed as the sixth dimension and included in the MDI.</p>
+                <p>A second validation workshop took place on 4 November 2020 with the same participants to:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>1. </label>
+                        <p>share the outcomes of the take-home task with the other participants,</p>
+                    </list-item>
+                    <list-item>
+                        <label>2. </label>
+                        <p>agree on the clustering of factors associated with each dimension and</p>
+                    </list-item>
+                    <list-item>
+                        <label>3. </label>
+                        <p>approve the addition of &#x2018;affordability&#x2019; as a key-dimension of the MDI.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Validation</title>
+                <p>To ensure that MDI framework made sense to persons with disabilities beyond those directly involved in the development of the MDI and terms, concepts and descriptions are easily understandable in each of the languages of the pilot cities involved, we task the team leaders of the user groups to translate and engage their teams in validation of the MDI framework in their local language. Hence, the MDI was discussed offline by local user leads (LULs) with the core user teams (CUT) members, namely groups of 5&#x2013;7 people with different types of disabilities who have been recruited by LULs themselves in each of the project cities. As LULs were invited to optionally present the MDI to their teams to collect their comments and opinions, results for this were available only for Brussels (French), Stockholm (Swedish), and Cagliari (Italian). Data were collected between November and December 2020 from the team leaders. Basically, people were asked to review the six dimensions and factors adding parameters and additional explanations in order to have a wider view of end-users perceptions and focus on the particularities of urban transport system that can prevent people with disabilities to not encounter difficulties during their travel experience.</p>
+                <p>People involved in this final stage of the process approved the MDI factors previously proposed by their colleagues and prioritized them. They showed that not all the MDI components have the equal importance and some interesting discrepancies exist. For example, concerning &#x2018;Comfort&#x2019; factors, people assigned a value of 10 (on average) to getting on and off the means of transport, while using facilities and supporting infrastructure did not seem to matter the participants, as the mean value of importance rounded to 4. While such data cannot be considered statistically significant, they nevertheless highlighted the need to rate the relative importance of MDI components instead of assuming an equal rating across factors and dimensions.</p>
+                <p>This led us to design a weighting survey describe in the 
+                    <italic toggle="yes">Factor Weighting</italic> section
+                    <italic toggle="yes">.</italic> The participatory outcomes were mapped into the final MDI framework comprising a two-layer hierarchical structure of 22 factors identified by the users clustered into six dimensions (see 
+                    <xref ref-type="fig" rid="f6">Figure 6</xref>), defined from the users as follow:</p>
+                <fig fig-type="figure" id="f6" orientation="portrait" position="float">
+                    <label>Figure 6. </label>
+                    <caption>
+                        <title>The mobility divide index (MDI) framework.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure6.gif"/>
+                </fig>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Autonomy: the ability to travel independently, with no need for assistance;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Travel Time: the whole time necessary to reach destinations including extra waiting, delays, or slowdown;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Comfort: the easy access and use of the transport services, equipment and facilities;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Safety: the condition of not being exposed to unreasonable risks;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Convenience: the condition of fitting in well with travellers' own needs and expectations;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Affordability: the condition of not requiring additional expenses resulting in financial hardship.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Factor weighting</title>
+                <p>As a composite indicator, MDI is an aggregate of all dimensions, objectives, individual indicators and variables used (
+                    <xref ref-type="bibr" rid="ref-33">Munda, 2012</xref>). According to the OECD Handbook on Constructing Composite Indicators, weighting is a key step to building a composite indicator (
+                    <xref ref-type="bibr" rid="ref-39">OECD: Handbook on constructing composite indicators: methodology and user guide</xref>). Weighting determines the relative contribution of particular aspects of a phenomenon over others towards the final outcome. Therefore, weights can have a significant effect on an overall indicator. No uniformly agreed methodology exists to weight individual indicators before aggregating them into a composite indicator (
+                    <xref ref-type="bibr" rid="ref-9">COIN: Competence Centre on Composite Indicators and Scoreboards</xref>) - 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://composite-indicators.jrc.ec.europa.eu/?q=10-step-guide">https://composite-indicators.jrc.ec.europa.eu/?q=10-step-guide</ext-link>). The existing literature offers quite a rich menu of alternative weighting methods, all having pros and cons (
+                    <xref ref-type="bibr" rid="ref-19">Green 
+                        <italic toggle="yes">et al.</italic>, 2001</xref>; 
+                    <xref ref-type="bibr" rid="ref-24">Ishizaka, 2012</xref>; 
+                    <xref ref-type="bibr" rid="ref-32">Moldan 
+                        <italic toggle="yes">et al.</italic>, 1997</xref>; 
+                    <xref ref-type="bibr" rid="ref-43">Saaty, 1977</xref>; 
+                    <xref ref-type="bibr" rid="ref-44">Saaty, 1980</xref>; 
+                    <xref ref-type="bibr" rid="ref-45">Saisana 
+                        <italic toggle="yes">et al.</italic>, 2005b</xref>; 
+                    <xref ref-type="bibr" rid="ref-51">Wind &amp; Green, 2013</xref>). These are commonly used methods for weighting, which include the following:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Equal weights.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Weights based on statistical models.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Weights based on public/expert opinion.</p>
+                    </list-item>
+                </list>
+                <p>Equal weights would imply that all factors are of equal importance. Hence, dimensions with more variables would affect the index more which may present a biased view not representing users&#x2019; viewpoint. For this reason, the equal weighting methodology was excluded prior to our analysis. Statistical models - such as the principal components analysis (PCA) or the factor analysis (FA)- rely on large volume of quality statistical data. In such case, higher weights are assigned to statistically reliable data with broad coverage. Given that MDI is in a nascent state of development, such data does not exist. Finally, MDI aims to reflect the current users&#x2019; point of view, hence, we only examined methods based on public opinion which employ participatory methodologies in assigning weights. Researchers provide several examples of participatory methods, like the budget allocation process (BAP), the analytic hierarchy process (AHP), and the conjoint analysis (CA).</p>
+                <p>We chose the budget allocation method (NAP) as the weighting technique for estimating the dimensions weights of the MDI. Compared to the other methodologies, BAP is easier to be applied through common participatory research, as it does not require a high computational cost and process integrations with additional focus groups or workshops. For these reasons, it was selected as the most proper method to rate the relative importance of each dimension.</p>
+                <p>Based on such theory, we designed a multi-language online survey aiming to collect the importance given by European people with different access needs to the different MDI dimensions and factors. The survey was created by using Microsoft Forms and it was available in English, Italian, French, German, Greek, and Portuguese (
+                    <xref ref-type="bibr" rid="ref-5">Benzi, 2022</xref>). An easy-to-read approach guided the design of the survey to make it understandable and accessible for all kinds of disabilities. It was launched on the 29th of January, 2021 through the ENIL newsletter and social channels. The stated goal was to reach between 100 and 150 responses.</p>
+                <p>Overall by the 10th of March, 2021, 113 persons with disabilities (as physical, sensory as visual and hearing impairment, intellectual and mental health disability) had participated in the survey expressing a rate of importance to each dimension and factor.</p>
+                <p>Results analysed through the ANOVA test (analysis of variance), indicated that prioritisation differs depending on the type of disability, phase of the journey, and mode of transport; hence reporting of data should maintain its sensitivity to reflect such differences to reflect user experiences and be useful to transport staff. This survey allowed use to derive a set of weight coefficients (w) for each factor per type of disability. A more detailed account of findings can be found at: 
+                    <xref ref-type="bibr" rid="ref-3">Bagnasco 
+                        <italic toggle="yes">et al.</italic>, 2021</xref>.</p>
+            </sec>
+            <sec>
+                <title>Data processing and visualisation</title>
+                <p>In order to obtain each factor rating, the user (namely, every disabled person that contribute) is asked to evaluate its own level of accessibility about each factor individuated, choosing within a discrete range of fixed answers.</p>
+                <p>We have defined and agreed with the stakeholders that each answer must be expressed in natural language, where possible.</p>
+                <p>This is because firstly we would not like to require disabled users to put in an effort to assign a numerical value, and secondly, we wanted to ensure the homogeneity of the data. In this way, we have a clear and comparable scale for everyone.</p>
+                <p>In order to clarify the criteria adopted for the conversion, 
+                    <xref ref-type="table" rid="T3">Table 3</xref> below provides an example based on the autonomy dimension, for the conversion from natural language to the value of the gap. The answers are converted into a rating from &#x2013;10 to 0 for each level based on the definition provided for each level, where &#x2013;10 indicates the highest discrepancy with non-disabled users and 0 indicates no discrepancy with non-disabled users.</p>
+                <table-wrap id="T3" orientation="portrait" position="anchor">
+                    <label>Table 3. </label>
+                    <caption>
+                        <title>Example of conversion of users&#x2019; evaluation into quantitative rating for the autonomy metric.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="center" colspan="2" rowspan="1" valign="top">
+                                    <italic toggle="yes">Autonomy Metrics</italic>
+                                </th>
+                            </tr>
+                            <tr>
+                                <th align="center" colspan="1" rowspan="1" valign="top">USER EVALUATION</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">Assigned Rating /</italic>
+                                    <break/>
+                                    <italic toggle="yes"> Value of the Divide</italic> 
+                        </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Level 0</bold>: the user can perform the journey step autonomously</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">
+                                    <bold>0</bold>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Level 1</bold>: the user can perform the journey step with easy-to-use facilities (the
+                                    <break/> mean of transport is provided with systems that require a minimum user effort)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">
+                                    <bold>-2</bold>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Level 2</bold>: the user can perform the journey step with complex facilities for disabled</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">
+                                    <bold>-4</bold>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Level 3</bold>: the user can perform the journey step autonomously with staff assistance</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">
+                                    <bold>-6</bold>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Level 4</bold>: the user can perform the journey step, but a caregiver is needed</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">
+                                    <bold>-8</bold>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Level 5</bold>: the user cannot perform the journey step autonomously</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">
+                                    <bold>-10</bold>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>In order to obtain the overall index value, the MDI algorithm was calculated where each dimension value is calculated as the weighted average of its factors, and the overall MDI as the weighted average of the six dimensions (see 
+                    <xref ref-type="fig" rid="f7">Figure 7</xref>). This could be calculated for each individual according to his or her type of disability.</p>
+                <fig fig-type="figure" id="f7" orientation="portrait" position="float">
+                    <label>Figure 7. </label>
+                    <caption>
+                        <title>The mobility divide index (MDI) algorithm.</title>
+                        <p>F stands for each of the factors loading in each dimension and W stands for the weigh coefficient based on the type of disability of the person as determined in the survey expressing a rate of importance to each dimension and factor.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure7.gif"/>
+                </fig>
+                <p>To make findings accessible and easy to understand for users and transport staff alike, a dashboard was created based on a colour coding, traffic like system.</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The green colour code represented values between 0 and -3,33 and indicates a low divide;</p>
+                    </list-item>
+                    <list-item>
+                        <p>the yellow colour code ranges between -3,34 and -6,66 indicates medium divide,</p>
+                    </list-item>
+                    <list-item>
+                        <p>the red colour code ranges between -6,67 and -10 &#x2013; which indicates a high divide.</p>
+                    </list-item>
+                </list>
+                <p> This colour-coding system characterised both dimensions and factors and their subfactors as in 
+                    <xref ref-type="fig" rid="f8">Figure 8</xref> and 
+                    <xref ref-type="fig" rid="f9">Figure 9</xref> below.</p>
+                <fig fig-type="figure" id="f8" orientation="portrait" position="float">
+                    <label>Figure 8. </label>
+                    <caption>
+                        <title>Example of visualisation of the overall mobility divide index (MDI). </title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure8.gif"/>
+                </fig>
+                <fig fig-type="figure" id="f9" orientation="portrait" position="float">
+                    <label>Figure 9. </label>
+                    <caption>
+                        <title>Example of visualisation of a specific accessibility dimension (Safety) and related factors.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure9.gif"/>
+                </fig>
+                <p>This &#x2018;drilling down&#x2019; organisation of the presentation of findings was chosen to facilitate users and transport staff to understand an issue but also to filter data in useful to them ways (
+                    <xref ref-type="fig" rid="f10">Figure 10</xref>).</p>
+                <fig fig-type="figure" id="f10" orientation="portrait" position="float">
+                    <label>Figure 10. </label>
+                    <caption>
+                        <title>Filtering the different mobility divide index (MDI) levels.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure10.gif"/>
+                </fig>
+            </sec>
+        </sec>
+        <sec>
+            <title>Intermediate results</title>
+            <sec>
+                <title>Expected implementation of the MDI</title>
+                <p>The MDI has been conceived as a crowdsourcing method of auditing urban public transport services. In line with the notion of &#x2018;Nothing for us, without us&#x2019;, it requires the collaboration of users and institutional stakeholders in the local transport ecosystem to redress issues. MDI is expected to be used in the context of a 
+                    <underline>process of continuous improvement</underline> (
+                    <xref ref-type="fig" rid="f11">Figure 11</xref>) that involves users not only in auditing but also in co-design in all the phases of the systematic 
+                    <underline>redesign of a city&#x2019;s accessibility</underline>, as below:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>1. </label>
+                        <p>MDI detection: Accessibility assessment and identification of the main gaps to be tackled.</p>
+                    </list-item>
+                    <list-item>
+                        <label>2. </label>
+                        <p>Visioning: Setting of priorities and of the specific enhancement objectives to be achieved.</p>
+                    </list-item>
+                    <list-item>
+                        <label>3. </label>
+                        <p>Enhancement planning: definition of the improvement actions to be implemented of the reported accessibility barriers and identification of the MDI target (namely, the specific mobility gap reductions that shall be achieved).</p>
+                    </list-item>
+                    <list-item>
+                        <label>4. </label>
+                        <p>MDI monitoring: continuous measurement, through the MDI, of the impact of the improvement actions, that should result in the gradual reduction of the initial gaps.</p>
+                    </list-item>
+                    <list-item>
+                        <label>5. </label>
+                        <p>Results assessment: the measurement of final MDI rating should show of the satisfaction of the users&#x2019; needs and the actual improvement of the transport accessibility.</p>
+                    </list-item>
+                    <list-item>
+                        <label>6. </label>
+                        <p>Re-visioning: a new improvement cycle can be launched, though the identification of further accessibility needs to be satisfied.</p>
+                    </list-item>
+                </list>
+                <fig fig-type="figure" id="f11" orientation="portrait" position="float">
+                    <label>Figure 11. </label>
+                    <caption>
+                        <title>Continuous accessibility improvement through the mobility divide index (MDI) implementation.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure11.gif"/>
+                </fig>
+                <p>We envision key institutional players to be involved in the implementation of the indicator system serving particular roles, such as:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The city authority (i.e., the Municipality, or a public mobility agency) who is in charge of the planning of mobility services and of the monitoring of the related service levels, in order to ensure the satisfaction of the citizens&#x2019; mobility needs. The MDI can represent the tool through which the city authority can check the actual accessibility of the planned transport services; therefore, they will have the role of process owner of the data collection, which will include the formal adoption of the MDI tools, the mobilization of the local disabled community in the MDI survey, and the evaluation of the audit results.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The local transport operators, who shall commit to support the implementation of the MDI survey on the operated services. The transport operators collaborate with the city authority in the evaluation of the audit results, in the identification of the actions necessary to remove the reported barriers and in their implementation</p>
+                    </list-item>
+                    <list-item>
+                        <p>The community of persons with disabilities: Disability non-governmental organisations (NGOs) and private citizens are encouraged to play a leading role in the improvement process: their direct experience will be the base of the data collection for the MDI evaluation, and they will also be asked to report specific malfunctions and proposals for improvement. They shall be involved in the identification of the solutions to be implemented, in collaboration with institutional and technical stakeholders, and in the final evaluation of their effectiveness.</p>
+                    </list-item>
+                </list>
+                <p>While the MDI proof of concept was piloted via a web survey tool, its full-scale implementation is envisioned as 1) a mobile application (TRIPS MDI &#x2013; Accessible Transport Gap) that enables users to send their feedback while travelling and 2) a web dashboard (MDI DASHBOARD, available at 
+                    <ext-link ext-link-type="uri" xlink:href="https://mdi.tbridge.it/login">https://mdi.tbridge.it/login</ext-link>) which automatically analyses and visualizes results of users&#x2019; audits. The TRIPS MDI App is available both on the AppStore (
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://apps.apple.com/lv/app/trips-mdi/id1630779990">https://apps.apple.com/lv/app/trips-mdi/id1630779990</ext-link>) and on Google Play (
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://play.google.com/store/apps/details?id=com.tbridge.trips">https://play.google.com/store/apps/details?id=com.tbridge.trips</ext-link>), and it is used by persons with disabilities for rating the accessibility and for reporting barriers during their travel. The data collected through the TRIPS MDI App are stored in a dedicated repository and processed through the MDI algorithm. The dashboard is a public page that visualises data to make analytics useful to and actionable by policy makers, transport and urban planners, operators, stakeholders' representatives, citizens, and researchers. For example, it allows the detailed examination of specific dimensions and factors. In addition, local city authority and transport operators, have access to tools that allows them to analyse specific issues reported by the users via photos and open text.</p>
+                <p> The MDI process is shown in 
+                    <xref ref-type="fig" rid="f12">Figure 12</xref>.</p>
+                <fig fig-type="figure" id="f12" orientation="portrait" position="float">
+                    <label>Figure 12. </label>
+                    <caption>
+                        <title>The mobility divide index (MDI) process.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16391/f4e5c637-7148-4917-adf2-09a72bfa791f_figure12.gif"/>
+                </fig>
+            </sec>
+            <sec>
+                <title>Method validation</title>
+                <p>The MDI framework has been validated through an experimental application, that has been performed in the seven pilot cities of TRIPS Project concurrently. Representation of the local communities of disabled people were asked to use the MDI to evaluate the current accessibility level of PT in their cities, in the framework of the pilot demonstration activities of TRIPS project.</p>
+                <p>Altogether, 136 persons were engaged in the survey, and they filled an online questionnaire dealing with the different accessibility drivers. The results of the survey are reported in the following 
+                    <xref ref-type="table" rid="T4">Table 4</xref>.</p>
+                <table-wrap id="T4" orientation="portrait" position="anchor">
+                    <label>Table 4. </label>
+                    <caption>
+                        <title>Mobility divide index (MDI) overall value in the seven TRIPS pilot cities.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">City</italic>
+                                </th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">n&#x00b0; Answers</italic>
+                                </th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">Overall MDI value</italic>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">Bologna</italic>
+                                </td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">9</td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">-5,42</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">Brussels</italic>
+                                </td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">8</td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">-6,19</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">Cagliari</italic>
+                                </td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">25</td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">-5,88</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">Lisbon</italic>
+                                </td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">34</td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">-6,84</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">Sofia</italic>
+                                </td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">8</td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">-5,65</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">Stockholm</italic>
+                                </td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">10</td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">-7,28</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">Zagreb</italic>
+                                </td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">42</td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">-5</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">
+                                        <bold>Total</bold>
+                                    </italic>
+                                </td>
+                                <td align="right" colspan="1" rowspan="1" valign="top">
+                                    <italic toggle="yes">
+                                        <bold>136</bold>
+                                    </italic>
+                                </td>
+                                <td colspan="1" rowspan="1"/>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>In line with the accessibility improvement cycle, the objective identification of the current level of accessibility allowed our local teams in each city to discuss the main critical points with a better understanding of the main criticalities and priorities. This helped them to better define the solutions and agree improvements and measurable targets. In our discussions the Teams&#x2019; feedback was overall positive about the process of the MDI development. In addition, no user asked for any changes in the current structure, but they provided the suggestions for the further development of the method and of the supporting tools. This set the baseline for the evaluation of implemented solution in the future, to understand the impact on improving the mobility divide.</p>
+            </sec>
+        </sec>
+        <sec sec-type="discussion">
+            <title>Discussion</title>
+            <p>The TRIPS consortium set out to develop a synthetic metric of accessibility that reflects users&#x2019; viewpoint and can capture the complexity of the concept in a manageable way. To do so, we worked with users to develop a ground up six-dimensional framework encompassing each encompassing a number of factors important to users&#x2019; and supportive of independent travel. As such we not only respected the need for multidimensionality but also the need to provide a common understanding and definition of accessibility from users&#x2019; viewpoint which in our view should be the one driving institutional actions and priorities to have real social impact. We also ensured that data can be quantified in meaningful to the users' and constructive ways to make sure information is actionable and hence user feedback can lead to constructive interactions with institutional actors and common grounds in prioritisation, investment and action. The MDI algorithm used to analyse data take into account the differences in the prioritisation of factors per type of disability to ensure that the overall MDI does not glaze over such differences but can better reflect users&#x2019; views. We have developed the MDI framework working closely with users to choose the wording and definition of factors, ensure the clustering is meaningful and reflecting of their experience and the framework covers their end-to-end travel from planning to arriving at one&#x2019;s destination to reflect accessibility as an end-to-end, multimodal issue which is important to them. </p>
+            <p>To our knowledge this is the first attempt to develop a ground-up accessibility index using a co-design approach seeking to reflect the views and sentiment of people with disabilities.</p>
+            <p>One of the key lessons learned was that close interaction with teams of persons with disabilities can facilitate a comprehensive evaluation of public transport accessibility as an end-to-end issue, by understanding the factors affecting their travel experience in each phase. Another key lesson was the necessary attention to wording and definitions during the development process to make the index relatable and relevant to users. This was important both in the English version and for its translation to user&#x2019;s local languages. This is an important point for anyone who attempting to develop an index of accessibility and points to the need for user validation at its development phase. </p>
+            <p>For the MDI to become an effective tool for policymakers, transport, and urban planners or operators and stakeholders&#x2019; representatives, it needs to be credible that it accurately reflects user opinions and provide timely and actionable information to inform policy, investments, and operational strategies. Hence, the consortium plans the wider validation of the MDI and the engagement of external stakeholder groups in its validation, testing and fine-tuning to be used by others beyond the boundary of the project. A keen interest of the stakeholders is the proof of the need of changing the approach towards the accessibility and the way to measure it. This has been confirmed by a close interest from external stakeholders (e.g., POLIS network) and disability NGOs who participated in the weighting survey.</p>
+            <p>We appreciate that this MDI effort should be put to further testing, validation, and evaluation with wider communities of users and institutional actors before it can be consolidated and established as an industry standard, but also that priorities will change as transport systems evolve and users&#x2019; abilities to navigate the transport transform due to adjacent factors, e.g., personal technologies. To enable our model to be piloted and replicated in and by other cities, both the TRIPS MDI app and the MDI dashboard can be set up for any city interested in the adoption of the MDI method. Currently, such tools are in BETA testing phase (Oct-Nov, 2022) in the TRIPS pilot cities, to finetune the applications and its adoption process. Subsequently, a new release of the applications will be launched for further piloting in European cities.</p>
+            <p>At a systemic level, the TRIPS consortium works closely with its partner UITP (
+                <ext-link ext-link-type="uri" xlink:href="https://www.uitp.org/">https://www.uitp.org/</ext-link>) and other institutional and political actors to agree on the establishment of a European Accessibility Observatory that can act as a transparent, two-way communication platform between citizens and the transport ecosystem. The platform will collect MDI data and reported barriers logged as incidents from users in each European city to monitor the level of accessibility of their transport cities at real-time and provide detailed info on the issues to be addressed. In addition, it will publish each city&#x2019;s MDI dashboard, as well as institutional responses and their status by the responsible institutions. Time series data analytics will demonstrate the impact of such institutional responses on accessibility and citizen satisfaction over time. Collecting such data across European cities will provide a database of context specific information on accessibility barriers to be mined for uncovering effective best practices to address them and their principles to guide policy and practice.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>The paper presented the development of a multi-dimensional mobility divide index (MDI) for auditing the accessibility of public transport as the perceived disparity in the ease of using transport between disabled and non-disabled citizens. The MDI was developed using a co-design approach, directly involving end-users. We argued to the superiority of such an approach in terms of being holistic due to multidimensionality, usefulness in terms of translating user data into useful and actionable quantitative data for institutional users to enact upon yet remaining representative of user viewpoints and relevance to the users and their issues enabling meaningful representation and enabling institutional responses to be relatable from users&#x2019; standpoint. Six dimensions transpired as most relevant and important for accessibility according to users: 1) safety, 2) convenience, 3) comfort, 4) affordability, 5) travel time, and 6) autonomy and measures. We present our findings and links to tools in development in the hope that they can be replicated and utilised by institutional stakeholders to promote inclusive and equitable mobility solutions for all and the pursuit of European accessibility standards and requirements for products and services in the mobility sector. The consortium will remain open to expressions of interest by institutional actors to enable their adoption in their urban environment throughout the duration of the TRIPS project until January 2023. Into the future, we offer the mobility divide index as a part of our contribution towards a better understanding of users&#x2019; need and requirements towards a assessable and inclusive transportation for all.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>Zenodo: Development of the multi-dimensional Mobility Divide Index as a methodology to assess the accessibility level of public transport systems. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.7300150">https://doi.org/10.5281/zenodo.7300150</ext-link>. (
+                    <xref ref-type="bibr" rid="ref-5">Benzi, 2022</xref>).</p>
+                <p>This project contains the following underlying data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Mdi survey.xlsx (raw data of the first dissemination of the MDI survey in Task 6.1 in original language and translations).</p>
+                    </list-item>
+                    <list-item>
+                        <p>Weights.xlsx (raw data and first elaboration of MDI weights).</p>
+                    </list-item>
+                    <list-item>
+                        <p>Insecurity Level_collected comments focus group.xlsx (Insecurity comments as part of 04 Nov 2021 Workshop, screenshot seen in the 
+                            <xref ref-type="table" rid="T2">Table 2</xref>)</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Extended data</title>
+                <p>Zenodo: Development of the multi-dimensional Mobility Divide Index as a methodology to assess the accessibility level of public transport systems. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.7300150">https://doi.org/10.5281/zenodo.7300150</ext-link>. (
+                    <xref ref-type="bibr" rid="ref-5">Benzi, 2022</xref>).</p>
+                <p>This project contains the following extended data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>TRIPS MDI Survey - Google Forms.pdf (widespread survey, version to be completed in English, Italian, Belgian, Swedish, Portuguese)</p>
+                    </list-item>
+                    <list-item>
+                        <p>TRIPS MDI Survey - Google Forms - bulgarian.pdf (Survey, also in Bulgarian)</p>
+                    </list-item>
+                </list>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://creativecommons.org/publicdomain/zero/4.0/">Creative Commons Attribution 4.0 International license</ext-link> (CC-BY 4.0).</p>
+            </sec>
+        </sec>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>The authors express thanks to the project team, in particular the local user leads in the seven cities (Kapka Panayotva, Selina Grie&#x00df;er, Marica Miric, Jamie Bolling, Merlin Gillard, Diogo Martins), and all participants of our research.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Al&#x010d;iauskait&#x0117;</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sioen</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Barbosa</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>D2.2 Qualitative Insights report</article-title>.<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://trips-project.eu/wp-content/uploads/2020/10/TRIPS-D.2.2-Qualitative-Insights-report.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <collab>Austrian Mobility Research</collab>:
+                    <article-title>Accessible and energy-efficient mobility for all! Project report</article-title>.<year>2013</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bagnasco</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Deliverable (No. D15) D4.1 MDI - Mobility Divide Index</article-title>.<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://trips-project.eu/wp-content/uploads/2021/04/D4.1-MDI-Mobility-Divide-Index-TRIPS.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Benzi</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>Development of the multi-dimensional Mobility Divide Index as a methodology to assess the accessibility level of public transport systems [Data set]. </data-title>
+                    <source>Zenodo.</source>
+               <year>2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.7300150">http://www.doi.org/10.5281/zenodo.7300150</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bezzina</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Spiteri</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Access for All; Design Guidelines National Commission Persons with Disability</article-title>.<year>2005</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bromley</surname>
+                            <given-names>RD</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Matthews</surname>
+                            <given-names>DL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Thomas</surname>
+                            <given-names>CJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>City centre accessibility for wheelchair users: The consumer perspective and the planning implications.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Cities.</italic>
+               </source>
+               <year>2007</year>;<volume>24</volume>(<issue>3</issue>):<fpage>229</fpage>&#x2013;<lpage>241</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.cities.2007.01.009</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Burdett</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pomeroy</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Design for disabled road users: It&#x2019;s time to up our game.</article-title>In:
+                    <italic toggle="yes">Institution of Professional Engineers New Zealand (IPENZ) Transportation Conference</italic>.<year>2011</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Carvalho</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rodrigues</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Jones</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Mediate - Methodology for Describing the Accessibility of Transport in Europe.</article-title>D3.1 Report on data collection and analysis.<year>2011</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://trimis.ec.europa.eu/sites/default/files/project/documents/20120404_171919_32217_D3_1_Data_collection__analysis.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <collab>COIN</collab>:
+                    <article-title>Competence Centre on Composite Indicators and Scoreboards</article-title>.
+                    <ext-link ext-link-type="uri" xlink:href="https://composite-indicators.jrc.ec.europa.eu/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <collab>DFID High Volume Transport Policy Brief</collab>:
+                    <article-title>Disability Inclusive Public Transport Policy Brief-Practical steps to making public transport disability inclusive</article-title>.<year>2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.transformative-mobility.org/assets/publications/HVT-Disability_STANDARD_ONLINE_v2A.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Dixit</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sivakumar</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Capturing the impact of individual characteristics on transport accessibility and equity analysis.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Transp Res D Transp Environ.</italic>
+               </source>
+               <year>2020</year>;<volume>87</volume>:<fpage>102473</fpage>.
+                    <pub-id pub-id-type="pmid">33100888</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.trd.2020.102473</pub-id>
+                    <pub-id pub-id-type="pmcid">7578592</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <collab>European Commission</collab>:
+                    <article-title>Urban Mobility Indicators for Walking and Public Transport</article-title>.<year>2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/futurium/en/system/files/ged/convenient-access-to-public-transport.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Geurs</surname>
+                            <given-names>K</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Transport Planning with Accessibility Indices in the Netherlands.</article-title>Discussion Paper, International Transport Forum, Paris.<year>2018</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.itf-oecd.org/transport-planning-accessibility-indices-netherlands">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Green</surname>
+                            <given-names>PE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Krieger</surname>
+                            <given-names>AM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wind</surname>
+                            <given-names>Y</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Thirty years of conjoint analysis: Reflections and prospects.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Interfaces.</italic>
+               </source>
+               <year>2001</year>;<volume>31</volume>:<fpage>S56</fpage>&#x2013;<lpage>S73</lpage>.
+                    <pub-id pub-id-type="doi">10.1287/inte.31.3s.56.9676</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Henry</surname>
+                            <given-names>T</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Policy on Persons with Disabilities.</article-title>Office of the Prime Minister (Social Services Delivery).<year>2009</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <mixed-citation publication-type="journal">
+                    <collab>I
+                        <italic toggle="yes">NCLUSION.</italic> Project</collab>:
+                    <article-title>Towards more accessIble and iNCLUSIve mObility solutions for EuropeaN prioritised areas</article-title>.
+                    <ext-link ext-link-type="uri" xlink:href="https://cordis.europa.eu/project/id/770115/it">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <mixed-citation publication-type="journal">
+                    <collab>ISEMOA Project</collab>:
+                    <article-title>Improving seamless energy-efficient mobility chains for all.</article-title>Accessibility &#x2013; Why we need it.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/energy/intelligent/projects/sites/iee-projects/files/projects/documents/isemoa_accessibility_why_we_need_it_en.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ishizaka</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A multicriteria approach with AHP and clusters for the selection among a large number of suppliers.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Pesquisa Operacional.</italic>
+               </source>
+               <year>2012</year>;<volume>32</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>15</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/260491821_A_multicriteria_approach_with_AHP_and_clusters_for_the_selection_among_a_large_number_of_suppliers">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Jenkins</surname>
+                            <given-names>GR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Yuen</surname>
+                            <given-names>HK</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Vogtle</surname>
+                            <given-names>LK</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Experience of multisensory environments in public space among people with visual impairment.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Environ Res Public Health.</italic>
+               </source>
+               <year>2015</year>;<volume>12</volume>(<issue>8</issue>):<fpage>8644</fpage>&#x2013;<lpage>8657</lpage>.
+                    <pub-id pub-id-type="pmid">26213952</pub-id>
+                    <pub-id pub-id-type="doi">10.3390/ijerph120808644</pub-id>
+                    <pub-id pub-id-type="pmcid">4555239</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-47">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lafratta</surname>
+                        </name>
+               </person-group>:
+                    <article-title>The Journey Cycle Source: Assessment of Accessibility Standards for Disabled People in Land Based Public Transport Vehicles</article-title>.<year>2008</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/figure/The-Journey-Cycle-Source-Assessment-of-Accessibility-Standards-for-Disabled-People-in_fig1_258200871">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>L&#x00e4;ttman</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Olsson</surname>
+                            <given-names>LE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Friman</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A new approach to accessibility &#x2013; Examining perceived accessibility in contrast to objectively measured accessibility in daily travel.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Research in Transportation Economics.</italic>
+               </source>
+               <year>2018</year>;<volume>69</volume>:<fpage>501</fpage>&#x2013;<lpage>511</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.retrec.2018.06.002</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lubitow</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rainer</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bassett</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Exclusion and vulnerability on public transit: Experiences of transit dependent riders in Portland, Oregon.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Mobilities.</italic>
+               </source>
+               <year>2017</year>;<volume>12</volume>:<fpage>924</fpage>&#x2013;<lpage>937</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/17450101.2016.1253816</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <mixed-citation publication-type="journal">
+                    <collab>MEDIATE Project</collab>:
+                    <article-title>MEthodology for Describing the Accessibility of Transport in Europe</article-title>.
+                    <ext-link ext-link-type="uri" xlink:href="https://cordis.europa.eu/project/id/218684/it">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <mixed-citation publication-type="journal">
+                    <collab>MEthodology for Describing the Accessibility of Transport in Europe</collab>:
+                    <article-title>Final publishable summary report</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/docs/results/218/218684/final1-218684-935176-publishable-summary.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Miller</surname>
+                            <given-names>EJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Accessibility: Measurement and application in transportation planning.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Transport Reviews.</italic>
+               </source>
+               <year>2018b</year>;<volume>38</volume>(<issue>5</issue>):<fpage>551</fpage>&#x2013;<lpage>555</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/01441647.2018.1492778</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-100">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Miller</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Measuring Accessibility: Methods and Issues.</article-title>International Transport Forum Discussion Papers, No. 2020/25, OECD Publishing, Paris,<year>2020</year>.
+                    <pub-id pub-id-type="doi">10.1787/8687d1db-en</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Moldan</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Billharz</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Matravers</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sustainability Indicators: Report of the Project on Indicators of Sustainable Development.</article-title>SCOPE 58. Chichester and New York.<year> 1997</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://agris.fao.org/agris-search/search.do?recordID=XF2015010649">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Munda</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Choosing Aggregation Rules for Composite Indicators.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Soc Indic Res.</italic>
+               </source>
+               <year>2012</year>;<volume>109</volume>:<fpage>337</fpage>&#x2013;<lpage>354</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s11205-011-9911-9</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-35">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Nardo</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Saisana</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Saltelli</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Handbook on Constructing Composite Indicators and User Guide</article-title>.<year> 2008</year>.
+                    <pub-id pub-id-type="doi">10.1787/533411815016</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-36">
+                <mixed-citation publication-type="journal">
+                    <collab>National Aging and Disability Transportation Center</collab>:
+                    <article-title>Falls Prevention Awareness in Public Transportation</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://d2mkcg26uvg1cz.cloudfront.net/wp-content/uploads/Falls-Prevention-Awareness-in-Public-Transportation_-NADTC-Brochure.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-37">
+                <mixed-citation publication-type="journal">
+                    <collab>Nidirect</collab>:
+                    <article-title>Travelling by train</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nidirect.gov.uk/articles/travelling-by-train">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-38">
+                <mixed-citation publication-type="journal">
+                    <collab>OECD/ITF</collab>:
+                    <article-title>Improving Transport Planning and Investment Through the Use of Accessibility Indicators.</article-title>Case-Specific Policy Analysis.<year> 2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.oecd-ilibrary.org/transport/improving-transport-planning-and-investment-through-the-use-of-accessibility-indicators_46ddbcae-en">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-39">
+                <mixed-citation publication-type="journal">
+                    <collab>OECD</collab>:
+                    <article-title>Handbook on constructing composite indicators: methodology and user guide</article-title>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.oecd.org/sdd/42495745.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-41">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Park</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Towards an Enabled Journey: An Investigation of the Whole Journey Chain for Public Transport Journeys by People with Disabilities.</article-title>Doctoral Thesis at The University of Auckland.<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Towards_an_Enabled_Journey.html?id=KMVbzgEACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-42">
+                <mixed-citation publication-type="journal">
+                    <collab>PTaccess Project</collab>:
+                    <article-title>Public Transport Systems&#x2019; Accessibility for Disabled People in Europe</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.accessibletourism.org/?i=enat.en.enat_projects_and_good_practices.513">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-43">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Saaty</surname>
+                            <given-names>TL</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A scaling method for priorities in hierarchical structures.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Math Psychol.</italic>
+               </source>
+               <year>1977</year>;<volume>15</volume>(<issue>3</issue>):<fpage>234</fpage>-<lpage>281</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/0022-2496(77)90033-5</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-44">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Saaty</surname>
+                            <given-names>TL</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The analytic hierarchy process.</article-title>McGraw-Hill.<year>1980</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-45">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Saisana</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Saltelli</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Tarantola</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Uncertainty and sensitivity analysis techniques as tools for the quality assessment of composite indicators.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J R Stat Soc Ser A Stat Soc.</italic>
+               </source>
+               <year>2005b</year>;<volume>168</volume>(<issue>2</issue>):<fpage>307</fpage>&#x2013;<lpage>323</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/j.1467-985X.2005.00350.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-46">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Stjernborg</surname>
+                            <given-names>V</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Accessibility for All in Public Transport and the Overlooked (Social) Dimension&#x2014;A Case Study of Stockholm.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sustainability.</italic>
+               </source>
+               <year>2019</year>;<volume>11</volume>(<issue>18</issue>):<fpage>4902</fpage>.
+                    <pub-id pub-id-type="doi">10.3390/su11184902</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sze</surname>
+                            <given-names>NN</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Christensen</surname>
+                            <given-names>KM</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Access to urban transportation system for individuals with disabilities.</article-title>IATSS Research,<year> 2017</year>;<volume>41</volume>(<issue>2</issue>):<fpage>66</fpage>&#x2013;<lpage>73</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.iatssr.2017.05.002</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-48">
+                <mixed-citation publication-type="journal">
+                    <collab>UNIACCESS Project</collab>:
+                    <article-title>Design of universal accessibility systems for public transport</article-title>.
+                    <ext-link ext-link-type="uri" xlink:href="https://cordis.europa.eu/project/id/12504">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-50">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wennberg</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fredriksson</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mattisson</surname>
+                            <given-names>PH</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Quality management system for improving accessibility in cities and municipalities.</article-title>Deliverable no. D4.1 of the project ISEMOA.<year>2012</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eltis.org/sites/default/files/trainingmaterials/d4_1_isemoa_qms_for_cities_and_municipalities_final.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-51">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wind</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Green</surname>
+                            <given-names>PE</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Marketing Research and Modeling: Progress and Prospects: A tribute to Paul E. Green</article-title>. New York: Springer,<year>2013</year>;<volume>14</volume>.
+                    <pub-id pub-id-type="doi">10.1007/978-0-387-28692-1</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Yang</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>van Dam</surname>
+                            <given-names>KH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Zhang</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Developing Goals and Indicators for the Design of Sustainable and Integrated Transport Infrastructure and Urban Spaces.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sustainability.</italic>
+               </source>
+               <year> 2020</year>.
+                    <pub-id pub-id-type="doi">10.3390/su12229677</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report33214">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16391.r33214</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Budilovich</surname>
+                        <given-names>Evelina</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33214a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-5283-3088</uri>
+                </contrib>
+                <aff id="r33214a1">
+                    <label>1</label>Transport and Telecommunication Institute, Riga, Latvia</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>14</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Budilovich E</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+                <license>
+                    <license-p>The author(s) is/are employees of the US Government and therefore domestic copyright protection in USA does not apply to this work. The work may be protected under the copyright laws of other jurisdictions when used in those jurisdictions.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33214"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15153.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article Developing the multi-dimensional mobility divide index (MDI) as a Methodology to Assess the accessibility level of Public transport Systems provides an overview of the accessibility indicators, especially for people with reduced mobility. The state-of-the-art or literature review describes the projects and activities conducted in this field. The article is written in a sufficient scientific manner. The theme is actual, and the provided analysis method is good enough.</p>
+            <p> </p>
+            <p> The major research point is the provided methodology with the description of the method and analysis with results validation. Moreover was developed the co-design approach, which directly involves the end-users. For results validation, the mobility divided index framework was done, defined by the users and after the budget allocation method as the weighting technique was chosen for estimating the dimensions weights.</p>
+            <p> </p>
+            <p> A minor point could be formatting, such as citing the project's name (title) in the Introduction needing improvement. And to providing the reading more comfortable, the Headings numeration (2.1...) is required.</p>
+            <p> </p>
+            <p> The article is approved.</p>
+            <p>Are sufficient details provided to allow replication of the method development and its use by others?</p>
+            <p>Yes</p>
+            <p>Is the description of the method technically sound?</p>
+            <p>Yes</p>
+            <p>Are the conclusions about the method and its performance adequately supported by the findings presented in the article?</p>
+            <p>Yes</p>
+            <p>Is the rationale for developing the new method (or application) clearly explained</p>
+            <p>Yes</p>
+            <p>If any results are presented, are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Urban mobility, transport simulation, sustainable transport system development and analysis</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report30529">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16391.r30529</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Canessa</surname>
+                        <given-names>Nicola Valentino</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30529a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-4537-7210</uri>
+                </contrib>
+                <aff id="r30529a1">
+                    <label>1</label>Department Architecture and Design (DAD), Universit&#x00e0; di Genova, Genoa, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>5</day>
+                <month>1</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Canessa NV</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport30529"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15153.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article is of great interest because it summarizes all the general parts of TRIPS-funded research. Of good generosity are the cross-references to previous research and references that allow one to move around within the topic in order to explore it further and creating a good steering scheme of the research presented in the article.</p>
+            <p> </p>
+            <p> Obviously this scholarly article is the narrative of the funded research, and in its main body I think there is no point in asking for any changes or insights that would be outside the research itself that has already been accomplished, because perhaps the only weakness is the number of questionnaires produced, which are already a good sample, but perhaps do not allow for an appreciation of all the facets that the MDI could provide with respect to the authors' suggestions.</p>
+            <p> </p>
+            <p> Perhaps in the main body it could be explicated with more practical examples of how disabled users can interact through the mobile application and provide the correct (and subjective) data to populate the index data and whether and how the data user can, as I imagine, act site specific.</p>
+            <p> </p>
+            <p> The data present and attached are of great interest and complete, I also consider for reproducibility by other researchers, and for this reason I believe it is not necessary to upload other data (application-related, for example) that would have necessary copyright coverage.</p>
+            <p> </p>
+            <p> Not only do I find the article in its structure very interesting, but especially the research presented and the presentation of MDI.</p>
+            <p>Are sufficient details provided to allow replication of the method development and its use by others?</p>
+            <p>Yes</p>
+            <p>Is the description of the method technically sound?</p>
+            <p>Yes</p>
+            <p>Are the conclusions about the method and its performance adequately supported by the findings presented in the article?</p>
+            <p>Yes</p>
+            <p>Is the rationale for developing the new method (or application) clearly explained</p>
+            <p>Yes</p>
+            <p>If any results are presented, are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Researcher in Urban Planning (UNIGE), my fields of research include new technologies for city management and urban transportation.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

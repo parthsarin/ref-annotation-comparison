@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="letter"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15764.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Open Letter</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Introducing patient-centric electronic medicine leaflets in the European Union</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 3 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Jarke</surname>
+                        <given-names>Hannes</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Bourke</surname>
+                        <given-names>Steven</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Joyce</surname>
+                        <given-names>Robert</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Scalabrini</surname>
+                        <given-names>Silvia</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Thursby</surname>
+                        <given-names>Ken</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Zalcik</surname>
+                        <given-names>Hynek</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Jakob</surname>
+                        <given-names>Lea</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a8">8</xref>
+                    <xref ref-type="aff" rid="a9">9</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>European Patients' Forum, Brussels, Brussels, Belgium</aff>
+                <aff id="a2">
+                    <label>2</label>Pharmaledger Association, Basel, Switzerland</aff>
+                <aff id="a3">
+                    <label>3</label>Centre for Business Research, Judge Business School, University of Cambridge, Cambridge, England, UK</aff>
+                <aff id="a4">
+                    <label>4</label>RheumaCura Foundation, Bern, Switzerland</aff>
+                <aff id="a5">
+                    <label>5</label>Personal Pulse GmbH, Basel, Switzerland</aff>
+                <aff id="a6">
+                    <label>6</label>European Patients' Academy on Therapeutic Innovation, Utrecht, Utrecht, The Netherlands</aff>
+                <aff id="a7">
+                    <label>7</label>Merck Sharp &amp; Dohme, London, UK</aff>
+                <aff id="a8">
+                    <label>8</label>3rd Faculty of Medicine, Charles University, Prague, Czech Republic</aff>
+                <aff id="a9">
+                    <label>9</label>National Institute of Mental Health, Klecany, Czech Republic</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:hj318@cam.ac.uk">hj318@cam.ac.uk</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>All authors, except LJ, were involved in, and directly or indirectly received funding or reimbursements, from the IMI Pharmaledger project (Grant Agreement Number: 853992). HJ was elected and confirmed to the Pharmaledger Association&#x2019;s Board of Directors during the writing of this manuscript.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>22</day>
+                <month>5</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>84</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>4</day>
+                    <month>4</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Jarke H et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-84/pdf"/>
+            <abstract>
+                <p>Despite numerous advances in their content and structure over recent years, paper information leaflets for medicines are often hard to read for people with visual impairments, contain a lot of technical information, and people suffering from chronic conditions may find it challenging to identify all side-effects or dangers of taking a drug in their situation. Likewise, for people already taking different drugs, identifying contraindications may be time-intensive and easily overlooked, posing a risk for affected patients. Electronic product information (ePI), or eLeaflets, provide an opportunity for improvements in how patients interact with the information provided. We summarise opportunities of ePI and experiences from a co-creation process of such an app together with patients as part of the 
+                    <italic toggle="yes">Pharmaledger</italic> project and put it into context of the current policy environment in the EU in light of EMA&#x2019;s key principles for the adoption of ePI in medicine. While more patient-friendly information remains a significant ask, ePI has the potential to make leaflets easier and quicker to read through search and zoom functions, provide a safe digital medicine cabinet employing blockchain technology, enables patients to identify falsified product boxes, receive real-time updates when a product expires or is being recalled by the manufacturer, and potentially even include a reminder function to increase adherence. We present a potential research agenda across disciplines for interested researchers. While many welcome the benefits of ePI, we urge policymakers to keep in mind that some groups, specifically people with low technical literacy, should not be left without alternatives. We recommend early initiatives to ensure a widespread understanding of how ePI works across populations while also taking this opportunity to use new insights to improve leaflets on paper.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Electronic Product Information</kwd>
+                <kwd>ePI</kwd>
+                <kwd>eleaflet</kwd>
+                <kwd>patient involvement</kwd>
+                <kwd>patient engagement</kwd>
+                <kwd>blockchain</kwd>
+                <kwd>Health Policy</kwd>
+                <kwd>European Union</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>853992</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No [853992] (PharmaLedger). </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>The abstract has been reviewed by lay people and deemed suitable for non-experts.</p>
+        </sec>
+        <sec>
+            <title>Disclaimer</title>
+            <p>The views expressed in this article are those of the author(s). Publication in Open Research Europe does not imply endorsement of the European Commission.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>People need to be well-informed about their medicines. To ensure that medicinal drugs can be taken and prescribed safely, an immense amount of information has to accompany each product. The information currently comes in the form of a large, folded paper included with every product (paper information leaflet), which people read to differing extents (
+                <xref ref-type="bibr" rid="ref-16">Raynor 
+                    <italic toggle="yes">et al.</italic>, 2007</xref>) and interact with differently based on their situation. While someone without a chronic condition might simply want to learn if they can take a pill and later drive their car or have a glass of wine, someone receiving treatment for a severe or complex condition with multiple drugs would have to identify much more information to account for tolerability and interaction effects. Searching these large paper leaflets for the required information can be time-consuming and is not easily accessible for all: it is specifically challenging, for example, for people with visual impairments who often need tools such as magnifying glasses to read the leaflets (
+                <xref ref-type="bibr" rid="ref-12">McMahon &amp; Curtis, 2009</xref>). While the 
+                <xref ref-type="bibr" rid="ref-2">EU&#x2019;s Directive 2004/27/EC</xref>&#x2014;which covers medical information provision&#x2014;requires that information &#x201c;must also be expressed in Braille format on the packaging [and] [t]he marketing authorisation holder shall ensure that the package information leaflet is made available on request from patients' organisations in formats appropriate for the blind and partially-sighted&#x201d; (addition to Article 56a), it remains at least questionable whether citizens are aware of these options or make use of it. In this letter, we would like to raise awareness around the level of development of ePI (specifically the app developed by IMI Pharmaledger), as well as provide a brief overview of the current policy environment and the need for engaging the public in the further development and deployment of ePI.</p>
+        </sec>
+        <sec>
+            <title>Could a digital version of such leaflets improve the experience?</title>
+            <p>While digital literacy and smartphone access across the EU differ significantly by country (
+                <xref ref-type="bibr" rid="ref-18">Van Kessel 
+                    <italic toggle="yes">et al.</italic>, 2022</xref>), there is an ongoing and rapid digitalisation of health and care solutions, including medical information. The European Medicines Agency (EMA) refers to such digital versions of medicine leaflets as electronic Product Information (ePI; sometimes: eLeaflet) and defines this as any &#x201c;authorised, statutory product information for medicines (
+                <italic toggle="yes">i.e.</italic> summary of product characteristics, package leaflet and labelling) in a semi-structured format created using the common EU electronic standard. ePI is adapted for electronic handling and allows dissemination 
+                <italic toggle="yes">via</italic> the world wide web, e-platforms and print.&#x201d; (
+                <xref ref-type="bibr" rid="ref-3">EMA, 2020a, p. 2</xref>). We share our insights concerning the development and co-creation of an ePI application (app) together with patients within the multistakeholder PharmaLedger project (
+                <ext-link ext-link-type="uri" xlink:href="https://pharmaledger.eu/">https://pharmaledger.eu</ext-link>) and outline key considerations for future development and implementation. With this app, patients will be able to scan a 2D-barcode on a medicine box and receive the information contained on a paper leaflet, as well as offering additional features in the future which increase readability and safety. Through this scan, patients will also know immediately whether the drug has expired, if the box is an original (anti-counterfeiting check) and can be informed immediately in case of a batch-recall for the drug.</p>
+        </sec>
+        <sec>
+            <title>Developing ePI together with patients</title>
+            <p>Including patient perspectives in eHealth development can help provide different types of value; namely, identifying unmet needs, better usability and desirability, better fit into the patient journey, better adoption, better health outcomes, advocacy and trust, a sense of purpose, and better health equity and access (
+                <xref ref-type="bibr" rid="ref-8">Jacob 
+                    <italic toggle="yes">et al.</italic>, 2022</xref>). To identify and better understand the needs and priorities for an ePI app, we conducted a series of five workshops with a group of patients recruited by the European Patients&#x2019; Forum (EPF) and the European Forum for Good Clinical Practice (EFGCP) (
+                <xref ref-type="fig" rid="f1">Figure 1</xref>). These sessions were led by industry partners, with support from EPF staff (
+                <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=D9CHPqDC5Ec">Hunt 
+                    <italic toggle="yes">et al.</italic>, 2022</ext-link>). The group consisted of eight people from different countries directly or indirectly affected by various disease areas (five female, three male), including two co-authors of this paper. More user-friendly information arose as the key ask from these workshops, together with a need for well-described contraindications with other drugs, automatically updated information on the medicine and side-effects, intuitive formatting and easily readable text, as well as specific information on how and when to take medicine.     </p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>ePI development workshops with patients.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17028/5f029745-620c-44fb-97e9-fad151bc7f4f_figure1.gif"/>
+            </fig>
+            <p>The input from the first four workshops was taken into account for the development of the PharmaLedger ePI app, and a fifth, follow-up workshop focused on the usability of the beta version of the lite app, a web-based version with limited functionality accessible through a browser. While there is no need to install the app&#x2014;lowering barriers for accessibility&#x2014;it requires the scanning of two codes printed on the box: one to access the web app (QR Code), and another to access the medical information (2D Code). This caused some confusion among testers and is an important consideration in practice. Details on these workshops have been described in publicly available webinars (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://patientengagement.synapseconnect.org/events/electronic-medicine-leaflets-what-do-patients-want">Jarke 
+                    <italic toggle="yes">et al.</italic>, 2022a</ext-link>, 
+                <ext-link ext-link-type="uri" xlink:href="https://youtu.be/NzkKVcgYxDs">Jarke 
+                    <italic toggle="yes">et al.</italic>, 2022b</ext-link>, 
+                <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=D9CHPqDC5Ec">Hunt 
+                    <italic toggle="yes">et al.</italic>, 2022</ext-link>) and the forthcoming press release by the Pharmaledger Association (unpublished report). The data and brief description of the workshops can also be found in our accompanying open repository (
+                <xref ref-type="bibr" rid="ref-10">Jarke, 2023</xref>).</p>
+        </sec>
+        <sec>
+            <title>The future of ePI in Europe</title>
+            <p>Direct input from patients in the development process is key to developing a patient-centric app. In addition to gaining specific insights, patient inclusion and testing provide invaluable knowledge on how people interact with an app in real life and reveal issues that a static dataset cannot. For example, the best meta-analysis would not have told us that a warning logo may not be perceived as such at all: where the developers had chosen an icon that they found to be similar to a nuclear warning sign, one user was wondering why there was a &#x201c;flower symbol&#x201d; popping up on the app. Different conditions can affect the flow of the process. During the workshop, we found out that shaky hands, in combination with using older phones, lower the chances of successfully scanning the 2D matrix code. On the other hand, a different code&#x2014;the QR code leading to the app itself&#x2014;was still easily scannable under the same conditions. We recommend the continued inclusion of patients and users in the future development of ePI and outline more insights from workshops and related sessions hosted with different stakeholders (
+                <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=D9CHPqDC5Ec">Hunt 
+                    <italic toggle="yes">et al.</italic>, 2022</ext-link>; 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://patientengagement.synapseconnect.org/events/electronic-medicine-leaflets-what-do-patients-want">Jarke 
+                    <italic toggle="yes">et al.</italic>, 2022a</ext-link>; 
+                <ext-link ext-link-type="uri" xlink:href="https://youtu.be/NzkKVcgYxDs">Jarke 
+                    <italic toggle="yes">et al.</italic>, 2022b</ext-link>).</p>
+            <sec>
+                <title>ePI will not solve all issues with medicine leaflets</title>
+                <p>There are many aspects of information leaflets in general that can be improved (
+                    <xref ref-type="bibr" rid="ref-13">Medina-C&#x00f3;rdoba 
+                        <italic toggle="yes">et al.</italic>, 2021</xref>; 
+                    <xref ref-type="bibr" rid="ref-19">Young 
+                        <italic toggle="yes">et al.</italic>, 2017</xref>). Despite its potential, ePI is not a silver bullet to address all existing issues with medicine leaflets. Our consultations outlined above, and a survey from 2021 suggest people often find information leaflets too complex and sometimes overwhelming (
+                    <xref ref-type="bibr" rid="ref-15">PFMD, 2021</xref>). Simplifying medical information is difficult and has wide-ranging ethical, regulatory, and legal implications. It requires extensive research to protect the safety of those taking medicine. While a worthwhile endeavour, the complexity of information does not simply vanish by going digital, and additional efforts are required to help patients understand the information more easily.</p>
+                <p>Without certainty about levels of digital literacy in patients and being sure everyone benefits equally, paper leaflets will need to be kept alongside electronic versions to avoid new inequalities in health and care. Many people still prefer paper in a hypothetical scenario when given a choice, specifically among people over 40 years old (
+                    <xref ref-type="bibr" rid="ref-15">PFMD, 2021</xref>). One scenario accounting for this could be on-demand printing, meaning boxes would come without information leaflets, but pharmacists can print them if patients request them. While previous research has identified some support for such a scenario (
+                    <xref ref-type="bibr" rid="ref-6">Hammar 
+                        <italic toggle="yes">et al.,</italic> 2016</xref>), no data exists on openness from pharmacists to such a solution, and there is a risk of patients who would benefit from a paper information leaflet not taking up the offer due to being hesitant in social interaction.</p>
+            </sec>
+            <sec>
+                <title>Advantages of ePI</title>
+                <p>Nevertheless, an ePI app has the potential to provide a set of highly beneficial functions, including a search function helping to find relevant information more quickly, specifically for side-effects, tolerability, drug-to-drug interactions, as well as a zoom-in function or read-aloud function for people with visual impairment. Information can technically be available in multiple languages.</p>
+                <p>The global trade of counterfeit medicines is currently estimated to create USD 4.4 billion in illegal revenue, causing massive financial damage to EU governments and legitimate businesses. Of greater concern are the issues directly related to ill health: a model from the OECD estimates that globally 7,2000 to 16,9000 children annually die from pneumonia because they are not treated with proper medicine but counterfeit products (
+                    <xref ref-type="bibr" rid="ref-14">OECD &amp; EUIPO, n.d.</xref>). Adding a feature to an ePI app that identifies whether a box is an original can enable patients or carers to spot fake products easily. Further, a batch recall notification feature on personal mobile devices can help communicate the recall and therefore safety of patients. Lastly, having a digital medicine cabinet&#x2014;an overview of which medicines a user is currently taking and took in the past&#x2014;could come with a feature in the future that cross-checks the adverse effects of taking these drugs together and issues a warning. Likewise, evidence from behavioural sciences shows that reminders about when to take medication are quite effective in increasing medicine adherence (
+                    <xref ref-type="bibr" rid="ref-9">Jarke 
+                        <italic toggle="yes">et al.</italic>, 2021</xref>; 
+                    <xref ref-type="bibr" rid="ref-17">Tran 
+                        <italic toggle="yes">et al.</italic>, 2014</xref>; 
+                    <xref ref-type="bibr" rid="ref-20">Zhao 
+                        <italic toggle="yes">et al.</italic>, 2019</xref>), and future versions may include such a function.</p>
+            </sec>
+            <sec>
+                <title>Data privacy</title>
+                <p>The more complex an ePI app becomes and the more features it brings, the more data it also has to process. This data needs to be kept secure and it has to be ensured that patients are not identifiable, a key concern also prevalent in the workshops with patients. At the moment, using a distributed ledger technology such as blockchain, where the data is not stored centrally seems to be the safest option, but it also comes with legal constraints, as it remains unclear if and to what extent the EU General Data Protection Regulation applies where there is no clear data owner (
+                    <xref ref-type="bibr" rid="ref-11">Kayhan, 2022</xref>). While blockchain is rising in popularity, it is still an emerging field, and many important questions are emerging alongside. This includes considerations regarding patient data ownership, concerns about how sensitive information should be managed, and who should have access to it.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Get ready and leave no one behind</title>
+            <p>In their key principles for ePI for human medicines, EMA&#x2019;s first principle outlines how any ePI app needs to primarily benefit public health (
+                <xref ref-type="bibr" rid="ref-4">EMA, 2020b</xref>). This notion should always be at the forefront of any further developments of ePI and its implementation. By conducting several focus group sessions with patients and industry we understand that patients have priorities which are not easily incorporated into the ePI envisioned by the EMA, such as more user-friendly information. Independent of how exactly a final ePI app will look like, it will be necessary to involve all stakeholders in the process: to ensure the development of a successful implementation of ePI, we encourage the consultation of healthcare practitioners, pharmacists, and, of course, patients and the general population, as the industry moves from a paper-based to a digital system. We suggest continuing this involvement and preparing the public soon, as apps might soon be commonplace. Such involvement should also be accompanied by rigorous evaluation. To avoid reinventing the wheel and foster cooperation in the development of ePI across sectors, the establishment of the Pharmaledger Association (
+                <ext-link ext-link-type="uri" xlink:href="https://pharmaledger.org/">https://pharmaledger.org</ext-link>) as a not-for-profit non-governmental organisation that brings together members of the project consortium and other stakeholders from the healthcare sector is already a promising step. In addition, connections should also be made to relevant initiatives that work to improve the content of ePI (
+                <italic toggle="yes">e.g. Gravitate Health:</italic> 
+                <ext-link ext-link-type="uri" xlink:href="https://www.gravitatehealth.eu/">https://www.gravitatehealth.eu</ext-link>) and efforts in developing quality standards for health apps, such as 
+                <italic toggle="yes">Label2Enable</italic> (
+                <xref ref-type="bibr" rid="ref-7">Hoogendoorn 
+                    <italic toggle="yes">et al.,</italic> 2023</xref>). Understanding the use of product information will allow for evidence-based conversations with regulators and other stakeholders to suggest changes to the future of ePI to make the data more human-centric. A comprehensive, interdisciplinary research agenda could benefit implementation greatly. We provide an initial, non-exhaustive overview of potential research questions based on our own internal discussion and a brief, non-representative survey among the PharmaLedger consortium and social media followers of EPF in 
+                <xref ref-type="table" rid="T1">Table 1</xref> for consideration.</p>
+            <table-wrap id="T1" orientation="portrait" position="anchor">
+                <label>Table 1. </label>
+                <caption>
+                    <title>Opportunities for research.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Research area</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Areas for investigation / Research questions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Health sciences and medicine</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Pharmacists&#x2019; perspective on the adoption and use;
+                                <break/>Systematic review and country comparison of existing print-on-demand practices in different countries;
+                                <break/>How can patient data (the medicine cabinet) be used to their direct benefit?;
+                                <break/>Is it accessible to people with disabilities?</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Social, behavioural, and 
+                                <break/>educational sciences</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Ongoing evaluation of usability;
+                                <break/>Understanding of leaflets by users (both digital and paper)
+                                <break/>Interventions to increase understanding and uptake (e.g. through nudges and boosts);
+                                <break/>Acceptance by stakeholder groups;
+                                <break/>Predicting adoption of e-PI apps (what and how to target when proposing change);
+                                <break/>Best practices in roll-out;
+                                <break/>What aspects of ePI make people read the leaflets if they don&#x2019;t read paper leaflets;
+                                <break/>Traits/types of people using vs not-using ePI or paper leaflets in general;
+                                <break/>How to communicate and educate people on the technology (specifically for people with low digital or 
+                                <break/>health literacy)</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Economics and finance</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Models for financing ePI apps;
+                                <break/>How to fund costs for print-on-demand?</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Policy, public administration, 
+                                <break/>regulatory science</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Comparison of infrastructure for using ePI between countries;
+                                <break/>After rollout and adoption: Rhetoric and practice - is there a gap?;
+                                <break/>Equity: do some groups may benefit less and why + identifying countermeasures</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Law</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Readiness of legal systems for adoption;
+                                <break/>GDPR compliance;
+                                <break/>Legal considerations for adoptions in non-EU countries;
+                                <break/>Does ePI pose any unidentified ethical challenges?</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Technology</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Use of Blockchain for digital medicine cabinets;
+                                <break/>Can patients be informed about new research regarding the drug?;
+                                <break/>Can eleaflets highlight information for specific groups (
+                                <italic toggle="yes">e.g.</italic> age, gender, chronic disease) - also relevant 
+                                <break/>for legal research;
+                                <break/>Can the blockchain technology used for the app made be more environmentally sustainable;
+                                <break/>Are there alternative technologies to blockchain?</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>Given the recent and fast developments around ePI, we conceived this paper to make stakeholders, specifically researchers, aware of the advanced stage the technology and policies are already in. We hope that this short overview piece brings further stakeholders into the process and urges those involved to identify and consider special needs of disadvantaged people or those living with disabilities. It appears evident that paper leaflets should not disappear immediately while certain groups are still reliant on them and important steps have been taken in recent years to improve them, specifically through EMA&#x2019;s Readability Guideline (
+                <xref ref-type="bibr" rid="ref-5">EMA, 2009</xref>). In addition, active patient input has increasingly been sought to improve design and readability (
+                <xref ref-type="bibr" rid="ref-1">CIOMS, 2022</xref>). The emerging body of research around ePI should be seen as an opportunity to gain insights on improving leaflets generally, including those on paper. ePI is not a silver bullet to solve all existing problems with paper leaflets&#x2014;however, we urge regulators and decision-makers to use the momentum to further improve the understandability of leaflet content&#x2014;in all formats, digital and paper.</p>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>Ethical approval and consent were not required.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>No underlying data are associated with this article.</p>
+            </sec>
+            <sec>
+                <title>Extended data</title>
+                <p>Open Science Framework: ePI Workshop Summary with Data.docx</p>
+                <p>
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17605/OSF.IO/APN8B">https://doi.org/10.17605/OSF.IO/APN8B</ext-link> (
+                    <xref ref-type="bibr" rid="ref-10">Jarke, 2023</xref>).</p>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</ext-link> (CC-BY 4.0).</p>
+                <p>The data on patient workshops referenced in this article can be found in the open repository, and have previously been provided and discussed in 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=D9CHPqDC5Ec">PharmaLedger&#x2019;s 3
+                        <sup>rd</sup> Open Webinar &#x201c;Making ePI a Reality: The User Journey&#x201d;</ext-link>, the Patient Engagement Open Forum session &#x201c;
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://patientengagement.synapseconnect.org/events/electronic-medicine-leaflets-what-do-patients-want">Electronic medicine leaflets &#x2013; What do patients want?</ext-link>&#x201d;, as well as during the EPF Congress 2022 session &#x201c;
+                    <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=NzkKVcgYxDs">ePI &#x2013; How Patients Benefit From a Digital Version of Medicine Leaflets</ext-link>". An upcoming press release by the Pharmaledger Association will share these insights with a wider audience.</p>
+            </sec>
+        </sec>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We would like to thank the other members of the Pharmaledger Patient Advisory Group whose input to the workshops informed this paper substantially: Margit Paul, Gregor Cuzak, Marta Morato, Outi Saram&#x00e4;ki, and Lotte Klim. We also express our gratitude to Charles Vesley, who led the initial four workshops, as well as Patrick Maher for his input at that stage.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <collab>CIOMS</collab>:
+                    <article-title>Patient involvement in the development, regulation and safe use of medicines.</article-title>WHO, Geneva,<year>2022</year>.
+                    <pub-id pub-id-type="doi">10.56759/iiew8982</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <article-title>Directive 2004/27/EC of the European Parliament and of the Council of 31 March 2004 amending Directive 2001/83/EC on the Community code relating to medicinal products for human use</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0027">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <collab>EMA</collab>:
+                    <article-title>Electronic Product Information (ePI) for EU medicines.</article-title>
+               <year>2020a</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ema.europa.eu/en/documents/presentation/presentation-71-update-electronic-product-information-eu-medicines-e-scanlan_en.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <collab>EMA</collab>:
+                    <article-title>Electronic product information for human medicines in the European Union &#x2013; key principles.</article-title>
+               <year>2020b</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ema.europa.eu/en/electronic-product-information-human-medicines-european-union-key-principles">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <collab>EMA</collab>:
+                    <article-title>GUIDELINE ON THE READABILITY OF THE LABELLING AND PACKAGE LEAFLET OF MEDICINAL PRODUCTS FOR HUMAN USE.</article-title>
+               <year>2009</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://health.ec.europa.eu/system/files/2016-11/2009_01_12_readability_guideline_final_en_0.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hammar</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Nilsson</surname>
+                            <given-names>AL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hovstadius</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Patients' views on electronic patient information leaflets.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Pharm Pract (Granada).</italic>
+               </source>
+               <year>2016</year>;<volume>14</volume>(<issue>2</issue>):<fpage>702</fpage>.
+                    <pub-id pub-id-type="pmid">27382423</pub-id>
+                    <pub-id pub-id-type="doi">10.18549/PharmPract.2016.02.702</pub-id>
+                    <pub-id pub-id-type="pmcid">4930857</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hoogendoorn</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Versluis</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>van Kampen</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>What Makes a Quality Health App-Developing a Global Research-Based Health App Quality Assessment Framework for CEN-ISO/TS 82304-2: Delphi Study.</article-title>
+                    <source>
+
+                        <italic toggle="yes">JMIR Form Res.</italic>
+               </source>
+               <year>2023</year>;<volume>7</volume>:<fpage>e43905</fpage>.
+                    <pub-id pub-id-type="pmid">36538379</pub-id>
+                    <pub-id pub-id-type="doi">10.2196/43905</pub-id>
+                    <pub-id pub-id-type="pmcid">9872976</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Jacob</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bourke</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Heuss</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>From Testers to Cocreators-the Value of and Approaches to Successful Patient Engagement in the Development of eHealth Solutions: Qualitative Expert Interview Study.</article-title>
+                    <source>
+
+                        <italic toggle="yes">JMIR Hum Factors.</italic>
+               </source>
+               <year>2022</year>;<volume>9</volume>(<issue>4</issue>):<fpage>e41481</fpage>.
+                    <pub-id pub-id-type="pmid">36102548</pub-id>
+                    <pub-id pub-id-type="doi">10.2196/41481</pub-id>
+                    <pub-id pub-id-type="pmcid">9585443</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Jarke</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ruggeri</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Graeber</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Health behavior and decision-making in healthcare.</article-title>In: Kai Ruggeri, editor.
+                    <italic toggle="yes">Psychology and Behavioral Economics</italic>. Applications for Public Policy 2
+                    <sup>nd</sup>Edition. London: Routledge,<year>2021</year>.
+                    <pub-id pub-id-type="doi">10.4324/9781003181873-5</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Jarke</surname>
+                            <given-names>H</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>Pharmaledger ePI Workshops with patients</data-title>.
+                    <source>Open Science Framework</source>. [Data].<year>2023</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.17605/OSF.IO/APN8B">http://www.doi.org/10.17605/OSF.IO/APN8B</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kayhan</surname>
+                            <given-names>H</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Ensuring Trust in Pharmaceutical Supply Chains by Data Protection by Design Approach to Blockchains.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Blockchain Healthc Today.</italic>
+               </source>
+               <year>2022</year>;<volume>1</volume>:<fpage>5</fpage>.
+                    <pub-id pub-id-type="pmid">36779024</pub-id>
+                    <pub-id pub-id-type="doi">10.30953/bhty.v5.232</pub-id>
+                    <pub-id pub-id-type="pmcid">9907431</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>McMahon</surname>
+                            <given-names>JM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Curtis</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Methods of Reading Information on Labels of Prescription Medications by Persons Who Are Visually Impaired.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Vis Imp.</italic>
+               </source>
+               <year>2009</year>;<volume>103</volume>(<issue>5</issue>):<fpage>303</fpage>&#x2013;<lpage>308</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/0145482X0910300508</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Medina-C&#x00f3;rdoba</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cadavid</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>P&#x00e9;rez-Acosta</surname>
+                            <given-names>AM</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Factors that Facilitate and Hinder the Comprehension of Patient Information Leaflets (PILs): A Brief Scoping Review.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Front Pharmacol.</italic>
+               </source>
+               <year>2021</year>;<volume>12</volume>:<fpage>740334</fpage>.
+                    <pub-id pub-id-type="pmid">34858174</pub-id>
+                    <pub-id pub-id-type="doi">10.3389/fphar.2021.740334</pub-id>
+                    <pub-id pub-id-type="pmcid">8631714</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <collab>OECD &amp; EUIPO</collab>:
+                    <article-title>Trade in Counterfeit Pharmaceutical Products.</article-title>Illicit Trade. OECD Publishing, Paris.
+                    <pub-id pub-id-type="doi">10.1787/a7c7e054-en</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <collab>PFMD</collab>:
+                    <article-title>Understanding patients&#x2019; and HCPs challenges, needs and preferences for patient information leaflets - Survey Report.</article-title>
+               <year>2021</year>; Jun.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://patientengagement.synapseconnect.org/resources/understanding-patients-and-hcps-challenges-needs-and-preferences-for-patient-information-leaflets-survey-report">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Raynor</surname>
+                            <given-names>DK</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Silcock</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Knapp</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>How do patients use medicine information leaflets in the UK? </article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Pharm Pract.</italic>
+               </source>
+               <year>2007</year>;<volume>15</volume>(<issue>3</issue>):<fpage>209</fpage>&#x2013;<lpage>18</lpage>.
+                    <pub-id pub-id-type="doi">10.1211/ijpp.15.3.0008</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tran</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Coffman</surname>
+                            <given-names>JM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sumino</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Patient reminder systems and asthma medication adherence: A systematic review.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Asthma.</italic>
+               </source>
+               <year>2014</year>;<volume>51</volume>(<issue>5</issue>):<fpage>536</fpage>&#x2013;<lpage>43</lpage>.
+                    <pub-id pub-id-type="pmid">24506699</pub-id>
+                    <pub-id pub-id-type="doi">10.3109/02770903.2014.888572</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Van Kessel</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wong</surname>
+                            <given-names>BLH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rubini&#x0107;</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Is Europe prepared to go digital? making the case for developing digital capacity: An exploratory analysis of Eurostat survey data.</article-title>
+                    <source>
+
+                        <italic toggle="yes">PLOS Digit Health.</italic>
+               </source>
+               <year>2022</year>;<volume>1</volume>(<issue>2</issue>):<fpage>e0000013</fpage>.
+                    <pub-id pub-id-type="pmid">36812527</pub-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pdig.0000013</pub-id>
+                    <pub-id pub-id-type="pmcid">9931321</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Young</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Smith</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Tordoff</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>What do patients&#x2019; want? Time to innovate medicine information leaflets.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Integr Care.</italic>
+               </source>
+               <year>2017</year>;<volume>17</volume>(<issue>3</issue>):<fpage>15</fpage>.
+                    <pub-id pub-id-type="doi">10.5334/ijic.3127</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zhao</surname>
+                            <given-names>YY</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dang</surname>
+                            <given-names>FP</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Zhai</surname>
+                            <given-names>TT</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The effect of text message reminders on medication adherence among patients with coronary heart disease: A systematic review and meta-analysis.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Med (United States).</italic>
+               </source>
+               <year>2019</year>;<volume>98</volume>(<issue>52</issue>):<fpage>e18353</fpage>.
+                    <pub-id pub-id-type="pmid">31876709</pub-id>
+                    <pub-id pub-id-type="doi">10.1097/MD.0000000000018353</pub-id>
+                    <pub-id pub-id-type="pmcid">6946488</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report36145">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17028.r36145</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Cohen</surname>
+                        <given-names>Golda</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r36145a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r36145a1">
+                    <label>1</label>Universit&#x00e9; d'Angers, Angers, France</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>30</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Cohen G</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport36145"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15764.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>In this open letter promoting accessibility of medicine leaflets, authors present an opportunity of using a software application currently under development, ePI, which offers a range of functionalities, such as leaflet translation, zooming and a reminder system. The document emphasizes the inclusion of patients in the development of this application, an approach already implemented using focus groups. In addition, authors question stakeholders implications for further research on accessibility on medicine leaflets. However, some elements could be clarified, as mentioned below:</p>
+            <p> </p>
+            <p> Abstract</p>
+            <p> </p>
+            <p> 1. ePI is developed to encourage the understandability of medicine leaflets for almost everyone. However, the first sentence draws attention to targeted populations: people with visual impairments, and people with chronic conditions. This sentence could be more inclusive, knowing that readability of medicine leaflets appears to be an issue to most individuals (for a sociological approach, see Akrich, 1995).&#x00a0;</p>
+            <p> </p>
+            <p> 2. Authors report features designed to make information more accessible. One of these features proposes a "reminders about when to take medication" system. However, while research corroborates the potential effectiveness of this feature, authors do not specify how it works. Would it be based on user settings? Is care professionals/peers would be allowed to help?</p>
+            <p> </p>
+            <p> Main body of text</p>
+            <p> </p>
+            <p> 1. Authors reported that some participants misinterpretated a warning sign using ePI. What was the purpose of this sign? How did they choose it? How did they solve the issue? There is a wild literature on health pictograms to improve the adherence of medicine which could help to avoid these misinterpretations (see the recent chapter from Dowse (2022) about designing, evaluating, and applying pictograms in pharmacy practice research)</p>
+            <p> </p>
+            <p> 2. The efficiency of ePI seems to rely on users&#x2019; digital literacy. Considering the importance of this ability, authors may write a paragraph about this topic.</p>
+            <p> </p>
+            <p> 3.&#x00a0;Grey typo in figure 1 is too bright.</p>
+            <p> </p>
+            <p> 4.&#x00a0;Were people over 65 included in the focus group? This population is more likely to consume medicines than the others, yet they also tend to suffer from e-Exclusion (Hetzner &amp; al., 2014). The accessibility of ePI for seniors particularly should be considered.</p>
+            <p> </p>
+            <p> 5.The focus group is composed of 8 participants, including two co-authors. How were the co-authors involved? Participatory or non-participatory observation? How did authors prevent methodological biases?</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Partly</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Partly</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Iconography, social representations, health pictograms, health literacy, communication</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report36144">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17028.r36144</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>May</surname>
+                        <given-names>Pauline</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r36144a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-6636-2456</uri>
+                </contrib>
+                <aff id="r36144a1">
+                    <label>1</label>East Lancashire Hospitals NHS Trust, Blackburn, England, UK</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>30</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 May P</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport36144"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15764.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This Open Letter outlines preliminary work involving stakeholders and patient/public advisors, into the possible formation of an application for electronic product information for medicines. The letter describes a series of workshops with patients and industry partners to help identify appropriate features of the application and to evaluate and revise the proposed application. The risks and benefits of electronic product information are outlined and a summary of recommendations for future research in this area is included.&#x00a0;</p>
+            <p> </p>
+            <p> The following comments are suggested amendments to the letter.&#x00a0;</p>
+            <p> </p>
+            <p> The abstract contains sentences that are long and complex. A plain language summary could be included, despite the statement that the abstract has been deemed suitable for non-experts. I suggest either editing the abstract to ensure that sentences are not unnecessarily long, or including a plain-language summary.&#x00a0;</p>
+            <p> Need to define EMA in the abstract.&#x00a0;</p>
+            <p> </p>
+            <p> Figure 1: There could be more clarity/explanation as to what was involved in each of the workshops. Please also include details as to who was involved in the 5th workshop, was this with the original group or a wider audience?</p>
+            <p> </p>
+            <p> The Future of EPI in Europe: Under this heading the authors describe outcomes of the workshops and possible problems with the app, should this be in the section above?&#x00a0;</p>
+            <p> </p>
+            <p> Advantages of ePI: numbers in this section need reviewing: 7,2000 and 16,9000.&#x00a0;</p>
+            <p> </p>
+            <p> Get ready to leave no-one behind: 'as apps might soon be commonplace' Are apps not already commonplace?&#x00a0;</p>
+            <p> </p>
+            <p> Table 1&#x00a0;</p>
+            <p> </p>
+            <p> Please review the following sentences: Do some groups may benefit less and why?</p>
+            <p> </p>
+            <p> Can the blockchain technology used for the app made be more environmentally sustainable?</p>
+            <p> </p>
+            <p> Use Question marks for all questions - consistency.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Health literacy, musculoskeletal physiotherapy, health equity, qualitative research</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report33188">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17028.r33188</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Young</surname>
+                        <given-names>Amber</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33188a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r33188a1">
+                    <label>1</label>University of Otago, Dunedin, Otago, New Zealand</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>12</day>
+                <month>7</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Young A</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33188"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15764.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This Open Letter describes a research into development of an application for patients to use to read electronic information leaflets about their medicines. The Letter described background research undertaken in focus groups with eight participants to identify their needs and preferences for digital information. The authors provide a comprehensive table of recommendations for further research required around the development of this technology. The argument for digital leaflets and the benefits of an app is strong, yet some potential downsides have also been identified which is important when developing new technologies. There are some comments below that could be considered for updating this Letter.</p>
+            <p> </p>
+            <p> Abstract: 
+                <list list-type="order">
+                    <list-item>
+                        <p>The first sentence is quite long, could this be split into two?</p>
+                    </list-item>
+                    <list-item>
+                        <p>The sentence beginning &#x201c;Likewise, for people already taking different drugs&#x2026;.&#x201d; Requires some clarification. Do you mean looking for interactions between their medications?</p>
+                    </list-item>
+                    <list-item>
+                        <p>Review &#x2018;enables&#x2019; or &#x2018;enable&#x2019; patients to identify falsified product?</p>
+                    </list-item>
+                    <list-item>
+                        <p>What do you mean by &#x2018;understanding of how ePI works across populations&#x2019;? Is this how different population groups engage with ePI?</p>
+                    </list-item>
+                </list> Main body of text: 
+                <list list-type="order">
+                    <list-item>
+                        <p>Consider reviewing opening sentence. I do not think the PIL ensures that medicines are prescribed safely as they are aimed at patient use rather than prescribers.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The statement &#x201c;&#x2026;someone receiving treatment for a severe or complex condition with multiple drugs would have to identify much more information&#x2026;&#x201d; should be revised. People would not have to but might want to identify much more information.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Please indicate how a patient would scan the 2D-barcode &#x2013; would they need a smartphone device?</p>
+                    </list-item>
+                    <list-item>
+                        <p>I like the figure, but find the light grey font quite difficult to read. Consider making this darker.</p>
+                    </list-item>
+                    <list-item>
+                        <p>It is not common practice to include co-authors or members of the research team as part of the participant cohort, particularly where there may be conflicts of interest. Including patients from outside of the research group as co-authors is appropriate. Please clarify. Additionally, it would be good to gather information from a larger group as the potential cohort is very diverse with different needs and priorities &#x2013; although I note this is outside the scope of an open letter.</p>
+                    </list-item>
+                    <list-item>
+                        <p>An Open Letter should not include new data and analysis, although I see that these data have been presented in webinars and available in an open repository &#x2013; is that sufficient?</p>
+                    </list-item>
+                    <list-item>
+                        <p>The first paragraph under &#x2018;The future of ePI in Europe&#x2019; seems to be more suited being under &#x2018;Developing ePI together with patients&#x2019; as it is about considerations when developing ePI and what was found in your research.</p>
+                    </list-item>
+                    <list-item>
+                        <p>You mention printing leaflets on request. There are numerous downsides to this, some listed, but also consider cost to the pharmacy and added time for this function and patients not knowing this could be an option &#x2013; particularly concerning for those who do not have good health literacy.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The information about counterfeit medicines is alarming. The feature to detect counterfeit medicines is good. However, I would argue it should not be on the patient to determine if their prescribed medicines are counterfeit, but should lie with the medicine procurement agencies.</p>
+                    </list-item>
+                    <list-item>
+                        <p>You mention a digital medicine cabinet &#x2013; would this be built by patients scanning in all of their medicines? Could it be linked to a health record? Would they need to scan each medicine box/bottle every time they get a new one? This could become bothersome for patients.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Table 1 has a small typo - Equity: do some groups may benefit less and why + identifying countermeasures. Also consider in the table the legality/ethics around data management and privacy.</p>
+                    </list-item>
+                </list> Ethics and consent:</p>
+            <p> </p>
+            <p> Ethical approval and consent would be needed for those who participated in the focus group sessions.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Partly</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Pharmacy, health equity, medicine and health information, communication about medicines, qualitative research</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+</article>

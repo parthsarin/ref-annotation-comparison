@@ -1,0 +1,1399 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="other"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.16016.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Case Study</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Understanding the importance of Gender Action Planning in EC Horizon projects: a case study</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Fair</surname>
+                        <given-names>Nicholas</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-1566-4689</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Kirschberger</surname>
+                        <given-names>Daniela</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>IT Innovation, University of Southampton, Southampton, England, UK</aff>
+                <aff id="a2">
+                    <label>2</label>Im Stadtgut Zone D1, Profactor, Steyr, 4407, Austria</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:n.s.fair@soton.ac.uk">n.s.fair@soton.ac.uk</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>159</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>31</day>
+                    <month>8</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Fair N and Kirschberger D</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-159/pdf"/>
+            <abstract>
+                <p>Against a backdrop of continued gender challenges within the European manufacturing and technology domains, and wider society in general, such as gender balance and inequality, the gender pay gap, the glass ceiling/sticky floor, the glass cliff, the invisible woman and the under-representation of women in STEM careers and senior positions, and framed within the latest European Commission guidelines and requirements on equality, diversity and inclusion, this paper will report on the actions and research undertaken by the voluntary Gender Action Planning (GAP) team within a large, multinational, complex Industry4.0 Horizon2020 research and innovation project to try to address gender inequalities and gender balance, as well as to provide safe spaces, supportive communities and raised awareness of gender issues over the four year lifespan of the project. It is hoped that the learning from the GAP team may provide a good exemplar for future Horizon programme proposal submissions where a Gender Plan is now a mandated requirement.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Gender Action; Horizon projects; Gender Equality; Gender Balance</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>825631</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under grant agreement No 825631(Horizon2020 Zero-defects Manufacturing Platform [ZDMP]). </funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>This paper reports on the actions and findings of the Gender Action Planning (GAP) team within the Zero-defect Manufacturing Platform Horizon2020 project. It positions this activity within the wider context of social and workplace gender issues, as well as demonstrating how gender concerns within individual Horizon projects can be addressed. It provides a critical evaluation of the GAP team actions explaining what worked and what did not in order for future consortia to learn from, apply, improve and develop meaningful gender action plans in Horizon projects.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>The Fourth Industrial Revolution, also known as Industry4.0 (I4.0), has been transforming the way we live and work. It involves the integration of technologies such as artificial intelligence, robotics, and the Internet of Things to create smart, interconnected systems that can analyse and respond to data in real-time. As the European Union (EU) seeks to lead the world in this new era of technology, the Horizon2020 programme, now the Horizon Europe programme, has been established to support research and innovation in this field. However, as new technological developments should now be understood as a sociotechnical phenomenon, where technologies and the societies within which they are used interact with each other to shape the development of the other (e.g. 
+                <xref ref-type="bibr" rid="ref-3">Bijker, 1997</xref>; 
+                <xref ref-type="bibr" rid="ref-4">Cartelli, 2007</xref>; 
+                <xref ref-type="bibr" rid="ref-7">Cooper &amp; Foster, 1971</xref>; 
+                <xref ref-type="bibr" rid="ref-20">Kelly, 1978</xref>; 
+                <xref ref-type="bibr" rid="ref-40">Trist &amp; Emery, 1960</xref>), it is vital to foreground not only technological considerations, but also the social challenges, including gender issues (e.g. 
+                <xref ref-type="bibr" rid="ref-37">Suchman, 2002</xref>), that are connected to the development of those technologies.</p>
+            <p>Against this sociotechnical backdrop, there has been a gender aspect for the past decade in European Union funded research and innovation areas, for example, as articulated in the July 2012 Communication &#x2018;A Reinforced European Research Area Partnership for Excellence and Growth&#x2019; (
+                <xref ref-type="bibr" rid="ref-71">EC, 2012a</xref>); in Article 15 of the Horizon2020 research programme (
+                <xref ref-type="bibr" rid="ref-70">EC, 2011</xref>) (
+                <xref ref-type="bibr" rid="ref-100">Madariaga, 2013</xref>); and in the report 'Enhancing excellence, gender equality and efficiency in research and innovation' (
+                <xref ref-type="bibr" rid="ref-72">EC, 2012b</xref>). More recently the European Commission has published the 
+                <xref ref-type="bibr" rid="ref-11">Gender Equality Strategy 2020&#x2013;2025</xref> and a number of reports on the EU gender pay gap situation (e.g., 
+                <xref ref-type="bibr" rid="ref-12">European Commission, 2021</xref>). There have also been a string of national initiatives and regulations over the past two decades designed to promote gender equality in work environments, such as Gender Pay Gap reporting, 2017; Women on Boards, 2011; and Shared Parental Leave, 2015, in the UK.</p>
+            <p>The European Commission (EC) has moved the gender agenda forward with the latest Horizon Europe programme by including the explicit aim of addressing key societal challenges, as well as promoting scientific and technological excellence. To this end, funding proposals submitted to the Horizon Europe programme must, for the first time, now include a formal Gender Equality Plan (GEP), a requirement to have an institutionally-specific plan to promote gender equality in research and innovation activities. This increased focus on gender matters chimes with the increased focus on human-centered design, one of the guiding principles of resilience, sustainability, and human-centricity that defines Industry5.0 (I5.0). It also aligns with burgeoning social movements such as the 
+                <xref ref-type="bibr" rid="ref-14">Everyday Sexism Project</xref> (everydaysexism.com) and #MeToo campaign (e.g., 
+                <xref ref-type="bibr" rid="ref-15">Hansson 
+                    <italic toggle="yes">et al.,</italic> 2023</xref>), gender self-identification, the adoption of non-binary identities, especially by younger people, and in the English-speaking world, new linguistic norms to account for a non-binary identity &#x2013; typically changes to personal pronouns (e.g., using &#x2018;they/them&#x2019; as opposed to &#x2018;he/him&#x2019; or &#x2018;she/her&#x2019;).</p>
+            <p>The Industry5.0 principle of human-centered design emphasizes the importance of designing technologies and processes that are easy to use, safe, and accessible to all. It involves taking a user-centered approach to design involving understanding the needs and preferences of users, and designing technology and processes that meet those needs. Clearly, gender concerns become immediately relevant within this vision, as people of non-male gender form a significant group of users for whom software and hardware developments must be designed, but who remain underrepresented in both the design and production of such technologies. This underrepresentation of non-males in certain domains, especially Computer Science, Engineering and Manufacturing, has been recognised for many years, with large-scale programmes to support and encourage non-males into the STEM subjects (Science, Technology, Engineering, Maths), such as the 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.advance-he.ac.uk/equality-charters/athena-swan-charter">Athena SWAN Charter</ext-link> (UK), the 
+                <ext-link ext-link-type="uri" xlink:href="https://www.nsf.gov/crssprgm/advance/">National Science Foundation&#x2019;s ADVANCE programme</ext-link> (USA) and the 
+                <ext-link ext-link-type="uri" xlink:href="https://scwist.ca/">Women in Science and Engineering programme</ext-link> (Canada) all running for over two decades, and the slightly more recent UN and EU initiatives such as the 
+                <ext-link ext-link-type="uri" xlink:href="https://eige.europa.eu/">European Institute for Gender Equality</ext-link> (2010), 
+                <ext-link ext-link-type="uri" xlink:href="https://www.unwomen.org/en">UN Women</ext-link> (2010), and 
+                <ext-link ext-link-type="uri" xlink:href="https://womenindigital.org/">Women in Digital</ext-link> (2018) also being of significance. However, despite improvement, achieving widespread, genuine gender balance and equality in both the technology and manufacturing domains has remained illusive. For example, the 
+                <ext-link ext-link-type="uri" xlink:href="https://www.womentech.net/en-gb">WomenTechNetwork</ext-link> reports that in the EU just 19% of ICT jobs are held by women (2023), and within the manufacturing sector (the largest of all EU economic sectors with over 32 million workers (
+                <xref ref-type="bibr" rid="ref-35">statista, 2022</xref>)), women constitute roughly only 20% of the workforce (
+                <xref ref-type="bibr" rid="ref-45">Wyman, 2022</xref>). Furthermore, for those women who do go into STEM careers they face the &#x2018;double trouble&#x2019; of being outnumbered and negatively stereotyped, which impacts on their career progression (
+                <xref ref-type="bibr" rid="ref-41">van Veelen 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>). The fact that despite these recent and historical initiatives, rules and regulations there continues to be a wide-ranging set of gender issues and inequalities in the workplace, under-representation of women in STEM careers, and barriers to career progression for those who do enter STEM careers, suggests that progress on these matters remains slow and incremental. Clearly action continues to need to happen.</p>
+            <p>This paper will therefore report on the activities and outcomes of the Gender Action Planning (GAP) team established within a large, four-year, Industry4.0 H2020 Innovation Action project called Zero Defects Manufacturing Platform 
+                <ext-link ext-link-type="uri" xlink:href="http://zdmp/">ZDMP</ext-link> (ID: 825631). It will begin by positioning the GAP team as a response to some of the broader gender challenges facing women in the workplace and the specific EC Equality, Diversity and Inclusion guidelines, before detailing the activities and outcomes of the GAP team in trying to fulfil those goals and guidelines. It is hoped that by effectively positioning GAP team activities within this wider context and sharing GAP team experiences, this paper may prove a valuable resource for writing the Gender Equality Plan sections of future EC funding bids and serve as a best-practice example for project managers and work package leads once the bid has been successfully won.</p>
+        </sec>
+        <sec>
+            <title>Gender challenges in the workplace</title>
+            <p>There remain a considerable range of gender challenges that are faced by individuals in the workforce, ranging from pay, to invisibility, to discrimination, to harassment. These effects can form part of an individual&#x2019;s lived experience, or be evidenced in structural, systemic, or data analysis. To date the majority of research in this area has focused on gender issues within the paradigm of male and female, but of course, with the emerging occurrence of transgender and non-binary individuals these gender challenges will multiply and become even more pressing. The most widely accepted and researched adverse gender-related phenomena include:</p>
+            <p>1.&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <italic toggle="yes">The gender pay gap</italic>: or the disparity in earnings between men and women, where on average, women earn less than men for the same work (e.g. 
+                <xref ref-type="bibr" rid="ref-29">Perrons &amp; Plomien, 2013</xref>; 
+                <xref ref-type="bibr" rid="ref-30">Picatoste 
+                    <italic toggle="yes">et al</italic>., 2022</xref>; 
+                <xref ref-type="bibr" rid="ref-31">Plantenga &amp; Remery, 2006</xref>; 
+                <xref ref-type="bibr" rid="ref-34">Rubery &amp; Grimshaw, 2011</xref>), for example, the EC reported in 2021 that on average women in the EU earn 13% less per hour than men in equivalent roles (
+                <xref ref-type="bibr" rid="ref-12">EC, 2021</xref>).</p>
+            <p>2.&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <italic toggle="yes">Lack of representation in leadership roles</italic>: women are often underrepresented in leadership roles, including executive positions and on corporate boards. This is known as the "glass ceiling", whereby, despite progress in recent years, women continue to be underrepresented in leadership positions (e.g., 
+                <xref ref-type="bibr" rid="ref-5">Cheung &amp; Halpern, 2010</xref>; 
+                <xref ref-type="bibr" rid="ref-25">Morrison 
+                    <italic toggle="yes">et al.</italic>, 1987</xref>; 
+                <xref ref-type="bibr" rid="ref-42">Vinnicombe 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>), for example, according to a report by the European Commission, only 37% of managers, 28% of board members, 18% of senior executives and 8% of CEOs in the EU are women (
+                <xref ref-type="bibr" rid="ref-10">EC, 2020</xref>).</p>
+            <p>3.&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <italic toggle="yes">Discrimination and (unconscious) bias</italic>: women can face discrimination and bias in the workplace based on their gender, such as being passed over for employment and promotions or receiving lower performance evaluations than their male colleagues (e.g., 
+                <xref ref-type="bibr" rid="ref-9">Derks 
+                    <italic toggle="yes">et al.</italic>, 2016</xref>; 
+                <xref ref-type="bibr" rid="ref-18">Heilman &amp; Eagly, 2008</xref>; 
+                <xref ref-type="bibr" rid="ref-36">Steinpreis 
+                    <italic toggle="yes">et al.</italic>, 1999</xref>).</p>
+            <p>4.&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <italic toggle="yes">Sexual harassment and assault</italic>: women can experience sexual harassment and assault in the workplace, which can create a hostile work environment and negatively impact mental health and job performance (e.g., 
+                <xref ref-type="bibr" rid="ref-19">Karami 
+                    <italic toggle="yes">et al.</italic>, 2021</xref>; 
+                <xref ref-type="bibr" rid="ref-21">Maypole &amp; Skaine, 1983</xref>; 
+                <xref ref-type="bibr" rid="ref-22">Minnotte &amp; Legerski, 2019</xref>) .</p>
+            <p>5.&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <italic toggle="yes">Lack of flexible work arrangements and maternity/family leave policies</italic>: women are often the primary caregivers in families and may need flexible work arrangements, such as part-time or remote work, in order to balance work and family responsibilities. Equally, women may face challenges in taking maternity leave or family leave due to a lack of supportive policies or a negative culture around taking time off work (e.g., 
+                <xref ref-type="bibr" rid="ref-1">Albion, 2004</xref>; 
+                <xref ref-type="bibr" rid="ref-2">Atkinson &amp; Hall, 2009</xref>; 
+                <xref ref-type="bibr" rid="ref-6">Chung &amp; van der Horst, 2018</xref>).</p>
+            <p>6.&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <italic toggle="yes">Lack of mentorship and networking opportunities</italic>: women may have fewer opportunities for mentorship and networking, which can make it difficult for them to build relationships and advance their careers (e.g., 
+                <xref ref-type="bibr" rid="ref-13">Ehrich, 1994</xref>; 
+                <xref ref-type="bibr" rid="ref-17">Harris, 2022</xref>; 
+                <xref ref-type="bibr" rid="ref-27">Orser 
+                    <italic toggle="yes">et al.</italic>, 2012</xref>; 
+                <xref ref-type="bibr" rid="ref-43">Wang, 2009</xref>).</p>
+            <p>7.&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <italic toggle="yes">Stereotypes and microaggressions</italic>: women may face stereotypes and microaggressions in the workplace, such as being perceived as less competent or being subjected to gendered comments or jokes (e.g., 
+                <xref ref-type="bibr" rid="ref-26">Nadal 
+                    <italic toggle="yes">et al.</italic>, 2021</xref>; 
+                <xref ref-type="bibr" rid="ref-38">Sue, 2010</xref>; 
+                <xref ref-type="bibr" rid="ref-39">Sue &amp; Spanierman, 2020</xref>.</p>
+            <p>These work-related gender issues are also accompanied by gender issues in research and design. In Caroline Criado Perez's book, 
+                <xref ref-type="bibr" rid="ref-28">"Invisible Women: Exposing Data Bias in a World Designed for Men," (2019)</xref> the author highlights the pervasive phenomenon of the "invisible woman" in our society. The argument is that data and research are often biased towards men and fail to take into account the experiences and needs of women, resulting in a world that is designed primarily by men for men. This can have serious consequences for women, who may face discrimination, health risks, and other negative outcomes as a result.</p>
+            <p>Perez cites a range of examples, from the design of medical equipment that does not take into account the differences in women's bodies, to the fact that women are more likely to be injured or killed in car accidents due to the fact that crash test dummies are modelled on male bodies. She also highlights the fact that women's contributions to history, science, and other fields are often overlooked or erased, perpetuating the idea that women are "invisible" or less important. Overall, the Invisible Woman phenomenon highlights the need for greater attention to gender bias and inequality in research, policy, and design.</p>
+            <p>Alongside the Invisible Woman phenomenon are other equally problematic gender phenomena including the corollary to the Glass Ceiling described above &#x2013; the Sticky Floor &#x2013; which highlights the tendency of women to remain stuck in low-wage jobs with limited opportunities for upward mobility despite having the necessary skills and qualifications (e.g., 
+                <xref ref-type="bibr" rid="ref-16">Harlan &amp; White Berheide, 1994</xref>; 
+                <xref ref-type="bibr" rid="ref-23">Morgan, 2017</xref>). This phenomenon reflects the gender issues outlined above in that there are several factors that contribute to the Sticky Floor phenomenon, including stereotype bias, societal expectations, and caregiver responsibilities. Women are often stereotyped as being less capable or committed to their careers than men, which can lead to discrimination in hiring and promotion decisions. Additionally, women are expected to fulfil traditional caregiving roles, such as raising children and caring for elderly parents, which can limit their availability for work and make it difficult to pursue higher-paying jobs. The consequences of the Sticky Floor are significant, as it perpetuates gender inequality and perpetuates the gender wage gap, while women who are trapped in low-wage jobs have limited economic opportunities and are more likely to experience financial insecurity and poverty.</p>
+            <p>A final gender-related phenomenon is the Glass Cliff Edge (e.g., 
+                <xref ref-type="bibr" rid="ref-24">Morgenroth 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>; 
+                <xref ref-type="bibr" rid="ref-32">Ryan 
+                    <italic toggle="yes">et al.</italic>, 2007</xref>; 
+                <xref ref-type="bibr" rid="ref-33">Ryan 
+                    <italic toggle="yes">et al.</italic>, 2016</xref>), which refers to the phenomenon where women are more likely to be appointed to workplace leadership positions in times of crisis, when the risk of failure is high. This can be seen as a form of tokenism, where women are brought in to solve problems that have been created by men and may often result in women leaving the role or even the workforce altogether as a result of stress, a lack of support and resources, and a sense of being set up to fail.</p>
+        </sec>
+        <sec>
+            <title>Gender within European Commission Horizon research programmes</title>
+            <p>Clearly it is beyond the scope of a single EC Horizon project (either Horizon2020 or Horizon Europe) to address the gender issues outlined above on a society-wide basis, however, it is possible for action to be taken within the limited parameters of the project to try to minimise the impact of these issues and to create a gender equal project working environment. Within the Commission itself the Equality Diversity and Inclusion (EDI) Guidelines, published in October 2018 and covering all EU institutions and agencies in respect of recruitment, training and development, workplace culture, and the provision of support and resources, provides a set of useful gender-related concepts that should be fully considered from the outset in order to promote gender equality in a Horizon project.</p>
+            <p>Firstly, this includes incorporating gender perspectives into all aspects of the project, including research design, data collection, analysis, and reporting. Known as Gender Mainstreaming, this helps to ensure that the project is sensitive to the needs and experiences of both men and women and goes some way to addressing the Invisible Woman problem. Secondly, there should be a commitment to Gender Balance whereby both men and women are represented in all aspects of the project, including leadership positions, research teams, and advisory committees. This helps to ensure that the project benefits from a diversity of perspectives and experiences and helps stimulate innovation, as well as helping to address the under-representation of women in leadership roles. Next is the requirement for Gender-sensitive Communication, where all language and images used in project deliverables, meetings, plenaries and presentations are inclusive and non-discriminatory, and avoid reinforcing gender stereotypes. This helps to create a culture of respect and inclusivity within the project and raises awareness of the importance of language in shaping an individual&#x2019;s daily workplace interactions, with the potential outcome of reducing the occurrence of microaggressions, such as inappropriate or offensive jokes for example. A final important aspect of the Guidelines is the notion of Gender-sensitive Training, which has two elements. Firstly, it involves providing training and professional development opportunities that are accessible to both men and women, and that take into account the different needs and experiences of each group. This helps to ensure that everyone has the skills and knowledge necessary to participate fully in the project. Secondly, it can also refer to training provided to project team members that is designed to explicitly educate around gender issues themselves, which can serve to improve the understanding of gender issues across the project team and encourage a commitment to maximising gender equality and respect.</p>
+            <p>The EC&#x2019;s EDI Guidelines also recommend a number of good practices for achieving better gender equality in the workplace, including regularly monitoring and evaluating the project's progress towards achieving gender equality, and making adjustments as necessary; providing support and resources to women who may face barriers to participation in the project, such as childcare or flexible working arrangements; encouraging women to take on leadership roles within the project, and providing them with the necessary support and resources to succeed; and creating a culture of respect and inclusivity within the project, where all members feel valued and supported. Therefore, framed within the macro, social domain of on-going societal gander issues, and guided by the advice of the EC&#x2019;s EDI Guidelines, this paper will now turn to the specific gender actions implemented in Horizon2020 Zero-defects Manufacturing Platform (ZDMP) project as a case study exploring how these ideas and ideals can be enacted in large-scale, multinational, highly-complex, innovation projects.</p>
+        </sec>
+        <sec>
+            <title>Gender Action Within a Horizon2020 Project: A Case Study</title>
+            <p>The Horizon2020 Zero-defects Manufacturing Platform (ZDMP) project is a large-scale innovation action funded by the European Commission under Grant Agreement 825631 running from January 2019 to June 2023. It involves 31 partners (Manufacturers, Technology Providers, Consultants and Research Institutes) from 11 countries with a total budget of circa 16.2M&#x20ac;, with a focus on developing and providing an extendable platform and smart, AI-driven tools and services, including a I4.0 marketplace, to support factories with a high interoperability level in achieving the goal of zero-defect production.</p>
+            <p>In total 156 individuals worked extensively on the ZDMP project for its duration (additional people were involved at various points in the four-year project, but not throughout), of which just 30 were women (19%). This closely mirrors the percentage of women in the wider EU manufacturing workforce (20%) (
+                <xref ref-type="bibr" rid="ref-45">Wyman, 2022</xref>), and reinforces the wider concerns of female under-representation in STEM careers. In addition, the project consisted of 13 work packages, 3 of which were led by women (23%), which slightly exceeds the EU average of 18% of senior executives being female (
+                <xref ref-type="bibr" rid="ref-10">EC, 2020</xref>). Finally, the ZDMP Advisory Board consisted of four people, one of whom was female (25%), which also is in general alignment with EU female Board membership averages (28%) (ibid.). In other words, the ZDMP project can be reasonably considered as &#x2018;typical&#x2019; for a workplace in the EU manufacturing and technology context and is therefore a useful case to study.</p>
+            <p>Despite this, it was also clear from the outset that females constituted a minority and were &#x2018;outnumbered&#x2019; four to one by males. Consequently, in Year 1 of the ZDMP project, with the approval of the Project Co-ordinator and Manager, a voluntary Gender Action Planning team (GAP team) was set up consisting of equal numbers of males and females (3 of each gender from 5 different countries) with responsibility for planning gender equality actions and monitoring and reporting on gender equality progress. Immediately the voluntary nature of this team highlighted a systemic issue within Horizon projects, namely that gender action planning, monitoring and reporting is not normally budgeted for in the initial funding application nor in the final Grant Agreement, which quite literally devalues gender equality concerns when compared with other forms of project activity.</p>
+            <p>Nevertheless, in Year 1 the GAP team undertook a series of planning actions aimed at addressing some of the potential areas of gender inequality (as detailed above in this paper). Firstly, in response to the suggestion for Gender-sensitive Communication the GAP team planned to review all project deliverables and all spoken interactions (e.g., team meetings, plenaries, presentations, 
+                <italic toggle="yes">etc</italic>.) to ensure gender-neutral language and imagery was used throughout. This was implemented during Years 2 to 4 of the project with considerable success. For example, in the first half of the project there was a natural, historical tendency for the more experienced male project members to refer to the effort allocation for tasks in terms of &#x2018;man months&#x2019;. This phraseology was repeatedly seen in written documents and heard verbalised in meetings and presentations. Through continued and repeated direct interventions by the GAP team over two years the use of &#x2018;man months&#x2019; was gradually superseded with the term &#x2018;person months&#x2019; in line with modern EC norms. By the end of the project all verbal and written communications used &#x2018;person months&#x2019; by default and out of habit and &#x2018;man months&#x2019; had become a forgotten term.</p>
+            <p>On the other hand, it is worth noting that a second very common everyday gendered phraseology was not successfully changed, namely the use of &#x2018;guys&#x2019; to refer to everyone (as in the phrase &#x2018;Hello guys&#x2019; or &#x2018;Right guys lets now talk about&#x2026;&#x2019;). In fact, the GAP team efforts to point out that for the women in the project this felt like gendered language and left them feeling excluded was actively rejected by many males, who claimed that it could refer to both males and females and was not gendered at all. Lively public debates on this matter during project plenaries led to formal dictionary definitions being called up, which supported both sides of the argument (US English definitions referring to both genders, while UK English definitions referring to males), and no agreement was reached on the appropriateness of &#x2018;guys&#x2019; in verbal communication. This was actually disappointing, as the fact that the female project members had expressed the feeling that this was exclusive of them and that they did not like it should have been enough on its own to drive a change in language use, without any recourse to dictionaries, formal definitions or debates. The fact that it wasn&#x2019;t enough further indicates that when it comes to respecting Gender-sensitive Communication many males still have some considerable distance to travel. Nevertheless, the continuous public monitoring and &#x2018;calling out&#x2019; of gendered language by the GAP team did serve to significantly raise awareness in the minds of all members of the ZDMP project of the importance of language in creating an equal and inclusive working environment, even if change was not always forthcoming.</p>
+            <p>Secondly, in response to a lack of support and mentorship for women, the GAP team established a women-only mailing list in Year 1. All women in the project were invited to join the mailing list and roughly once a quarter informative emails concerning funding opportunities for women, interesting news or academic articles, or helpful work tips were sent to the group by the GAP team (10 in total). The mailing list also provided a safe space within which women could communicate, support each other and share knowledge, experience and best practice. Although this proved unnecessary (thankfully!) it was also a channel to help combat sexual harassment and/or everyday sexism as women could, if required, warn each other of inappropriate behaviour by individuals and support each other in taking any necessary formal actions resulting from harassment incidents.</p>
+            <p>Next, in order to (gender) balance the women-only mailing list the GAP team also set up a free suggestion box for all project members. This was used for anonymous complaints about any incident or areas of concern for project members on gender and other issues, including discrimination, a lack of inclusivity, and any other workplace problems, as well as for making positive suggestions for improvements in these areas. The suggestion box was monitored and managed by the GAP Team, and submitted suggestions were discussed by the team during the monthly team meetings, where the appropriate actions to be taken were explored and agreed. Where required the suggestions raised were brought to the attention of the Project Manager and the senior project management team, who would deliberate further on the issue before agreeing and implementing any necessary actions. This provided a safe channel for all project members to raise concerns that they may otherwise have felt uncomfortable doing in more public forums.</p>
+            <p>Finally, the female members of the GAP team also each wrote a two-page blog post outlining their career progression, detailing any obstacles or challenges that had been faced as a result of their gender, and providing guidance on how those were overcome. These blogs were published on the ZDMP website in full and without editing or interference from the ZDMP senior management team. This was designed to enable the sharing of lived experience and acted as a guide for other women within the project who were at earlier career stages or in more junior positions. Alongside this, the GAP team was also provided with regular thirty-minute presentation slots on the agenda at the quarterly ZDMP project plenaries, where general issues could be raised and the GAP team actions, progress and monitoring could be reported to the whole project team. For this to happen the on-going positive support of the Project Co-ordinator and Manager and senior management team was required and received, as they were responsible for drawing up the agendas. However, on a number of occasions, where other plenary agenda items overran, or were considered of such urgency that they needed longer presentation/discussion time, it was most often the GAP team gender session that was either cancelled or moved to later time slots or days. Again, this was a very visible indication of the lack of priority and importance assigned to gender issues in comparison with other aspects of the project (such as technical development, exploitation, dissemination, cascade funding&#x2026;etc.). Nevertheless, the fact that the GAP team did get to present at many plenaries was far better than not presenting at all and did contribute to raising and maintaining awareness of gender issues across the project members. Overall, these actions helped to create a sense of community for the women in ZDMP, provided supportive and safe spaces and channels for self-expression, provided awareness-raising opportunities, and minimised as much as possible the casual everyday use of unacceptable gendered language.</p>
+            <p>In an effort to address Gender Balance, the GAP team also worked closely with the lead for the Cascade Funding (Open Calls) work package to try to ensure a gender balance in the Call Evaluation team and in the sub-project mentoring team. During the ZDMP project two Open Calls were held, distributing &#x20ac;3.2million to SMEs across Europe. The target was to achieve a 50/50 gender balance in the evaluation team in order to ensure the best level of evaluation possible. However, despite concerted efforts during evaluator recruitment, just 22% of external evaluators and 20% of internal evaluators were women, meaning a 21/79 split in favour of males. Although this aligns with the general lack of gender balance within the manufacturing and technology domains (
+                <xref ref-type="bibr" rid="ref-45">Wyman, 2022</xref>) it was nevertheless disappointing and serves to highlight the broader issues regarding women in STEM careers. Similarly, when it came to assigning mentors to the successful winning projects from the Open Calls from within the ZDMP project team, and despite direct appeals to the women of ZDMP via the GAP team, only 3 of the 28 subprojects were mentored by women (11%). Many women cited a lack of experience and/or a lack of confidence when turning down the opportunity to become a subproject mentor. Indeed, one of the three women who did take on the mentoring role only agreed to do so if the work package lead would agree to informally and voluntarily mentor and support her throughout the process (which of course was agreed to immediately). This further indicates the systemic lack of formal mentorship opportunities and mentoring funding provision for women in Horizon projects, and the difficulties in achieving a 50/50 gender balance in the manufacturing and technology domains.</p>
+            <p>In addition to the practical actions implemented by the GAP team so far outlined, it was also decided that conducting some primary research into gender issues, the lived experience, and the impact of the GAP team was of value. Hence, the GAP team developed and published a Gender Survey, which was released firstly in Month 18 of the project and then repeated in Month 34 in order to establish a baseline (M18) and then make an assessment of the impact of the GAP team actions (M34) (see &#x201c;Extended Data&#x201d; 
+                <xref ref-type="bibr" rid="ref-46">Fair, 2023</xref>). In total 123 responses were received (71 in survey 1 and 52 in survey 2), with 34 individuals completing both surveys, of which 25 responses were from females (20%) and 98 responses from males (80%), and 70 responses from individuals in non-leadership roles (57%) and 53 from those with leadership responsibilities (43%).</p>
+            <p>Firstly, just over three quarters of all respondents who had previously worked on EC Horizon projects reported that this was the first time that Gender Balance and Inequality had been raised within a project and meaningful gender actions implemented, which indicates the low priority given to gender matters in Horizon projects generally. Turning to the ZDMP project specifically, in the M18 survey 31% of female respondents reported feeling intimidated by the speech or actions of ZDMP colleagues, compared with 8% of males reporting the same, with the language used in emails being rude, inappropriate, sarcastic, demotivating, unprofessional and/or demeaning being cited as the main problem. In the M34 survey, no one (of either gender) reported feeling intimidated by the speech or actions of others. Secondly, in the M18 survey 19% of female respondents reported feeling discriminated against because of their gender and 31% felt like they had not been taken seriously in their work as a result of their gender (only 2% of males reported feeling discriminated against and no males felt that they had not been taken seriously). Again though, in the M34 survey this had reduced to zero for both genders in both aspects. Similarly, with reference to stereotypes and microaggressions, 4% of female respondents in the M18 survey reported feeling uncomfortable during physical meetings and plenaries resulting from behaviours such as being called &#x2018;baby&#x2019;, being touched on the hands or shoulder, or having their dress/clothing publicly referred to by male presenters or colleagues. In the M34 survey this had also reduced to zero. Overall, the change from the M18 situation to the M34 situation indicates a positive GAP team impact on respectful everyday workplace communication, gender discrimination and stereotyping/microaggressions.</p>
+            <p>It is also interesting to note that the M18 survey indicated that where individuals had felt intimidated, discriminated against or uncomfortable, in almost half of the cases they took no action to address it (47% of occasions), citing a lack of confidence to speak up or that low-level microaggressions, especially in the form of sexist or otherwise inappropriate &#x2018;jokes&#x2019;, were difficult to confront when the majority of others were laughing along. Just 5% of respondents reported challenging gender biased or inappropriate language or behaviour at the time it occurred. A further 10% formally reported an incident through the proper channels. The remaining 38% reported talking informally with other colleagues after the event was over. This indicates the importance and value of the women-only email list and the anonymous suggestion box established by the GAP team as a safe route to report incidents and seek support, and as a way to raise issues to more formal levels without exposing oneself by doing so alone. In this regard, it is concerning that only 61% of respondents (both surveys) felt that it was Very Important to have clear, well-defined and safe processes for individuals to report inequality, discrimination or intimidation and open and transparent systems of redress should such issues occur.</p>
+            <p>This finding was the start of a concerning pattern visible in the survey data relating to broader gender issues. When asked in the M18 survey whether the respondent considered gender balanced teams &#x2018;beneficial to creating better and more successful project outcomes&#x2019; only 56% agreed, with just 50% of the female respondents agreeing. This actually fell by the M34 survey, where just 44% of respondents agreed that gender balanced teams were better for outcomes, indicating that although some progress on the more immediate gender issues can be made, there remains an attitude that reporting channels and gender balanced teams are not really that important.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusion</title>
+            <p>The ZDMP project has been successful in implementing an on-going, concerted range of practical actions and research resulting from the voluntary efforts of the six members of the Gender Action Planning team, from which it is hoped that future Horizon projects can learn, and in their turn develop and improve. Overall the GAP team was successful in introducing improvements to Gender-sensitive Communication; the provision of safe female support structures and community building; reducing the occurrence of discrimination, intimidation, stereotyping and microaggressions; and raising awareness of gender concerns (which even led to individual partner organisations updating or extending their own existing gender inequality policies, or project members bringing GAP team actions to other Horizon projects on which they also worked). However, there remains considerable progress to be made in shifting attitudes to the value of gender balanced teams; to the importance and value of safe, supportive reporting and redress channels; to the need for systemic change in effort allocation to provide for meaningful gender action, especially in providing mentoring opportunities for women; and to the overall balance of women in leadership roles and in manufacturing and STEM careers in general.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>The data underlying the results cannot be shared for participant confidentiality reasons, as approved by the ethical review board on 03/07/23.&#x202f;For this particular publication, any additional information on data that is not retrievable online could be requested by contacting the researcher by E-Mail: 
+                    <email xlink:href="mailto:N.S.Fair@Soton.ac.uk">N.S.Fair@Soton.ac.uk</email>, stating the purposes of their request.</p>
+            </sec>
+            <sec>
+                <title>Extended data</title>
+                <p>University of Southampton PURE:</p>
+                <p>&#x201c;Dataset supporting the publication &#x2018;Understanding the Importance of Gender Action Planning in EC Horizon Projects: A Case Study.&#x2019;&#x201d;</p>
+                <p>
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5258/SOTON/D2619">https://doi.org/10.5258/SOTON/D2619</ext-link> (
+                    <xref ref-type="bibr" rid="ref-46">Fair, 2023</xref>).</p>
+                <p>This project contains the following extended data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>&#x2018;ZDMP_Survey_1_2_Questions.xlsx&#x2019; (The questions asked of participants in the study)</p>
+                    </list-item>
+                </list>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</ext-link>
+                </p>
+            </sec>
+        </sec>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>
+
+                <list list-type="bullet">
+                    <list-item>
+                        <label>-</label>
+                        <p>Alessia Focareta, Corso Lombardia 11, 10099 San Mauro Torinese (TO), Italy</p>
+                    </list-item>
+                    <list-item>
+                        <label>-</label>
+                        <p>Andreea Paunescu, SOFTWARE IMAGINATION &amp; VISION (SIMAVI), Victoria Park, 73-81 Bucuresti-Ploiesti Drive, C4 Building District 1, 013685 Bucharest, Romania, 
+                            <ext-link ext-link-type="uri" xlink:href="http://www.simavi.ro/en">www.simavi.ro/en</ext-link> 
+                  </p>
+                    </list-item>
+                    <list-item>
+                        <label>-</label>
+                        <p>Paulo Rodrigues, CONSULGAL &#x2013; Consultores de Engenharia e Gest&#x00e3;o, S.A., Av. Salvador Allende, 25, 2780-163 Oeiras, 
+                            <ext-link ext-link-type="uri" xlink:href="http://www.consulgal.pt/">www.consulgal.pt</ext-link> 
+                  </p>
+                    </list-item>
+                    <list-item>
+                        <label>-</label>
+                        <p>Usman Rashid, 37 Crewe Road, Haslington, CW2 7HP, UK, 
+                            <ext-link ext-link-type="uri" xlink:href="https://informationcatalyst.com/">https://informationcatalyst.com/</ext-link>
+                        </p>
+                    </list-item>
+                </list>
+         </p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Albion</surname>
+                            <given-names>MJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A measure of attitudes towards flexible work options.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Aust J Manage.</italic>
+               </source>
+               <year>2004</year>;<volume>29</volume>(<issue>2</issue>):<fpage>275</fpage>&#x2013;<lpage>294</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/031289620402900207</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Atkinson</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hall</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The role of gender in varying forms of flexible working.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Gend Work Organ.</italic>
+               </source>
+               <year>2009</year>;<volume>16</volume>(<issue>6</issue>):<fpage>650</fpage>&#x2013;<lpage>666</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/j.1468-0432.2009.00456.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bijker</surname>
+                            <given-names>WE</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Of bicycles, bakelites, and bulbs: Toward a theory of sociotechnical change.</article-title>MIT press,<year>1997</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books?id=IsbmwN8-m1cC&amp;printsec=copyright&amp;redir_esc=y#v=onepage&amp;q&amp;f=false">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cartelli</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Socio-technical theory and knowledge construction: Towards new pedagogical paradigms?</article-title>
+                    <source>
+
+                        <italic toggle="yes">Issues in Informing Science &amp; Information Technology.</italic>
+               </source>
+               <year>2007</year>;<volume>4</volume>(<issue>27</issue>).
+                    <pub-id pub-id-type="doi">10.28945/928</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cheung</surname>
+                            <given-names>FM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Halpern</surname>
+                            <given-names>DF</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Women at the top: Powerful leaders define success as work + family in a culture of gender.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Am Psychol.</italic>
+               </source>
+               <year>2010</year>;<volume>65</volume>(<issue>3</issue>):<fpage>182</fpage>&#x2013;<lpage>93</lpage>.
+                    <pub-id pub-id-type="pmid">20350017</pub-id>
+                    <pub-id pub-id-type="doi">10.1037/a0017309</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Chung</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Van der Horst</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Women&#x2019;s employment patterns after childbirth and the perceived access to and use of flexitime and teleworking.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Hum Relat.</italic>
+               </source>
+               <year>2018</year>;<volume>71</volume>(<issue>1</issue>):<fpage>47</fpage>&#x2013;<lpage>72</lpage>.
+                    <pub-id pub-id-type="pmid">29276304</pub-id>
+                    <pub-id pub-id-type="doi">10.1177/0018726717713828</pub-id>
+                    <pub-id pub-id-type="pmcid">5714156</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cooper</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Foster</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sociotechnical systems.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Am Psychol.</italic>
+               </source>
+               <year>1971</year>;<volume>26</volume>(<issue>5</issue>):<fpage>467</fpage>&#x2013;<lpage>474</lpage>.
+                    <pub-id pub-id-type="doi">10.1037/h0031539</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Derks</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Van Laar</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ellemers</surname>
+                            <given-names>N</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The queen bee phenomenon: Why women leaders distance themselves from junior women.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Leadersh Q.</italic>
+               </source>
+               <year>2016</year>;<volume>27</volume>(<issue>3</issue>):<fpage>456</fpage>&#x2013;<lpage>469</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.leaqua.2015.12.007</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-70">
+                <mixed-citation publication-type="regulation">
+                    <collab>EC</collab>:
+                    <article-title>Horizon 2020 - The Framework Programme for Research and Innovation.</article-title>30th Nov<year>2011</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2011:0808:FIN:en:PDF">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-71">
+                <mixed-citation publication-type="regulation">
+                    <collab>EC</collab>:
+                    <article-title>COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS A Reinforced European Research Area Partnership for Excellence and Growth.</article-title>17th June<year>2012a</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:52012DC0392">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-72">
+                <mixed-citation publication-type="regulation">
+                    <collab>EC</collab>:
+                    <article-title>Report of the Expert Group on Structural Change, Enhancing excellence, gender equality and efficiency in research and innovation</article-title>.<year>2012b</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="regulation">
+                    <collab>EC</collab>:
+                    <article-title>Eurostat Newsrelease.</article-title>6th May,<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/gender-equality/gender-equality-strategy_en#gender-equality-strategy-2020-2025">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="regulation">
+                    <article-title>EC Gender Equality Strategy 2020-2025</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/gender-equality/gender-equality-strategy_en#gender-equality-strategy-2020-2025">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="report">
+                    <article-title>EC Gender Pay Gap Report</article-title>.<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/gender-equality/equal-pay/gender-pay-gap-situation-eu_en#:~:text=The%20gender%20pay%20gap%20in,less%20per%20hour%20than%20men">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ehrich</surname>
+                            <given-names>CL</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Mentoring and networking for women educators.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Women in Management Review.</italic>
+               </source>
+               <year>1994</year>;<volume>9</volume>(<issue>3</issue>):<fpage>4</fpage>&#x2013;<lpage>10</lpage>.
+                    <pub-id pub-id-type="doi">10.1108/09649429410056281</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="web">
+                    <article-title>Everyday Sexism Project</article-title>.
+                    <ext-link ext-link-type="uri" xlink:href="https://everydaysexism.com/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-46">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fair</surname>
+                            <given-names>N</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>University of Southampton PURE: Dataset supporting the publication 'Understanding the Importance of Gender Action Planning in EC Horizon Projects: A Case Study' [Dataset]. </data-title>
+               <year>2023</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5258/SOTON/D2619">http://www.doi.org/10.5258/SOTON/D2619</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hansson</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ganetz</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sveningsson</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The significance of feminist infrastructure: #MeToo in the construction industry and the green industry in Sweden.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Gend Work Organ.</italic>
+               </source>
+               <year>2023</year>.
+                    <pub-id pub-id-type="doi">10.1111/gwao.12994</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Harlan</surname>
+                            <given-names>SL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>White Berheide</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Barriers to work place advancement experienced by women in low-paying occupations</article-title>.<year>1994</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/37157457_Barriers_to_Work_Place_Advancement_Experienced_by_Women_in_Low-Paying_Occupations">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Harris</surname>
+                            <given-names>DA</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Women, work, and opportunities: From neoliberal to feminist mentoring.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sociol Compass.</italic>
+               </source>
+               <year>2022</year>;<volume>16</volume>(<issue>3</issue>):
+                    <elocation-id>e12966</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1111/soc4.12966</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Heilman</surname>
+                            <given-names>ME</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Eagly</surname>
+                            <given-names>AH</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Gender stereotypes are alive, well, and busy producing workplace discrimination.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ind Organ Psychol.</italic>
+               </source>
+               <year>2008</year>;<volume>1</volume>(<issue>4</issue>):<fpage>393</fpage>&#x2013;<lpage>398</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/j.1754-9434.2008.00072.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Karami</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Spinel</surname>
+                            <given-names>MY</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>White</surname>
+                            <given-names>CN</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>A systematic literature review of sexual harassment studies with text mining.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sustainability.</italic>
+               </source>
+               <year>2021</year>;<volume>13</volume>(<issue>12</issue>):
+                    <elocation-id>6589</elocation-id>.
+                    <pub-id pub-id-type="doi">10.3390/su13126589</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kelly</surname>
+                            <given-names>JE</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A reappraisal of sociotechnical systems theory.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Hum Relat.</italic>
+               </source>
+               <year>1978</year>;<volume>31</volume>(<issue>12</issue>):<fpage>1069</fpage>&#x2013;<lpage>1099</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/001872677803101204</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-100">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Madariaga</surname>
+                            <given-names>ISD</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Advancing gender equality in research and innovation in Europe and beyond: COST Network genderSTE. </article-title>
+                    <source>
+
+                        <italic toggle="yes">J Res Gender Stud.</italic>
+               </source>
+               <year>2013</year>;<volume>3</volume>:<fpage>131</fpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Maypole</surname>
+                            <given-names>DE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Skaine</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sexual harassment in the workplace.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Soc Work.</italic>
+               </source>
+               <year>1983</year>;<volume>28</volume>(<issue>5</issue>):<fpage>385</fpage>&#x2013;<lpage>390</lpage>.
+                    <pub-id pub-id-type="doi">10.1093/sw/28.5.385</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Minnotte</surname>
+                            <given-names>KL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Legerski</surname>
+                            <given-names>EM</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sexual harassment in contemporary workplaces: Contextualizing structural vulnerabilities.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sociology Compass.</italic>
+               </source>
+               <year>2019</year>;<volume>13</volume>(<issue>12</issue>):
+                    <elocation-id>e12755</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1111/soc4.12755</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Morgan</surname>
+                            <given-names>MS</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Glass ceilings and sticky floors: Drawing new ontologies. </article-title>
+                    <italic toggle="yes">Cultures without culturalism: the making of scientific knowledge. </italic>
+               <year>2017</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://eprints.lse.ac.uk/65859/1/Glass%20ceilings.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Morgenroth</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kirby</surname>
+                            <given-names>TA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ryan</surname>
+                            <given-names>MK</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The who, when, and why of the glass cliff phenomenon: A meta-analysis of appointments to precarious leadership positions.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Psychol Bull.</italic>
+               </source>
+               <year>2020</year>;<volume>146</volume>(<issue>9</issue>):<fpage>797</fpage>&#x2013;<lpage>829</lpage>.
+                    <pub-id pub-id-type="pmid">32700940</pub-id>
+                    <pub-id pub-id-type="doi">10.1037/bul0000234</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Morrison</surname>
+                            <given-names>AM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>White</surname>
+                            <given-names>RP</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>White</surname>
+                            <given-names>RP</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Breaking The Glass Ceiling: Can Women Reach the Top Of America's Largest Corporations? </article-title>Pearson Education,<year>1987</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Breaking_the_Glass_Ceiling.html?id=swvKzgEACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Nadal</surname>
+                            <given-names>KL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>King</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sissoko</surname>
+                            <given-names>DG</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The legacies of systemic and internalized oppression: Experiences of microaggressions, imposter phenomenon, and stereotype threat on historically marginalized groups.</article-title>
+                    <source>
+
+                        <italic toggle="yes">New Ideas Psychol.</italic>
+               </source>
+               <year>2021</year>;<volume>63</volume>:
+                    <elocation-id>100895</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1016/j.newideapsych.2021.100895</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Orser</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Riding</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Stanley</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Perceived career challenges and response strategies of women in the advanced technology sector.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Entrepreneurship &amp; Regional Development.</italic>
+               </source>
+               <year>2012</year>;<volume>24</volume>(<issue>1&#x2013;2</issue>):<fpage>73</fpage>&#x2013;<lpage>93</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/08985626.2012.637355</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Perez</surname>
+                            <given-names>CC</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Invisible women: Data bias in a world designed for men. </article-title>Abrams,<year>2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.imf.org/en/Publications/fandd/issues/2020/12/book-review-of-invisible-women-by-caroline-criado-perez">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Perrons</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Plomien</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Gender, inequality and the crisis: towards more equitable development. </article-title>In:
+                    <italic toggle="yes">Women and Austerity. </italic>Routledge;<year>2013</year>;<fpage>317</fpage>&#x2013;<lpage>335</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780203066294-18/gender-inequality-crisis-diane-perrons-ania-plomien">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Picatoste</surname>
+                            <given-names>X</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mesquita</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gonz&#x00e1;lez-Laxe</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Gender wage gap, quality of earnings and gender digital divide in the European context.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Empirica (Dordr).</italic>
+               </source>
+               <year>2022</year>;<volume>50</volume>(<issue>2</issue>):<fpage>301</fpage>&#x2013;<lpage>321</lpage>.
+                    <pub-id pub-id-type="pmid">36471732</pub-id>
+                    <pub-id pub-id-type="doi">10.1007/s10663-022-09555-8</pub-id>
+                    <pub-id pub-id-type="pmcid">9714396</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <mixed-citation publication-type="report">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Plantenga</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Remery</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The gender pay gap. Origins and policy responses. A comparative review of thirty European countries</article-title>. Synth&#x00e8;se du rapport pour la Commission Europ&#x00e9;enne, Equality Unit.<year>2006</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www. retepariopportunita. it/Rete_Pari_ Opportunita/UserFiles/news/report_ pay_gap_economic_experts. pdf ENFANTS, INTERRUPTIONS D&#x2019;ACTIVIT&#x00c9; DES FEMMES ET &#x00c9;CART DE SALAIRE ENTRE LES SEXES">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ryan</surname>
+                            <given-names>MK</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Haslam</surname>
+                            <given-names>SA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hersby</surname>
+                            <given-names>MD</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Opting out or pushed off the edge? The glass cliff and the precariousness of women's leadership positions.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Soc Personal Psychol Compass.</italic>
+               </source>
+               <year>2007</year>;<volume>1</volume>(<issue>1</issue>):<fpage>266</fpage>&#x2013;<lpage>279</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/j.1751-9004.2007.00007.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ryan</surname>
+                            <given-names>MK</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Haslam</surname>
+                            <given-names>SA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Morgenroth</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Getting on top of the glass cliff: Reviewing a decade of evidence, explanations, and impact.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Leadersh Q.</italic>
+               </source>
+               <year>2016</year>;<volume>27</volume>(<issue>3</issue>):<fpage>446</fpage>&#x2013;<lpage>455</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.leaqua.2015.10.008</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rubery</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Grimshaw</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Gender and the minimum wage. </article-title>
+                    <italic toggle="yes">Regulating for Decent Work, New Directions in Labour Market Regulation. </italic>
+               <year>2011</year>;<fpage>226</fpage>&#x2013;<lpage>254</lpage>.
+                    <pub-id pub-id-type="doi">10.1057/9780230307834_9</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-35">
+                <mixed-citation publication-type="web">
+                    <collab>Statista</collab>:
+                    <article-title>Employment By Sector EU. </article-title>
+               <year>2022</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.statista.com/statistics/1195197/employment-by-sector-in-europe/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-36">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Steinpreis</surname>
+                            <given-names>RE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Anders</surname>
+                            <given-names>KA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ritzke</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The impact of gender on the review of the curricula vitae of job applicants and tenure candidates: A national empirical study.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sex roles.</italic>
+               </source>
+               <year>1999</year>;<volume>41</volume>(<issue>7&#x2013;8</issue>):<fpage>509</fpage>&#x2013;<lpage>528</lpage>.
+                    <pub-id pub-id-type="doi">10.1023/A:1018839203698</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-37">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Suchman</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Located accountabilities in technology production.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Scandinavian journal of information systems.</italic>
+               </source>
+               <year>2002</year>;<volume>14</volume>(<issue>2</issue>):<fpage>7</fpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1082&amp;context=sjis">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-38">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sue</surname>
+                            <given-names>DW ed.</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Microaggressions and marginality: Manifestation, dynamics, and impact. </article-title>John Wiley &amp; Sons,<year>2010</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.wiley.com/en-us/Microaggressions+and+Marginality%3A+Manifestation%2C+Dynamics%2C+and+Impact-p-9780470491393">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-39">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sue</surname>
+                            <given-names>DW</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Spanierman</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Microaggressions in everyday life. </article-title>John Wiley &amp; Sons,<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.google.co.in/books/edition/Microaggressions_in_Everyday_Life/RNbVDwAAQBAJ?hl=en&amp;gbpv=1">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-40">
+                <mixed-citation publication-type="other">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Trist</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Emery</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Socio-technical systems theory. </article-title>
+               <year>1960</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-41">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Van Veelen</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Derks</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Endedijk</surname>
+                            <given-names>MD</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Double trouble: How being outnumbered and negatively stereotyped threatens career outcomes of women in STEM.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Front Psychol.</italic>
+               </source>
+               <year>2019</year>;<volume>10</volume>: 150.
+                    <pub-id pub-id-type="pmid">30873058</pub-id>
+                    <pub-id pub-id-type="doi">10.3389/fpsyg.2019.00150</pub-id>
+                    <pub-id pub-id-type="pmcid">6401605</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-42">
+                <mixed-citation publication-type="report">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Vinnicombe</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Doldor</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Battista</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The female FTSE board report 2020: Taking targets seriously. </article-title>
+               <year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiU6NzR8ouBAxUYT2wGHTlWBbsQFnoECBEQAw&amp;url=https%3A%2F%2Fwww.cranfield.ac.uk%2F-%2Fmedia%2Ffiles%2Ffemale-ftse-report-2020.ashx&amp;usg=AOvVaw3erM-wENXYVg9yv0EjWu2g&amp;opi=8997844">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-43">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wang</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Networking in the workplace: Implications for women's career development.</article-title>
+                    <source>
+
+                        <italic toggle="yes">New directions for adult and continuing education.</italic>
+               </source>
+               <year>2009</year>;<volume>2009</volume>(<issue>122</issue>):<fpage>33</fpage>&#x2013;<lpage>42</lpage>.
+                    <pub-id pub-id-type="doi">10.1002/ace.332</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-45">
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wyman</surname>
+                        </name>
+               </person-group>:
+                    <article-title>Gender Imbalance in Manufacturing. </article-title>
+               <year>2022</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.oliverwyman.com/our-expertise/insights/2022/jan/gender-imbalance-in-manufacturing-industries.html">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report35526">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17294.r35526</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Clavero</surname>
+                        <given-names>Sara</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35526a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r35526a1">
+                    <label>1</label>Directorate for Equality, Diversity and Inclusion, Technological University Dublin, Dublin, Leinster, Ireland</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>8</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Clavero S</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35526"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16016.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The paper provides very useful guidance on how to integrate a gender equality perspective in EU funded projects through the presentation and analysis of a specific case-study. It will be particularly valuable source to consortia in the process of drafting an application to Horizon Europe calls. The case-study points to main obstacles encountered in implementing a gender equality action plan and how these were navigated, while also drawing attention to key challenges in progressing towards gender equality in this type of projects.&#x00a0;</p>
+            <p> </p>
+            <p> The paper provides a clear background and the description of the steps taken by the GAP is rich in detail.&#x00a0;</p>
+            <p> </p>
+            <p> I was quite impressed by the effort of the GAP team of this H2020 project and the lessons learnt from their experience will no doubt contribute greatly towards better practice in this area.&#x00a0;</p>
+            <p>Is the case presented with sufficient detail to be useful for teaching or other practitioners?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Yes</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Is the background of the case&#x2019;s history and progression described in sufficient detail?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Gender equality and intersectionality, gender and politics, gender in research.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report35529">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17294.r35529</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Johnston</surname>
+                        <given-names>Karen</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35529a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r35529a1">
+                    <label>1</label>School of Organisations, Systems and People, University of Portsmouth, Portsmouth, England, UK</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>12</day>
+                <month>10</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Johnston K</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35529"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16016.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The authors provide a good case and narrative for the under-representation of women in I4.0 and I5.0. The literature is well presented and covers the main challenges and inequalities for women in the workplace and in STEMM professions, in particular. The literature I would have expected to be cited such as Eagly, Rubery, Vinnecombe and Wyman is cited in the article. The authors provide a good and clear justification for the project's GAP approach, drawing upon European Commission policies (e.g. Gender Sensitive Communication). There is sufficient information about the project, and the GAP team, approach and implementation of actions to understand the background of the case.</p>
+            <p> </p>
+            <p> The results are illuminating and honest. While there noteworthy achievements (noted with the surveys in M18 and M34), the authors also observed shortcomings (e.g. issues of prioritization). The case presents a level of empiricism as an evidence base of what works and what does not within the project GAP approach. The statistical analysis is descriptive but understandable. The conclusions that are therefore drawn are appropriate. The case would be of interest to a teaching and practitioner audience as it demonstrates better practices, but also cautions on shortcomings of GAPs in the case of this project.</p>
+            <p>Is the case presented with sufficient detail to be useful for teaching or other practitioners?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Yes</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Not applicable</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Is the background of the case&#x2019;s history and progression described in sufficient detail?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Gender studies, public administration</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

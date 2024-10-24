@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="letter"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15988.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Open Letter</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>The DECIDE project: from surveillance data to decision-support for farmers and veterinarians</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: awaiting peer review]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>van Schaik</surname>
+                        <given-names>Gerdien</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-0460-2629</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Hostens</surname>
+                        <given-names>Miel</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Faverjon</surname>
+                        <given-names>C&#x00e9;line</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Jensen</surname>
+                        <given-names>Dan B.</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Kristensen</surname>
+                        <given-names>Anders R.</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Ezanno</surname>
+                        <given-names>Pauline</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Fr&#x00f6;ssling</surname>
+                        <given-names>Jenny</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>D&#x00f3;rea</surname>
+                        <given-names>Fernanda</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Jensen</surname>
+                        <given-names>Britt-Bang</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a8">8</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Carmo</surname>
+                        <given-names>Luis Pedro</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-7367-5178</uri>
+                    <xref ref-type="aff" rid="a8">8</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Steeneveld</surname>
+                        <given-names>Wilma</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Rushton</surname>
+                        <given-names>Jonathan</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a9">9</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Gilbert</surname>
+                        <given-names>William</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a9">9</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Bearth</surname>
+                        <given-names>Angela</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a10">10</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Siegrist</surname>
+                        <given-names>Michael</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a10">10</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Kaler</surname>
+                        <given-names>Jasmeet</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a11">11</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Ripperger</surname>
+                        <given-names>Johannes</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a12">12</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Siehler</surname>
+                        <given-names>Jamuna</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a12">12</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>de Wit</surname>
+                        <given-names>Sjaak</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Garcia-Morante</surname>
+                        <given-names>Beatriz</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a13">13</xref>
+                    <xref ref-type="aff" rid="a14">14</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Segal&#x00e9;s</surname>
+                        <given-names>Joaquim</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a13">13</xref>
+                    <xref ref-type="aff" rid="a15">15</xref>
+                    <xref ref-type="aff" rid="a16">16</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Pardon</surname>
+                        <given-names>Bart</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a17">17</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Bokma</surname>
+                        <given-names>Jade</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-8854-1041</uri>
+                    <xref ref-type="aff" rid="a17">17</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Nielen</surname>
+                        <given-names>Mirjam</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Department of Population Health Sciences, Universiteit Utrecht, Utrecht, 3508TD, The Netherlands</aff>
+                <aff id="a2">
+                    <label>2</label>Royal GD, Deventer, The Netherlands</aff>
+                <aff id="a3">
+                    <label>3</label>Laboratory for Animal Nutrition and Animal Product Quality (Lanupro), Department of Animal Sciences and Aquatic Ecology, Ghent University, Gent, Belgium</aff>
+                <aff id="a4">
+                    <label>4</label>AUSVET Europe, Lyon, France</aff>
+                <aff id="a5">
+                    <label>5</label>Department of Veterinary and Animal Sciences, University of Copenhagen, Copenhagen, Denmark</aff>
+                <aff id="a6">
+                    <label>6</label>Oniris, INRAE, BIOEPAR, Nantes, France</aff>
+                <aff id="a7">
+                    <label>7</label>Department of Disease Control and Epidemiology, National Veterinary Institute, Uppsala, Sweden</aff>
+                <aff id="a8">
+                    <label>8</label>Section for Epidemiology, Norwegian Veterinary Institute, Oslo, Norway</aff>
+                <aff id="a9">
+                    <label>9</label>Institute of Infection and Global Health, University of Liverpool, Liverpool, England, UK</aff>
+                <aff id="a10">
+                    <label>10</label>Department of Health Sciences and Technology, Eidgenossische Technische Hochschule Zurich, Z&#x00fc;rich, Zurich, Switzerland</aff>
+                <aff id="a11">
+                    <label>11</label>School of Veterinary Medicine and Science, University of Nottingham, Nottingham, England, UK</aff>
+                <aff id="a12">
+                    <label>12</label>accelopment Schweiz AG, Zurich, Switzerland</aff>
+                <aff id="a13">
+                    <label>13</label>IRTA Programes de Sanitat i Benestar Animals, Centre de Recerca en Sanitat Animal (CReSA), Universitat Autonoma de Barcelona, Barcelona, Catalonia, Spain</aff>
+                <aff id="a14">
+                    <label>14</label>Unitat Mixta d'Investigaci&#x00f3; IRTA-UAB en Sanitat Animal, Centre de Recerca en Sanitat Animal (CReSA), Universitat Autonoma de Barcelona, Barcelona, Catalonia, Spain</aff>
+                <aff id="a15">
+                    <label>15</label>OIE Collaborating Centre for the Research and Control of Emerging and Re-Emerging Swine Diseases in Europe (IRTA-CReSA), Barcelona, Spain</aff>
+                <aff id="a16">
+                    <label>16</label>Departament de Sanitat i Anatomia Animals, Facultat de Veterin&#x00e0;ria, UAB, Universitat Autonoma de Barcelona, Barcelona, Catalonia, Spain</aff>
+                <aff id="a17">
+                    <label>17</label>Department of Internal Medicine, Reproduction and Population Medicine, Ghent University, Gent, Belgium</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:g.vanschaik@uu.nl">g.vanschaik@uu.nl</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>Author GvS and JdW are employed by Royal GD, author CF by AUSVET Europe, author PE by ONIRIS and author JR by accelopment Schweiz AG. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. </p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>17</day>
+                <month>5</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>82</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>10</day>
+                    <month>5</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 van Schaik G et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-82/pdf"/>
+            <abstract>
+                <p>Farmers, veterinarians and other animal health managers in the livestock sector are currently missing sufficient information on prevalence and burden of contagious endemic animal diseases. They need adequate tools for risk assessment and prioritization of control measures for these diseases. The DECIDE project develops data-driven decision-support tools, which present (i) robust and early signals of disease emergence and options for diagnostic confirmation; and (ii) options for controlling the disease along with their implications in terms of disease spread, economic burden and animal welfare. DECIDE focuses on respiratory and gastro-intestinal syndromes in the three most important terrestrial livestock species (pigs, poultry, cattle) and on reduced growth and mortality in two of the most important aquaculture species (salmon and trout). For each of these, we (i) identify the stakeholder needs; (ii) determine the burden of disease and costs of control measures; (iii) develop data sharing frameworks based on federated data access and meta-information sharing; (iv) build multivariate and multi-level models for creating early warning systems; and (v) rank interventions based on multiple criteria. Together, all of this forms decision-support tools to be integrated in existing farm management systems wherever possible and to be evaluated in several pilot implementations in farms across Europe. The results of DECIDE lead to improved use of surveillance data and evidence-based decisions on disease control. Improved disease control is essential for a sustainable food chain in Europe with increased animal health and welfare and that protects human health.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Data-driven</kwd>
+                <kwd>decision-support</kwd>
+                <kwd>control</kwd>
+                <kwd>endemic diseases</kwd>
+                <kwd>animal health</kwd>
+                <kwd>welfare</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>101000494</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No 101000494 (Data-driven control and prioritisation of non-EU-regulated contagious animal diseases [DECIDE]).</funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Disclaimer</title>
+            <p>The views expressed in this article are those of the author(s). Publication in Open Research Europe does not imply endorsement of the European Commission.
+                <bold/>
+            </p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>Animal production is expected to intensify and expand due to an increasing demand for animal-derived food and the mounting pressure on land. Contagious livestock diseases impede the efficiency of animal production and lead to economic costs, poor animal welfare, and for certain diseases, have an impact on trade, public health, and consumer confidence. The European Union has a regulatory framework for all epizootic and other important contagious diseases listed in the Animal Health Regulation (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R0429-20210421">Regulation (EU) 2016/429</ext-link>). The situation of these regulated diseases is generally well known. However, the situation for endemic contagious diseases that the private sector is supposed to deal with is different. Farmers, veterinarians and other animal health managers in the livestock and aquaculture sectors are currently missing sufficient information on the prevalence and burden of contagious endemic animal diseases. Diseases, such as porcine reproductive and respiratory syndrome (PRRS) virus, avian infectious bronchitis, cardiomyopathy syndrome in salmon or bovine coronavirus infection, are estimated to cause 10&#x2013;15% reduction in performance efficiency of livestock farming, resulting in large financial losses and lower sustainability as well as affect animal welfare (
+                <xref ref-type="bibr" rid="ref-2">Delabouglise 
+                    <italic toggle="yes">et al.</italic>, 2017</xref>) (
+                <xref ref-type="bibr" rid="ref-10">Mohd Nor 
+                    <italic toggle="yes">et al.</italic>, 2012</xref>) (
+                <xref ref-type="bibr" rid="ref-14">Raasch 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>) (
+                <xref ref-type="bibr" rid="ref-16">Rushton 
+                    <italic toggle="yes">et al.</italic>, 2018</xref>) (
+                <xref ref-type="bibr" rid="ref-18">Velarde 
+                    <italic toggle="yes">et al.</italic>, 2015</xref>). Professionals in the livestock and aquaculture sectors are therefore in considerable need of adequate tools to assess the risks for contagion and associated losses, and to help prioritize the appropriate control measures for these diseases.</p>
+            <p>Existing on-farm data are numerous and heterogeneous, greatly limiting their direct use by farms, while they could be used to monitor deviations from the normal production process indicative for infectious diseases spread. Also, sensor data or (video) imaging, are currently already available in specific farms and species (
+                <xref ref-type="bibr" rid="ref-6">Halachmi 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>). For salmon production, imaging is already used quite extensively, while in terrestrial species, it is still in an early adoption phase. Salmon can thus serve as an example for the other species.</p>
+            <p>In this context, in 2020 the European Commission launched a call for projects to improve knowledge on endemic contagious diseases in livestock and aquaculture [
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/sfs-10-2020">SFS-10-2020</ext-link>: Epidemiology of contagious animal diseases: from integrated data collection to prioritisation. ]. In response to the call, the project &#x201c;Data-driven control and prioritisation of non-EU-regulated contagious animal diseases&#x201d; (
+                <ext-link ext-link-type="uri" xlink:href="https://cordis.europa.eu/project/id/101000494">DECIDE</ext-link>) was developed.</p>
+            <p>The 
+                <ext-link ext-link-type="uri" xlink:href="http://www.decideproject.eu/">DECIDE project</ext-link> develops data-driven decision-support tools that offer (i) robust and early signals of disease emergence and options for diagnostic confirmation, and (ii) options for controlling the disease along with their implications in terms of disease spread, economic burden and animal welfare. Together, all of this forms decision-support tools to be integrated in existing farm management systems wherever possible and to be evaluated in several pilot implementations in swine, poultry, cattle, and salmonid farms across Europe.</p>
+            <p>The aim of this paper is to discuss the rationale behind the project and how the project tackles the challenges to eventually improve decisions to increase animal health and welfare.</p>
+        </sec>
+        <sec>
+            <title>The concept of the DECIDE project</title>
+            <p>The main goal of DECIDE is to develop and evaluate data-driven decision-support tools that allow stakeholders in animal health and welfare management to make improved decisions on controlling endemic infectious animal diseases. DECIDE focuses on respiratory and gastro-intestinal syndromes in the three most important terrestrial livestock species (swine, poultry, and cattle) and on growth reduction and mortality in salmonids, the most important aquaculture species (salmon and trout).</p>
+            <p>The key &#x2018;ingredients&#x2019; for such decision-support tools are the following (
+                <xref ref-type="fig" rid="f1">Figure 1</xref>): (i) a clear view on the stakeholder needs, barriers and drivers; (ii) availability of and access to relevant data; (iii) early warning systems that can detect signals of potential disease emergence or spread; (iv) a set of potential control measures, along with associated costs; and (v) an understanding of the disease burden in terms of economic and welfare impact. The decision-support tool for a specific syndrome in a specific species gives various options. The tool ranks the possible control measures, including treatments and preventive measures for reduction of spread, economic costs and benefits and welfare implications. Based on embedded simulation models in the tool, stakeholders can see &#x2018;what-if&#x2019; scenarios for a decision.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>The concept of the DECIDE project.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17264/0e4bd6a8-d53a-4868-b032-5a20bf132a10_figure1.gif"/>
+            </fig>
+            <p>The data useful for DECIDE is existing data that can be used to monitor deviations from the normal production process indicative of infectious diseases spread. We also investigate the usefulness of novel data 
+                <italic toggle="yes">e.g.</italic> sensor data or (video) imaging. Data availability is crucial for the DECIDE project, but access of data is restricted by laws, regulations, privacy concerns, and market pressures, as individual actors operate in a competitive environment. To overcome these challenges and assure availability of and access to relevant data, procedures to ensure access to data from the different species are developed and documented. In addition, innovative approaches for supporting data access are investigated 
+                <italic toggle="yes">e.g.</italic>, federated access and federated learning (
+                <xref ref-type="bibr" rid="ref-12">Papst 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>).</p>
+            <p>The early warning system consists of data analysis that can detect aberrations from the normal variation in the monitoring data. &#x201c;Early&#x201d; should be interpreted in the sense that it detects signals indicative for disease timely enough for the stakeholders (
+                <italic toggle="yes">e.g.</italic> farmers, veterinarians) to be useful for decision making on disease-mitigating actions. Frequently updated visualisation of data helps the users understand and be aware of trends, including an immediate shift or deviation. The data information also confirms what the user already suspects and can be used to support general control strategies. The risk of disease spread is a key determinant for disease mitigating actions of the stakeholders. The effectiveness of control measures greatly depends on the ability to reduce further spread. Therefore, in DECIDE, mechanistic disease models are developed to simulate the spread of contagious diseases in the production systems of the four studied animal species. The input parameters of the models can easily be adapted to simulate spread of different pathogens, for different species and herd-types.</p>
+            <p>Stakeholders often have a choice of control measures including doing nothing at all. To effectively support stakeholders in their choice, a ranking of control measures for effectiveness, costs and benefits, welfare implications, medicine use, 
+                <italic toggle="yes">etc.</italic> is needed. Obviously, whether to control a disease or not also depends on the impact of that disease on animal health and welfare. DECIDE develops a multidimensional burden of disease metric that contains the economic impact as well as the impact on animal welfare and possibly on antimicrobial use. Thus, diseases can be ranked for their expected burden to prioritise the limited resources of the stakeholders for disease control.</p>
+            <p>The above-mentioned key ingredients are combined in decision-support tools for the stakeholders. The adoption of tools also require in-depth understanding of stakeholder beliefs, needs and preferences. Incorporating social science methods, the tools are developed in close collaboration with the stakeholder end-users. The decision-support tools are incorporated in already existing platforms to facilitate uptake of the tools. We develop prototypes for each species that are tested in several partner countries in pilot implementations. The gained understanding of the stakeholders&#x2019; needs and preferences does not only inform the development of the functionalities of these prototypes (
+                <italic toggle="yes">i.e.</italic>, what it can do), but also the output visualisation (
+                <italic toggle="yes">i.e.</italic>, how data is shown or how early warnings are framed). The pilot implementations are the &#x2018;playground&#x2019; in which our innovative framework and tools are tested and adapted again, learning from experiences with stakeholders and users across species. Through the pilot implementations, we ensure that the generic methods and framework can be easily adapted and implemented for existing platforms. The long-term sustainability of the developed tools is ensured by an open science approach.</p>
+        </sec>
+        <sec>
+            <title>The overall structure of the workplan</title>
+            <p>In 
+                <xref ref-type="fig" rid="f2">Figure 2</xref> the overall structure of the workplan of the DECIDE project is depicted. The DECIDE project consists of seven work packages (WP). WP1-WP3 cover all data-oriented research and tool development. WP4 is dedicated to determining the economic and welfare burden of diseases and to generate cost-effective control measures. For stakeholder input, WP5 aims to assess the stakeholders&#x2019; drivers, barriers and willingness to share data and to implement decision tools for health and welfare management at the farm level. The dissemination, communication and exploitation of results is organized in WP6, and the management and coordination of the project is overseen by WP7.</p>
+            <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                <label>Figure 2. </label>
+                <caption>
+                    <title>The work packages (WP) and species-specific workflows in the DECIDE project.</title>
+                    <p>Black arrows indicate the progress of the different species-specific decision-support tools through the WPs.</p>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17264/0e4bd6a8-d53a-4868-b032-5a20bf132a10_figure2.gif"/>
+            </fig>
+            <p>The technical work packages (WP1-5) in DECIDE are providing the necessary technical knowledge and scientific methods for the decision-support tools that are developed for each of the species in specific pilot implementations. The project is planned for a total duration of 5 years to give sufficient time for developing all &#x2018;ingredients&#x2019; for the decision-support tools (in WP1, WP2, WP4 and WP5) and then for integrating and testing prototypes (WP3/WP5) of the decision-support tools in pilot implementations in at least two iterations within years 3 to 5. Some of the tools set up in WP3 may just be decision trees, while others are envisioned to be fully functional interactive dashboards. A key element of DECIDE is to build prototypes of the decision-support tools, one for each of the four species (pigs, poultry, cattle, salmonids). A prototype consists of generic models with country- and herd-specific baselines (
+                <italic toggle="yes">e.g.</italic>, (ab)normal mortality levels differ between herds and countries) to detect aberrations in the data for the different syndromes. Each of the prototypes is tested and further refined in pilot implementations in at least two different countries.</p>
+        </sec>
+        <sec>
+            <title>Content of the work packages</title>
+            <p>The main objective of WP1, Data, is to assure availability of and access to relevant data during the DECIDE project and to explore innovative approaches to combine, compare, and access data coming from numerous data sources for continuous use after DECIDE. As a first task in WP1 we review and compare data available in DECIDE, putting it in perspective with the General Data Protection Regulation (GDPR), and existing guidelines on best practices in usage of agricultural data, such as the &#x2018;EU code of conduct on agricultural data sharing by contractual agreement and the &#x2018;Privacy and security principles for farm data&#x2019; of the US Farm Bureau. Following the FAIR principles, machine-readable ontologies describing concepts within animal health are created for each of the animal domains, and shared definitions are built where possible (
+                <xref ref-type="bibr" rid="ref-3">D&#x00f3;rea 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>). Finally, different approaches to support data accessibility are tested and compared using as a basis the pilot implementations of the decision-support tool. A recent review (
+                <xref ref-type="bibr" rid="ref-12">Papst 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>) provides an overview of the existing agricultural data exchange systems and proposed options for privacy-preserving data analytics. Essentially, three alternative data exchange approaches are implemented and compared in WP1, namely (i) direct data sharing; (ii) centralized data exchange using federated data access; and (iii) privacy-preserving data analytics using federated learning.</p>
+            <p>The overall objective of WP2, Models, is to develop the methods for data analysis and modelling. In essence, two kinds of models are developed: i) monitoring models and ii) mechanistic simulation models. The purpose of a monitoring model is to use observed data to estimate the state of a system, which can be a group of animals, a herd, a region, or a country. The state can either be expressed quantitatively (
+                <italic toggle="yes">e.g.</italic> mortality or the prevalence of a syndrome) or qualitatively (
+                <italic toggle="yes">e.g.</italic> &#x201c;in control&#x201d; or &#x201c;out of control&#x201d; where &#x201c;out of control&#x201d; should raise an alarm). The observation is based on data, typically originating from multiple sources (sensors as well as manually collected). In many cases, the state is not directly observable. In other words, the data only indirectly reflect the state. Since the data from a biological system shows completely random fluctuations, monitoring the state also has a data filtering purpose. If the state is expressed quantitatively, the output from the monitoring model may serve as valuable input to a mechanistic simulation model of the system as well as for economics and welfare modelling (tackled in WP4). If the state is expressed qualitatively, the output may serve as valuable input to decision-support (focus of WP3). The monitoring framework consists of statistical models for time-series data that can detect aberrations in the data. Specifically, we use state space models, where a latent vector of parameters describes the state of the system (
+                <xref ref-type="bibr" rid="ref-7">Jensen 
+                    <italic toggle="yes">et al.</italic>, 2017</xref>). Biologically meaningful disease-specific mechanistic models enable simulating pathogens&#x2019; spread and syndrome occurrence at different levels (pen, farm, region), and thus to compare 
+                <italic toggle="yes">ex-ante</italic> and prioritize control options (
+                <xref ref-type="bibr" rid="ref-4">Ezanno 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>). In DECIDE, the software 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://sourcesup.renater.fr/www/emulsion-public/">EMULSION</ext-link> v1.1.1 (
+                <xref ref-type="bibr" rid="ref-13">Picault 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>) is used to facilitate the development of the stochastic simulation models.</p>
+            <p>In WP3, Data-driven decision-support tools, we focus on the development and implementation of tools to deliver information in formats that are usable (user-friendly) and useful (capable of providing insight to guide intervention and practice change) in supporting disease prioritization and control in practice. Tool prototypes are developed to the point that they can be used and tested, and evaluation is carried out in conjunction with WP2 and WP5 to further adapt to users&#x2019; needs for baseline models in a co-construction approach. Data visualization and information delivery tools vary from decision trees to fully functional interactive dashboards. After one or two rounds of feedback from stakeholders through participatory workshops, prototype support tools are built for personal computers, as well as smart phones and tablets, and tested in practice through the pilot implementations. These prototypes are applied in practice and used as a basis for discussions on users&#x2019; needs and evaluations of the tools&#x2019; usefulness and usability through the pilot implementations for swine, cattle, poultry, and salmon.</p>
+            <p>WP4, Economics and welfare, estimates the investment in animals, describes the burden of animal health and welfare problems as a health loss envelope, attributes and prioritizes the health loss envelope by diseases and health and welfare issues to target interventions and support the economic assessment of the interventions at all levels. WP4 initiates a process that is health and welfare-focused, leading to information on the relative importance of disease and health and welfare problems and indicating where there is weak resource allocation (
+                <xref ref-type="bibr" rid="ref-16">Rushton 
+                    <italic toggle="yes">et al.</italic>, 2018</xref>). The health loss envelope is based on developing input-output relationships for the current levels of production (
+                <xref ref-type="bibr" rid="ref-15">Rushton, 2008</xref>) and estimating a utopian level of production based on what is achievable within the current systems of genetics of the animals, feed available and management, minus the impacts caused by health and welfare problems. The differences between the current and utopian input-output relationship represents the net loss in production and the expenditure on animal health and welfare &#x2013; the health loss envelope. The types of modelling approaches to achieve this have been explored for cattle and bovine respiratory disease by (
+                <xref ref-type="bibr" rid="ref-2">Delabouglise 
+                    <italic toggle="yes">et al.</italic>, 2017</xref>); for broiler chickens and coccidiosis by (
+                <xref ref-type="bibr" rid="ref-5">Gilbert 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>) and for PRRS in pigs by (
+                <xref ref-type="bibr" rid="ref-17">Thomann 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>). The information generated supports the selection of interventions (WP3) through careful cost-benefit analysis based on marginal cost and benefit calculations (
+                <xref ref-type="bibr" rid="ref-5">Gilbert 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>; 
+                <xref ref-type="bibr" rid="ref-17">Thomann 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>) that are informed by risk and uncertainty (
+                <xref ref-type="bibr" rid="ref-15">Rushton, 2008</xref>).</p>
+            <p>In WP5, Stakeholders, we explore how key and secondary actors, namely farm-staff and producers, veterinary and production advisors, engage with different data and information about diseases and what kind of decisions they make based on the data that is available to them. WP5 is made up of two sequential parts, &#x2018;Exploration&#x2019; and &#x2018;Experimentation and Evaluation&#x2019;, based on the emerging concept of &#x201c;Living Labs&#x201d; for the co-creation and adoption of new services and technologies in multi-contextual real-life environments (
+                <xref ref-type="bibr" rid="ref-1">Bergvall-K&#x00e5;reborn &amp; St&#x00e5;hlbr&#x00f6;st, 2009</xref>). This framework has been successfully employed in a wide range of sectors (Healthcare, Transport, among others) for technology-led decision-support innovations. The key parts of the methodological approach of WP5 are the involvement of multiple actors in real-life setting and use of multi-method approaches informed from wider social science disciplines (
+                <xref ref-type="bibr" rid="ref-9">Klerkx 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>; 
+                <xref ref-type="bibr" rid="ref-11">Morgan 
+                    <italic toggle="yes">et al.</italic>, 2001</xref>).</p>
+        </sec>
+        <sec>
+            <title>Discussion</title>
+            <p>Endemic contagious diseases are the main worry in day-to-day animal health management for farmers and their veterinarians. The so-called production diseases are often caused by multiple pathogens and pose the largest threat to animal health and welfare and, thus, to the productivity of both terrestrial and aquatic species. For DECIDE, we focus on the three most important meat-producing terrestrial species (swine, poultry and cattle) and the most important aquatic species, salmon and trout. For young, growing animals, gastro-intestinal and respiratory tract infections are the most prevalent syndromes that cause much growth reduction, mortality, and use of medicine. In salmonids, respiration is impaired by gill diseases, and diseases causing circulatory failure and inflammation of gastrointestinal organs lead to growth reduction and mortality. The four species have different levels of integration of farming and thus of available data and differ in the level of data (animal, herd, unit, cage). However, the concept that a contagious disease spreads in an epidemiological unit and causes disease is the same. When syndromes are noted, stakeholders such as farmers, veterinarians or other animal health managers need to decide on actions to prevent further spread, diagnose, treat, vaccinate, or take preventive actions for the next round of production. These decisions and choices are not necessarily rational and often not based on a sound quantitative basis (
+                <xref ref-type="bibr" rid="ref-8">Kaler &amp; Ruston, 2019</xref>). Why, how and when stakeholders decide to take action (the drivers) and why they do not (barriers) are some of the key-elements of the DECIDE project as depicted in the box &#x201c;Stakeholder needs&#x201d; in 
+                <xref ref-type="fig" rid="f1">Figure 1</xref>. The social scientists in DECIDE ensure that in co-creation with the stakeholders, the project delivers suitable tools.</p>
+            <p>The DECIDE project leads to use of existing data for disease monitoring, to rank and prioritize disease control and decision-support for the stakeholders. DECIDE increases stakeholder awareness about infectious endemic disease control and identifies gaps for further training. The methods and framework developed in DECIDE are specific enough to support stakeholders for the focus species and syndromes in DECIDE, but can also be generalized across species, countries or diseases. Research gaps are identified and shared. The use of the co-created decision-support tools leads to improved decisions regarding disease control and thus results in improved sustainability, animal health and welfare. More efficient use of resources and less use of medicines will also positively impact human health and the environment.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <p>No data are associated with this article.</p>
+        </sec>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The content of this manuscript has been presented at the 4
+                <sup>th</sup> International Conference of Animal Health Surveillance (ICAHS4) in Copenhagen, Denmark, May 3-5 2022, 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://icahs4.org/fileadmin/user_upload/ICAHS4_2020/final_abstract_book.pdf#page=167">https://icahs4.org/fileadmin/user_upload/ICAHS4_2020/final_abstract_book.pdf#page=167</ext-link>.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bergvall-K&#x00e5;reborn</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>St&#x00e5;hlbr&#x00f6;st</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Living Lab: an open and citizen-centric approach for innovation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">International Journal of Innovation and Regional Development 1.</italic>
+               </source>
+               <year>2009</year>;<volume>1</volume>(<issue>4</issue>):<fpage>356</fpage>&#x2013;<lpage>370</lpage>.
+                    <pub-id pub-id-type="doi">10.1504/IJIRD.2009.022727</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Delabouglise</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>James</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Valarcher</surname>
+                            <given-names>JF</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Linking disease epidemiology and livestock productivity: The case of bovine respiratory disease in France.</article-title>
+                    <source>
+
+                        <italic toggle="yes">PLoS One.</italic>
+               </source>
+               <year>2017</year>;<volume>12</volume>(<issue>12</issue>):<fpage>e0189090</fpage>.
+                    <pub-id pub-id-type="pmid">29206855</pub-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0189090</pub-id>
+                    <pub-id pub-id-type="pmcid">5716546</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>D&#x00f3;rea</surname>
+                            <given-names>FC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Vial</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hammar</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Drivers for the development of an Animal Health Surveillance Ontology (AHSO).</article-title>
+                    <source>
+
+                        <italic toggle="yes">Prev Vet Med.</italic>
+               </source>
+               <year>2019</year>;<volume>166</volume>:<fpage>39</fpage>&#x2013;<lpage>48</lpage>.
+                    <pub-id pub-id-type="pmid">30935504</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.prevetmed.2019.03.002</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ezanno</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Andraud</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Beaun&#x00e9;e</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>How mechanistic modelling supports decision making for the control of enzootic infectious diseases.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Epidemics.</italic>
+               </source>
+               <year>2020</year>;<volume>32</volume>:<fpage>100398</fpage>.
+                    <pub-id pub-id-type="pmid">32622313</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.epidem.2020.100398</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gilbert</surname>
+                            <given-names>W</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bellet</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Blake</surname>
+                            <given-names>DP</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Revisiting the Economic Impacts of 
+                        <italic toggle="yes">Eimeria</italic> and Its Control in European Intensive Broiler Systems With a Recursive Modeling Approach.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Front Vet Sci.</italic>
+               </source>
+               <year>2020</year>;<volume>7</volume>:<fpage>558182</fpage>.
+                    <pub-id pub-id-type="pmid">33251254</pub-id>
+                    <pub-id pub-id-type="doi">10.3389/fvets.2020.558182</pub-id>
+                    <pub-id pub-id-type="pmcid">7674784</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Halachmi</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Guarino</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bewley</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Smart Animal Agriculture: Application of Real-Time Sensors to Improve Animal Well-Being and Production.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Annu Rev Anim Biosci.</italic>
+               </source>
+               <year>2019</year>;<volume>7</volume>:<fpage>403</fpage>&#x2013;<lpage>425</lpage>.
+                    <pub-id pub-id-type="pmid">30485756</pub-id>
+                    <pub-id pub-id-type="doi">10.1146/annurev-animal-020518-114851</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Jensen</surname>
+                            <given-names>DB</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Toft</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kristensen</surname>
+                            <given-names>AR</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A multivariate dynamic linear model for early warnings of diarrhea and pen fouling in slaughter pigs.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Comput Electron Agric.</italic>
+               </source>
+               <year>2017</year>;<volume>135</volume>:<fpage>51</fpage>&#x2013;<lpage>62</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.compag.2016.12.018</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kaler</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ruston</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Technology adoption on farms: Using Normalisation Process Theory to understand sheep farmers' attitudes and behaviours in relation to using precision technology in flock management.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Prev Vet Med.</italic>
+               </source>
+               <year>2019</year>;<volume>170</volume>:<fpage>104715</fpage>.
+                    <pub-id pub-id-type="pmid">31421497</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.prevetmed.2019.104715</pub-id>
+                    <pub-id pub-id-type="pmcid">6745618</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Klerkx</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Jakku</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Labarthe</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A review of social science on digital agriculture, smart farming and agriculture 4.0: New contributions and a future research agenda.</article-title>
+                    <source>
+
+                        <italic toggle="yes">NJAS - Wageningen Journal of Life Sciences.</italic>
+               </source>
+               <year>2019</year>;<volume>90&#x2013;91</volume>:<fpage>100315</fpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.njas.2019.100315</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mohd Nor</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Steeneveld</surname>
+                            <given-names>W</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mourits</surname>
+                            <given-names>MC</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Estimating the costs of rearing young dairy cattle in the Netherlands using a simulation model that accounts for uncertainty related to diseases.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Prev Vet Med.</italic>
+               </source>
+               <year>2012</year>;<volume>106</volume>(<issue>3&#x2013;4</issue>):<fpage>214</fpage>&#x2013;<lpage>224</lpage>.
+                    <pub-id pub-id-type="pmid">22487166</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.prevetmed.2012.03.004</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Morgan</surname>
+                            <given-names>MG</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fischhoff</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bostrom</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Risk Communication: A Mental Models Approach.</article-title>Cambridge University Press, Cambridge,<year>2001</year>.
+                    <pub-id pub-id-type="doi">10.1017/CBO9780511814679</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Papst</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Saukh</surname>
+                            <given-names>O</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>R&#x00f6;mer</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Embracing Opportunities of Livestock Big Data Integration with Privacy Constraints.</article-title>In: Proceedings of the 9th International Conference on the Internet of Things. Association for Computing Machinery, Bilbao, Spain,<year>2019</year>;<fpage>27</fpage>.
+                    <pub-id pub-id-type="doi">10.1145/3365871.3365900</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Picault</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Huang</surname>
+                            <given-names>YL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sicard</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>EMULSION: Transparent and flexible multiscale stochastic models in human, animal and plant epidemiology.</article-title>
+                    <source>
+
+                        <italic toggle="yes">PLoS Comput Biol.</italic>
+               </source>
+               <year>2019</year>;<volume>15</volume>(<issue>9</issue>):<fpage>e1007342</fpage>.
+                    <pub-id pub-id-type="pmid">31518349</pub-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pcbi.1007342</pub-id>
+                    <pub-id pub-id-type="pmcid">6760811</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Raasch</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Collineau</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Postma</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Effectiveness of alternative measures to reduce antimicrobial usage in pig production in four European countries.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Porcine Health Manag.</italic>
+               </source>
+               <year>2020</year>;<volume>6</volume>:<fpage>6</fpage>.
+                    <pub-id pub-id-type="pmid">32140242</pub-id>
+                    <pub-id pub-id-type="doi">10.1186/s40813-020-0145-6</pub-id>
+                    <pub-id pub-id-type="pmcid">7050127</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rushton</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Livestock production economics.</article-title>CABI International,<year>2008</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rushton</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bruce</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bellet</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Initiation of Global Burden of Animal Diseases Programme.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Lancet.</italic>
+               </source>
+               <year>2018</year>;<volume>392</volume>(<issue>10147</issue>):<fpage>538</fpage>&#x2013;<lpage>540</lpage>.
+                    <pub-id pub-id-type="pmid">30152376</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S0140-6736(18)31472-7</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Thomann</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rushton</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Schuepbach-Regula</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Modeling Economic Effects of Vaccination Against Porcine Reproductive and Respiratory Syndrome: Impact of Vaccination Effectiveness, Vaccine Price, and Vaccination Coverage.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Front Vet Sci.</italic>
+               </source>
+               <year>2020</year>;<volume>7</volume>:<fpage>500</fpage>.
+                    <pub-id pub-id-type="pmid">32851052</pub-id>
+                    <pub-id pub-id-type="doi">10.3389/fvets.2020.00500</pub-id>
+                    <pub-id pub-id-type="pmcid">7431490</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Velarde</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fabrega</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Blanco-Penedo</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Animal welfare towards sustainability in pork meat production.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Meat Sci.</italic>
+               </source>
+               <year>2015</year>;<volume>109</volume>:<fpage>13</fpage>&#x2013;<lpage>17</lpage>.
+                    <pub-id pub-id-type="pmid">26013042</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.meatsci.2015.05.010</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

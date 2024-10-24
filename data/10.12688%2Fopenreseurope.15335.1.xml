@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="other"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15335.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Study Protocol</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Scoping review protocol on research prioritisation for preparedness and response to outbreaks of high consequence pathogens</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 3 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Antonio</surname>
+                        <given-names>Emilia</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-9375-6936</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Chepkirui</surname>
+                        <given-names>Dorothy</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-1513-6704</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Levanita</surname>
+                        <given-names>Shanthi</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-7343-5713</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Ibrahim</surname>
+                        <given-names>Susan Khader</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Foster</surname>
+                        <given-names>Isabel</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Harriss</surname>
+                        <given-names>Eli</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Sigfrid</surname>
+                        <given-names>Louise</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-2764-1177</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Norton</surname>
+                        <given-names>Alice</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-8908-2775</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Global Research Collaboration for Infectious Disease Preparedness&#x202f;(GloPID-R) Research and Policy Team, Global Research Collaboration for Infectious Pandemic Sciences Institute, University of Oxford, Oxford, UK</aff>
+                <aff id="a2">
+                    <label>2</label>Bodleian Health Care Libraries, University of Oxford, Oxford, OX3 9DU, UK</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:emilia.antonio@ndm.ox.ac.uk">emilia.antonio@ndm.ox.ac.uk</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>25</day>
+                <month>1</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>16</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>5</day>
+                    <month>1</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Antonio E et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-16/pdf"/>
+            <abstract>
+                <p>
+                    <bold>Background:</bold> Prioritisation of research activities for infectious disease pathogens is usually undertaken through the identification of important research and knowledge gaps. Research prioritisation is an essential element of both effective responses to disease outbreaks and adequate preparedness. There is however currently no published mapping of activities on and evidence from research prioritisation for high consequence pathogens. The objectives of this review are to map all published research prioritisation exercises on high-consequence pathogens; provide an overview of methodologies employed for prioritising research for these pathogens; describe monitoring and evaluation processes for research areas prioritised; and identify any standards and guidance for effectively undertaking research prioritisation activities for high consequence pathogens.</p>
+                <p>
+                    <bold>Methods:</bold> The Joanna Briggs Institute guidance of scoping review conduct will be used. The search will be undertaken using the key terms of &#x201c;research prioritisation&#x201d;, &#x201c;response&#x201d;, &#x201c;control&#x201d;, and related terms, and a list of high-consequence pathogens derived from WHO (2020), EMERGE (2019), Europe CDC (2022) and the Association of Southeast Asian Nations (2021). We will search 
+                    <italic toggle="yes">WHO Global Index Medicus</italic>; 
+                    <italic toggle="yes">Ovid Medline; Ovid Embase; Ovid Global Health; and Scopus</italic>. Backward citations review of the included full text documents will also be conducted. 
+                    <italic toggle="yes">Google Scholar</italic> and 
+                    <italic toggle="yes">Overton</italic> will be searched for grey literature. Two independent reviewers will screen the retrieved documents using 
+                    <italic toggle="yes">Rayyan</italic> and extract data in a data extraction template in Microsoft Excel 2021. Screening results will be presented using the PRISMA-ScR template with narrative synthesis undertaken for the extracted data.</p>
+                <p>
+                    <bold>Conclusion:</bold> This review will map existing research priorities for high consequence pathogens. Further, it will provide an understanding of methodologies used for prioritisation, processes for monitoring and evaluation of progress made against research agendas, and evidence on standards that could be recommended for effective prioritisation of research for high consequence pathogens.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>High consequence pathogens</kwd>
+                <kwd>Preparedness</kwd>
+                <kwd>Response</kwd>
+                <kwd>Priority pathogens</kwd>
+                <kwd>Research prioritisation</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>874667</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No 874667 (GloPID-R). </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>Prioritisation of health research is important for the allocation of limited resources to areas of greatest need. Understanding effective methodologies for prioritisation can help to inform guidance on best practice. Several approaches to setting research priorities for health are documented in the literature including consensus-based and metrics-based approaches which ultimately determine which priorities from many areas are put forward for further research focus
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>,
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>. Combinations of these two broad approaches are also utilised and, in some cases, an iterative process is adopted to narrow a list of priorities to the most essential
+                <sup>
+                    <xref ref-type="bibr" rid="ref-3">3</xref>
+                </sup>.</p>
+            <p>In the response to outbreaks of new and re-emerging high consequence pathogens, with high morbidity and mortality, the need for evidence to contain infections and save lives is even more urgent, calling for rapid research prioritisation. For instance, multiple research priority setting activities were undertaken during the COVID-19 pandemic. These include the GloPID-R and 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.who.int/news-room/events/detail/2020/02/11/default-calendar/global-research-and-innovation-forum-to-mobilize-international-action-in-response-to-the-novel-coronavirus-(2019-ncov)-emergency">WHO Global Research and Innovation Forum</ext-link> in January 2020 which yielded a 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.who.int/publications/m/item/a-coordinated-global-research-roadmap">Coordinated Global Research Roadmap</ext-link> for controlling the pandemic. Regionally-led activities such as those undertaken by the African Academy of Sciences (AAS) for outlining the 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.aasciences.africa/sites/default/files/2020-04/Research and Development Goals for COVID-19 in Africa.pdf">COVID-19 research priorities for Africa</ext-link> and collaborative work undertaken by the Global Health Network (TGHN), UK Collaborative on Development Research (UKCDR) and the AAS for identifying research priorities for low- and middle-income countries (LMICs) are other examples
+                <sup>
+                    <xref ref-type="bibr" rid="ref-4">4</xref>
+                </sup>.</p>
+            <p>A rapid start to vaccines R&amp;D for COVID-19 led to the identification of several vaccine candidates within just over a year of the pandemic
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>. Similarly, the prioritisation of vaccines research during the 2014 - 2016 West Africa Ebola outbreak resulted in the identification of an effective vaccine
+                <sup>
+                    <xref ref-type="bibr" rid="ref-6">6</xref>
+                </sup>.</p>
+            <p>Preparedness priority setting involves anticipatory planning for future research needs in advance of disease outbreaks. The aim can be to prioritise the conduct of the relevant research prior to outbreaks and for research outputs to facilitate prevention and control of infections in the event of an outbreak. This &#x201c;anticipatory&#x201d; element could influence the selection of methods used in the identification of priorities to include those allowing for forecasting of uncertainties and consideration of mitigation measures to these
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>
+                </sup>. It is also important for priority setting activities for outbreak preparedness to take cognisance of research areas which might require the greatest research focus during an outbreak. These activities, undertaken in times of relatively less urgency, are likely to facilitate rapid responses when outbreaks occur.</p>
+            <p>There is consensus in the literature on the significant heterogeneity in approaches to developing and implementing health research priority agenda
+                <sup>
+                    <xref ref-type="bibr" rid="ref-8">8</xref>,
+                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                </sup>. Variable methodologies and a lack of standardised reporting inhibits acceptability, credibility, and application of health research priorities. However, there is no agreement in the field on identified best method or group of methods for setting health research priorities
+                <sup>
+                    <xref ref-type="bibr" rid="ref-10">10</xref>
+                </sup>. The most suitable methods are likely to be those which suit the purposes of the priority setting activities, are appropriate for the research context, and take cognisance of the available resources.</p>
+            <p>Several good practice principles for conducting and reporting on health research prioritisation exercises do exist and have been outlined in the literature including 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://training.cochrane.org/sites/training.cochrane.org/files/public/uploads/PSGuidanceNote_Version 3.1_30 September 2019.pdf">Cochrane guidance for prioritisation of systematic review topics</ext-link>, reporting guideline for priority setting of health research (REPRISE), and the 
+                <ext-link ext-link-type="uri" xlink:href="http://www.cohred.org/prioritysetting/">COHRED research priority management guidance for national research priority setting</ext-link>
+                <sup>
+                    <xref ref-type="bibr" rid="ref-11">11</xref>
+                </sup>. In a 2010 publication, Viergever 
+                <italic toggle="yes">et al.</italic> propose nine themes of good practice to be considered for priority setting for health research
+                <sup>
+                    <xref ref-type="bibr" rid="ref-10">10</xref>
+                </sup>. This article describes, in addition to contextual considerations, inclusivity and systematic processes for planning and undertaking prioritisation, transparency, and effective communication as key elements for successful implementation of health research priorities identified
+                <sup>
+                    <xref ref-type="bibr" rid="ref-10">10</xref>
+                </sup>.</p>
+            <p>WHO issued 
+                <ext-link ext-link-type="uri" xlink:href="https://apps.who.int/iris/handle/10665/334408">guidance</ext-link> for undertaking research priority setting activities for its staff in 2020. This drew from an assessment of WHO&#x2019;s internal health research prioritisation activities across global, regional, and national contexts published between 2002 and 2017. The guidance is of broad scope, applicable in crises situations and in less urgent conditions, and is adaptable to the multi-levels of operations where WHO provides governance and technical support. As in other best practice documents on health research priority setting, planning for monitoring and evaluation processes at the time of identifying priorities are encouraged for enhancing effective implementation of research priority agenda
+                <sup>
+                    <xref ref-type="bibr" rid="ref-8">8</xref>
+                </sup>.</p>
+            <sec>
+                <title>Rationale</title>
+                <p>Although broad guidance for undertaking health research prioritisation is available in the literature, there is limited discussion of priority setting guidance in the context of preparedness and response research for infectious disease outbreaks or any mapping of the existing research prioritisation landscape in this field. This scoping review of research prioritisation for preparedness and response to outbreaks of high consequence pathogens aims to address this gap.</p>
+                <p>The objectives of the review are:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>1. </label>
+                        <p>To map published research prioritisation exercises for high consequence pathogens.</p>
+                    </list-item>
+                    <list-item>
+                        <label>2. </label>
+                        <p>To provide a descriptive analysis of methodologies used in priority setting for preparedness and response research for high consequence pathogens.</p>
+                    </list-item>
+                    <list-item>
+                        <label>3. </label>
+                        <p>To describe assessment processes for monitoring progress on prioritised research areas.</p>
+                    </list-item>
+                    <list-item>
+                        <label>4. </label>
+                        <p>To identify any standards or guidance for effectively undertaking research prioritisation activities for high consequence pathogens.</p>
+                    </list-item>
+                </list>
+                <p>The idea to undertake this review emerged as a result of work undertaken with the 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.glopid-r.org/our-work/research-in-low-and-middle-income-countries-working-group/">GloPID-R LMICs working group</ext-link>. This group of research funders, which has been undertaking consultations and discussions amongst its funder members and researchers on research prioritisation for disease during the current COVID-19 pandemic, has identified best practice considerations for priority setting for disease outbreaks from this experience.</p>
+                <p>There are 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.gov.uk/guidance/high-consequence-infectious-diseases-hcid#classification-of-hcids">several definitions of high consequence pathogens</ext-link> and various international, regional, and national organisations have shortlisted priority pathogens based on parameters which are often unclear. Whilst some priority pathogen lists focus on 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.gavi.org/vaccineswork/10-infectious-diseases-could-be-next-pandemic">viral pathogens only</ext-link>, others include antimicrobial resistant pathogens and classifications based on pathogens for which no effective countermeasures exist
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-12">12</xref>,
+                        <xref ref-type="bibr" rid="ref-13">13</xref>
+                    </sup>.</p>
+                <p>Noting this variability, for the purposes of this scoping review, we define high consequence pathogens as infectious disease pathogens which cause diseases in humans with the potential to cause outbreaks associated with devastating morbidity and mortality.  We will include in this review priority pathogens lists identified by the WHO and regional public health organisations (where publicly available) as shown in 
+                    <xref ref-type="table" rid="T1">Table 1</xref>. To be inclusive in the scope we have also included broad search terms on research prioritisation to capture any wider activities in the published and grey literature not specifically linked to any of the listed pathogens included.</p>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                    <label>Table 1. </label>
+                    <caption>
+                        <title>High consequence pathogens to be included in the scoping review and corresponding source organisations by which they were identified.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="2" valign="top">Pathogens</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Global</th>
+                                <th align="center" colspan="2" rowspan="1" valign="top">Europe</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Asia-Pacific</th>
+                            </tr>
+                            <tr>
+                                <th align="center" colspan="1" rowspan="1" valign="top">
+                                    <ext-link ext-link-type="uri"
+                                     xlink:href="https://www.who.int/activities/prioritizing-diseases-for-research-and-development-in-emergency-contexts">WHO</ext-link>
+                                </th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">
+                                    <ext-link ext-link-type="uri"
+                                     xlink:href="https://www.emerge.rki.eu/Emerge/EN/Home/Homepage_node.html">EMERGE</ext-link>
+                                </th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">
+                                    <ext-link ext-link-type="uri"
+                                     xlink:href="https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-14-20-august-2022-week-33">ECDC</ext-link>
+                                </th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">
+                                    <ext-link ext-link-type="uri"
+                                     xlink:href="https://asean.org/wp-content/uploads/2021/12/FAFD-35.-ASEAN-Strategy-Exotic-Emerging-Diseases-and-Animal-Health-Emergencies.pdf">ASEAN</ext-link>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">COVID-19 (SARS-CoV2)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Crimean-Congo haemorrhagic fever virus</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Ebola virus</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Marburg virus disease</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Lassa fever virus</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Middle East respiratory syndrome coronavirus</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Severe Acute Respiratory Syndrome (SARS)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Nipah and henipaviral diseases</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Rift Valley fever</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">ZikaVirus</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">&#x201c;Disease X&#x201d;</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Smallpox</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Hendra Virus</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Swine Influenza A (H3N2)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Highly pathogenic avian influenza A (H5N1)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Low pathogenic avian influenza H7N9</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Pandemic influenza A (H1N1) 2009 virus</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Polio virus</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Monkey Pox</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">West Nile Virus</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Brucellosis (
+                                    <italic toggle="yes">Brucella bacteria</italic>)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Q Fever (
+                                    <italic toggle="yes">coxiella burneti</italic>)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Melioidosis (
+                                    <italic toggle="yes">Burkholderia pseudomallei</italic>)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Tularaemia (
+                                    <italic toggle="yes">Francisella tularensis</italic>)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Cholera (
+                                    <italic toggle="yes">Vibrio cholera</italic>) </td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Plague (
+                                    <italic toggle="yes">Yersinia pestis</italic>)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Glanders (
+                                    <italic toggle="yes">Burkholderia mallei</italic>)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Anthrax (
+                                    <italic toggle="yes">Bacillus anthracis</italic>)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">X</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top"/>
+                                <td align="center" colspan="1" rowspan="1" valign="top">&#x00a0;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>To our knowledge, there is no existing systematic mapping for research prioritisation activities for preparedness and response to high consequence pathogens. The review will be undertaken in accordance with the 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://jbi.global/scoping-review-network/resources">Joana Briggs Institute methodology for scoping reviews</ext-link>.</p>
+            <p>Initially, we reviewed a list of key resources which were compiled as part of the activities of the 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.glopid-r.org/our-work/research-in-low-and-middle-income-countries-working-group/">GloPID-R Research in LMICs working group</ext-link>. These resources were reviewed and used to develop a list of search terms for the search strategy based on the objectives of the review. Eligibility criteria were defined including: (a) articles focused on research prioritisation in preparedness for and in response to outbreaks of high consequence pathogens and assessment strategies; (b) peer reviewed articles, policy papers, reports, commentaries, or roadmaps of global, regional, or national scope; and (c) the selected list of high consequence pathogens (
+                <xref ref-type="table" rid="T1">Table 1</xref>). There will be no limits for year of publication or language unless the articles cannot be translated using 
+                <italic toggle="yes">Google Translate</italic>. Literature on antimicrobial resistance is out of the scope of this review apart from where it explicitly relates to one of the pathogens selected.</p>
+            <sec>
+                <title>Search strategy</title>
+                <p>The search strategy will aim to identify both peer reviewed and grey literature. Using the search terms identified from the compiled resources, an initial search will be done on 
+                    <italic toggle="yes">Ovid Embase.</italic>  The indexed terms identified will be used to build a final strategy, with adaptations to be made for the other databases. The following databases will be searched for this scoping review: 
+                    <italic toggle="yes">WHO Global Index Medicus</italic>; 
+                    <italic toggle="yes">Ovid Medline</italic>; 
+                    <italic toggle="yes">Ovid Global Health</italic>; and 
+                    <italic toggle="yes">Scopus.</italic> A review of bibliographies of the articles included and extracted from these databases will be conducted. A review of backward citations of included full texts will be done. Sources of unpublished grey literature will include 
+                    <italic toggle="yes">Google Scholar</italic> and 
+                    <italic toggle="yes">Overton</italic>. The proposed search strategy is provided as extended data
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-14">14</xref>
+                    </sup>.</p>
+            </sec>
+            <sec>
+                <title>Study/source of evidence selection</title>
+                <p>Following the search, all identified citations will be uploaded to EndNote 20 and duplicates removed using the Deduklick programme developed by 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.risklick.ch/products/deduklick/">Risklick</ext-link>. Zotero could also be used to perform a similar function to EndNote, and R-Accelerator Deduplicator programme as an alternative to Deduklick. These will then be exported to Rayyan for initial title and abstract screening against the inclusion and exclusion criteria. Potentially relevant articles will be selected, and full text screening done. The reasons for exclusion at this stage will be recorded and reported in the scoping review. Screening will be blinded on Rayyan to be done independently by two reviewers with conflicts settled by a third independent reviewer. The results of the search and screening will be presented in Preferred Reporting Items for Systematic Reviews and Meta-analyses extension for scoping review (PRISMA-ScR) flow diagram
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-15">15</xref>
+                    </sup>.</p>
+            </sec>
+            <sec>
+                <title>Data extraction</title>
+                <p>Data will be extracted from articles included in the scoping review by two independent reviewers using a data extraction table developed a priori. The data extracted will include specific details about the pathogen of interest, scope of the article, prioritisation methodologies used, monitoring and evaluation procedures and recommendations for best practice (see 
+                    <xref ref-type="table" rid="T2">Table 2</xref>). A pilot of the data extraction tool will be done using the first five articles already collated as key resources for this review. This will be used to refine the tool before extraction by the two reviewers.</p>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Data extraction table.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Field</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Description</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Details</th>
+                            </tr>
+                            <tr>
+                                <th align="center" colspan="3" rowspan="1" valign="top">1.&#x00a0;&#x00a0;&#x00a0;Map research prioritisation activities</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Title</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Title of the article</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top"/>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Year of publication</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Publication year as documented </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top"/>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Type of article</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Article type as documented</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">E.g., policy paper, journal article, reports</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Author</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">All named authors documented</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">All named authors documented </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Author affiliation</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Institutional affiliation of author(s)/ Organisation
+                                    <break/> leading prioritisation activities</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top"/>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Version of research agenda</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Version of research agenda as documented</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Version 1, version 2 etc.</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Duration of research agenda</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Duration of validity of research priorities</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top"> E.g. strategy for 1 year, 6 months etc)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Pathogen(s) of interest</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Indicate the pathogen(s) that are addressed in the
+                                    <break/> article</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">E.g., COVID-19, coronaviruses, Ebola etc.</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Purpose</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">The main purpose of the article e.g., preparedness
+                                    <break/> or response </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">preparedness, response, or both</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Key focus</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Key discipline area of focus </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">e.g. vaccine research for COVID-19, 
+                                    <break/>mental health research for Ebola</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Geographical target</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Country/ies or region(s) to which the priority setting
+                                    <break/> is designed for</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">national, region(s), global, others</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="2" valign="top"/>
+                                <td align="left" colspan="1" rowspan="2" valign="top"/>
+                                <td align="left" colspan="1" rowspan="1" valign="top">If "other" state level</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Details of countries and regions</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Target population</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Indicate the populations targeted where available</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">e.g., children, women, pregnant women,
+                                    <break/> indigenous populations etc</td>
+                            </tr>
+                            <tr>
+                                <th align="center" colspan="3" rowspan="1" valign="top">2.&#x00a0;&#x00a0;&#x00a0;Identify priority setting methodologies</th>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Named methodology employed</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Indicate name of method where available </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top"> e.g., CAM 3D, CHNRI, COHRED etc</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="2" valign="top">Type of methodology employed</td>
+                                <td align="left" colspan="1" rowspan="2" valign="top">Type of method employed for prioritisation</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Delphi survey, surveys, nominal group
+                                    <break/> technique, interviews, focus groups,
+                                    <break/> meetings, workshops, literature review/ 
+                                    <break/>gap analysis, Other etc.</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">if "other" describe</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Brief description of methodology </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Describe method used briefly</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top"/>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Duration of priority setting process </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Duration in days, months, years as documented </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top"/>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Criteria used to group the priorities</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Criteria described in grouping priorities  </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">E.g., emergent, pre-determined</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Method used to group the priorities</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Methods described in grouping priorities  </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">E.g., voting, ranking; etc</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Criteria for shortlisting priorities</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Criteria used for selecting priorities as documented</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">E.g., need, feasibility, novelty, equity, 
+                                    <break/>timing (immediate/long-term)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Mode of consultation</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Mode of consultation as described</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">E.g., In-person, online</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Stakeholders/ contributors</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Participants involved in the priority setting if there
+                                    <break/> were deliberations/surveys/meetings etc., include
+                                    <break/> the countries of contributors</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">E.g., patients, clinicians, public/
+                                    <break/>communities, policymakers, funders,
+                                    <break/> experts/ researchers </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Communication plan</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">An outline of strategies to be used in disseminating
+                                    <break/> the set priorities</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">E.g., publications, press release, website
+                                    <break/> launch etc</td>
+                            </tr>
+                            <tr>
+                                <th align="center" colspan="3" rowspan="1" valign="top">3.&#x00a0;&#x00a0;&#x00a0;Describe monitoring and evaluation (M&amp;E) activities</th>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Processes for M&amp;E</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">An outline of key M&amp;E activities planned/undertaken
+                                    <break/> for the set priorities </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top"/>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Review period</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Indicate planned timeline for review </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">E.g., annual or 5-year period</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Responsible entities</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Who is responsible for the M&amp;E and any regulations
+                                    <break/> for that/any plans for M&amp;E</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top"/>
+                            </tr>
+                            <tr>
+                                <th align="center" colspan="3" rowspan="1" valign="top">4.&#x00a0;&#x00a0;&#x00a0;Identify best practice recommendations</th>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Recommendations </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">An outline of recommendations for future priority
+                                    <break/> setting, for response or outbreak preparedness</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top"/>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Guidance for priority setting</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Indicate standards/guidance recommended as
+                                    <break/> listed </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">E.g., WHO guidance for priority setting,
+                                    <break/> CHNRI </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table-wrap-foot>
+                        <fn>
+                            <p>Acronyms - CAM 3D: Combined Approach Matrix 3D, CHNRI: Child Health and Nutrition Research Initiative, COHRED: Council on Health Research for Development</p>
+                        </fn>
+                    </table-wrap-foot>
+                </table-wrap>
+                <p>The draft data extraction tool will be modified and revised as necessary during the process of extracting data from each included evidence source. Modifications made will be explained and justified in the scoping review. Two independent reviewers will undertake data extraction and any arising disagreements will be resolved through discussion with the overall scoping review lead.</p>
+            </sec>
+            <sec>
+                <title>Data analysis and presentation</title>
+                <p>Data will be analysed thematically in Microsoft Excel 2021 by examining broad themes under each section of data extracted and guided by the objectives of the scoping review. Tabular and graphical presentations accompanied by narrative summaries will be used to provide a mapping of the different methodologies for priority setting for high consequence pathogens, monitoring and evaluation processes, and recommendations/guidance for best practice. Findings will be disseminated in a peer reviewed publication and to key stakeholders in the field including funding organisations, researchers, and policy stakeholders.</p>
+            </sec>
+            <sec>
+                <title>Study status</title>
+                <p>An initial search for the published literature has been conducted using the proposed search strategy. The search is expected to be completed by December 2022 and final analysis completed as of mid-2023.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>Ethical approval and consent were not required.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>There is no underlying data associated with this article.</p>
+            </sec>
+            <sec>
+                <title>Extended data</title>
+                <p>figshare: Scoping Review Protocol: Search Strategy. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.21739544">https://doi.org/10.6084/m9.figshare.21739544</ext-link>
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-14">14</xref>
+                    </sup>
+                </p>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</ext-link> (CC-BY 4.0).</p>
+            </sec>
+        </sec>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>GloPID-R Research in LMICs working group (Research Prioritisation Sub-group)</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rudan</surname>
+                            <given-names>I</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Setting health research priorities using the CHNRI method: IV. Key conceptual advances.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Glob Health.</italic>
+               </source>
+               <year>2016</year>;<volume>6</volume>(<issue>1</issue>):<fpage>010501</fpage>.
+                    <pub-id pub-id-type="pmid">27418959</pub-id>
+                    <pub-id pub-id-type="doi">10.7189/jogh.06.010501</pub-id>
+                    <pub-id pub-id-type="pmcid">4938380</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ghaffar</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Collins</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Matlin</surname>
+                            <given-names>SA</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The 3D CombineD ApproACh mATrix: An improved tool for setting priorities in reseArch for heAlth.</article-title>
+               <year> 2009</year>;<fpage>48</fpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.bvs.hn/Honduras/PIS/MEC3DEnglish.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Manera</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hanson</surname>
+                            <given-names>CS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gutman</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Consensus methods: Nominal group technique.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Handbook of Research Methods in Health Social Sciences.</italic>
+               </source>
+               <year>2019</year>;<fpage>737</fpage>&#x2013;<lpage>50</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-981-10-5251-4_100</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Norton</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>de La Horra Gozalo</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Feune de Colombi</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The remaining unknowns: a mixed methods study of the current and global health research priorities for COVID-19.</article-title>
+                    <source>
+
+                        <italic toggle="yes">BMJ Glob Health.</italic>
+               </source>
+               <year>2020</year>;<volume>5</volume>(<issue>7</issue>):<fpage>e003306</fpage>.
+                    <pub-id pub-id-type="pmid">32727843</pub-id>
+                    <pub-id pub-id-type="doi">10.1136/bmjgh-2020-003306</pub-id>
+                    <pub-id pub-id-type="pmcid">7431769</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ledford</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cyranoski</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>van Noorden</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The UK has approved a COVID vaccine - here's what scientists now want to know.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Nature.</italic>
+               </source>
+               <year>2020</year>;<volume>588</volume>(<issue>7837</issue>):<fpage>205</fpage>&#x2013;<lpage>6</lpage>.
+                    <pub-id pub-id-type="pmid">33288887</pub-id>
+                    <pub-id pub-id-type="doi">10.1038/d41586-020-03441-8</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="journal">
+                    <collab>Ebola &#x00e7;a suffit ring vaccination trial consortium</collab>:
+                    <article-title>The ring vaccination trial: a novel cluster randomised controlled trial design to evaluate vaccine efficacy and effectiveness during outbreaks, with special reference to Ebola.</article-title>
+                    <source>
+
+                        <italic toggle="yes">BMJ.</italic>
+               </source>
+               <year>2015</year>;<volume>351</volume>:<fpage>h3740</fpage>.
+                    <pub-id pub-id-type="pmid">26215666</pub-id>
+                    <pub-id pub-id-type="doi">10.1136/bmj.h3740</pub-id>
+                    <pub-id pub-id-type="pmcid">4516343</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hoerger</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Alonzi</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mossman</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Scenario planning: a framework for mitigating uncertainty in implementing strategic behavioral medicine initiatives during the COVID-19 pandemic.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Transl Behav Med.</italic>
+               </source>
+               <year>2022</year>;<volume>12</volume>(<issue>3</issue>):<fpage>486</fpage>&#x2013;<lpage>488</lpage>.
+                    <pub-id pub-id-type="pmid">34893916</pub-id>
+                    <pub-id pub-id-type="doi">10.1093/tbm/ibab155</pub-id>
+                    <pub-id pub-id-type="pmcid">8689730</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Terry</surname>
+                            <given-names>RF</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Charles</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Purdy</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>An analysis of research priority-setting at the World Health Organization - How mapping to a standard template allows for comparison between research priority-setting approaches.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Health Res Policy Syst.</italic>
+               </source>
+               <year>2018</year>;<volume>16</volume>(<issue>1</issue>):<fpage>116</fpage>.
+                    <pub-id pub-id-type="pmid">30486845</pub-id>
+                    <pub-id pub-id-type="doi">10.1186/s12961-018-0391-0</pub-id>
+                    <pub-id pub-id-type="pmcid">6264050</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <label>9</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Viergever</surname>
+                            <given-names>RF</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Health research prioritization at WHO An overview of methodology and high level analysis of WHO led health research priority setting exercises.</article-title>
+               <year> 2010</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ip-watch.org/weblog/wp-content/uploads/2010/05/Report-Health-research-prioritization-at-WHO.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <label>10</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Viergever</surname>
+                            <given-names>RF</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Olifson</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ghaffar</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>A checklist for health research priority setting: Nine common themes of good practice.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Health Res Policy Syst.</italic>
+               </source>
+               <year>2010</year>;<volume>8</volume>(<issue>1</issue>):<fpage>36</fpage>.
+                    <pub-id pub-id-type="pmid">21159163</pub-id>
+                    <pub-id pub-id-type="doi">10.1186/1478-4505-8-36</pub-id>
+                    <pub-id pub-id-type="pmcid">3018439</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <label>11</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tong</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Synnot</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Crowe</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Reporting guideline for priority setting of health research (REPRISE).</article-title>
+                    <source>
+
+                        <italic toggle="yes">BMC Med Res Methodol.</italic>
+               </source>
+               <year>2019</year>;<volume>19</volume>(<issue>1</issue>):<fpage>243</fpage>.
+                    <pub-id pub-id-type="pmid">31883517</pub-id>
+                    <pub-id pub-id-type="doi">10.1186/s12874-019-0889-3</pub-id>
+                    <pub-id pub-id-type="pmcid">6935471</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <label>12</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Noad</surname>
+                            <given-names>RJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Simpson</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fooks</surname>
+                            <given-names>AR</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>UK vaccines network: Mapping priority pathogens of epidemic potential and vaccine pipeline developments.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Vaccine.</italic>
+               </source>
+               <year>2019</year>;<volume>37</volume>(<issue>43</issue>):<fpage>6241</fpage>&#x2013;<lpage>7</lpage>.
+                    <pub-id pub-id-type="pmid">31522809</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.vaccine.2019.09.009</pub-id>
+                    <pub-id pub-id-type="pmcid">7127063</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <label>13</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gilsdorf</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Krause</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Prioritisation of infectious diseases in public health: Feedback on the prioritisation methodology, 15 July 2008 to 15 January 2009.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Euro Surveill.</italic>
+               </source>
+               <year>2011</year>;<volume>16</volume>(<issue>18</issue>):<fpage>19861</fpage>.
+                    <pub-id pub-id-type="pmid">21586264</pub-id>
+                    <pub-id pub-id-type="doi">10.2807/ese.16.27.19912-en</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <label>14</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Antonio</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Chepkirui</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>levanita</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Scoping Review Protocol: Search Strategy.</article-title>
+                    <source> figshare.</source>
+               <year> 2022</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.doi.org/10.6084/m9.figshare.21739544.v1">http://www.doi.org/10.6084/m9.figshare.21739544.v1</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <label>15</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tricco</surname>
+                            <given-names>AC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lillie</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Zarin</surname>
+                            <given-names>W</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>PRISMA extension for scoping reviews (PRISMA-ScR): Checklist and explanation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ann Intern Med.</italic>
+               </source>
+               <year>2018</year>;<volume>169</volume>(<issue>7</issue>):<fpage>467</fpage>&#x2013;<lpage>73</lpage>.
+                    <pub-id pub-id-type="pmid">30178033</pub-id>
+                    <pub-id pub-id-type="doi">10.7326/M18-0850</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report33933">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16578.r33933</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Huntington</surname>
+                        <given-names>Mark K</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33933a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-6009-0464</uri>
+                </contrib>
+                <aff id="r33933a1">
+                    <label>1</label>University of South Dakota Sanford School of Medicine, Sioux Falls, USA</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>25</day>
+                <month>8</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Huntington MK</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33933"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15335.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>
+                <bold>OVERVIEW</bold>
+            </p>
+            <p> This manuscript presents the methodology for review of the literature on establishing research priorities for infectious outbreaks. The recent pandemic emphasized the importance of establishing such a rational and prioritized strategy for meaningful investigations of emerging disease &#x2013; such a strategy is not apparent in the significant bulk of COVID work published to date.</p>
+            <p> </p>
+            <p> The method of the proposed study is well-designed and well-described.&#x00a0; The subsequent project of collating previous published reports on the topic has great potential to make a meaningful contribution to the literature once it is completed.</p>
+            <p> </p>
+            <p> 
+                <bold>COMMENTS AND SUGGESTIONS</bold> (by page.column.paragraph of the PDF version) 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>3.2.2 Citation 11 refers to REPRISE; please include citations for Cochrane and COHRED as well.</p>
+                    </list-item>
+                    <list-item>
+                        <p>4 (Table 1) The table is incomplete. It is notable for its lack of inclusion of pathogen lists for organizations from the Americas or Africa. Surely such organizations and lists exist and they should be included in columns along with Europe and Asia-Pacific organizations, given the global significance of this study (or else please add a convincing reason for their exclusion).&#x00a0;</p>
+                    </list-item>
+                    <list-item>
+                        <p>5.2.2 Please include citations for the tools mentioned in this paragraph.</p>
+                    </list-item>
+                    <list-item>
+                        <p>7.2 Reference 9 does not include complete bibliographic details. Please add them.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate for the research question?</p>
+            <p>Yes</p>
+            <p>Is the rationale for, and objectives of, the study clearly described?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of the methods provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Not applicable</p>
+            <p>Reviewer Expertise:</p>
+            <p>Primary Care/General Medicine, Disaster Medicine, Global Health, Microbiology, Medical Education</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report33934">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16578.r33934</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Penttinen</surname>
+                        <given-names>Pasi</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33934a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-6929-1086</uri>
+                </contrib>
+                <aff id="r33934a1">
+                    <label>1</label>School of Transnational Governance, European University Institute, Fiesole, Toscana, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>24</day>
+                <month>7</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Penttinen P</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33934"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15335.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This is a clearly described and appropriately documented protocol to study a relevant operational question on mapping research priority exercises and methods for high-risk pathogens. The study has relevance for national and international research funders and public health authorities.</p>
+            <p> </p>
+            <p> I have only two minor concerns: 
+                <list list-type="order">
+                    <list-item>
+                        <p>Will the proposed approach will capture adequately other languages than English? I would have assumed that the search terms need to be translated to relevant major languages for that to work.</p>
+                    </list-item>
+                    <list-item>
+                        <p>I would consider for grey literature also searching specifically on the websites of 20 major research funders and public health authorities.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate for the research question?</p>
+            <p>Yes</p>
+            <p>Is the rationale for, and objectives of, the study clearly described?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of the methods provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Public health, respiratory viruses, epidemic intelligence</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+        <sub-article article-type="response" id="comment3683-33934">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Antonio</surname>
+                            <given-names>Emilia</given-names>
+                        </name>
+                        <aff>Global Research Collaboration for Infectious Diseases Preparedness, UK</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>None</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>25</day>
+                    <month>8</month>
+               <year>2023</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>Thank you for your suggestions for improving the scoping review. We recognised the challenges with identifying non-English publications and addressed these in our search approach by: 
+                    <list list-type="order">
+                        <list-item>
+                            <p>Including bibliographic databases which ensured that a range of non-English journals were already included. For example,&#x00a0;see&#x00a0;
+                                <ext-link ext-link-type="uri"
+                                  xlink:href="https://www.elsevier.com/__data/assets/pdf_file/0007/69451/ScopusContentCoverageGuideWEB.pdf">Content Coverage Guide</ext-link>&#x00a0;for Scopus. Further, records indexed in the WHO Global Index Medicus database have English language translations of the journal article titles as well as the original title.&#x00a0;</p>
+                        </list-item>
+                        <list-item>
+                            <p>Including thesaurus terms or controlled vocabulary terms, where relevant, when searching the bibliographic databases to retrieve records (including non-English records) if they have the relevant thesaurus terms in that field in the database.</p>
+                        </list-item>
+                    </list> We look forward to sharing the results of the review in due course.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report30733">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16578.r30733</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Terry</surname>
+                        <given-names>Robert</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30733a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3849-7705</uri>
+                </contrib>
+                <aff id="r30733a1">
+                    <label>1</label>TDR - The Special Programme for Research and Training in Tropical Diseases, World Health Organization, Geneva, Switzerland</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>1</day>
+                <month>2</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Terry R</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport30733"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15335.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The protocol is clear. Perhaps clarify the reference to WHO will also include outputs from the 6 WHO Regional Offices - these regional publications might only be available via the regional websites. The WHO publication repository, IRIS, might need to be searched specifically as publications in there might not appear in your other search strategies, see 
+                <ext-link ext-link-type="uri" xlink:href="https://apps.who.int/iris/">https://apps.who.int/iris/</ext-link>.</p>
+            <p> </p>
+            <p> Objective 1 &amp; 2 are straightforward. Very good to see objective 3. The new WHO guidance has a section on how to measure awareness, uptake, progress change in funding patterns, change in funding volumes etc. which you might want to use to categorise 'progress' .</p>
+            <p> </p>
+            <p> I think 4 is a challenge but good to see it there.&#x00a0;</p>
+            <p> </p>
+            <p> As each reference that is within scope will be read in full I would recommend that the 
+                <italic>purpose </italic>of the research is classified to give an overview of priorities identified across the full scope of research. The framework of 5 areas - set out in reference 8 - would be one approach to consider. By doing this you would obtain a high-level heat map of the priorities you have identified and potentially areas that are not prioritised. It will also provide a quick easy to understand visual to summarise your work.</p>
+            <p>Is the study design appropriate for the research question?</p>
+            <p>Yes</p>
+            <p>Is the rationale for, and objectives of, the study clearly described?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of the methods provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Research policy, priority setting, open science, evidence informed policy.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+        <sub-article article-type="response" id="comment3555-30733">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Antonio</surname>
+                            <given-names>Emilia</given-names>
+                        </name>
+                        <aff>Global Research Collaboration for Infectious Diseases Preparedness, UK</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>none</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>22</day>
+                    <month>2</month>
+               <year>2023</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>Thank you for your very useful comments and suggested improvements for the scoping review. These will certainly enrich the review. We look forward to sharing our findings in due course.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+</article>

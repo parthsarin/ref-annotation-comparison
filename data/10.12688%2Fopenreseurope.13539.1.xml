@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.13539.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Protecting&#x00a0;antiquities&#x00a0;in early modern Rome:&#x00a0;the papal&#x00a0;edicts&#x00a0;as paradigms&#x00a0;for the&#x00a0;heritage&#x00a0;safeguard&#x00a0;in Europe</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Mannoni</surname>
+                        <given-names>Chiara</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-3075-5565</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Ca' Foscari University of Venice, Venice, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:mannoni.chiara@gmail.com">mannoni.chiara@gmail.com</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>13</day>
+                <month>5</month>
+            <year>2021</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2021</year>
+            </pub-date>
+         <volume>1</volume>
+            <elocation-id>48</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>30</day>
+                    <month>4</month>
+               <year>2021</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Mannoni C</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/1-48/pdf"/>
+            <abstract>
+                <p>The edicts issued in Rome between the fifteenth and the eighteenth centuries are the earliest legislation conceived for the preservation and supervision of heritage in Europe. Not only did such regulations aim to protect monuments, antiquities, and &#x2013; at a later stage &#x2013; paintings from the risks of damage and deterioration, but also established a legal framework against their illegal exportation and excavation.</p>
+                <p>In this study the gradual development of this vast 
+                    <italic toggle="yes">corpus</italic> of legislation is considered within the variations of artistic scholarship, legal knowledge, artistic taste, and the art market in Europe between 1400s and 1700s. The mutual implications of juridical constructs and practices of supervision are evaluated together with interdisciplinary factors &#x2013; such as the rise of collections and museums &#x2013; to shed light on the development of the concepts of &#x2018;heritage protection&#x2019; in early modern Rome. Specific analysis will also involve the gradual expansion of the definition of &#x2018;antiquity&#x2019; and &#x2018;artefact&#x2019; in papal legislation, as well as the establishment of innovative instruments to prevent and circumvent misdemeanours.</p>
+                <p>One final consideration is given to the launch of local procedures of heritage protection in other states in Europe. Considering the cultural and historical backgrounds of each individual place, this study will demonstrate that the idea of safeguarding what was thought of as &#x2018;collective heritage&#x2019; emerged consistently in eighteenth-century Europe following the paradigms of the papal edicts.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Heritage protection</kwd>
+                <kwd>heritage legislation</kwd>
+                <kwd>early modern centuries</kwd>
+                <kwd>Rome</kwd>
+                <kwd>art market</kwd>
+                <kwd>excavations</kwd>
+                <kwd>export</kwd>
+                <kwd>antiquity.</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>837857</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No [837857] (The origins of the legal protection of heritage. Legislation on the safeguard of monuments and artworks issued in 15th- to 18th-century Europe &#x2013; [LawLove]). </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>There can be no effective safeguard of historic and artistic heritage without the recognition of what it is that needs to be protected &#x2013; and which methods are suitable for its achievement
+                <sup>
+                    <xref ref-type="other" rid="FN1">1</xref>
+                </sup>. Conservation results from the identification of an object as an artwork and can be explained as the tangible consequence of a mutual awareness of what art is and what it is not. Similarly, the legal and administrative practices that are applied to put protection into effect are strictly related to the perceptions and systems of values of each epoch and community. From a historical perspective, it can be observed that the acknowledgment of the qualities that make an object worthy of safeguard does not always coincide with the moment of its physical creation. This means that, although artefacts and artistic goods have always existed, the belief that they constitute &#x2018;heritage&#x2019; requiring rules of maintenance, management, and care, have been generally established at later stages. In this respect, Emiliani has claimed that &#x201c;we cannot assume that the epochs of creativity have developed at the same time a deep historic reasoning, able to produce both the artistic categories and the terminologies to approach them&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN2">2</xref>
+                </sup>.</p>
+            <p>The current concepts of &#x2018;protection&#x2019;, &#x2018;conservation&#x2019;, and &#x2018;custody&#x2019; of the material products of the past, as well as the idea that these are part of &#x2018;collective heritage&#x2019;, started to develop, or even had their origin, in the early modern Papal States. It is not surprising that the cultural mindset capable of conceiving the first models of safeguard of older artefacts arose in the Italian peninsula just before the Renaissance. In Italy, the relics of the ancient Roman Empire were disseminated and prominent all over its territory, and they had been languishing in a state of neglect since the beginning of the Middle Ages. In particular, the Catholic church elected the city of Rome as the official abode of the popes, gradually embracing the purpose to gain symbolic control over ancient Roman monuments to enhance its political and religious power. By the early modern era Humanism was already flourishing, and the artistic and cultural trends of the Renaissance were developing. Antiquity was adopted as a prototype and ideal of excellence in literature and the visual arts, both in the Italian peninsula and other areas of Europe. Within this classically inspired background, the Catholic popes began referring to ancient Rome in their religious agenda for the reconstruction of a new Rome, also promoting the publication of the first regulations to protect antiquities and monuments from destruction, improper use, and liming of marbles.</p>
+            <p>The Papal States issued the first law on the protection of antiquity as early as 1425, introducing more than 30 further directives in the following four centuries
+                <sup>
+                    <xref ref-type="other" rid="FN3">3</xref>
+                </sup>. The 
+                <italic toggle="yes">corpus</italic> of this legislation not only formed a legal tradition itself, legitimising both the safeguard of the &#x2018;past glories&#x2019; of Rome and the popes&#x2019; right to pursue their agenda on them, but also established a juridical model to launch new procedures of heritage protection in other places in Europe. As will be clarified later in this article, there were cultural, historical, and methodological variations in the formation of internal laws in different states and cities, including rules dedicated to the preservation of specific classes of monuments. In wider terms, however, the idea of &#x2018;juridically&#x2019; protecting what was thought of as collective heritage emerged quite consistently in several European countries only in the 18
+                <sup>th</sup> century, following &#x2013;  in fact &#x2013; the centuries-old models of the Papal States.</p>
+        </sec>
+        <sec>
+            <title>The fifteenth century</title>
+            <p>In 1425, the edict 
+                <italic toggle="yes">Etsi in Cunctarum</italic> of Pope Martin V landmarked the beginning of the popes&#x2019; concerns on the preservation of what was regarded as heritage, intended at this stage as any site that had a &#x201c;civil&#x201d; significance for the community, such as &#x201c;alleys, streets, and squares&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN4">4</xref>
+                </sup>. It is noteworthy that Martin V had studied both arts and canon law at the University of Perugia before pursuing his ecclesiastic career
+                <sup>
+                    <xref ref-type="other" rid="FN5">5</xref>
+                </sup>; such a background was certainly crucial in the construction of his later understanding of humanities and classicism in connection to legislation. Regarding the contents of the edict, both &#x201c;public and private places&#x201d; were included under protection, together with &#x201c;buildings made of stone, wood, beams, tables, [as well as] roofs, floors, storages and bridges, gates, passages, watercourses, canals and drains, and also urban and rustic farms, fields, [and] gardens&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN6">6</xref>
+                </sup>. These structures were guarded against destruction, illegal sale, occupation, and improper use. To achieve his purpose, the pope established the office of 
+                <italic toggle="yes">Magistri Viarum</italic> &#x2013; the road master &#x2013; who was responsible to invigilate on these properties and ensure their adequate conservation within the city. Even though the edict did not explicitly mention antiquities and monuments, it stated the need to oversee the decorum of longstanding and centuries-old goods, both private and public, alongside any other community asset.</p>
+            <p>The following edict 
+                <italic toggle="yes">Cum Almam Nostram Urbem</italic>, issued by Pope Pius II in 1462, explicitly included ancient remains and monuments under protection, together with &#x201c;Basilicas, Churches, religious and holy grounds, which contain Saints&#x2019; shrines and reliquaries&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN7">7</xref>
+                </sup>. Antiquities, at this stage, were fully accepted as models of virtue and glory in the Catholic Church; for this reason, the pope prohibited their &#x201c;demolition, destruction, shattering, or breakage&#x201d;, including the liming of marbles and their reuse as building materials
+                <sup>
+                    <xref ref-type="other" rid="FN8">8</xref>
+                </sup>. Nevertheless, specific permissions to remove ancient remains could be granted by the pope himself within bulls or apostolic briefs. Indeed, all the earlier legislation issued in Rome reflected such an evident dichotomy in the attitude towards antiquities: while promoting, on the one hand, their preservation for their symbolic significance, the popes retained the right to recommend their reuse for specific purposes. In 1474, the edict 
+                <italic toggle="yes">Cum Provida</italic> of Pope Sixtus IV presented again this duality. It condemned the despoliation of &#x201c;scarlet and red marbles, along with other stones of different quality and colour&#x201d;, in this case denoting merely the materials that had already been reused for constructing new churches in recent years
+                <sup>
+                    <xref ref-type="other" rid="FN9">9</xref>
+                </sup>. In 1515, Pope Leo X ordered the appointment of the artist Raphael Sanzio as 
+                <italic toggle="yes">Praefectus marmorum et lapidum</italic> &#x2013; prefect for marbles and stones &#x2013; in Saint Peters, entrusting him to supervise the adequate protection of &#x201c;ancient marbles and engraved stones&#x201d;, as they were representative monuments of the past
+                <sup>
+                    <xref ref-type="other" rid="FN10">10</xref>
+                </sup>. Yet, the artist was also asked to grant permissions to cut, saw, and reuse ancient materials to build the new basilica in Rome
+                <sup>
+                    <xref ref-type="other" rid="FN11">11</xref>
+                </sup>. It is clear that, at this early stage, the papal legislation on antiquity protection was neither systematic nor consistent.</p>
+        </sec>
+        <sec>
+            <title>The sixteenth century</title>
+            <p>A first change of approach in the practices of heritage safeguard occurred in the sixteenth century, when concerns regarding the loss of movable items arose in connection to the development of an embryonic art market. In fact, in the previous century the popes&#x2019; attention had exclusively focused on the state of preservation of immovable buildings, as well as the risks endangering the conservation of monuments, temples, inscriptions and ornaments &#x2013; that is, works that were either fixed to a structure or too big to move. As soon as the demand for antiquities increased, following the escalation of dynastic collections and the so-called 
+                <italic toggle="yes">Wuderkammern</italic>, the dealing in small items, curiosities, memorabilia, and sculpted fragments increased all over Europe. The popes rapidly understood that the absence of control on these portable works could compromise the rich endowments of Rome, and the Catholic Church itself. In 1534, in his edict Pope Paul III attacked the &#x201c;disgraceful&#x201d; relocations of &#x201c;statues, emblems, marble and bronze slabs, as well as scarlet, Numidian and other coloured stones&#x201d; from Rome to &#x201c;foreign lands and cities&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN12">12</xref>
+                </sup>. He created the first ever post of commissary of antiquity to control the exports of movable objects and regulate the improper use and destruction of immovable buildings, appointing Latino Giovenale Manetti
+                <sup>
+                    <xref ref-type="other" rid="FN13">13</xref>
+                </sup>. A few years later, in 1562, Pope Paul IV divided the post into an 
+                <italic toggle="yes">Antiquitatem Praefecti</italic> and a 
+                <italic toggle="yes">Conservatores</italic> &#x2013; a prefect and a conservator for antiquities &#x2013; pursuing to improve control on the outflow of ancient works
+                <sup>
+                    <xref ref-type="other" rid="FN14">14</xref>
+                </sup>. The loss on these items, evidently, was increasing in spite of any regulation issued to deter it. Paul IV&#x2019;s edict also widened the categories of objects to protect. &#x201c;Ancient marbles, both raw and worked, statues, busts, metals, precious stones, coins, vases, and cups made of bronze, silver, and gold, as well as slabs and inscriptions&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN15">15</xref>
+                </sup> were included to its supervision, in the attempt to retain, specifically, the varieties of goods which were sought for the 
+                <italic toggle="yes">Wunderkammern</italic> and collections in Europe. Interestingly, the edict also affirmed the pope&#x2019;s intention to block the production and trading of forged antiquities, &#x201c;which [were] sold as ancient works&#x201d; and ultimately harmed the honour and good reputation of Rome
+                <sup>
+                    <xref ref-type="other" rid="FN16">16</xref>
+                </sup>.</p>
+            <p>Following this interpretation, it is also worth mentioning the constitution 
+                <italic toggle="yes">Quae Publice Utilia</italic>, issued by Pope Gregory XIII in 1574
+                <sup>
+                    <xref ref-type="other" rid="FN17">17</xref>
+                </sup>. Although this bill was not dedicated specifically to antiquities and monuments, it affirmed the superior interest of the state and the community &#x2013; rather than the private individuals &#x2013; in the use of the assets of Rome
+                <sup>
+                    <xref ref-type="other" rid="FN18">18</xref>
+                </sup>. This was one of the earliest and firmest cultural positions in this regard in Europe and would have profound implications on the development of the concept of &#x2018;public heritage&#x2019; in recent attitudes to its conservation and legal protection.</p>
+        </sec>
+        <sec>
+            <title>	Linguistic aspects</title>
+            <p>Before analysing the edicts issued in the seventeenth-century, we should consider the aspects in papal legislation which can be defined as structural and syntactic, mostly concerning its linguistic attributes. The laws issued in fifteenth- and sixteenth-century Rome were written in Latin &#x2013; to be more specific, a refashioned early modern Latin which was the product of the Renaissance humanists&#x2019; efforts to study Latin in ancient sources. The process of rediscovery of this ancient language was not smooth at that time: it should be considered that nearly 1,000 years had elapsed between the fifth century CE, when the Western Roman Empire finally fell, and the fifteenth century, when scholars needed to revitalise classicism and ancient culture pursuing a philological approach. Indeed, as compared with the Roman Empire, new concepts and ideas had matured in the 1400s, requiring new forms of expression as different systems of thinking and reasoning had developed both within medieval and renaissance scholarship. Furthermore, language and society had changed, requiring innovative terminologies, categories, lexica, and semantics within communication. In short, fifteenth-century Latin was not the classical idiom of Cicero and Virgil, but a completely new Renaissance Latin
+                <sup>
+                    <xref ref-type="other" rid="FN19">19</xref>
+                </sup>.</p>
+            <p>Besides these morphological aspects, the implications of using Latin in legislation should be considered in relation to the wider awareness of the need to protect the heritage within society. Latin &#x2013; Renaissance Latin &#x2013; was the official language of the Catholic Church, and the entire 
+                <italic toggle="yes">Corpus iuris civilis</italic> and 
+                <italic toggle="yes">Corpus iuris canonici</italic> were constructed on it
+                <sup>
+                    <xref ref-type="other" rid="FN20">20</xref>
+                </sup>. However, it is problematic to affirm how much the edicts on the protection of antiquities were effective and respected by the local communities in the Papal States. Most likely, common people were not able to understand and follow their legal prescriptions, as they mostly spoke vernacular and early modern Italian. Although this certainly also applied to other spiritual and secular rules imposed by the popes, it should be observed that there was only one commissary of antiquity in Rome, as compared with other sectors of the papal administration. It was evidently impossible for a single man to manage and control the extensive amount of antiquities in the city. As a consequence of both the linguistic issues and administrative shortcomings, the laws had generally remained a nonconcrete list of stipulations, which were ineffectual and impossible to apply. At this stage, therefore, legislation on heritage protection represented a declaration of intent lacking any successful tool of implementation, in spite of the significance of its cultural and conceptual elaborations.</p>
+        </sec>
+        <sec>
+            <title>The seventeenth century</title>
+            <p>After the short lifespan of the 1562 positions of prefect and conservator for antiquity &#x2013; which 
+                <italic toggle="yes">de facto</italic> were never operational &#x2013; subsequent edicts reverted to the model of a sole commissary. Between the sixteenth and late eighteenth centuries, sixteen commissaries would be documented in the records on the antiquity safeguard in Rome
+                <sup>
+                    <xref ref-type="other" rid="FN21">21</xref>
+                </sup>. Such an arrangement, however, was clearly inadequate to control the city&#x2019;s wealthy assets. In the seventeenth century, the popes experimented new procedures to make the law effective: firstly, they entrusted the cardinal camerlengo &#x2013; the state chamberlain and treasurer &#x2013; to compile regulations and deal with the heritage management; secondly, they established severe punishments and fines for those who ignored or disregarded the law. The latter aspect in particular, marked a clear change in the attitudes towards the heritage protection; from this moment on, misappropriations and smuggling of artefacts were no longer perceived as issues of personal and religious consciousness, but tackled as civil misdemeanours
+                <sup>
+                    <xref ref-type="other" rid="FN22">22</xref>
+                </sup>.</p>
+            <p>In 1624, the so-called 
+                <italic toggle="yes">Edict Aldobrandini</italic> by Cardinal Ippolito Aldobrandini extended protection to modern artefacts in addition to ancient items. Major concerns at this stage involved not the destruction and despoliation of antiquities, but their illegal excavation and unapproved sale. Surveillance, therefore, encompassed mainly the digging and export of &#x201c;Figures, Statues, antiquities, Ornaments, works both ancient and modern, made of marble, metal, or stone of any kind, both integer and in pieces&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN23">23</xref>
+                </sup>. It is significant that not only was this edict written in early modern Italian, but it also prescribed a list of punishments to apply in the cases of infringement, consisting of confiscations of artefacts, loss of employment, fines of up to 500 crowns, and corporal punishments, such as the strappado
+                <sup>
+                    <xref ref-type="other" rid="FN24">24</xref>
+                </sup>.</p>
+            <p>A few years later, in 1646, the 
+                <italic toggle="yes">Edict Sforza</italic> by Cardinal Federico Sforza made the application of the punishments more rigorous, also providing a new sophisticated list of items to incorporate under protection: &#x201c;statues, figures, bas-reliefs, columns, vases, alabasters, agates, jaspers, amethysts, and other marbles, precious stones, worked and uncut stones, busts, heads, fragments, pillars, pedestals, inscriptions, [as well as] other ornaments, friezes, medals, cameos, or carvings on any stone, metal, gold, silver, of any ancient or modern material, and also figures, ancient paintings, or other works sculpted, painted, carved, assembled, carved [&#x2026;]&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN25">25</xref>
+                </sup>. The edict was mostly based on an antiquarian predilection, in which the category &#x2018;ancient paintings&#x2019; referred to frescoes, encaustics, and murals typical of ancient Roman and early Christian art. Overall, the body of the law appeared very long and repetitive, reinstating the lists of objects and the punishments for any infringement recorded. This makes it easy to affirm that illegal excavations, smuggling, alterations, and destruction of antiquities were still common habits in Rome at this time, increasing regardless of any innovation introduced to deter them. Further new edicts were published just a few years later. The 
+                <italic toggle="yes">Edict Altieri</italic> of 1686 and the first 
+                <italic toggle="yes">Edict Spinola</italic> of 1701, by Cardinals Paluzzo Altieri and Giovan Battista Spinola respectively
+                <sup>
+                    <xref ref-type="other" rid="FN26">26</xref>
+                </sup>, replicated the same lists of objects and the punishments from the previous 
+                <italic toggle="yes">Edict Sforza.</italic> Even so, despite the reinstatement of the impositions, the situation did not improve. Evidently, the losses of artefacts were still significant, and the procedures of control insufficient.</p>
+        </sec>
+        <sec>
+            <title>The early eighteenth century</title>
+            <p>To follow the subsequent development of a consistent concept of heritage, as well as its related practices of protection, we need to acknowledge the innovations that the Enlightenment introduced within culture, philosophy, juridical knowledge, and &#x2013;  more so &#x2013; the art system throughout the eighteenth century. Although the Papal States has been described commonly as a decayed isolated place, particularly after the Baroque&#x2019;s extravagances in the mid-1600s
+                <sup>
+                    <xref ref-type="other" rid="FN27">27</xref>
+                </sup>, Rome was designated as the major destination for the Grand Tour in 1700s and the hub of the antiquarian market in Europe. Its connections with the other European states, therefore, became multifaceted and extremely vivacious in this period
+                <sup>
+                    <xref ref-type="other" rid="FN28">28</xref>
+                </sup>. Rome attracted the interests of both scholars engaged in cultural exchanges within the so-called Republic of Letters
+                <sup>
+                    <xref ref-type="other" rid="FN29">29</xref>
+                </sup>, and international dealers, aristocrats, and artists seeking treasures to increase their homeland collections
+                <sup>
+                    <xref ref-type="other" rid="FN30">30</xref>
+                </sup>. In this scenario, it is clear that while the popes, on the one hand, wished to foster the city&#x2019;s good reputation and influence, on the other hand they supported the definition of improved systems of heritage protection. The latest developments in artistic and legal knowledge, as well as the ever-growing outflows of artefacts towards Europe, accelerated the establishment of innovative solutions in this regard.</p>
+            <p>In order to manage the large quantities of antiquities discovered in excavations, the second 
+                <italic toggle="yes">Edict Spinola</italic> of 1704 imposed that any new item found in Rome be declared to the office of camerlengo without delay
+                <sup>
+                    <xref ref-type="other" rid="FN31">31</xref>
+                </sup>. A drawing of the artefacts that could not be preserved due to the diggings was also required for documentation. Nevertheless, the foremost innovation of the edict was in the incorporation of books and documents under protection. &#x201c;Manuscripts in Vernacular, Latin, Greek, or Hebrew [&#x2026;] divided, torn, or loose, as well as Tools, Proceedings, Inventories, Letters, Bulls, Briefs, Charters and any other sort of paper&#x201d; were banned from sale and improper use in Rome for the first time
+                <sup>
+                    <xref ref-type="other" rid="FN32">32</xref>
+                </sup>. This new, fundamental category of heritage would be given a specific form of safeguard in 1712, within the third 
+                <italic toggle="yes">Edict Spinola</italic>
+                <sup>
+                    <xref ref-type="other" rid="FN33">33</xref>
+                </sup>.</p>
+            <p>It is interesting that the fourth &#x2013; and final &#x2013; 
+                <italic toggle="yes">Edict Spinola</italic> of 1717 specifically addressed &#x201c;all foreigners and other Prince&#x2019;s subjects [&#x2026;] who have resided in Rome for at least one month&#x201d;, tackling the problem of travellers and grand tourists involved in the trading of antiquities, both legal and illegal
+                <sup>
+                    <xref ref-type="other" rid="FN34">34</xref>
+                </sup>. Although the edict did not add any significant element to the concept of heritage, it aimed to regulate and, possibly, limit the exports of artefacts to England, Spain, France, and the German area in particular
+                <sup>
+                    <xref ref-type="other" rid="FN35">35</xref>
+                </sup>. Accountability regarding the relocation of artefacts was also enforced on the owners of inns, taverns, hostels, and guesthouses &#x2013; that is, the places where foreigners used to spend time. These categories of professionals were asked to affix a copy of the edict for their guests to read. A few years later in 1726, the first 
+                <italic toggle="yes">Edict Albani</italic> by Cardinal Annibale Albani brought attention back to the excavation of antiquities
+                <sup>
+                    <xref ref-type="other" rid="FN36">36</xref>
+                </sup>. Evidently, illegal quarrying and smuggling were perceived as two different categories of misdemeanour at this stage. The edict declared as illegal any unapproved digging of &#x201c;Statues, or their fragments, Busts, Heads, Bas-reliefs, Pedestals, Columns, Capitals, Inscriptions, Vases, Urns, and other ancient ornaments&#x201d;, including their demolition and alteration
+                <sup>
+                    <xref ref-type="other" rid="FN37">37</xref>
+                </sup>. Nevertheless, it is clear that illegal excavations and exports of artefacts were the two faces of the same medal: they could not be addressed and resolved disjointedly.</p>
+            <p>The subsequent refinement of the definition of heritage and its practices of protection can be observed in the second 
+                <italic toggle="yes">Edict Albani</italic> of 1733
+                <sup>
+                    <xref ref-type="other" rid="FN38">38</xref>
+                </sup>. This new regulation, at the outset, reissued the sixteenth-century prohibition on the trade of &#x201c;things [...] altered and counterfeit&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN39">39</xref>
+                </sup>, recognising them as antiquities and small objects which were not only falsifications of originals but were also sold at disproportionate prices to foreigners. Most importantly,  the edict introduced the protection of &#x201c;Paintings, Mosaics, and Pictures [&#x2026;] both ancient and modern&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN40">40</xref>
+                </sup>, assigning value to movable paintings after a three-century-long exclusive interest in antiquities in Rome. Clearly, these conceptual elaborations cannot be explained by omitting the role of the wider European art market and scholarship of that time. Indeed, the trading of fake antiquities had inflated in Rome during the last decades of the 1600s, caused both by the growing demand for artworks from European collectors and a serious economic crisis involving the entire Papal States
+                <sup>
+                    <xref ref-type="other" rid="FN41">41</xref>
+                </sup>. In order to meet the requests of the market, impoverished artists started counterfeiting and selling fake antiquities, seeking to increase their income. In addition to this, increasing exports of paintings were connected to the growth of interest in Italian Renaissance art by collectors and scholars in Europe. Paintings, moreover, were extremely easy to export from the Papal States, as they had been omitted from the systems of surveillance in the previous centuries
+                <sup>
+                    <xref ref-type="other" rid="FN42">42</xref>
+                </sup>. Therefore in 1733,  wooden and canvas paintings were finally included in the law, responding to the new trends within scholarship and the art market
+                <sup>
+                    <xref ref-type="other" rid="FN43">43</xref>
+                </sup>.</p>
+        </sec>
+        <sec>
+            <title>	The late eighteenth century</title>
+            <p>The culmination of early modern papal legislation on the heritage safeguard has been mostly associated with the issuing of the 
+                <italic toggle="yes">Edict Valenti Gonzaga</italic> by Cardinal Silvio Valenti Gonzaga in 1750
+                <sup>
+                    <xref ref-type="other" rid="FN44">44</xref>
+                </sup>. This can be regarded as the most advanced result of the papal efforts on the protection of antiquities and artefacts up to that time, remaining operational for the subsequent 50 years
+                <sup>
+                    <xref ref-type="other" rid="FN45">45</xref>
+                </sup>. Interestingly, this was also the first regulation that not only had effective outcomes on the administration of the heritage in Rome, but also approached the control on the excavations and that on the exports as an interconnected issue
+                <sup>
+                    <xref ref-type="other" rid="FN46">46</xref>
+                </sup>.</p>
+            <p>In the first half of the1700s, massive campaigns of digging and surveying were started in different areas of the Italian peninsula and central Europe
+                <sup>
+                    <xref ref-type="other" rid="FN47">47</xref>
+                </sup>. In particular, Herculaneum was discovered and unearthed in the Kingdom of Naples in 1738 and Pompeii also followed ten years later. The rigid protectionism of the Bourbons in the management of both sites, comprising restrictions in the publications of the new findings as well as discouragement of visits in the areas, might have stimulated the pope to pursue stricter policies on the control of excavations and sales of artefacts in Rome
+                <sup>
+                    <xref ref-type="other" rid="FN48">48</xref>
+                </sup>. Besides this, it should be considered that the half of the eighteenth century reflected a change of approach within the juridical disciplines altogether. Philosophers such as Montesquieu, Voltaire, Rousseau, and Beccaria were redefining rights and duties of both citizens and monarchs in modern societies, while several European countries reformed their domestic juridical systems following the principles of the legal Enlightenment
+                <sup>
+                    <xref ref-type="other" rid="FN49">49</xref>
+                </sup>. In the Papal States, Pope Benedict XIV initiated a season of reforms soon after being elected in 1740. The entire ecclesiastic arrangement was renovated during his 18-year-long pontificate. Changes were made to the trading system, public offices within the curia, administrative and judiciary assets, as well as the theological and clerical schemes
+                <sup>
+                    <xref ref-type="other" rid="FN50">50</xref>
+                </sup>. Benedict XIV was particularly captivated by the theoretical reformations of the scholar Ludovico Antonio Muratori in the field of jurisprudence, described in the volume 
+                <italic toggle="yes">Dei difetti della giurisprudenza</italic> of 1742, which indeed was dedicated to the pope in memory of their friendship
+                <sup>
+                    <xref ref-type="other" rid="FN51">51</xref>
+                </sup>. Although Muratori&#x2019;s project to compile a new civil code &#x2013; if we can use this contemporary term &#x2013; was not achieved, the pope was clearly persuaded by his recommendations to remove limits of implementation and contradictions in law, possibly offering him a motivation to support new policies and approaches for the heritage protection.</p>
+            <p>Regarding the contents, three major novelties were established within the edict of 1750. The first concerned the concept of heritage, which &#x2013; at this time &#x2013; consisted of: &#x201c;Statues, Figures, Bas-reliefs, Columns, Vases, Alabasters, Agates, Jaspers, Amethysts, and other precious Marbles, Jewels, worked Stones, Busts, Heads, Fragments, Small Items, Pedestals, Inscriptions, or other Ornaments, Friezes, Medals, Cameos, Gems, Coins, or carvings in any Stone, or Metal, Gold, Silver of any ancient or modern material, and also Figures, Paintings, Ancient Paintings, or other works sculpted in any kind of material, painted, carved, assembled, worked, or made in any way [&#x2026;] which are in Rome and out of Rome&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN52">52</xref>
+                </sup>. Even though the list was still based on the centuries-old idea of artistic miscellanea, the inclusion of the open-ended clause was intended to suggest objects that were not explicitly mentioned in the provisions of the edict. Such an opening towards further unrecorded items might denote that the definition of &#x2018;artefact to protect&#x2019; had begun to be understood as a concept in continuous development, impossible to define 
+                <italic toggle="yes">a priori</italic>, but to be established now and again according to each case. This also included a very early allusion to the works that were placed outside of Rome, that is, in the provinces of the state.</p>
+            <p>A further innovation related to the Capitoline Museum in Rome. Prescribing that any item confiscated due to misdemeanours should be transferred to the city gallery, the edict encouraged, at least indirectly, the right of the community to access and enjoy art
+                <sup>
+                    <xref ref-type="other" rid="FN53">53</xref>
+                </sup>. In this perspective, it is significant that the foundation of the Capitoline Museum in 1734 and the later establishment of the Vatican Pius-Clementine gallery in 1770 responded specifically to the intention of retaining the finest local artefacts within the state, by controlling both their excavations and sales. The opening of these prominent galleries substantiated the papal solution to contain the massive outflow of artefacts in the art market, as well as the illegal removals of private aristocratic collections &#x2013; such as the Odescalchi, Chigi, and Giustiniani &#x2013; that had been increasing in those years
+                <sup>
+                    <xref ref-type="other" rid="FN54">54</xref>
+                </sup>. The edict offered a clear, political position in this regard: not only did it reaffirm the rights of the state over those of private individuals in the use of heritage &#x2013; as already insinuated in the bill of 1574 &#x2013; but it also introduced the idea of the public destination and meaning of art in societies.</p>
+            <p>The final, and most relevant, reform concerned the establishment of a body of a main commissary and three assessors to carry out the procedures of control and safekeeping of the heritage in Rome. As already mentioned, the most significant shortcoming of earlier papal regulations was that they did not establish a thorough system of supervision across the city. Seeking to improve the procedures of inspection on both excavations and sales, three new positions of assessor were expected to supplement the capacity of the main commissary, taking care respectively of &#x201c;Paintings&#x201d;, &#x201c;Sculptures&#x201d;, &#x201c;Cameos, Medals, Engravings, and any other kinds of Antiquity&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN55">55</xref>
+                </sup>. The position of commissary, for its part, started to be filled with extremely acknowledged appointees, such as Johann Joachim Winckelmann (1763&#x2013;1768) and Filippo Aurelio Visconti (1785&#x2013;1799) soon after 1750
+                <sup>
+                    <xref ref-type="other" rid="FN56">56</xref>
+                </sup>. The former deputy, in particular, would have an enormous impact on the systematisation and understanding of the history of ancient art in Rome and the whole of Europe as well. Winckelmann would initiate the interpretation of antiquity into distinct styles, typologies, and iconographical series corresponding to specific historical chronologies and epochs, as he recorded in his major volumes 
+                <italic toggle="yes">Geschichte der Kunst des Alterthums</italic> of 1764 and 
+                <italic toggle="yes">Monumenti antichi inediti</italic> of 1767
+                <sup>
+                    <xref ref-type="other" rid="FN57">57</xref>
+                </sup>. The gradual codification of art history and its modern approaches, in this regard, not only complemented the establishment of public museums and galleries, but also concurred with the elaboration of more advanced juridical constructs on the heritage protection. Surely, it can be affirmed that the new administrative system set up to supervise, maintain, and defend the treasures of Rome ultimately functioned thanks to the emerging of such an innovative theoretical and methodological foundation.</p>
+        </sec>
+        <sec>
+            <title>	Legal aspects</title>
+            <p>To be valid and fully operative, legislation on the safeguard of heritage requires a clear definition of the items to which the rules are to be applied, together with a body of executives allocated for the implementation of the prescribed instructions. A further essential element is a set of legal instruments to be used in the procedures of management and control. The evolution of papal legislation between 1425 and 1750 &#x2013; described in the previous paragraphs &#x2013; reflected the gradual development of concepts, administrative systems, and tools devised to preserve the artefacts within the state. To give an example, after the impasse of the earlier edicts of the 1400s and 1500s, the 
+                <italic toggle="yes">Edict Sforza</italic> of 1646 proposed an early practice of right of first refusal to minimise the losses of antiquities coming from excavations
+                <sup>
+                    <xref ref-type="other" rid="FN58">58</xref>
+                </sup>. According to this procedure, no one granted with a licence to dig in Rome could sell the new findings prior to the commissary&#x2019;s inspection and estimation. Indeed, a suitable portion of these finds was to be allotted to the Apostolic Chamber, which was also entitled to confiscate all the pieces in case of infringements. In 1750, the 
+                <italic toggle="yes">Edict Valenti Gonzaga</italic> extended this system to the art market too, assigning the artefacts obtained here to the papal museums
+                <sup>
+                    <xref ref-type="other" rid="FN59">59</xref>
+                </sup>. In a wider perspective, it can be observed that legislation &#x2013; at least at its onset &#x2013; was largely constructed on castigatory procedures, such as confiscations, corporal punishments, loss of employment, and monetary charges. This implies that in the early stages, there was no instrument for preventing or circumventing the risks of smuggling and destruction of artefacts.</p>
+            <p>The procedure to grant &#x2013; or reject &#x2013; a licence can be interpreted within this background as well. The early introduction of the need to procure such a permit emerged in 1534, concurring with the creation of the post of commissary of antiquity and involving both excavations and exports
+                <sup>
+                    <xref ref-type="other" rid="FN60">60</xref>
+                </sup>. Although, initially, the approval of the permits remained in the hands of the pope, the new commissary was appointed to inspect the quarries, control the relocations of artefacts, and oversee the maintenance of the monuments in Rome. The 
+                <italic toggle="yes">Edict Sforza</italic> of 1646 also conferred him the faculty to endorse or veto licences &#x2013; which at this time needed to be validated by the camerlengo &#x2013; after &#x201c;determining the items&#x2019; quality and quantity&#x201d;
+                <sup>
+                    <xref ref-type="other" rid="FN61">61</xref>
+                </sup>, that is after having inspected both the works proposed for export and the new findings coming from excavations. In 1717, the fourth 
+                <italic toggle="yes">Edict Spinola</italic> assigned him extra supervision on any trade of artefacts within the state, including those that did not entail their export abroad, with the aim to strengthen control on the circulation of antiquities in Rome
+                <sup>
+                    <xref ref-type="other" rid="FN62">62</xref>
+                </sup>. As can be observed, within this set of evolving rules the essential parameters to regulate excavations and the art market were launched, while the broader legal constructs gradually progressed from a punitive system towards a preventive one. This means that the initial harsh punishments based on strappado and the loss of employment were replaced with time by methods that tended to inhibit and preclude misdemeanours. The procedures related to the licences&#x2019; approval followed this progression too. In 1750, with the 
+                <italic toggle="yes">Edict Valenti Gonzaga</italic>, the supervision on diggings and sales became more rigorous and thorough &#x2013; although not flawless. Within the new executive structure, the assessors for paintings, sculptures and other antiquities were expected to carry out full inspections on the artefacts, and prepare an advising report about their quality and conservation. Following this review, the commissary was entitled to approve or reject a licence, which needed to be countersigned by the camerlengo as well. Although infringements were not entirely eradicated, it is certain that the tightening of inspections and the growing efforts to prevent violations managed to reduce both illegal outflows and opportunities to remove the artefacts illegally.</p>
+            <p>A further instrument constituting a strong tool of prevention was the catalogue of artefacts, the register listing the &#x2018;important objects&#x2019; worthy of protection within each jurisdiction. In this case, the early models of state inventory are not to be found in the Papal States. To identify the origins of such a legal instrument we need to turn our attention to Sweden and the Republic of Venice, specifically between the late 1600s and the early 1700s
+                <sup>
+                    <xref ref-type="other" rid="FN63">63</xref>
+                </sup>. The popes, for their part, did not establish any form of record of the local artefacts before 1802, with the so-called 
+                <italic toggle="yes">Edict Doria Pamphilj</italic>
+                <sup>
+                    <xref ref-type="other" rid="FN64">64</xref>
+                </sup>. However, as these aspects can be considered part of a different historical and chronological narrative, we will redirect our focus to the early modern legislation flourished in Europe after the example of Rome, suggesting further literature in the footnotes.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusion</title>
+            <p>The role of the papal model in inspiring the formation of local systems of heritage protection in the Old Italian States was assessed soon after the unification of Italy in 1861
+                <sup>
+                    <xref ref-type="other" rid="FN65">65</xref>
+                </sup>. Further analysis has been offered by recent Italian scholarship connecting both juridical and artistic viewpoints, among which the studies of Emiliani of 1974 and Speroni of 1988 need to be remarked
+                <sup>
+                    <xref ref-type="other" rid="FN66">66</xref>
+                </sup>. Nonetheless, it is not difficult to understand that the legal paradigms experimented in Rome had a crucial function also in the increased attention on the heritage safeguarding in other European States. Indeed, if we accept that the papal examples were adopted in various areas of the Italian peninsula &#x2013; tailored and adapted to the local needs &#x2013; it is also likely that these were integrated within the domestic systems of other countries too.</p>
+            <p>The supremacy assigned to the legal traditions of both Roman law and Canon law in Europe offers a valid support in this perspective
+                <sup>
+                    <xref ref-type="other" rid="FN67">67</xref>
+                </sup>. Together with the large circulation of the 
+                <italic toggle="yes">Corpus iuris civilis</italic> and the 
+                <italic toggle="yes">Corpus iuris canonici</italic>, since the late Middle Ages increasing quantities of scholars and students converged to the universities in the centre-north Italy from all over the continent to study law
+                <sup>
+                    <xref ref-type="other" rid="FN68">68</xref>
+                </sup>. After a long training in the juridical disciplines, the graduates obtained a 
+                <italic toggle="yes">status</italic> to practice the legal professions in their homelands. In particular, it is known that the students belonging to the so-called 
+                <italic toggle="yes">Natio Germanorum</italic> &#x2013; the community of the expats from north-east Europe &#x2013; were extremely numerous in the universities of Bologna and Padua
+                <sup>
+                    <xref ref-type="other" rid="FN69">69</xref>
+                </sup>. Despite the fact that no class was explicitly devoted to the policies on the protection of antiquities, it cannot be excluded that knowledge on this form of legislation was also disseminated. Before the popes started issuing edicts on this matter, indeed interests on the preservation of old buildings had been shown by Roman emperors, such as Theodosius and Majorian
+                <sup>
+                    <xref ref-type="other" rid="FN70">70</xref>
+                </sup>; this was surely covered by the academic discussions on Roman and Canon law.</p>
+            <p>Yet, apart from specific juridical scholarship, it is easy to suppose that the benefits deriving from the custody of the &#x2018;local glories&#x2019; were evident to many monarchs and governors across Europe. As already mentioned regarding the popes, the heritage protection brought advantages not only to the society as a whole, but also above all to the sovereigns seeking to legitimise their authority and power. The first governments working in this direction were in the Kingdom of Castilla and the Grand Duchy of Tuscany, where instructions on the safeguard of local remains were published in the 1570s. The rulers&#x2019; interest in the symbolic significance of antiquities substantiated, in both cases, the protection of individual monuments, inscriptions, and coats of arms which highlighted the past of the respective country
+                <sup>
+                    <xref ref-type="other" rid="FN71">71</xref>
+                </sup>. In the seventeenth century, the authorities of Denmark and Sweden demonstrated a parallel concern when issuing rules to preserve the ancient runic inscriptions in their relevant kingdoms. The legitimation of the kings&#x2019; power passed through the recognition of the mythic and outstanding history of their people; the protection of such evidence, therefore, was required to construct their dynastic hegemony, which was to be affirmed within the state and the entirety of Europe
+                <sup>
+                    <xref ref-type="other" rid="FN72">72</xref>
+                </sup>. Sweden, as mentioned above, was also one of the first countries to found a register of the &#x2018;important materials&#x2019; to protect in 1666: it is not surprising that, at the outset, these consisted essentially of runic inscriptions.</p>
+            <p>The spread of the Enlightenment in the eighteenth century would bring about new vigorous perceptions on the importance of protecting the heritage, which were informed by cultural, juridical, artistic, and philosophical innovations all over Europe. In this context, several more countries followed the model of the Papal States, adjusting specific prescriptions to the features and the needs of the local traditions: Portugal, the Netherlands, the Kingdom of Naples, the Duchy of Parma, the Austrian Empire, some regions in the German areas, and possibly even more
+                <sup>
+                    <xref ref-type="other" rid="FN73">73</xref>
+                </sup>. Before concluding, a final significant aspect that emerged from the concepts on the heritage protection after the Enlightenment should be observed, concerning the functions of two conflicting tendencies in eighteenth-century culture and society. I refer to the &#x2018;cosmopolitanism&#x2019; of the scholars involved in the debates within the Republic of Letters across Europe, and the &#x2018;territorialism&#x2019; implied in the urgency to preserve ancient relics, monuments, and paintings within the pertinent country. In the perspective of this research, it can be affirmed that such an inconsistency substantiated the origin of the contemporary practices on heritage safeguard. Currently, the material works of the past are largely considered worldwide treasures that need to be protected for the advancement of universal culture and knowledge. On the other hand, no one would disagree that these should be retained in the place where they were originally created, or where they have been transferred after a legal exchange. This is one of the most prominent elements that &#x2013; among others &#x2013; I think should be maintained from these early-modern edicts.</p>
+        </sec>
+        <sec>
+            <title>Data availability</title>
+            <p>All data underlying the results are available as part of the article and no additional source data are required.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>Alessandro Fiandra, translations of the laws from Latin.</p>
+            <p>Amedeo Ceresa Genet, translations of the laws from early modern Italian, and proofreading (English language).</p>
+        </ack>
+        <fn-group>
+            <fn id="FN1">
+                <p>
+
+                    <sup>1</sup> This article derives from a brief excerpt that is included in my forthcoming monograph: 
+                    <xref ref-type="bibr" rid="ref-31">Mannoni, 2021a</xref>. In the past few months I have expanded, improved and enriched the initial research offered there. However, due to the long-term schedule of the publishing house, this article will be available to the readers before the monograph.</p>
+            </fn>
+            <fn id="FN2">
+                <p>
+
+                    <sup>2</sup> &#x201c;Difficile chiedere ai secoli della creativit&#x00e0; una riflessione cos&#x00ec; profondamente storicista qual &#x00e8; quella che fa nascere le categorie e ne definisce parallelamente l&#x2019;equivalente verbale&#x201d;. 
+                    <xref ref-type="bibr" rid="ref-19">Emiliani, 1974</xref>, 36. Translation completed by the author.</p>
+            </fn>
+            <fn id="FN3">
+                <p>
+
+                    <sup>3</sup> In this article, only the most important edicts are discussed. Further perspectives on the laws issued in the Papal States between the early 1400s and late 1700s are in 
+                    <xref ref-type="bibr" rid="ref-15">Condemi, 1987</xref>; 
+                    <xref ref-type="bibr" rid="ref-16">Curzi, 2004</xref>; 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>; 
+                    <xref ref-type="bibr" rid="ref-31">Mannoni, 2021a</xref>; 
+                    <xref ref-type="bibr" rid="ref-52">Speroni, 1988</xref>.</p>
+            </fn>
+            <fn id="FN4">
+                <p>
+
+                    <sup>4</sup> &#x201c;Civibus&#x201d;; &#x201c;Viarum, stratarum, platearum&#x201d;. 
+                    <xref ref-type="bibr" rid="ref-101">Tomassetti, 1857&#x2013;72</xref>, vol. 4, 716&#x2013;718. Translations of the laws from Latin completed by Alessandro Fiandra.
+                    <italic toggle="yes"/>
+            </p>
+            </fn>
+            <fn id="FN5">
+                <p>
+
+                    <sup>5</sup> 
+                    <xref ref-type="bibr" rid="ref-7">Bianca, 2008</xref>.</p>
+            </fn>
+            <fn id="FN6">
+                <p>
+
+                    <sup>6</sup> &#x201c;Locorum tam publicorum quam privatorum&#x201d;; &#x201c;aedificiorum lapideorum et ligneorum, parictum tignorum, banchorum, tectorum, tabulatuum, [&#x2026;] apothecarum et pontium, portarum, passorum, acquarum decuursum, canalium et meatuum, necnon urbanorum et rusticorum praediorum, pratorum&#x201d;. Tomassetti, 1857&#x2013;72, vol. 4, 716&#x2013;718.</p>
+            </fn>
+            <fn id="FN7">
+                <p>
+
+                    <sup>7</sup> &#x201c;Basilicae, ac Ecclesiae ejusdem Urbis, &amp; pia, ac religiosa loca, in quibus plurimae Sanctorum reliquiae resident&#x201d;. 
+                    <xref ref-type="bibr" rid="ref-21">Fea, 1802</xref>, 82&#x2013;84.</p>
+            </fn>
+            <fn id="FN8">
+                <p>
+
+                    <sup>8</sup> &#x201c;Demoliri, destruere, seu comminuere, aut rumpere, seu in calcem convertere&#x201d;. Ibid.</p>
+            </fn>
+            <fn id="FN9">
+                <p>
+
+                    <sup>9</sup> &#x201c;Porphyreticos, marmoreos, et alios diversorum generum, et colorum lapides&#x201d;. 
+                    <xref ref-type="bibr" rid="ref-21">Fea, 1802</xref>, 84&#x2013;86.</p>
+            </fn>
+            <fn id="FN10">
+                <p>
+
+                    <sup>10</sup> &#x201c;Antiqui marmoris, et saxi, literis, monumentisque incisi&#x201d;. This was a letter of appointment. 
+                    <xref ref-type="bibr" rid="ref-21">Fea, 1802</xref>, 91.</p>
+            </fn>
+            <fn id="FN11">
+                <p>
+
+                    <sup>11</sup> Regarding this crucial duality in Raphael&#x2019;s mission as prefect see the pamphlet of 
+                    <xref ref-type="bibr" rid="ref-51">Settis, 2020</xref>.</p>
+            </fn>
+            <fn id="FN12">
+                <p>
+
+                    <sup>12</sup> &#x201c;Damnabilius&#x201d;; &#x201c;statuas, signa, tabulas, marmoreas, atque aeneas, porphyreticos, et numidicos, aliorumque generum lapides&#x201d;; &#x201c;extra Urbem in alienas Terras, ac Civitates asportari&#x201d;. Edict with no title. 
+                    <xref ref-type="bibr" rid="ref-21">Fea, 1802</xref>, 94&#x2013;96.</p>
+            </fn>
+            <fn id="FN13">
+                <p>
+
+                    <sup>13</sup> A major record of the people appointed as commissary of antiquity between 1534 and 1836 is in 
+                    <xref ref-type="bibr" rid="ref-42">Ridley, 1992</xref>.</p>
+            </fn>
+            <fn id="FN14">
+                <p>
+
+                    <sup>14</sup> The edict (with no title) mentioned Marco Antonio Amulio and Alfonso Gesualdi as prefect and conservator respectively, but 
+                    <xref ref-type="bibr" rid="ref-42">Ridley, 1992</xref> do not record any data on them. Highly likely, both posts were ineffective.</p>
+            </fn>
+            <fn id="FN15">
+                <p>
+
+                    <sup>15</sup> &#x201c;Antiqua marmora, elaborata, et simplicia, statua, capita, metalla, gemmas, numismata, vasa, et poculas aenea, argentea, aurea, tabulas, et inscriptiones&#x201d;. 
+                    <xref ref-type="bibr" rid="ref-21">Fea, 1802</xref>, 99&#x2013;102.</p>
+            </fn>
+            <fn id="FN16">
+                <p>
+
+                    <sup>16</sup> &#x201c;Eaque ut antiqua vendere&#x201d;. Ibid.</p>
+            </fn>
+            <fn id="FN17">
+                <p>
+
+                    <sup>17</sup> Tomassetti, 1857&#x2013;72, vol. 8, 88&#x2013;95.</p>
+            </fn>
+            <fn id="FN18">
+                <p>
+
+                    <sup>18</sup> The development of the concepts of private and public property concerning the heritage is analysed in 
+                    <xref ref-type="bibr" rid="ref-56">Valsecchi &amp; de&#x2019; Prati, 2009</xref>.</p>
+            </fn>
+            <fn id="FN19">
+                <p>
+
+                    <sup>19</sup> Prominent studies in this field are by Rizzo, see for instance 
+                    <xref ref-type="bibr" rid="ref-43">Rizzo, 1986</xref> and 
+                    <xref ref-type="bibr" rid="ref-44">Rizzo, 2004</xref>.</p>
+            </fn>
+            <fn id="FN20">
+                <p>
+
+                    <sup>20</sup> 
+                    <xref ref-type="bibr" rid="ref-35">Schioppa, 2016</xref>.</p>
+            </fn>
+            <fn id="FN21">
+                <p>
+
+                    <sup>21</sup> 
+                    <xref ref-type="bibr" rid="ref-42">Ridley, 1992</xref>.</p>
+            </fn>
+            <fn id="FN22">
+                <p>
+
+                    <sup>22</sup> 
+                    <xref ref-type="bibr" rid="ref-35">Schioppa, 2016</xref> offers examples of other areas of law that encompassed the same change of approach.</p>
+            </fn>
+            <fn id="FN23">
+                <p>
+
+                    <sup>23</sup> &#x201c;Figure, Statue, Antichit&#x00e0;, Ornamenti, o lavori antichi come moderni, di marmo, metallo, o d&#x2019;altre pietre di qualsivoglia sorte, etiam in pezzi&#x201d;. 
+                    <italic toggle="yes">Edict Aldobrandini &#x2013; Prohibitione sopra l&#x2019;estrattione di Statue di marmo o di metallo, Figure, Antichit&#x00e0; e simili,</italic> issued under Pope Urban VIII. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 35&#x2013;36. Translations of the laws from early modern Italian completed by Amedeo Ceresa Genet.</p>
+            </fn>
+            <fn id="FN24">
+                <p>
+
+                    <sup>24</sup> The strappado, or corda, or reverse hanging, was a system of torture. The hands of the victims were tied behind their back, and they were suspended by a rope attached to the wrists.</p>
+            </fn>
+            <fn id="FN25">
+                <p>
+
+                    <sup>25</sup> &#x201c;Statue, figure, bassi rilievi, colonne, vasi, alabastri, agate, diaspri, amatisti, o altri marmi, gioie, e pietre lavorate, e non lavorate, torsi, teste, fragmenti, pili, piedestalli, inscrittioni, o altri ornamenti, fregi, medaglie, camei, o intagli di qualsivoglia pietra, overo metallo, oro, argento di qualsivoglia materia antica, o moderna, n&#x00e8; meno figure, o pitture antiche, o altre opere in qualsivoglia cosa sculpite, depinte, intagliate, commesse, lavorate [...]&#x201d;. 
+                    <italic toggle="yes">Edict Sforza &#x2013; Editto sopra l&#x2019;estrattioni, e cave di Statue, Figure, Intagli, Medaglie, Inscrittioni di marmo, di mischio, metallo, Oro, Argento, Gioie, e cose simili antiche e moderne,</italic> issued under Pope Innocent X. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 36&#x2013;41.</p>
+            </fn>
+            <fn id="FN26">
+                <p>
+
+                    <sup>26</sup>
+
+                    <italic toggle="yes">Edict Altieri &#x2013; Prohibitione sopra l&#x2019;estrattione di Statue di marmo o metallo, Figure, Antichit&#x00e0; e simili</italic> issued under pope Innocent XI. First 
+                    <italic toggle="yes">Edict Spinola &#x2013; Prohibitione sopra l&#x2019;estrattione di Statue di marmo, o metallo, Figure, Antichit&#x00e0; e simili</italic> issued under Pope Clement XI. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 41&#x2013;46.</p>
+            </fn>
+            <fn id="FN27">
+                <p>
+
+                    <sup>27</sup> 
+                    <xref ref-type="bibr" rid="ref-26">Haskell, 1963</xref>.</p>
+            </fn>
+            <fn id="FN28">
+                <p>
+
+                    <sup>28</sup> To understand the prolific exchanges of scholars, artists, knowledge and research methods in eighteenth-century Europe, see 
+                    <xref ref-type="bibr" rid="ref-48">Pinelli, 2009</xref>. See also 
+                    <xref ref-type="bibr" rid="ref-12">Brook &amp; Curzi, 2010</xref>.</p>
+            </fn>
+            <fn id="FN29">
+                <p>
+
+                    <sup>29</sup> 
+                    <xref ref-type="bibr" rid="ref-24">Fumaroli, 2007</xref> and 
+                    <xref ref-type="bibr" rid="ref-25">Fumaroli, 2018</xref>; 
+                    <xref ref-type="bibr" rid="ref-34">Mori &amp; Veca, 2019</xref>; 
+                    <xref ref-type="bibr" rid="ref-40">Piva, 2014b</xref>; 
+                    <xref ref-type="bibr" rid="ref-53">Susinno, 2000</xref>.</p>
+            </fn>
+            <fn id="FN30">
+                <p>
+
+                    <sup>30</sup> There is extensive literature available on this topic. I suggest: 
+                    <xref ref-type="bibr" rid="ref-4">Avery-Quash &amp; Huemer, 2019</xref>; 
+                    <xref ref-type="bibr" rid="ref-100">Bignamini &amp; Wilton, 1996</xref>; 
+                    <xref ref-type="bibr" rid="ref-9">Bignamini &amp; Hornsby, 2010</xref>; 
+                    <xref ref-type="bibr" rid="ref-10">Black, 1992</xref> and 
+                    <xref ref-type="bibr" rid="ref-11">Black, 2003</xref>; 
+                    <xref ref-type="bibr" rid="ref-14">Coen, 2018</xref>; 
+                    <xref ref-type="bibr" rid="ref-27">Hersant, 2001</xref>; 
+                    <xref ref-type="bibr" rid="ref-38">Piva, 2012</xref>.</p>
+            </fn>
+            <fn id="FN31">
+                <p>
+
+                    <sup>31</sup> Second 
+                    <italic toggle="yes">Edict Spinola &#x2013; Editto sopra le Pitture, Stucchi, Mosaici, et altre Antichit&#x00e0;, che si trovano nelle cave, Inscrizioni antiche, Scritture, e Libri manoscritti,</italic> issued under Pope Clement XI. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 46&#x2013;49.</p>
+            </fn>
+            <fn id="FN32">
+                <p>
+
+                    <sup>32</sup> &#x201c;Libri scritti a mano tanto Volgari, e Latini, quanto Greci, Ebraici [&#x2026;] divisi, rotti, e sciolti, come pure Instromenti, Processi, Inventarij, Lettere, Bolle, Brevi, Diplomi, e qualunque altra sorte di carte&#x201d;. In the Grand Duchy of Tuscany an early form of protection for the &#x2018;ancient written memories&#x2019; was established in 1606. Ibid.</p>
+            </fn>
+            <fn id="FN33">
+                <p>
+
+                    <sup>33</sup> Third 
+                    <italic toggle="yes">Edict Spinola</italic> on documents and archives, issued under pope Clement XI. Mentioned without its full title in 
+                    <xref ref-type="bibr" rid="ref-52">Speroni, 1988</xref>, 18&#x2013;20.</p>
+            </fn>
+            <fn id="FN34">
+                <p>
+
+                    <sup>34</sup> &#x201c;Stranieri, e sudditi d&#x2019;altri Principi, [&#x2026;] ogni volta che apparisca [&#x2026;] dimora in Roma per lo spazio di un mese&#x201d;. Fourth 
+                    <italic toggle="yes">Edict Spinola - Prohibizione sopra l&#x2019;estrazione di Statue di marmo, o metallo, Figure, Antichit&#x00e0; e simili</italic>, issued under Pope Clement XI. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 49&#x2013;50.</p>
+            </fn>
+            <fn id="FN35">
+                <p>
+
+                    <sup>35</sup> 
+                    <xref ref-type="bibr" rid="ref-10">Black, 1992</xref> and 
+                    <xref ref-type="bibr" rid="ref-11">Black, 2003</xref>; 
+                    <xref ref-type="bibr" rid="ref-6">Beltr&#x00e1;n 
+                        <italic toggle="yes">et al.</italic>, 2001</xref>.</p>
+            </fn>
+            <fn id="FN36">
+                <p>
+
+                    <sup>36</sup> First 
+                    <italic toggle="yes">Edict Albani &#x2013; Editto sopra li scalpellini, segatori di marmi, cavatori et altri,</italic> issued under Pope Benedict XIII. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 50&#x2013;51.</p>
+            </fn>
+            <fn id="FN37">
+                <p>
+
+                    <sup>37</sup> &#x201c;Statue, o frammenti di esse, Torsi, Teste, Bassi Rilievi, Piedistalli, Colonne, Capitelli, Inscrizioni, Vasi, Urne, ed altri ornamenti [...]&#x201d;. Ibid.</p>
+            </fn>
+            <fn id="FN38">
+                <p>
+
+                    <sup>38</sup> Second 
+                    <italic toggle="yes">Edict Albani &#x2013; Prohibizione dell&#x2019;estrazione delle Statue di marmo, o metallo, Pitture, Antichit&#x00e0; e simili,</italic> issued under Pope Clemente XII. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 52&#x2013;55.</p>
+            </fn>
+            <fn id="FN39">
+                <p>
+
+                    <sup>39</sup> &#x201c;Cose [&#x2026;] alterate e falsificate&#x201d;. Ibid.</p>
+            </fn>
+            <fn id="FN40">
+                <p>
+
+                    <sup>40</sup> &#x201c;Pitture, Mosaici, e Quadri, e altre simili opere tanto antiche, quanto moderne&#x201d;. Ibid.</p>
+            </fn>
+            <fn id="FN41">
+                <p>
+
+                    <sup>41</sup> 
+                    <xref ref-type="bibr" rid="ref-15">Condemi, 1987</xref>; 
+                    <xref ref-type="bibr" rid="ref-26">Haskell, 1963</xref>.</p>
+            </fn>
+            <fn id="FN42">
+                <p>
+
+                    <sup>42</sup> For a wider analysis of the market of paintings in Rome in 1700s, see 
+                    <xref ref-type="bibr" rid="ref-13">Coen, 2010</xref>.</p>
+            </fn>
+            <fn id="FN43">
+                <p>
+
+                    <sup>43</sup> It is noteworthy that the Grand Duchy of Tuscany issued a regulation to protect modern paintings in 1602. However, only the works of 19 selected Renaissance artists were banned from export at this stage. See 
+                    <xref ref-type="bibr" rid="ref-52">Speroni, 1988</xref>.</p>
+            </fn>
+            <fn id="FN44">
+                <p>
+
+                    <sup>44</sup>
+
+                    <italic toggle="yes">Edict Valenti Gonzaga &#x2013; Proibizione della estrazione delle Statue di marmo, o metallo, Pitture, Antichit&#x00e0; e Simili,</italic> issued under Pope Benedict XIV. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 56&#x2013;64. See also 
+                    <xref ref-type="bibr" rid="ref-15">Condemi, 1987</xref>; 
+                    <xref ref-type="bibr" rid="ref-52">Speroni, 1988</xref>.</p>
+            </fn>
+            <fn id="FN45">
+                <p>
+
+                    <sup>45</sup> The edicts issued in Rome at the beginning of 1800s were sharper and more comprehensive in their conceptual, legal and administrative constructs than the edict of 1750, but their analysis falls out the scope of this essay. I suggest: 
+                    <xref ref-type="bibr" rid="ref-16">Curzi, 2004</xref>; 
+                    <xref ref-type="bibr" rid="ref-32">Mannoni, 2021a</xref>; 
+                    <xref ref-type="bibr" rid="ref-47">Pinelli, 1978&#x2013;79</xref>.</p>
+            </fn>
+            <fn id="FN46">
+                <p>
+
+                    <sup>46</sup> The edicts issued in 1600s dealt with illegal excavations and smuggling altogether; in the early 1700s these issues were regulated within separate protocols. The edict of 1750 considered the two misdemeanors jointly, offering improved and effective solutions compared to the regulations of 1600s.</p>
+            </fn>
+            <fn id="FN47">
+                <p>
+
+                    <sup>47</sup> 
+                    <xref ref-type="bibr" rid="ref-50">Schnapp, 1996</xref>.</p>
+            </fn>
+            <fn id="FN48">
+                <p>
+
+                    <sup>48</sup> In 1755, the Bourbons explicitly cited the example of the Papal States in the introduction of their first 
+                    <italic toggle="yes">Prammatica</italic> on the protection of Neapolitan artefacts. 
+                    <xref ref-type="bibr" rid="ref-17">D&#x2019;Alconzo, 1999</xref>; 
+                    <xref ref-type="bibr" rid="ref-52">Speroni, 1988</xref>.</p>
+            </fn>
+            <fn id="FN49">
+                <p>
+
+                    <sup>49</sup> Illuminismo giuridico. 
+                    <xref ref-type="bibr" rid="ref-35">Schioppa, 2016</xref>.</p>
+            </fn>
+            <fn id="FN50">
+                <p>
+
+                    <sup>50</sup> 
+                    <xref ref-type="bibr" rid="ref-20">Fattori, 2011</xref>; 
+                    <xref ref-type="bibr" rid="ref-46">Rosa, 2000</xref>.</p>
+            </fn>
+            <fn id="FN51">
+                <p>
+
+                    <sup>51</sup> 
+                    <xref ref-type="bibr" rid="ref-35">Schioppa, 2016</xref>. See also 
+                    <xref ref-type="bibr" rid="ref-45">Romagnani, 2007</xref>.</p>
+            </fn>
+            <fn id="FN52">
+                <p>
+
+                    <sup>52</sup> &#x201c;Statue, Figure, Bassirilievi, Colonne, Vasi, Alabastri, Agate, Diaspri, Amatiste, ed altri marmi preziosi, Gioie, e Pietre lavorate, Dorsi, Teste, Frammenti, Pili, Piedestalli, Inscrizioni, o altri Ornamenti, Fregi, Medaglie, Camei, Corniole, Monete, o Intagli di qualsivoglia Pietra, ovvero Metallo, Oro, Argento di qualsivoglia materia antica, o moderna, n&#x00e9; meno Figure, Quadri, Pitture antiche, o altre opere in qualsivoglia cose sculpite, e depinte, intagliate, commesse, lavorate, o in altro modo fatte [&#x2026;] esistenti in Roma, e fuori Roma&#x201d;. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 56&#x2013;64.</p>
+            </fn>
+            <fn id="FN53">
+                <p>
+
+                    <sup>53</sup> The Capitoline Museum is traditionally indicated as the oldest museum in the world. In 1471 Pope Sixtus V donated a group of ancient bronzes to the citizens of Rome; these were placed in the buildings on the Capitoline hill, later converted into the Capitoline Museum.</p>
+            </fn>
+            <fn id="FN54">
+                <p>
+
+                    <sup>54</sup> 
+                    <xref ref-type="bibr" rid="ref-30">Liverani, 2000</xref>; 
+                    <xref ref-type="bibr" rid="ref-12">Brook &amp; Curzi, 2010</xref>. There is extensive literature on the foundation of the Capitoline and Vatican museums in eighteenth-century Rome, here I suggest the publications of Arata and Pietrangeli, in particular: 
+                    <xref ref-type="bibr" rid="ref-3">Arata, 2016</xref>; 
+                    <xref ref-type="bibr" rid="ref-37">Pietrangeli, 1985</xref>.</p>
+            </fn>
+            <fn id="FN55">
+                <p>
+
+                    <sup>55</sup> &#x201c;Pittura&#x201d;, &#x201c;Scultura&#x201d;, Camei, Medaglie, Incisioni, ed ogni altra sorte di Antichit&#x00e0;&#x201d;. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 56&#x2013;64.</p>
+            </fn>
+            <fn id="FN56">
+                <p>
+
+                    <sup>56</sup> 
+                    <xref ref-type="bibr" rid="ref-42">Ridley, 1992</xref>.</p>
+            </fn>
+            <fn id="FN57">
+                <p>
+
+                    <sup>57</sup> Publications on Wincklemann are countless. For the perspectives of this essay, I recommend: 
+                    <xref ref-type="bibr" rid="ref-40">Piva, 2014b</xref>; 
+                    <xref ref-type="bibr" rid="ref-41">Pommier, 2003</xref>; 
+                    <xref ref-type="bibr" rid="ref-49">Pinelli, 2010</xref>.</p>
+            </fn>
+            <fn id="FN58">
+                <p>
+
+                    <sup>58</sup>
+
+                    <italic toggle="yes">Edict Sforza &#x2013; Editto sopra l&#x2019;estrattioni, e cave di Statue, Figure, Intagli, Medaglie, Inscrittioni di marmo, di mischio, metallo, Oro, Argento, Gioie, e cose simili antiche e moderne,</italic> issued under Pope Innocent X. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 36&#x2013;41.</p>
+            </fn>
+            <fn id="FN59">
+                <p>
+
+                    <sup>59</sup>
+
+                    <italic toggle="yes">Edict Valenti Gonzaga &#x2013; Proibizione della estrazione delle Statue di marmo, o metallo, Pitture, Antichit&#x00e0; e Simili,</italic> issued under Pope Benedict XIV. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 56&#x2013;64.</p>
+            </fn>
+            <fn id="FN60">
+                <p>
+
+                    <sup>60</sup> Edict with no title, issued by Pope Paul III. 
+                    <xref ref-type="bibr" rid="ref-21">Fea, 1802</xref>, 94&#x2013;96.</p>
+            </fn>
+            <fn id="FN61">
+                <p>
+
+                    <sup>61</sup> &#x201c;A fede della qualit&#x00e0;, quantit&#x00e0; [&#x2026;] delle cose suddette&#x201d;. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 36&#x2013;41.</p>
+            </fn>
+            <fn id="FN62">
+                <p>
+
+                    <sup>62</sup> Fourth 
+                    <italic toggle="yes">Edict Spinola - Prohibizione sopra l&#x2019;estrazione di Statue di marmo, o metallo, Figure, Antichit&#x00e0; e simili</italic>, issued under Pope Clement XI. 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>, 49&#x2013;50.</p>
+            </fn>
+            <fn id="FN63">
+                <p>
+
+                    <sup>63</sup> 
+                    <xref ref-type="bibr" rid="ref-32">Mannoni, 2021b</xref>; 
+                    <xref ref-type="bibr" rid="ref-39">Piva, 2014a</xref>; 
+                    <xref ref-type="bibr" rid="ref-52">Speroni, 1988</xref>.</p>
+            </fn>
+            <fn id="FN64">
+                <p>
+
+                    <sup>64</sup> 
+                    <xref ref-type="bibr" rid="ref-16">Curzi, 2004</xref>; 
+                    <xref ref-type="bibr" rid="ref-31">Mannoni, 2021a</xref>; 
+                    <xref ref-type="bibr" rid="ref-47">Pinelli, 1978&#x2013;79</xref>.</p>
+            </fn>
+            <fn id="FN65">
+                <p>
+
+                    <sup>65</sup> The Papal States were annexed to Italy in 1870. See, for instance, the volumes on law of 
+                    <xref ref-type="bibr" rid="ref-22">Fiorelli, 1881</xref>; 
+                    <xref ref-type="bibr" rid="ref-33">Mariotti, 1892</xref>.</p>
+            </fn>
+            <fn id="FN66">
+                <p>
+
+                    <sup>66</sup> 
+                    <xref ref-type="bibr" rid="ref-19">Emiliani, 1974</xref>; 
+                    <xref ref-type="bibr" rid="ref-52">Speroni, 1988</xref>.</p>
+            </fn>
+            <fn id="FN67">
+                <p>
+
+                    <sup>67</sup> Essential studies on Roman law and Canon law starts with 
+                    <xref ref-type="bibr" rid="ref-29">Le Bras, 1976</xref> and 
+                    <xref ref-type="bibr" rid="ref-57">Vinogradoff, 1909</xref>.</p>
+            </fn>
+            <fn id="FN68">
+                <p>
+
+                    <sup>68</sup> Interesting perspectives on the circulation of juridical knowledge in early modern Europe are offered in 
+                    <xref ref-type="bibr" rid="ref-5">Bellomo, 1995</xref>; 
+                    <xref ref-type="bibr" rid="ref-28">Kelley, 1990</xref>; 
+                    <xref ref-type="bibr" rid="ref-35">Schioppa, 2016</xref>.</p>
+            </fn>
+            <fn id="FN69">
+                <p>
+
+                    <sup>69</sup> 
+                    <xref ref-type="bibr" rid="ref-23">Forlivesi, 2008</xref>.</p>
+            </fn>
+            <fn id="FN70">
+                <p>
+
+                    <sup>70</sup> As emerges in some constitutions included in the 
+                    <italic toggle="yes">Codex Theodosianus</italic> of 438, and in the 
+                    <italic toggle="yes">Novella Maiorani 4 &#x2013; De aedificiis publicis</italic> of 458. 
+                    <xref ref-type="bibr" rid="ref-2">Angeletti, 2019</xref>; 
+                    <xref ref-type="bibr" rid="ref-36">Pharr, 1952</xref>.</p>
+            </fn>
+            <fn id="FN71">
+                <p>
+
+                    <sup>71</sup> 
+                    <xref ref-type="bibr" rid="ref-18">Emiliani, 2015</xref>; 
+                    <xref ref-type="bibr" rid="ref-55">Lopez-Trujillo, 2006</xref>; 
+                    <xref ref-type="bibr" rid="ref-52">Speroni, 1988</xref>.</p>
+            </fn>
+            <fn id="FN72">
+                <p>
+
+                    <sup>72</sup> 
+                    <xref ref-type="bibr" rid="ref-1">Adlercreutz, 2017</xref>; 
+                    <xref ref-type="bibr" rid="ref-32">Mannoni, 2021b</xref>; 
+                    <xref ref-type="bibr" rid="ref-50">Schnapp, 1996</xref>.</p>
+            </fn>
+            <fn id="FN73">
+                <p>
+
+                    <sup>73</sup> I am currently working on a comparative analysis of the laws issued in these countries in the 1700s; my aim is to divulge it as soon as the results are satisfactory. From this list I have deliberately omitted the Republic of Venice, as it followed an individual path in elaborating quite particular regulations on the conservation of the local artefacts.</p>
+            </fn>
+        </fn-group>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Adlercreutz</surname>
+                            <given-names>T</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Royal Placat of 1666. Briefly about background and further importance.</article-title>In
+                    <italic toggle="yes">Historical perspective of Heritage Legislation. Balance between laws and values.</italic>ed. by R. Alatalu, A. Randla, L. Ingerpuu, D. Haapsal, Tallin: Icomos.<year> 2017</year>;<fpage>6</fpage>-<lpage>15</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://openarchive.icomos.org/id/eprint/2047/1/Adlercreutz.%20ICLAFI%202016-march2019.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Angeletti</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>La Novella Maiorani IV: piccolo antico esempio di tutela del patrimonio culturale.</article-title>In:
+                    <italic toggle="yes">Storia del Mondo.</italic>
+               <year> 2019</year>;<volume>89</volume>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.storiadelmondo.com/89/angeletti.maiorani.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Arata</surname>
+                            <given-names>FP</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Il secolo d&#x2019;oro del Museo Capitolino (1733-1838). Nascita e formazione della prima collezione pubblica di antichit&#x00e0;.</article-title>Roma: Campisano. 2016.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.antiquariditalia.it/it/gazzetta/biblioteca/365">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Avery-Quash</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Huemer</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>London and the emergence of a European Art Market, 1780-1820.</article-title>Los Angeles: Getty Research Institute.<year> 2019</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://searchworks.stanford.edu/view/13339381">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bellomo</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Common Legal Past of Europe, 1000-1800.</article-title>Washington: CUA Press,<year>1995</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/j.ctt4cg8mj">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Beltr&#x00e1;n</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Jos&#x00e9;</surname>
+                            <given-names>BC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Xavier</surname>
+                            <given-names>DR</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Illuminismo e Ilustraci&#x00f2;n. Le antichit&#x00e0; e il loro protagonisti in Spagna e in Italia nel XVIII secolo.</article-title>Roma: l&#x2019;Erma di Bretschneider.<year> 2001</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Illuminismo_e_ilustraci%C3%B3n.html?id=hvQLrpQZS7kC&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bianca</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Martino V, papa.</article-title>In:
+                    <italic toggle="yes">Dizionario Biografico degli Italiani Treccani.</italic>
+               <year> 2008</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.treccani.it/enciclopedia/papa-martino-v_%28Dizionario-Biografico%29/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-100">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bignamini</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wilton</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Grand Tour: The lure of Italy in the eighteenth- century.</article-title>London: Tate.<year>1996</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Grand_tour.html?id=hYQongEACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bignamini</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hornsby</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Digging and Dealing in Eighteenth-century Rome, 2 vols.</article-title>New Haven: Yale University Press,<year> 2010</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.goodreads.com/book/show/7075423-digging-and-dealing-in-eighteenth-century-rome">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Black</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The British abroad. The Grand Tour in the Eighteenth Century.</article-title>New York: Sutton.<year> 1992</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/The_British_Abroad.html?id=XHB2QgAACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Black</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Italy and the Grand Tour.</article-title>New Haven: Yale University Press,<year> 2003</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Brook</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Curzi</surname>
+                            <given-names>V</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Romae l&#x2019;Antico. Realt&#x00e0; e visione nel &#x2018; 700.</article-title>Exhibition catalogue (Rome, 30 November 2010 &#x2013; 6 March 2011). Milano: Skira.<year> 2010</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Coen</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Il mercato dei quadri a Roma nel diciottesimo secolo. La domanda, l&#x2019;offerta e la circolazione delle opere in un grande centro artistico europeo.</article-title>Firenze: Olschki.<year> 2010</year>.
+                    <pub-id pub-id-type="doi">10.1111/1754-0208.12681</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Coen</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Art Market in Rome in the Eighteenth Century. A Study on the Social History of Art.</article-title>Leiden: Brill.<year>2018</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://brill.com/view/title/26380?language=en">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Condemi</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Dal &#x2018;Decoro et Utile&#x2019; alle &#x2018;Antiche Memorie&#x2019;. La tutela dei beni artistici e storici negli antichi Stati Italiani.</article-title>Bologna: Nuova Alfa.<year> 1987</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Curzi</surname>
+                            <given-names>V</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Bene culturale e pubblica utilit&#x00e0;. Politiche di tutela a Roma tra Ancien R&#x00e9;gime e Restaurazione.</article-title>Roma: Minerva.<year> 2004</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.sissco.it/recensione-annale/valter-curzi-bene-culturale-e-pubblica-utilita-politiche-di-tutela-a-roma-tra-ancien-regime-e-restaurazione-2004/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>D&#x2019;Alconzo</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>L&#x2019;anello del Re. Tutela del patrimonio storico-artistico nel Regno di Napoli (1734-1824).</article-title>Firenze: Edifir.<year> 1999</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.wuz.it/libro/anello-del-Tutela/Alconzo-Paola/9788879700863.html">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Emiliani</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Leggi, Bandi, Provvedimenti per la tutela dei Beni Artistici e Culturali negli Antichi Stati Italiani: 1571-1860.</article-title>Firenze: Polistampa [1
+                    <sup>st</sup>ed. 1978, Bologna: Alfa].<year> 2015</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Emiliani</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Una politica dei Beni Culturali.</article-title>Torino: Einaudi.<year> 1974</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://patrimonioculturale.regione.emilia-romagna.it/chi-siamo/andrea-emiliani/cartella-pubblicazioni/politiche-culturali/una-politica-dei-beni-culturali.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fattori</surname>
+                            <given-names>MT</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Le fatiche di Benedetto XIV. Origine ed evoluzione dei trattati di Prospero Lambertini (1675-1758).</article-title>Roma: Storia e Letteratura.<year> 2011</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fea</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Relazione di un viaggio ad Ostia e alla Villa di Plinio detta Laurentina fatta dall&#x2019;avvocato Carlo Fea Presidente delle Antichit&#x00e0; Romane e al Museo Capitolino.</article-title>Roma: Fulgoni.<year> 1802</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.storiaeletteratura.it/catalogo/le-fatiche-di-benedetto-xiv/806">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fiorelli</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Leggi, decreti, ordinanze e provvedimenti generali emanati dai cessati governi d&#x2019;Italia per la conservazione dei monumenti e la esportazione delle opere d&#x2019;arte.</article-title>Roma: Salviucci.<year>1881</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Forlivesi</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Nationes universitarie e identit&#x00e0; nazionale. Il caso della Natio Germanica nello Studio di Padova.</article-title>In:
+                    <italic toggle="yes">Identit&#x00e0; nazionale e valori universali nella moderna storiografia filosofica. </italic>ed. by G. Piaia, R. Pozzo, Padova: Cleup.<year> 2008</year>;<fpage>19</fpage>-<lpage>33</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fumaroli</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>La Repubblica delle Lettere e l&#x2019;identit&#x00e0; Europea.</article-title>In:
+                    <italic toggle="yes">Intersezioni.</italic>
+               <year> 2007</year>;<volume>XXVII</volume>(<issue>2</issue>):<fpage>157</fpage>-<lpage>168</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.adelphi.it/libro/9788845932595">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fumaroli</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Republic of Letters.</article-title>New Haven: Yale University Press,<year>2018</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Haskell</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Patrons and Painters. A study in the relations between Italian art and society in the Age of the Baroque.</article-title>London: Chatto &amp; Windus.<year> 1963</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Patrons_and_Painters.html?id=SdOCCFciM7IC&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hersant</surname>
+                            <given-names>Y</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Gran Tour e Illuminismo.</article-title>In:
+                    <italic toggle="yes">Gran Tour. Viaggi narrati e dipinti.</italic>ed. by C. della Seta, 20-27. Napoli: Electa.<year> 2001</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kelley</surname>
+                            <given-names>DR</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Human Measure. Social thought in the Western legal tradition.</article-title>Cambridge: Harvard University Press,<year> 1990</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://archive.org/details/humanmeasuresoci00kell">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-55">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lopez-Trujillo</surname>
+                            <given-names>MA</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Patrimonio. La lucha por los Bienes Culturales Espa&#x00f1;oles (1500/1939).</article-title>Gij&#x00f2;n: Trea.<year>2006</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.trea.es/books/patrimonio-la-lucha-por-los-bienes-culturales-espanoles-1500-1939">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Le Bras</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>La Chiesa del diritto. Introduzione allo studio delle istituzioni ecclesiastiche.</article-title>Bologna: il Mulino.<year>1976</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://nantilus.univ-nantes.fr/vufind/Record/PPN236548891">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Liverani</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>La situazione delle collezioni di antichit&#x00e0; a Roma nel XVIII secolo.</article-title>In:
+                    <italic toggle="yes">Antikensammlungen des europ&#x00e4;ischen Adels im 18. Jahrhundert als Ausdruck einer europ&#x00e4;ischen Identit&#x00e4;t, Monumenta Artis Romanae XXVII.</italic>ed. by D. Boschung and H. von Hesberg, Conference proceedings (D&#x00fc;sseldorf, 7-10 February 1996). Mainz am Rhein: Zabern.<year>2000</year>;<fpage>66</fpage>&#x2013;<lpage>73</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://flore.unifi.it/handle/2158/239527#.YJOMrcThWM8">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mannoni</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Artistic canons and legal protection. Developing policies to preserve, administer and trade artworks in nineteenth-century Rome and Athens.</article-title>Frankfurt: Max Planck Institute for Legal History and Theory, Klostermann.<year>2021a</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Artistic_Canons_and_Legal_Protection.html?id=AfP-zQEACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mannoni</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Tutela del patrimonio in et&#x00e0; barocca. Tra Svezia e Stato Pontificio, il &#x2018;Placat&#x2019; per la protezione delle antichit&#x00e0; scandinave.</article-title>In:
+                    <italic toggle="yes">Il Capitale Culturale.</italic>(forthcoming).<year>2021b</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mariotti</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>La legislazione delle Belle Arti.</article-title>Roma: Unione Cooperative.<year>1892</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://archive.org/details/gri_33125000047189">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mori</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Veca</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Illuminismo. Storia di un&#x2019;idea plurale.</article-title>Roma: Carrocci.<year>2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.carocci.it/index.php?option=com_carocci&amp;task=schedalibro&amp;Itemid=72&amp;isbn=9788843094202">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-36">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pharr</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Theodosian Code and Novels, and the Sirmondian Constitutions.</article-title>Princeton: Princeton University Press,<year>1952</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://library.princeton.edu/byzantine/translation/15258">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-37">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pietrangeli</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>I Musei Vaticani. Cinque Secoli di Storia.</article-title>Roma: Quasar.<year>1985</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/I_musei_vaticani.html?id=cazpAAAAMAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-41">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pommier</surname>
+                            <given-names>&#x00c9;</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Winckelmann, inventeur de l&#x2019;histoire de l&#x2019;art.</article-title>Paris: Gallimard.<year>2003</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Histoires/Winckelmann-inventeur-de-l-histoire-de-l-art">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-47">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pinelli</surname>
+                            <given-names>OR</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Carlo Fea e il Chirografo del 1802. Cronaca, giudiziaria e non, delle prime battaglie per la tutela delle Belle Arti.</article-title>In:
+                    <italic toggle="yes">Ricerche di Storia dell&#x2019;Arte</italic>.<year>1978-79</year>; (<issue>8</issue>):<fpage>27</fpage>&#x2013;<lpage>41</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.academia.edu/25583024/Carlo_Fea_e_il_Chirografo_del_1802_cronaca_giudiziaria_e_non_delle_prime_battaglie_per_la_tutela_delle_Belle_Arti_in_Ricerche_di_Storia_dell_Arte_1978_9_n_8">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-48">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pinelli</surname>
+                            <given-names>OR</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Le arti nel Settecento Europeo.</article-title>Torino: Einaudi.<year>2009</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.einaudi.it/catalogo-libri/arte-e-musica/arte/le-arti-nel-settecento-europeo-orietta-rossi-pinelli-9788806197483/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-49">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pinelli</surname>
+                            <given-names>OR</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Wincklemann e la storiografia artistica della seconda met&#x00e0; del Settecento.</article-title>In:
+                    <italic toggle="yes">Roma e l&#x2019;Antico. Realt&#x00e0; e visione nel &#x2018;700.</italic>(cit.),<year>2010</year>;<fpage>45</fpage>&#x2013;<lpage>50</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.urbis-libnet.org/vufind/Record/Bibliotheca%20Hertziana.BV038124816/Description">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-39">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Piva</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Anton Maria Zanetti e la tradizione della tutela delle opere d&#x2019;arte a Venezia: dalla critica d&#x2019;arte all&#x2019;attivit&#x00e0; sul campo.</article-title>In:
+                    <italic toggle="yes">Il restauro come atto critico. Venezia e il suo territorio.</italic>ed. by C. Piva, Venezia: edizioni Ca&#x2019; Foscari.<year>2014a</year>;<fpage>83</fpage>&#x2013;<lpage>114</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-40">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Piva</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>La Repubblica delle Lettere e il dibattito sul metodo (1681-1765).</article-title>In:
+                    <italic toggle="yes">La Storia delle storie dell&#x2019;arte.</italic>ed. by O. Rossi Pinelli, Torino: Einaudi.<year>2014b</year>;<fpage>91</fpage>&#x2013;<lpage>179</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-38">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Piva</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>&#x2018;The true estimation&#x2019; e &#x2018;un certo convenzionale valore&#x2019;. Tutela e mercato delle sculture antiche a Roma alla fine del Settecento.</article-title>In:
+                    <italic toggle="yes">Il Capitale Culturale</italic>.<year>2012</year>; (<issue>5</issue>):<fpage>9</fpage>&#x2013;<lpage>25</lpage>.
+                    <pub-id pub-id-type="doi">10.13138/2039-2362/174</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-42">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ridley</surname>
+                            <given-names>RT</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>To protect the Monuments. The Papal Antiquarian.</article-title>In:
+                    <italic toggle="yes">Xenia Antiqua I</italic>.<year>1992</year>;<fpage>117</fpage>&#x2013;<lpage>154</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.openbibart.fr/item/display/10068/946991">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-43">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rizzo</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Il latino nell&#x2019;Umanesimo.</article-title>In:
+                    <italic toggle="yes">Letteratura italiana.</italic>ed. by A. Asor Rosa, Torino: Einaudi.<year>1986</year>;<fpage>379</fpage>&#x2013;<lpage> 408</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-44">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rizzo</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>I latini dell&#x2019;umanesimo.</article-title>In:
+                    <italic toggle="yes">Il latino nell&#x2019;et&#x00e0; dell&#x2019;umanesimo.</italic>ed. by G. Bernardi Perini, Conference proceedings (Mantua, 26-27 ottobre 2001). Firenze: Olschki.<year>2004</year>;<fpage>51</fpage>&#x2013;<lpage>95</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.torrossa.com/it/resources/an/2278822">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-45">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Romagnani</surname>
+                            <given-names>GP</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>L&#x2019;idea di &#x2018;Repubblica delle Lettere&#x2019; tra Ludovico Antonio Muratori e Scipione Maffei.</article-title>In:
+                    <italic toggle="yes">L&#x2019;Arcadia e l&#x2019;Accademia degli Innominati di Bra.</italic>ed. by A. Mango, Milano: Angeli.<year>2007</year>;<fpage>109</fpage>&#x2013;<lpage>125</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-46">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rosa</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Benedetto XIV, Prospero Lambertini.</article-title>In:
+                    <italic toggle="yes">Enciclopedia dei Papi Treccani</italic>.<year>2000</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.treccani.it/enciclopedia/benedetto-xiv_%28Enciclopedia-dei-Papi%29/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-35">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Schioppa</surname>
+                            <given-names>AP</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Storia del diritto in Europa. Dal medioevo all&#x2019;et&#x00e0; contemporanea.</article-title>Bologna: il Mulino.<year>2016</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.libraccio.it/libro/9788815265234/antonio-padoa-schioppa/storia-del-diritto-in-europa-dal-medioevo-all%27eta-contemporanea.html">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-50">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Schnapp</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The discovery of the Past. The origins of Archaeology.</article-title>London: British Museum.<year>1996</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/The_Discovery_of_the_Past.html?id=Ay9mAAAAMAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-51">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Settis</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Modernit&#x00e0; di Raffaello. Dalla lettera Leone X alla Costituzione italiana.</article-title>Roma: Ministero per i beni e le attivit&#x00e0; culturali e per il turismo, Scuderie del Quirinale.<year>2020</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-52">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Speroni</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>La tutela dei Beni Culturali negli Stati Italiani preunitari.</article-title>Milano: Giuffr&#x00e8;.<year>1988</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/La_tutela_dei_beni_culturali_negli_stati.html?id=UCx1swEACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-53">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Susinno</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Artisti gentiluomini e la Repubblica delle Lettere.</article-title>In:
+                    <italic toggle="yes">Aequa Potestatis. Le arti in gara a Roma nel Settecento.</italic>ed. by A. Cipriani, Roma: De Luca.<year>2000</year>;<fpage>14</fpage>&#x2013;<lpage>18</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-101">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tomassetti</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Bullarum diplomatum et privilegiorum sanctorum romanorum pontificum, 23 vols.</article-title>Augusta Taurinorum: Franco, Fory, Dalmazzo.<year>1857&#x2013;72</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-56">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Valsecchi</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>de&#x2019; Prati</surname>
+                            <given-names>CC</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Tutelare il patrimonio culturale in Italia. Uno sguardo storico.</article-title>In:
+                    <italic toggle="yes">Rivista Giuridica di Urbanistica</italic>.<year>2009</year>; (<issue>4</issue>):<fpage>504</fpage>&#x2013;<lpage>578</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-57">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Vinogradoff</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Roman Law in Medieval Europe.</article-title>London: Harper &amp; Brothers.<year>1909</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Roman_Law_in_Mediaeval_Europe.html?id=dfdb4obLH98C&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report26890">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.14609.r26890</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Ventra</surname>
+                        <given-names>Stefania</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r26890a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-6187-9424</uri>
+                </contrib>
+                <aff id="r26890a1">
+                    <label>1</label>Archivio del Moderno, Accademia di Architettura, Universit&#x00e0; della Svizzera Italiana, Balerna, Switzerland</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>6</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Ventra S</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport26890"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13539.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This article deals with the legislation on the protection of the archaeological and artistic heritage developed in the Papal States between the 15th and the 18th Century, proposing to acknowledge it as a paradigm that inspired the heritage safeguard in Modern Europe.</p>
+            <p> </p>
+            <p> The protection of the heritage in the Papal States was at first linked to antiquity and in particular to architecture, that is, to real estate. Starting from the sixteenth century, the article follows the increasingly specific and extensive insertion of movable objects to protection, and above all of modern heritage from 1624 (Edict Aldobrandini) onwards.</p>
+            <p> </p>
+            <p> Acutely, the author considers the legislative outcomes &#x00a0;against the occurrences in the history of culture, taste and collecting in the respective moments; at the same time, she also focuses on much less common issues in the studies on this subject, such as the reception of legislation. One of the strong points of the reasoning is, in fact, the consideration of the language used in the edicts, that is Latin, as a limit to the understanding, dissemination and compliance with the regulations. Rightly, the laws on the protection of the heritage are also analyzed in the context of the broader legislation issued in &#x00a0;the various historical moments, and although the text summarizes the contents of a monograph in some parts, this always&#x00a0;meets the elements useful to follow the reasoning.</p>
+            <p> </p>
+            <p> The chronological progression finally reaches the eighteenth century and the role of Cardinal Silvio Valenti Gonzaga in the pontificate of Benedict XIV. These virtuous figures, indeed, operated in a favorable philosophical, religious and cultural context in general. The heritage protection regards now all kind of objects (also modern pictures, sculptures, mosaics, and so on). &#x00a0;In this regards, it should be emphasized that the attention to modern works goes hand in hand with the establishment of the social history of the artists, and the recognition of painting and sculpture as liberal arts.</p>
+            <p> </p>
+            <p> Rome in the mid-Eighteenth century combines improved legislation, museums, archaeological excavations, erudition, as well as increased presence of administrative offices. All these factors will produce the State apparatus for the protection of the artistic heritage that will constitute a model for the whole of the Enlightened Europe, according to an updated concept that aims to merge prevention as well as punishment.</p>
+            <p>If any, are all the source data and materials underlying the results available?</p>
+            <p>Yes</p>
+            <p>Is the work original in terms of material and argument?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and cogently presented?</p>
+            <p>Yes</p>
+            <p>Is the argument persuasive and supported by evidence?</p>
+            <p>Yes</p>
+            <p>Does the research article contribute to the cultural, historical, social understanding of the field?</p>
+            <p>Yes</p>
+            <p>Does it sufficiently engage with relevant methodologies and secondary literature on the topic?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Art History; History of conservation and restoration of cultural heritage</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report26891">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.14609.r26891</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Costa Lima</surname>
+                        <given-names>Madalena</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r26891a1">1</xref>
+                    <xref ref-type="aff" rid="r26891a2">2</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2696-9958</uri>
+                </contrib>
+                <aff id="r26891a1">
+                    <label>1</label>ARTIS &#x2013; Instituto de Hist&#x00f3;ria da Arte da Faculdade de Letras, Universidade de Lisboa, Lisboa, Portugal</aff>
+                <aff id="r26891a2">
+                    <label>2</label>CLEPUL &#x2013; Centro de Literaturas e Culturas Lus&#x00f3;fonas e Europeias da Faculdade de Letras, Universidade de Lisboa, Lisboa, Portugal</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>1</day>
+                <month>6</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Costa Lima M</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport26891"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13539.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The thesis proposed in this paper is presented in an original way, regarding the arguments, or the use of these arguments, for which the author, C. Mannoni, is to be congratulated. Although the work fills important gaps in heritage and cultural studies areas &#x2013; specially considering the eighteenth century &#x2013;, and so in the history of art, the century-old Italian legislation related to heritage, in which the papal edicts are included, has been published and highlighted as relevant sources by several historians, or researchers on art and heritage studies field. The most notable of these authors is possibly A. Emilliani, the first to be quoted in the paper, and properly referred to some other times along the text. Indeed, we owe him the most important compilation of the legislation on &#x201c;artistic and cultural and objects&#x201d; (&#x201c;beni artistici e culturali&#x201d;) produced in the Italian states between the sixteenth and nineteenth centuries, a work published with an &#x201c;Introduzione&#x201d; by Emilliani, whose interpretation Mannoni follows closely.</p>
+            <p> </p>
+            <p> The juridical sources related to Italy are carefully chosen and correctly used to serve the thesis presented in the paper. However, the idea that the papal legislation was a &#x201c;paradigm&#x201d; for &#x201c;Europe&#x201d; would benefit with a few more lines dedicated to the situation in other European states, as they are fundamental to support the thesis, and are only denoted, or properly articulated, in the &#x201c;Conclusion&#x201d; of the work. Probably, the work would profit from the use of other than juridical sources, such as letters, literature or historiographical sources, which demands a deeper longer research, perhaps not required to the length or scope of a paper. The same is valid for the secondary literature referred in the work. For instance, a Portuguese researcher has suggested that the Portuguese law on &#x201c;ancient monuments&#x201d; from 1721 was inspired by the Roman legislation (Paulo Oliveira Ramos, &#x201c;O alvar&#x00e1; r&#x00e9;gio de 20 de agosto de 1721 [&#x2026;]).</p>
+            <p> </p>
+            <p> I find it fundamental to consider Alo&#x00ef;s Riegl&#x2019;s 
+                <italic>Der modern Denkmalkultus: sein wesen und seine Entstehung</italic>&#x00a0;(&#x201c;The modern cult of the Monuments: its character and origin&#x201d;), the first systematic analysis of heritage values, a seminal work, published in 1903, which is still the most methodical, and possibly the most important, text on the notions of heritage, as Fran&#x00e7;oise Choay shows in her 
+                <italic>L&#x2019;allegorie du patrimoine</italic>, a famous essay on heritage awareness, many times edited and translated, that would also enriched Mannoni&#x2019;s paper. The references of Riegl and Choay are essential to clarify the concept of &#x201c;heritage&#x201d;, &#x201c;historical and artistic heritage&#x201d;, the key concept of the paper. Indeed, this basic, central notion, a modern notion that definitely emerged in Europe during the eighteenth century, is not suitably clarified in the paper, a text where the historical value is perhaps never plainly highlighted, and tends to be mixed with the artistic value. The legislative authorities were first alert and motivated with/by the memory values of the objects &#x2013; &#x201c;
+                <italic>marmorum et lapidum&#x201d;</italic>, &#x201c;slabs&#x201d;, &#x201c;stones&#x201d;, &#x201c;marbles, both raw and worked&#x201d;, as designated in the sources, were primarily esteemed as ancient artifacts. As so, the author may consider refining assertions such as &#x201c;Conservation results from the identification of an object as an artwork&#x201d;, with a view of enhancing the scientific robustness that the paper undeniably merits, as it gives a new, more enlarged reading of the papal edits, and fills a gap in the historiography.</p>
+            <p>If any, are all the source data and materials underlying the results available?</p>
+            <p>Yes</p>
+            <p>Is the work original in terms of material and argument?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and cogently presented?</p>
+            <p>Yes</p>
+            <p>Is the argument persuasive and supported by evidence?</p>
+            <p>Partly</p>
+            <p>Does the research article contribute to the cultural, historical, social understanding of the field?</p>
+            <p>Yes</p>
+            <p>Does it sufficiently engage with relevant methodologies and secondary literature on the topic?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Heritage and Theory of Restoration; Enlightenment culture; History of Art.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

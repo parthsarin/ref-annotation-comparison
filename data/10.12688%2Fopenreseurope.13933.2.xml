@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="methods-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.13933.2</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Method Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>A policy response to workplace innovation for the rail sector</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 2; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>CARRANZA</surname>
+                        <given-names>GARAZI</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-9129-5849</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>De la Rua</surname>
+                        <given-names>Oihane</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2074-9751</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Sanchez</surname>
+                        <given-names>Bego&#x00f1;a</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Mafex-Spanish Railway Association, Bizkaia, Spain</aff>
+                <aff id="a2">
+                    <label>2</label>Tecnalia Research and Innovation, Bizkaia, Spain</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:garazi@mafex.es">garazi@mafex.es</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>8</day>
+                <month>11</month>
+            <year>2021</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2021</year>
+            </pub-date>
+         <volume>1</volume>
+            <elocation-id>108</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>29</day>
+                    <month>10</month>
+               <year>2021</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 CARRANZA G et al.</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/1-108/pdf"/>
+            <abstract>
+                <p>The rail sector is a sector with a significant impact on European industry and it is therefore important that it follows the current innovative trends. We live in an increasingly digitised society but, until now, digitisation has not been a priority issue for the sector as the rules that apply to the entire value chain have hindered the digitisation process. Even so, technologies are not enough, and innovation must be implemented in companies at the organisational and employee level. The RailActivation project has experimented with workplace innovation to foster innovation capabilities in the railway sector, providing elements for companies to remain as innovative and competitive as possible, as well as to have additional tools to adapt to these challenges. In order to help in this process, this article proposes a series of recommendations based on the lessons learnt during the implementation of the project. These recommendations establish a link between policy and workplace innovation practices and could be a reference framework for further research and policy. The suggested policy recommendations are focused on companies and policy makers and are based on the results obtained from the different consultations with the stakeholders involved in this research.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Workplace Innovation</kwd>
+                <kwd>Open Innovation</kwd>
+                <kwd>rail</kwd>
+                <kwd>small and medium enterprises</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>861887</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under grant agreement No 861887 (Activating Inclusive Growth In Railway SMEs By Workplace Innovation [RailActivation]). </funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+        <notes>
+            <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 1</title>
+                <p>The last modifications of the article have been made on the basis of the comments and changes proposed by reviewer . Firstly, the lack of accuracy in the explanation of the sentence "The COVID-19 crisis has highlighted the need to accelerate innovation processes, both technological and non-technological innovations, in order to ensure that industry has digitalization at its core" was pointed out. To this end, the railway sector has been contextualized to emphasize the importance of digitization and how technological and non-technological aspects would favor the continuous innovation of the sector. Furthermore, the necessary means for reproduction have been provided throughout the article, linking it to the project website where the documents related to the project can be found. Regarding the methodology, the article is based on the results of the RailActivation Project execution. The &#x00a0;article follows the project methodology , therefore, minor changes has been made regarding the proposed methodology &#x00a0;as according to the Data Protection law some information is confidential and cannot be published.</p>
+            </sec>
+        </notes>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>Businesses face daily challenges as a result of an increasingly globalised economy. Rapid technological advances, changing demographics and rapidly evolving consumer demands require companies to constantly reinvent themselves in order to survive, and to do so, management teams need the support of the entire workforce. &#x2018;Workplace innovation&#x2019; (WI) defines organisational practices that enable employees at different levels to use and develop their skills, knowledge, experience, and creativity to the fullest, in order to improve the company's performance as well as their own well-being. The RailActivation project has experimented with workplace innovation in the railway sector to keep companies competitive by providing them with the tools they need to adapt to the new challenges in the best possible way. This article develops a series of recommendations, for both companies and policy makers, that are intended to serve as a reference for future research in the field of workplace innovation as well as to help companies and policy makers who intend to implement related actions and programmes. </p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>The rail sector is synonymous of technology, efficiency, and sustainability, being one of the most energy-efficient transport modes, responsible for 9% of passenger and 7% of freight transport (
+                <xref ref-type="bibr" rid="ref-16">Tattini &amp; Teter, 2020</xref>). The railway industry is an important sector for Europe, with a turnover of 49,2 billion Euros and an expected annual growth rate of 2,3% until 2025 (
+                <xref ref-type="bibr" rid="ref-15">Schwilling, 2020</xref>).</p>
+            <p>The sector has experienced annual growth of 3,6% since 2017, largely driven by significant investments in rolling stock, infrastructure and rail control. In addition, the number of vehicles and amount of track kilometres in operation has grown significantly (
+                <xref ref-type="bibr" rid="ref-15">Schwilling, 2020</xref>).</p>
+            <p>The COVID-19 crisis has brought about rapid and disruptive changes, putting digitalisation at the core.  The railway sector is a slowly evolving sector, and the needs identified have highlighted the need to accelerate innovation processes, both technological and non-technological, to put digitalisation at the heart of the industry. Non-technological aspects will play an important role as much as technological aspects, as they are necessary to foster innovation capabilities that allow companies to continue innovating in order to adapt to changes more quickly and smoothly.  In addition, technologies and non-technological aspects of innovation will also play a vital role in the organisational culture of companies, as a new revolution in the demand for supplies is taking place for which companies must be prepared.</p>
+            <p>RailActivation (
+                <ext-link ext-link-type="uri" xlink:href="http://railactivation.eu/the-project/">http://railactivation.eu/the-project/</ext-link>) aims to help in the solution of this problem, and its main objective is to create and pilot an organisational mechanism for the railway sector that will help in the adoption of innovation in the workplace, with special emphasis on small and medium enterprises (SMEs) in the railway sector, in order to create an open innovation ecosystem. Improving innovation services and technological development will be more important than ever, and workplace innovation (WI) will play a vital role on that process.</p>
+            <p>According to the European Commission (EC) if companies want to remain competitive, they must invest in both technological and non-technological innovation and WI presents an opportunity for this. However, rail sector innovation is focus on technological developments to adapt to market requirements, therefore WI has not been the priority for the sector up to date. RailActivation will develop new mechanisms and tools to anticipate the effects of digitalisation in the railway sector and design the transformation of the innovation process for the EU railway industry, working from the inside of companies to the outside, with the customer at the heart of the activities and enabling workers to be part of the change through WI. According to several studies, workplace innovation improves employees&#x2019; motivation as well as offering better working conditions. This translates into an increase of the productivity at work, a greater capacity to develop innovation, a better resilience to changes in the marker and a greater competitiveness of the company. The European Workplace Innovation Network (EUWIN) initiative evidenced that the productivity of entities applying WI has been 20-60% (
+                <xref ref-type="bibr" rid="ref-17">Totterdill 
+                    <italic toggle="yes">et al.</italic>, 2016</xref>) higher than in the ones implementing traditional methods.</p>
+            <p>The rail industry, especially SMEs, need to fast track their technological innovation in order to remain competitive in the digital revolution. Technologies are not enough for this; innovation needs to be applied in companies at both the organizational and employees&#x2019; levels. RailActivation project tests WI in railway SMEs to foster innovation capacities, providing adapted methodologies for companies to remain as innovative and competitive as possible as well as to have additional tools to adapt to these challenges. To achieve this, RailActivation has developed and tested a pilot scheme based on WI, as all enterprises should be aware of the benefits that WI brings for their organizations. WI should be part of the company&#x00b4;s business models and strategies. For this reason, the objectives of the project include the following: raise awareness and dissemination of WI, and the creation of an inter-regional networks to assist in the process.</p>
+            <p>The recommendations presented in this report summarize the results obtained by the RailActivation Project, which has received funding from the European Union&#x2019;s Horizon 2020 research and innovation program. The project starts by investigating and analysing the key competences and skills that presently characterize the railway manufacturing sector (
+                <xref ref-type="bibr" rid="ref-2">Carranza 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>); as a state of the art. RailActivation is a pioneer project that has managed to pilot test WI techniques within the rail sector, a sector that lacks from innovation. The number of stakeholders reached with the project by the different campaigns and interactions show the impact that RailActivation has had. The pilot scheme outlined has proven to be a very good tool for companies from the sector to implement WI and could be a reference for other sectors as it could be easily transferred. The expected impacts of the project are the creation of a new context based on the support mechanisms created for WI in SMEs, more SMEs benefiting from the opportunities created by the WI, the creation of new forms of innovation in the workplace, improved conditions for implementing new technologies, and a more skilled workforce and more resilient enterprises.</p>
+            <p>The project is carried out by an international consortium formed by: MAFEX- Spanish Railway Association (
+                <ext-link ext-link-type="uri" xlink:href="https://www.mafex.es/en/">https://www.mafex.es/en/</ext-link>), TECNALIA Research &amp; Innovation (
+                <ext-link ext-link-type="uri" xlink:href="https://www.tecnalia.com/en/">https://www.tecnalia.com/en/</ext-link>), DITECFER (
+                <ext-link ext-link-type="uri" xlink:href="https://www.ditecfer.eu/en/">https://www.ditecfer.eu/en/</ext-link>), Rail.S (
+                <ext-link ext-link-type="uri" xlink:href="https://rail-s.de/">https://rail-s.de/</ext-link>), and QUINN&#x2014;Consorzio Universitario Qualit&#x00e0; e Innovazione (
+                <ext-link ext-link-type="uri" xlink:href="https://www.consorzioquinn.it/en/homepage/">https://www.consorzioquinn.it/en/homepage/</ext-link>). This paper provides policy recommendations to establish a link between WI policies and practices. These recommendations are a framework of reference for additional research as well as for companies and policy makers to put in place additional specific measures and programs that could support the identified needs.</p>
+        </sec>
+        <sec>
+            <title>Theoretical background</title>
+            <p>Workplace innovation is a new and emerging concept (
+                <xref ref-type="bibr" rid="ref-3">Kesselring 
+                    <italic toggle="yes">et al.</italic>, 2014</xref>) that combines structural and cultural practices in order to increase the involvement of employees in the changes taking place in the company as well as in the organisational renewal of it. Within workplace innovations agendas such as innovation, digitalisation, productivity, job quality, lifelong learning, wellbeing at work, skills, and social dialogue are integrated (
+                <xref ref-type="bibr" rid="ref-14">Pot 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>).</p>
+            <p>WI is a comprehensive approach to create fair working. The key principles to achieving this are defined in the European Pillar of Social Rights act (&#x2018;Fair Working Conditions&#x2019;) (
+                <xref ref-type="bibr" rid="ref-18">European Commission, 2021</xref>) and are innovative forms of work that ensure quality working conditions are to be promoted, social dialogue, and employee participation, a high level of protection of the employees&#x2019; health and safety at work and environment which is adapted to the professional needs of the employees which also enables them to prolong their participation in the labour market (
+                <xref ref-type="bibr" rid="ref-14">Pot 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>).</p>
+            <p>According to the European Commission, workplace innovation improves the performance and working life of employees and serves as a tool for fostering workers&#x2019; creativity through organisational change. It seeks to combine leadership with the practical knowledge gained by frontline workers, thus involving the different parts of the process in the changes. Innovation in the workplace is based on open dialogue between different parts involved, not everyone in the process has the same knowledge, experience and learning, and sharing results in the creation of new ways of working through participatory actions (
+                <xref ref-type="bibr" rid="ref-3">Kesselring 
+                    <italic toggle="yes">et al.</italic>, 2014</xref>).</p>
+            <p>WI results are evidenced by many studies. According to Totterdil 
+                <italic toggle="yes">et al.</italic>, if we analyse the &#x201c;European workers percentage involved in improving work organization or processes this numbers are not really high (47%), neither the percentage of consulted employees before setting the targets for their work (47%)&#x201d; (
+                <xref ref-type="bibr" rid="ref-17">Totterdill 
+                    <italic toggle="yes">et al.</italic>, 2016</xref>).  Further studies verify that companies gain competitive advantage when applying technical innovation and/or organisational innovation through their entities (
+                <xref ref-type="bibr" rid="ref-8">Evangelista &amp; Vezzani, 2010</xref>). Another advantage that has been seen is that if the organisation provides its employees with autonomy at work, the possibility to work in a teams, the opportunity to consult others, on-the-job learning, etc., the risk of psychological stress is reduced (
+                <xref ref-type="bibr" rid="ref-13">Pot, 2017</xref>). According to 
+                <xref ref-type="bibr" rid="ref-11">Oeij 
+                    <italic toggle="yes">et al.</italic> (2016)</xref> the drivers for WI implementation are divided into two main groups: The first group focuses on improving the economic objectives of the organisation and on a better quality through an increase in productivity, a better quality of the products manufactured or a better customer service, for example. The second group focuses more on the quality of the employees' working life, as well as their commitment to the company and the work they perform. The increase in employee motivation and well-being are key factors in reducing stress at work, improving job satisfaction and mental health, among other factors (
+                <xref ref-type="bibr" rid="ref-11">Oeij 
+                    <italic toggle="yes">et al</italic>., 2016</xref>).</p>
+            <p>There is a need to raise awareness among the management of organisations of the benefits of workplace innovation, as very few organisations have WI in the structure of the organisation. That&#x2019;s why the European Commission should keep on supporting the specific and combined roles of social partners, professional organisations and researchers in scaling up evidence-based practices and as well as the operation of learning networks as a mean of disseminating and resourcing WI (
+                <xref ref-type="bibr" rid="ref-14">Pot 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>). Since social partnerships can contribute to the upward convergence of working conditions by improving the implementation and functioning of policies at EU, Member State, sectoral, and organisational levels.</p>
+            <p>The EU rail sector has a set of particularities and it requires a specific approach to maximize effectiveness of WI implementation. Railway sector has focused their competitiveness on technological innovation. According to Garazi Carranza 
+                <italic toggle="yes">et al.,</italic> &#x201c;The influence of combined organizational factors and individual employee behaviour adoption has not been thoroughly analysed in the railway sector. However, research among European firms indicates a positive relation between non-technological innovation and organizational performance, all resulting in more dynamism, innovation capacity and competitiveness&#x201d; (
+                <xref ref-type="bibr" rid="ref-2">Carranza 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>).</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>The recommendations are based on the feedback gained from companies during the RailActivation pilot, especially from SMEs and other type of organisations that have been consulted (
+                <xref ref-type="bibr" rid="ref-2">Carranza 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>). Below we define the activities that served to test the Pilot Scheme as already indicated and the policy response to WI:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>
+                        <bold>Rail live event 1-2
+                            <sup>nd</sup> December 2020</bold>. Big dissemination event where the project and the Pilot Scheme where presented. Feedback was also gathered from participants and especially from companies for project follow up and for recommendations.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <bold>Innovation Way&#x00ae; Workshops on 10
+                            <sup>th</sup> and 11
+                            <sup>th</sup> December 2020</bold>. Workplace Innovation was explained, and pilot tested with participant companies. The Pilot Scheme was also presented and tested. A survey by means of Slido was made to companies participating to get feedback on Workplace Innovation, Pilot Scheme, and recommendations for further action among others.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <bold>Slido pool prepared for the Innovation Way&#x00ae; Workshops</bold>. Companies were asked on their needs regarding WI as well as on the Pilot Scheme and potential needs for further recommendations.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <bold>Workshop on 16
+                            <sup>th</sup> February 2021</bold>, oriented to awareness and dissemination on Workplace Innovation as well as on the RailActivation Pilot Scheme. Valuable feedback was gathered from the participants.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <bold>Additional Survey launched on 18
+                            <sup>th</sup> February 2021</bold>. Results have served for the concluding remarks as well as for the recommendations suggested.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <bold>Continuous follow up and test of project results especially with the Clusters partners of RailActivation project</bold>. Very relevant feedback obtained on continuous basis from the interaction with companies.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <bold>External feedback</bold> obtained by means of an 
+                        <bold>EU survey launched</bold> aimed at assessing awareness, operational knowledge and practices on Workplace Innovation in European organisations made from 
+                        <bold>12th November 15th to December, 2020</bold>. Results from this survey have been also considered. The Survey ran online (on Google forms: 
+                        <ext-link ext-link-type="uri" xlink:href="https://forms.gle/DcSLFfw21eAyDhNUA">https://forms.gle/DcSLFfw21eAyDhNUA</ext-link>) from 12th November to 15th December, 2020. 36 organizations from 12 H2020 Countries participated: Belgium (1), Denmark (1), France (2), Germany (6), Ireland (1), Italy (7), Moldova (3), Serbia (2), Spain (9), Sweden (1), Turkey (1), and United Kingdom (2). The participants included: Cluster organizations (66,7%), Industry associations (5,6%), Trade Unions (2,8%), Development Agencies (2,8%), Others, including universities, innovation centres, business accelerators, and SMEs (22,2%).</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <bold>Additional Dissemination activities</bold> where we informally have also gathered feedback on the project related activities.</p>
+                </list-item>
+            </list>
+            <p>Firstly, a mapping phase was carried out in which an EU analysis and a benchmarking analysis were included, with the aim of identifying the possible SMEs and stakeholders that had strong interest and motivation of joining the RailActivation project. As part of the mapping phase, the analysis of practices, tools, mechanisms, and schemes were analysed, permitting to identify the challenges for WI practices. The analysis was made by an online questionnaire covering a wide range of public opinion in railway sector. The survey was drawn out based on the results of the benchmark carried out and common European workplace innovation concept and indicators (
+                <xref ref-type="bibr" rid="ref-3">Kesselring 
+                    <italic toggle="yes">et al.</italic>, 2014</xref>). The survey contains 34 questions divided in four sections: Employee level, organizational level, process level, and results level, which cover the different layers of workplace innovation proposed by Workplace innovation: Concepts and indicators. Data was collected over a 54-day period (between 02/12/2019 and 24/01/2020) and the final sample included 203 respondents from 16 European countries  (
+                <xref ref-type="bibr" rid="ref-2">Carranza 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>).  No inclusion or exclusion criteria was applied, as this was an anonymous survey to obtain information and feedback. Based on the analysis and literature review, a new WI pilot scheme for railway industry is defined based on implementing the open culture and improving productivity of the sector (
+                <ext-link ext-link-type="uri" xlink:href="http://railactivation.eu/documents-2/">http://railactivation.eu/documents-2/</ext-link>). </p>
+            <p>The scheme was conceived as an Itinerary for companies, especially SMEs, to understand where they stand with WI. The RailActivation pilot scheme is proposed as a flexible itinerary where the company can check and jump on the specific block they need to improve. Furthermore, the companies can select the blocks based on their specific needs (see 
+                <xref ref-type="fig" rid="f1">Figure 1</xref>). This means that some companies will go for all the blocks while others will select and implement the ones they want to improve.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>RailActivation scheme blocks.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15385/fa4608da-becc-4ed1-834d-8ba26733a6e3_figure1.gif"/>
+            </fig>
+            <p>The WI scheme drives the company through an itinerary to understand where they stand on WI focusing on the following three interrelated aspects: organization, employees and technology and market. The pilot scheme has been tested over a 10-month period, and from it results recommendations have been developed to boost WI in rail sector (
+                <ext-link ext-link-type="uri" xlink:href="http://railactivation.eu/documents-2/">http://railactivation.eu/documents-2/</ext-link>).</p>
+            <p>In order to define methodology, information from 32 SMEs were collected: 10 German, 10 Italian and 12 Spanish. With the aim of testing the WI methodology for rail sector three editions of four workshops were organised, involving 18 SMES and 55 employees. These workshops added to the &#x2018;individual&#x2019; learning an additional element generating value for the participants: the sharing and co-creation of ideas. This was done through teamwork sessions and through the shared presentation of results (
+                <ext-link ext-link-type="uri" xlink:href="http://railactivation.eu/documents-2/">http://railactivation.eu/documents-2/</ext-link>). The obstacles that emerged before acceptance of the proposed approach were the involvement of technical profiles focused mainly on product innovation, reduced recognition of the value of communication and management, and focus on tasks less on getting a complete overview of the company.</p>
+            <p>In order to analyse in detail the degree of knowledge about WI of European innovation intermediaries, an additional survey was launched from November 12th to December 15th, in which 36 organizations from 12 countries participated. From this analysis the need to support the implementation of WI in companies is confirmed. The analysis done during the project shown 30,6% of participants didn&#x2019;t know about WI before the RailActivation project and 54,4% of participants had never organized initiatives on WI.</p>
+            <p>Furthermore, a Slido poll was prepared to collect responses to the workshops from participants on the pilot scheme and to get feedback to prepare the policy recommendations report (
+                <ext-link ext-link-type="uri" xlink:href="http://railactivation.eu/documents-2/">http://railactivation.eu/documents-2/</ext-link>).</p>
+        </sec>
+        <sec sec-type="results">
+            <title>Results</title>
+            <p>Half of the participants consider the employee block from the pilot scheme as the most important aspect of the scheme, followed by the organisational block, and then the technology and market improvement (
+                <xref ref-type="bibr" rid="ref-2">Carranza 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>). This means the entities priorities are focused on better engagement and involvement of employees, followed by advancing towards a more strategic and smarter organisation. Thus, the entities do not focus their innovation on looking for new technologies though market and customers to improve their own products and services. At the employee level, 83% participants confirm the importance of feeling engaged in the innovation process of the company. Additionally, the analysis confirms training is also highlighted as a very important aspect (67%).</p>
+            <p>At the organizational level, more than a half of the participants considered teamwork as important aspect in the workplace (58%). In this sense, the communication methodologies gain importance, being considered as a strategic aspect to improve WI (58%).</p>
+            <p>At the technology level, less than a half of the participants consider the need for continuous review and update the technology used internally, being the technology innovation mainly focused on product and service development (33%).</p>
+            <p>Based on the results obtained in the WI workshops the policy recommendations are defined. The methodology for the delivered recommendations consisted of three editions of workshops with four workshops in each of them, in which 107 people participated across all workshops. </p>
+        </sec>
+        <sec>
+            <title>Policy response towards WI</title>
+            <p>The policy recommendations intend to establish a link between WI policies and practices. These recommendations could be also a framework of reference for additional research as well as for policy makers to put in place additional specific measures and programmes that could support the identified needs. The recommendations suggested target two main target groups.</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Regulators and policy makers as well as relevant agencies facilitating the implementation of key enabling technologies, transformation towards innovation models, and service innovation.</p>
+                </list-item>
+                <list-item>
+                    <p>Actors from railway value chain and operators, especially companies and society in general.</p>
+                </list-item>
+            </list>
+            <p>By examining the evidence gained during the implementation of the project, the links between WI policies and competitiveness of the SMEs are highlighted. </p>
+        </sec>
+        <sec>
+            <title>Recommendations addressing companies</title>
+            <p>The following recommendations are suggested for companies based on the work developed with them:</p>
+            <sec>
+                <title>R1. Promotion of employee-centred actions</title>
+                <p>The results described in the methods section confirm that the employee block is the most important one in WI, followed by organization and technology/market. As a result, actions where employee&#x2019;s engagement is promoted need to be supported. For implementing WI, organizations must move towards a more strategic and organizational structure. This means employees should be more involved in the tasks and in the decision-making process. When it comes to technology and market improvement, innovation in this area should come by the search of new technologies, new markets and customers, and the improvement of the existing products and services.</p>
+                <p>Technology is closely linked to a company's competitiveness and productivity; for this reason, it is very important to know how to use it properly and to keep it up to date with the constant updates it undergoes. Technology refers to the development of new methods/practices that result from the application of different WI instruments. To keep them up to date, companies should invest more in marketing actions and in analysing the behaviour of markets and the needs of consumers. Also, in order to keep abreast of the emerging new technologies, the companies should have a specific department focused on technology, which ensures that new technologies are continuously analysed and applied in the company. In this sense, companies should constantly review their own technologies and update them when necessary. Staying up to date in this area brings great benefits to companies, such as more optimised production processes, increased productivity, better communication, reduced costs, better decision making, and a more competitive company. It is also important to consider technology as a key aspect for WI as it has been shown that, by involving it, products are developed faster and more cost-effectively.</p>
+                <p>Internal communication is also an aspect to be taken into account, and it is important to keep in mind the technologies present in this area as good internal communication serves as a support for agile and innovative collaboration within the company. In addition, information dissemination channels should be made available so that information is transmitted in a more fluid way, both inside and outside the company and so that it is accessible at all times to whoever needs it.</p>
+            </sec>
+            <sec>
+                <title>R2. Foster innovation in the workplace through a clearer, more flexible, participative and innovative work structure</title>
+                <p>Companies need an organisational structure that meets the minimum requirements in terms of clarity, economy, company vision, employee understanding of tasks, decision-making, company adaptability, maintenance and innovation. Such structure enables employees and managers to engage in WI.</p>
+                <p>For a successful innovation process in the workplace, it is important for employees to be able to express themselves clearly. Often employees are afraid to express themselves because of reprimands or because the hierarchical system of the company does not make easy for them to do so. This is why companies should use systems to improve in this aspect, for example through regular feedback, greater transparency, reaching out to employees in a more proactive way, not highlighting the leader's position so much, or providing feedbacks on actions that arose from suggestions or criticisms made by employees.</p>
+                <p>In addition, it has been found that employee involvement in decision making leads to higher productivity, as employees' active participation in various aspects of the company leads to greater effort on their part, as they want their efforts to succeed overall. This is beneficial for both the company and the employees themselves, as the employees are indirectly forming and preparing themselves for greater responsibilities in the future. Moreover, having employees recognised for their work leads to a good atmosphere and friendship in the workplace; this allows employees to feel that they can be authentic without fear of being treated differently or punished. As a consequence, the company's performance increases.</p>
+                <p>It is essential that the company enables all its employees to understand the tasks they have to carry out and that they have clearly identified their responsibilities. It is necessary that all employees of the company understand how their tasks fit into the overall mission of the company, so that they can relate their efforts to the common mission of the company. In turn, they need to know how to imply the mission of the organisation in their own tasks, contributions or directions.</p>
+                <p>Among the results obtained from the project, it has also been seen that employees value the fact of having means to share ideas with each other. It is necessary to establish an open dialogue between employees to achieve a smarter organisation, with better working conditions and more time for personal development that will be of great benefit to the company, in terms of improvements and services. As it can be seen in the 
+                    <xref ref-type="fig" rid="f2">Figure 2</xref> below, many companies in the pilot already had methods in place to encourage communication in this sense. Greater interaction between employees can be achieved through brainstorming sessions, team building, rooms dedicated to collaboration or interaction between employees, among others, or even having a space for breaks where employees from different departments can interact. Sharing knowledge enhances employee creativity, fosters innovation, and improves results, at the individual, team, and organisational levels.</p>
+                <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                    <label>Figure 2. </label>
+                    <caption>
+                        <title>Sharing of ideas in the companies.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15385/fa4608da-becc-4ed1-834d-8ba26733a6e3_figure2.gif"/>
+                </fig>
+                <p>The following chart shows the results:</p>
+                <p>It has also been seen that all of the above can be fostered or developed through the increase of innovation in the workplace, but in order to successfully develop WI, it is important to use new practices to organise internal procedures. The most relevant aspect is the use of new practices to organise internal procedures, such as supply-side change management, business re-engineering knowledge management, lean production, quality management, etc.</p>
+            </sec>
+            <sec>
+                <title>R3: Innovation culture is a necessity for all companies and a mechanism to ensure it should be promoted</title>
+                <p>Companies should invest time in promoting a more innovative culture by generating new ideas and implementing them. When the company works in an innovative ecosystem, benefits increase, employees are more committed to their work, and the overall health of the company improves.</p>
+                <p>For this the transparency of the company is an important aspect to take into account. Information about the company must be available for consultation, the company must provide it voluntarily, and it must be useful, clear, verifiable, and truthful. Employees, customers, shareholders, or suppliers have more confidence in companies that are more transparent.</p>
+                <p>Furthermore, it has been seen that for a greater innovative culture it is important to promote cross-functional teamwork: work groups formed by members belonging to different departments. Different points of views from employees need to be taken into account from technical to marketing, etc. The sharing of information between the different departments of the company provides different points of view that help in the realisation of projects and in the resolution of problems, as the members of the group can contribute with different solutions or recommendations, this can lead to better impacts and inputs for the company and a better analysis of all the paths which will lead to an increase in competitiveness.</p>
+                <p>People are born creative and this is something that companies need to take advantage of. A company whose philosophy supports the creativity of employees will constantly be innovating. To do this, it is necessary to provide employees with methods to share their ideas with others, as the different points of view of employees can lead to the creation of new ideas that benefit the company. But to keep employees motivated in this respect, it is important that they receive feedback on the contributions they have made. Rewarding employees can also increase their motivation.</p>
+            </sec>
+            <sec>
+                <title>R4. Matching training and capacity building with the company&#x00b4;s needs</title>
+                <p>Companies should support their employees in continuous training. This brings benefits to both the company and the employees themselves as it increases satisfaction, motivation, and participation among workers. Workers have a better knowledge of the tasks they carry out, which increases their safety and leads to higher productivity and fewer accidents at work. In addition, a better trained worker is a better candidate for promotion, which improves his or her working conditions.</p>
+                <p>This type of training can be carried out by different methods, such as professional masters, continuous vocational training, seminars, workshops, conferences, professional development courses, among others.</p>
+            </sec>
+            <sec>
+                <title>R5. Communication policies/strategies should be prioritised both internally and externally of the companies</title>
+                <p>On the one hand, with regards to the internal communication of the company, from the obtained results it has been seen that employees highly valued the fact of having methods to disseminate internally within the company, for example through a centralised system where employees can have access to the information they need at all time. In addition, it is important that the content of the information is adapted, so that all employees are able to understand it. Furthermore, a common language is needed to innovate within the company; the lack of a common language hinders coordination between different levels of authority and across departments and this slows down innovation, which is why the development of a common language is something that needs to be worked internally within the company. On the other hand, in terms of the company's communication with the outside world, it has been found that sharing information with other companies or institutions can bring great benefits to companies, as it helps to exchange opinions and enables companies to have better vision of the cooperation strategy. Cooperation with other companies to develop products/processes has been highlighted by companies during the RailActivation project implementation actions (described in the methods section), especially for innovation as well as for other type of sources such as for attending and participating in conferences, trade fairs, etc.</p>
+            </sec>
+            <sec>
+                <title>R6. Companies should have a clear strategy for cooperation</title>
+                <p>Co-operation with other companies or institutions to develop products/processes can be beneficial for companies especially in the area of innovation. The collaborating companies may have different business models that can bring advantages to the other company, but for that the companies must be willing to adapt their business model to changes or adaptations as appropriate. In addition, one of the companies may have experiences to share about previous projects at the regional, national, or European level, which may be useful if the other company is developing something in that field.  </p>
+                <p>In order to develop this collaborative culture, it is important for companies to attend collaborative events more regularly, to participate actively in trade fairs and conferences and to work actively within the stakeholder group to which they are related to.</p>
+            </sec>
+            <sec>
+                <title>R7: Gender should be considered to ensure Workplace Innovation success</title>
+                <p>Diversity in the workplace brings great benefits to companies. When work groups are made up of different genders, people with different skills, tastes and personalities, the results are much more enriching.</p>
+                <p>Among the surveyed companies, only 8% of senior management positions were held by women. 33% stated that there was a differentiation between the work performed by men and women.</p>
+                <p>According to Esteve-Volart, gender discrimination in companies leads to less entrepreneurial talent and a slower accumulation of female human capital, which leads to slower adoption of technologies, a less innovative company, and lower economic growth (
+                    <xref ref-type="bibr" rid="ref-5">Cuberes &amp; Teignier, 2016</xref>).  Where gender equality exists, the results have been found to be more positive than without it, increasing the company's productivity capacity and economic performance (
+                    <xref ref-type="bibr" rid="ref-9">Klasen &amp; Minasyan, 2017</xref>) (
+                    <xref ref-type="bibr" rid="ref-10">Morais Maceira, 2017</xref>).</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Recommendations addressing policy makers</title>
+            <p>Firstly, policies that address uncertainty are needed. The uncertainty and complexity generated by the COVID-19 crisis forces the rail industry's strategy and management to be readjusted. In the mid-term, we could foresee a transformation in the strategic and operational models. It is true that before the pandemic, disruptive elements were already on the table that invited us to rethink on supply chains (Ecosystems 4.0, robotization, reindustrialization, etc.) but COVID-19 has served as a catalyst for a paradigm shift. In this sense, for example, the European Commission has recently launched the European Innovation Council (EIC) with a budget of over &#x20ac;10 billion for the years 2021&#x2013;2027 to develop and expand breakthrough innovation, via projects as the new Horizon Europe program which combines research on emerging technologies with an accelerator program and a dedicated equity fund to scale up innovative start-ups and SMEs (
+                <xref ref-type="bibr" rid="ref-4">European Commission, 2020</xref>). </p>
+            <p>Secondly, funding from private entities needs to increase, especially in aspects related to innovation. The COVID-19 crisis has highlighted the need to accelerate innovation processes, both technological and non-technological innovations, in order to ensure that industry has digitalisation at its core. In order to face this situation, the organizational culture of the rail industry must be prepared for a new revolution that will be based on technologies focused on adapting the demand to supply requirements. In 2014, Venture Capital (VC) investment in the European Union was around &#x20ac;5 billion, while in the United States this amount was much higher, reaching &#x20ac;26 billion. In terms of venture capital funds, the United States was again well ahead of the European with a sum of &#x20ac;120 million for EEUU and &#x20ac;60 million for Europe (
+                <xref ref-type="bibr" rid="ref-7">Europe, n.d.</xref>). Private equities and venture capitals investments help on the creation of more successful businesses with stronger and more sustainable futures.</p>
+            <p>Thirdly, policies related to regulations and innovation, nowadays, there are not many companies that implement a model capable of measuring the return made in digitalization. We could say, therefore, that the big challenge for the sector is to provide innovative products that offer flexibility to respond to changing market demands. In this sense, the technological innovation must be implemented together with non-technological innovation, in which WI represents an opportunity. The European Commission, in addition to providing companies with financial support, should also offer them subsequent advice, since in some sectors such as transport, regulations are very complex, in order to help developers to better understand the regulatory framework that applies to them. Innovation Deals for example seek to assist in the identification and addressing of the perceived legislative obstacles by providing a greater clarity on the existing legislations and the identification of the possible solutions, through the involvement of both national and European national authorities and the different regulators. (
+                <xref ref-type="bibr" rid="ref-1">Bogers 
+                    <italic toggle="yes">et al.,</italic> 2018</xref>).</p>
+            <p>And finally, it has been seen that there is a need to create an inter-regional network for the railway sector to serve as a mechanism to foster innovation in the workplace. WI is not yet a priority for European companies and the vast majority of European companies will need a first step before they can create an inter-regional network for knowledge sharing. The RailActivation scheme has proved to be a very useful tool to help companies in the railway sector during the WI implementation process and thus to have an impact on the performance of the railway industry directly or indirectly. The RailActivation scheme has enabled a better understanding of specific barriers to innovation, competences, cooperation, and investment, summarising the results of feedback collected from SMEs active in the clusters of the partnership. Although developed around companies in the railway sector, the scheme is expected to be transferable to companies from different sectors.  Furthermore, during the Innovation Way
+                <sup>&#x00ae;</sup> Workshops it has been found that the scheme works best in manufacturing companies with 100&#x2013;200 employees, manufacturing companies with around 10 employees, and IT companies with 10&#x2013;20 employees.</p>
+            <p>After carrying out the project, it has become clear that there is a need in the railway sector for more research into the effects of WI programs, several European countries have a good record of achievement in incentivising, assigning and sustaining resources for workplace innovation. Yet there is not any existing programme or experience in the field of workplace innovation. From a methodological point of view, it has been found that the best results are obtained through a combination of surveys and case studies.</p>
+            <p>More indepth research will be needed to understand the barriers organizations face when considering workplace innovations and whether there are effective combinations of interventions.</p>
+            <p>The recommendations will be presented to different institutions to send impact messages for a better positioning of the railway sector on the needs of SMEs in the sector.</p>
+            <p>The year 2021 being the European Year of Rail (
+                <ext-link ext-link-type="uri" xlink:href="https://europa.eu/year-of-rail/index_es">https://europa.eu/year-of-rail/index_es</ext-link>) will serve as a driving action, as further support to the rail sector is expected through EU promoted initiatives that will ensure the European Green Deal (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en">https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en</ext-link>) and the Sustainable Mobility Strategy (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://ec.europa.eu/transport/themes/mobilitystrategy_en">https://ec.europa.eu/transport/themes/mobilitystrategy_en</ext-link>) through the implementation of technology and innovation.</p>
+        </sec>
+        <sec sec-type="discussion">
+            <title>Discussion</title>
+            <p>At the centre of transitions are often leaders and working groups that have the ability to think more openly and consequently have an enhanced ability to create long-term perspectives. The COVID-19 pandemic brought important changes that affect consumer behaviour, supply chains, and, therefore, the competitiveness of the rail industry. In this context, the sector faces the challenge of aligning the supply chain with market, in which they must incorporate elements such as advanced planning and digitalization. Based on the literature review, it can be seen that the culture of innovation, the high levels of employee engagement and the transformational capacity of both organisations and individuals have been influential in the development of digital transformation. The digital transformation is a key element for companies to remain competitive in a market that is constantly changing, and which is also becoming more and more demanding.</p>
+            <p>However, to succeed in the technological transformation of rail, a culture that promotes innovation and creativity is needed. While technological investment is increasing, the digital revolution presents other needs to successfully complete the transformation  (
+                <xref ref-type="bibr" rid="ref-2">Carranza 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>). In this sense, adapting the values, procedures and experiences that define the organisation through its employees is one of the biggest challenges in the digital era  (
+                <xref ref-type="bibr" rid="ref-2">Carranza 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>). WI is not yet a concept that the companies know as such, but this does not mean that they do not consider it important neither that they are not implementing it.  In this situation, workplace innovation will play an important role, especially for SMEs, in terms of the development of innovative services and the technological development of companies. Experience-based learning and investment in risk-minimising technologies can benefit companies that want to be smarter and more flexible.</p>
+            <p>Therefore, it can be concluded that a successful change in the work system has to be combined with an increase of employees involvement.  In addition, it is important that employees are committed to an innovative culture and that they are up to date and have the necessary information available to develop their personal competences, through which they will help the company to evolve.</p>
+            <p>In view of the obtained results, it has been found that more research is needed to better understand the way on how European policy, national programs, and initiatives promote WI.</p>
+            <p>This is especially relevant for the railway sector, where WI provides a valuable resource grappling with the challenge of boosting the sustainable mobility of Europe. More studies and research projects will be welcomed to better understand the situation and the specific measures needed to support it, especially during 2021, as the European Year of Rail.</p>
+            <p>As can be see, WI is not mainstream yet, and European clusters and ecosystems&#x2019; stakeholders need a preparatory step before being able to create an interregional network for knowledge.</p>
+            <p>Thanks to the WI scheme proposed in the RailActivation project, and after testing it with the different companies involved in the project, it will be possible to better understand the specific barriers to innovation, skills, cooperation, and investment in the railway sector. Toward this end, to ensure best practices, identification and exchange should be promoted at EU level using WI mechanisms and tools applicable to the railway SMEs needs.</p>
+            <p>Furthermore, to increase the impact and EU added value, the creation of synergies with other projects and countries is a key tool. Collaboration across regional and national boundaries has proven to be an important mean of improving both the effectiveness and efficiency of policies and programs.</p>
+            <p>There is a need to continue supporting the railway sector by means of new measures that will permit to accelerate the technological and innovation adoption and implementation in the sector in view of guaranteeing the Green Deal strategy as well as sustainable mobility for the railway sector.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusion</title>
+            <p>Future research on the preconditions for participatory structures within work teams will be necessary.  This is an essential part of workplace innovation as it is directly related to the innovative behavior of workers and the commitment they show towards the company. Companies need workers who are committed to what they do and to the company itself, as well as showing a disposition to deal with the industrial revolution affecting the railway sector. Rail transport plays a key role for Europe&#x2019;s economy and society but has the potential to contribute much more. The sector is experiencing both a severe skills shortage and a need for re/upskilling. A large share of workforce is expected to retire in next 10 years, while the job attractiveness should increase. In turn, the major transformation process driven by research and innovation requires to bring in suitable skills and competencies. In addition, further research on COVID-19 related issues affecting long-term rail performance is needed to promote strategies to ensure the long-term sustainability of the rail sector.</p>
+        </sec>
+        <sec>
+            <title>Data availability</title>
+            <p>All data underlying the results are available as part of the article and no additional source data are required.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We thank respondents who provided insight through the online survey and give us the opportunity to analyse the results offering conclusions, as well as the SMEs and stakeholders that participate in the workshops.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bogers</surname>
+                            <given-names>MH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Chesbrough</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Moedas</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Open Innovation: Reseach, Practices and Policies.</article-title>
+                    <source>
+
+                        <italic toggle="yes">California Managemente Review.</italic>
+               </source>
+               <year>2018</year>;<volume>60</volume>(<issue>2</issue>):<fpage>5</fpage>&#x2013;<lpage>16</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/0008125617745086</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Carranza</surname>
+                            <given-names>GG</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Garcia</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sanchez</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Activating inclusive growth in railway SMEs by workplace innovation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Transp Res Interdiscip Perspect.</italic>
+               </source>
+               <year>2020</year>;<volume>7</volume>:<fpage>100193</fpage>.
+                    <pub-id pub-id-type="pmid">34173466</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.trip.2020.100193</pub-id>
+                    <pub-id pub-id-type="pmcid">7428723</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cuberes</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Teignier</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Aggregate Effects of Gender Gaps in the Labor Market: A Quantitative Estimate.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Hum Cap.</italic>
+               </source>
+               <year>2016</year>;<volume>10</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>32</lpage>.
+                    <pub-id pub-id-type="doi">10.1086/683847</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <collab>European Commission</collab>:
+                    <article-title> Commission launches European Innovation Council to help turn scientific ideas into breakthrough innovations</article-title>.<year> 2020</year>; Published 18 March 2021.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/commission/presscorner/detail/en/IP_21_1185">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <collab>European Commission</collab>:
+                    <article-title>European Pillar of Social Rights Act</article-title>. Luxembourg: Publications Office of the European Union, 2021. COM(2021) 102 final.<year>2021</year>.
+                    <pub-id pub-id-type="doi">10.2767/111056</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Evangelista</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Vezzani</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The economic impact of technological and organizational innovations. A firm-level analysis.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Research Policy.</italic>
+               </source>
+               <year>2010</year>;<volume>39</volume>(<issue>10</issue>):<fpage>1253</fpage>&#x2013;<lpage>1263</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.respol.2010.08.004</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <collab>Invest Europe</collab>:
+                    <article-title>The impact of private equity and venture capital.</article-title>(n.d.).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.investeurope.eu/about-private-equity/private-equity-impact/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kesselring</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Blasy</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Scoppetta</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Workplace innovation. Concept and indicators.</article-title>European Comission. ENTR.B.4.<year> 2014</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://ec.europa.eu/docsroom/documents/8250/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Klasen</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Minasyan</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Gender Inequality and Growth in Europe.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Intereconomics.</italic>
+               </source>
+               <year>2017</year>;<volume>52</volume>(<issue>1</issue>):<fpage>17</fpage>&#x2013;<lpage>23</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s10272-017-0637-z</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Morais Maceira</surname>
+                            <given-names>H</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Economic Benefits of Gender Equality in the EU.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Gender Equality.</italic>
+               </source>
+               <year>2017</year>;<volume>52</volume>(<issue>3</issue>):<fpage>178</fpage>&#x2013;<lpage>183</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s10272-017-0669-4</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Oeij</surname>
+                            <given-names>PRA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dhondt</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>&#x017d;iauberyt&#x0117;-Jak&#x0161;tien&#x0117;</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Implementing workplace innovation across Europe: Why How and What?</article-title>In
+                    <source>
+
+                        <italic toggle="yes">Economic and Social Changes: Facts, Trend, Forecast.</italic>
+               </source>
+               <year>2016</year>;<volume>5</volume>:<fpage>195</fpage>&#x2013;<lpage>218</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pot</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Workplace Innovation and wellbeing at work</article-title>. In: Oeij, P.R.A., Rus, D., and Pot, F.D. (Eds). In
+                    <italic toggle="yes">Workplace innovation: Theory, research and practice</italic>. Springer.<year>2017</year>;<fpage>95</fpage>&#x2013;<lpage>110</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-319-56333-6_7</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pot</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Totterdill</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dhondt</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Workplace innovation supports implementation of European Pillar of Social Rights.</article-title>
+                    <source>
+
+                        <italic toggle="yes">European Journal of Workplace Innovation.</italic>
+               </source>
+               <year>2020</year>;<volume>5</volume>(<issue>2</issue>):<fpage>173</fpage>&#x2013;<lpage>185</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://lirias.kuleuven.be/retrieve/593569">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Schwilling</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>World Rail Market Study-Forecast 2020-2025</article-title>. Retrieved from Roland Berger on behalf of UNIFE, the European Rail Industri Association.<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.rolandberger.com/en/Insights/Publications/UNIFE-World-Rail-Market-2020.html">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tattini</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Teter</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Tracking report - June 2020</article-title>. IAE - International Energy Agency.<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.iea.org/reports/rail#tracking-progress">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Totterdill</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dhondt</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Boermans</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Your Guide to Workplace Innovation</article-title>. European Workplace Innovation Network. European Commission, European Workplace Innovation Network (EUWIN). GROW.DDG1.F.1.<year>2016</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://repository.tno.nl/islandora/object/uuid:59b50a07-5286-42e2-921b-a34ec56cb86f">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report28012">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15385.r28012</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Kirov</surname>
+                        <given-names>Vassil</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r28012a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r28012a1">
+                    <label>1</label>Institute of philosophy and sociology, Bulgarian academy of sciences, Bulgarian academy of sciences, Sofia, Bulgaria</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>30</day>
+                <month>11</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Kirov V</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport28012"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13933.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The revisions made by the authors are appropriate.</p>
+            <p>Are sufficient details provided to allow replication of the method development and its use by others?</p>
+            <p>Partly</p>
+            <p>Is the description of the method technically sound?</p>
+            <p>Yes</p>
+            <p>Are the conclusions about the method and its performance adequately supported by the findings presented in the article?</p>
+            <p>Partly</p>
+            <p>Is the rationale for developing the new method (or application) clearly explained</p>
+            <p>Yes</p>
+            <p>If any results are presented, are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>NA</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report27766">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15017.r27766</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Casado</surname>
+                        <given-names>Jos&#x00e9; Antonio</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27766a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r27766a1">
+                    <label>1</label>Education, Research, Innovation and Knowledge Transfer, University of Cantabria, Santander, Spain</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>22</day>
+                <month>10</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Casado JA</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27766"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13933.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article begins with a state of the art of the railway sector and a definition of Workplace Innovation. This section defines the needs of the sector and how WI will help to address these needs.</p>
+            <p> </p>
+            <p> In terms of the methodology followed in the RailActivation project, the format followed in running the workshops using the Innovation Way methodology is outlined. For this purpose, the three blocks into which they have been separated are presented, marking the objectives of each one and the three steps to be followed during the implementation of the Pilot Scheme, in which the steps followed and the material used for some parts of the analysis are shown.</p>
+            <p> </p>
+            <p> Finally, the conclusions summarise the results obtained in the project, based on what was previously presented.</p>
+            <p>Are sufficient details provided to allow replication of the method development and its use by others?</p>
+            <p>Yes</p>
+            <p>Is the description of the method technically sound?</p>
+            <p>Yes</p>
+            <p>Are the conclusions about the method and its performance adequately supported by the findings presented in the article?</p>
+            <p>Yes</p>
+            <p>Is the rationale for developing the new method (or application) clearly explained</p>
+            <p>Yes</p>
+            <p>If any results are presented, are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Mechanical and microstructural chatacterization of railway superstructure components</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report27604">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15017.r27604</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Kirov</surname>
+                        <given-names>Vassil</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27604a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r27604a1">
+                    <label>1</label>Institute of philosophy and sociology, Bulgarian academy of sciences, Bulgarian academy of sciences, Sofia, Bulgaria</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>15</day>
+                <month>10</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Kirov V</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27604"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13933.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The proposed article is based on the workplace related experimentation in the framework of the EU H2020 project RaiActivation. In general the article is convincing even if there are some statements that are not sufficiently explained - e.g. not sure why "The COVID-19 crisis has highlighted the need to accelerate innovation processes, both technological and non-technological innovations, in order to ensure that industry has digitalisation at its core".</p>
+            <p> </p>
+            <p> The argument is partially related to future actions, so I'm wondering to what extent it would not be stronger if published at a later stage of the project development.&#x00a0;</p>
+            <p> The theoretical background is based on the workplace innovation concept and I agree with the authors that this concept should be tailored according to the specifics of the sectors, in this case of the railway sector. The methodology seems appropriate, but some additional explanations would be useful to allow&#x00a0;reproducibility. The results are presented in a very concise way and are not discussed sufficiently. The recommendations, based on the analysis are well developed, convincing and could have for sure a practical effect, the only minor concern is about the eventual national specifics in relation to workplace innovation. The conclusion could be further developed. There are some important elements, introduced only at the level of the conclusions - "A large share of workforce is expected to retire in next 10 years, while the job attractiveness should</p>
+            <p> increase".&#x00a0;</p>
+            <p> </p>
+            <p> In general the article is interesting and valuable but should be further developed, according to the above-mentioned comments.</p>
+            <p>Are sufficient details provided to allow replication of the method development and its use by others?</p>
+            <p>Partly</p>
+            <p>Is the description of the method technically sound?</p>
+            <p>Yes</p>
+            <p>Are the conclusions about the method and its performance adequately supported by the findings presented in the article?</p>
+            <p>Partly</p>
+            <p>Is the rationale for developing the new method (or application) clearly explained</p>
+            <p>Yes</p>
+            <p>If any results are presented, are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Sociology of work and organisations</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <sub-article article-type="response" id="comment3222-27604">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>CARRANZA</surname>
+                            <given-names>GARAZI</given-names>
+                        </name>
+                        <aff/>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>28</day>
+                    <month>10</month>
+               <year>2021</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>Dear Reviewer,&#x00a0;</p>
+                <p> </p>
+                <p> Thank you very much for your comments. We have updated the new version according to your comments. the methodology explained is the article is the methodology the EU funded project has implemented to achieve the results. Therefore, unfortunately, this methodology is defined in the way it was implemented and cannot be modified. We will take the comments for future studies.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+</article>

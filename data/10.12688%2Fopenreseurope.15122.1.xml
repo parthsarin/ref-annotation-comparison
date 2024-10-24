@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15122.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Floating photovoltaic systems: photovoltaic cable submersion testing and potential impacts</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 2 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Rebelo</surname>
+                        <given-names>Ricardo</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>FIALHO</surname>
+                        <given-names>Luis</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-5044-780X</uri>
+                    <xref ref-type="corresp" rid="c2">b</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Novais</surname>
+                        <given-names>Maria Helena</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-0870-2221</uri>
+                    <xref ref-type="corresp" rid="c3">c</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Renewable Energies Chair, University of Evora, Evora, 7000-651, Portugal</aff>
+                <aff id="a2">
+                    <label>2</label>Institute of Earth Sciences, University of Evora, Evora, 7000-671, Portugal</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:ricardoar@sapo.pt">ricardoar@sapo.pt</email>
+                </corresp>
+                <corresp id="c2">
+                    <label>b</label>
+                    <email xlink:href="mailto:lafialho@uevora.pt">lafialho@uevora.pt</email>
+                </corresp>
+                <corresp id="c3">
+                    <label>c</label>
+                    <email xlink:href="mailto:hnovais@uevora.pt">hnovais@uevora.pt</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>24</day>
+                <month>4</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>61</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>21</day>
+                    <month>3</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Rebelo R et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-61/pdf"/>
+            <abstract>
+                <p>
+                    <bold>Background</bold>: Floating photovoltaics (FPV) is an emerging technology that is gaining attention worldwide. However, little information is still available on its possible impacts in the aquatic ecosystems, as well as on the durability of its components. Therefore, this work intends to provide a contribution to this field, analysing possible obstacles that can compromise the performance of this technology, adding to an increase of its reliability and assessing possible impacts.</p>
+                <p>The problem under study is related to the potential submersion of photovoltaic cables, that can lead to a degradation of its electrical insulation capabilities and, consequently, higher energy production losses and water contamination.</p>
+                <p>
+                    <bold>Methods</bold>: In the present study, the submersion of photovoltaic cables (with two different insulation materials) in freshwater and artificial seawater was tested, in order to replicate real life conditions, when FPV systems are located in reservoirs or in the marine environment. Electrical insulation tests were carried out weekly to assess possible cable degradation, the physical-chemical characteristics of the water were also periodically monitored, complemented by analysis to detect traces of copper and microplastics in the water.</p>
+                <p>
+                    <bold>Results</bold>: The results showed that the submersion of photovoltaic cables with rubber sheath in saltwater can lead to a cable accelerated degradation, with reduction of its electrical insulation and, consequently, copper release into the aquatic environment.</p>
+                <p>
+                    <bold>Conclusions</bold>: The test results pointed a probable relationship between submersion of cables with rubber outer shell and water freezing temperatures and the occurrence of accelerated degradation of the cable insulation layer. Reduced insulation resistance values were measured in this cable type after the occurrence of such temperatures, both in salt and freshwater, the cable presented visible exterior degradation signs. For this case copper residues were detected in the water.</p>
+                <p>Further testing will be needed to determine the likelihood of failure occurring over longer submersion periods.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Electrical Insulation</kwd>
+                <kwd>Floating PV</kwd>
+                <kwd>Solar Energy</kwd>
+                <kwd>Water Quality</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>952879</award-id>
+                </award-group>
+                <award-group id="fund-2">
+                    <funding-source>Interreg Atlantic Programme</funding-source>
+                    <award-id>EAPA_1058/2018</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No [952879](Accessible, reliable and affordable solar irrigation for Europe and beyond [SolAqua]). This project also received funding from the EERES4WATER project (EAPA_1058/2018), co-financed by the Interreg Atlantic Area Programme through the European Development Regional Fund.</funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>The world population is growing, causing an increase in the use of resources needed to maintain the living standard of the modern societies
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>
+                </sup>. The electricity consumption is increasing due to the electrification of various sectors, 
+                <italic toggle="yes">e.g.</italic> electric vehicles
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>. Nearly 95% of the electricity by 2050 would need to be low-carbon, a deep transformation, to achieve the global temperature change below 2&#x00b0;C
+                <sup>
+                    <xref ref-type="bibr" rid="ref-3">3</xref>
+                </sup>. The answer to this challenge is the use of renewable energies for the production of electricity, minimizing its ecological footprint and enabling the decarbonization of the electric system
+                <sup>
+                    <xref ref-type="bibr" rid="ref-4">4</xref>
+                </sup>. Solar energy can provide an important share of clean electricity, either through decentralized energy production, generating energy closer to the consumption points, or with centralized power production
+                <sup>
+                    <xref ref-type="bibr" rid="ref-4">4</xref>
+                </sup>.</p>
+            <p>The floating photovoltaic (FPV) systems allow the usage of a potentially unoccupied surface, not competing with other applications such as agriculture or urban development, particularly important factors in countries with high population density. FPV systems can also benefit from coexistence with other renewable energy sources (
+                <italic toggle="yes">e.g.</italic>, hydropower), taking advantage of existing infrastructures, such as electric power transmission lines, electric substations or energy storage systems (pumped-storage hydroelectricity, batteries, 
+                <italic toggle="yes">etc.</italic>)
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>.</p>
+            <p>In the current market there are different types of floating photovoltaic platforms from different suppliers, but in general the electrical components (modules, cables, inverters, electrical protection devices, 
+                <italic toggle="yes">etc.</italic>) are the same as those used in conventional PV applications on land. In general, the photovoltaic modules are installed on a plastic floating platform which makes the system buoyant
+                <sup>
+                    <xref ref-type="bibr" rid="ref-6">6</xref>
+                </sup>. These floating systems are installed with some degrees of freedom, in order to accommodate variations in the water level and wave motion, with stability given to the platforms with a mooring and anchoring setup
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>
+                </sup>.</p>
+            <p>The literature about potential environmental impacts of these systems is reduced, however, some of the potential impacts on aquatic ecosystems that could arise include
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>: 1) reduced sunlight on the reservoir / increased heat generated &#x2014; can induce changes on the water column characteristics and/or the mixing patterns of the reservoir, uneven surface heating, generate potential heat plume, reduce littoral plant/algae growth, the biota in the limnetic zones and the primary production, increase algae decomposition rate and the oxygen demand at the bottom of the reservoir and the shading of habitats and species; 2) reduced wind and water flow &#x2014; can increase stratification and limit water mixing, reduce dissolved oxygen (DO) levels, depending on the reservoir covered area/ total area ratio; 3) reduced flow in the areas surrounding the arrays &#x2014; can increase the sedimentation; 4) leaching of chemicals from the materials / use or accidental release of oil, lubricants from boats and detergents used to clean panels &#x2014; can impact the water quality and aquatic biota, and accumulate in the sediments; 5) FPV components and anchoring in the littoral and benthic zones (mooring systems, electric cables) &#x2014; can destroy benthic habitats, cause direct mortality and increase the turbidity; 6) exposure to electromagnetic fields from electric cables on the bottom and littoral zones &#x2014; may have direct effects on macroinvertebrates and fish.</p>
+            <p>Therefore, it is necessary to deepen FPV systems testing and study, in order to enhance the understanding of their operation effects and optimize their use through good practices.</p>
+            <p>Furthermore, despite showing resilience to extreme phenomena of nature, some news has been published about catastrophic failures of these systems
+                <sup>
+                    <xref ref-type="bibr" rid="ref-8">8</xref>,
+                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                </sup>, and FPV systems are still perceived as relatively high risk.</p>
+            <p>The first application of a floating photovoltaic system was in 2007, in Aichi, Japan, with an installed power of 20 kWp
+                <sup>
+                    <xref ref-type="bibr" rid="ref-10">10</xref>
+                </sup>. In 2008, the first commercial floating photovoltaic platform was built in a water reservoir in California, with 175 kWp
+                <sup>
+                    <xref ref-type="bibr" rid="ref-10">10</xref>
+                </sup>.</p>
+            <p>After 2008, new FPV plants were installed in countries like Japan, Korea, and the United States of America. Recently, China entered this market and currently dominates the FPV sector regarding total installed capacity
+                <sup>
+                    <xref ref-type="bibr" rid="ref-10">10</xref>
+                </sup>.</p>
+            <p>According to the data collected systematically by the authors, published in multiple news items by the media, in Europe, this technology has had a slow growth, accelerating in the last years and currently the total installed capacity is 47.20 MW (
+                <xref ref-type="fig" rid="f1">Figure 1</xref>, 
+                <xref ref-type="fig" rid="f2">Figure 2</xref>). Portugal may top this list when the construction of 50 MW in the Alentejo region is concluded, estimated to be commissioned by the end of 2023, thus increasing the total European installed capacity to 97.201 MW.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>Floating photovoltaic power installed in Europe
+                        <sup>
+                            <xref ref-type="bibr" rid="ref-11">11</xref>&#x2013;
+                            <xref ref-type="bibr" rid="ref-29">29</xref>
+                        </sup>.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16359/76d871ad-e971-4874-8775-3e023d83d482_figure1.gif"/>
+            </fig>
+            <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                <label>Figure 2. </label>
+                <caption>
+                    <title>Evolution on floating photovoltaic installed capacity in Europe
+                        <sup>
+                            <xref ref-type="bibr" rid="ref-11">11</xref>&#x2013;
+                            <xref ref-type="bibr" rid="ref-29">29</xref>
+                        </sup>.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16359/76d871ad-e971-4874-8775-3e023d83d482_figure2.gif"/>
+            </fig>
+            <p>In this work, possible submersion of photovoltaic cables in water is addressed. The photovoltaic cables, that can be fully or partially submerged, will be exposed to freshwater or salt water, ice, a high humidity environment and solar radiation, which can lead to cable degradation and loss of electrical insulation. Submersion of cables or connectors can be caused by low clearance from the water surface as well as mismatch in module cable length and floats dimension, waves due to wind or a boat passing nearby.</p>
+            <p>The accelerated degradation of the photovoltaic cables or connectors can cause its failure, reducing the electric insulation characteristics or causing problems to the power line communications. In addition, individual insulation failures can often be difficult to detect in large PV systems and/or PV strings, with added difficulty related to performing operation and maintenance (O&amp;M) tasks in floating plants. In case of electric insulation failure, the photovoltaic inverters are able to detect it and will stop, isolating the faulty system. This leads to increased plant downtime, loss of energy generation and lower overall performance ratios.</p>
+            <p>The cable tests follow the EN 50618, regarding electric cables for photovoltaic systems, and EN 50395 standards, focused on electrical test methods for low voltage energy cables
+                <sup>
+                    <xref ref-type="bibr" rid="ref-30">30</xref>,
+                    <xref ref-type="bibr" rid="ref-31">31</xref>
+                </sup>.</p>
+            <p>This work intends to evaluate if the submergence of photovoltaic cables can lead to its accelerated degradation, either in freshwater or in saltwater. The degradation of the insulation layers of these cables, can lead to the direct water contact and exposure of their conductors, with potential leaching of contaminants (metals, microplastics) to the aquatic environment. This study also intends to evaluate the possibility of the occurrence of this environmental contamination.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methodology</title>
+            <sec>
+                <title>Experimental description</title>
+                <p>Currently, there are multiple types of photovoltaic cables. The conductor material is generally copper or aluminium, either solid or stranded, allowing very good conductivity, malleability, and ductility. The cable cross-sectional area and thickness of insulating layers depends on its current rating. Solar DC cables are intended for outdoor use and single-core cables with double insulation have proven to be a practical solution with high reliability in land installed PV plants
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-7">7</xref>
+                    </sup>.</p>
+                <p>Among the various requirements for cable selection in the photovoltaic industry, the following are often used: good weather, ozone and UV-resistance; large temperature operating range; able to withstand mechanical stress; abrasion-resistance; acid and base pH resistance; flame retardant and halogen free; high dielectric strength; small outside diameter (space-saving).</p>
+                <p>After consulting several suppliers of photovoltaic cables, two types of photovoltaic cables frequently used in photovoltaic installations (including FPV plants) in Portugal were selected, depicted in 
+                    <xref ref-type="table" rid="T1">Table 1</xref>.</p>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                    <label>Table 1. </label>
+                    <caption>
+                        <title>Photovoltaic cables.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Cable</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Conductor</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Insulation and 
+                                    <break/>outer sheath</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Section</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Cable 1</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Tinned copper grade5
+                                    <break/>Compliant EN 60228 / 
+                                    <break/>IEC 60228 </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Cross-linked 
+                                    <break/>polyethylene 
+                                    <break/>(XLPE)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">4 mm
+                                    <sup>2</sup>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Cable 2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Class 5 annealed and 
+                                    <break/>tinned electrolytic copper 
+                                    <break/>wires 
+                                    <break/>Compliant EN 60228 / 
+                                    <break/>IEC 60228 </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Rubber</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">4 mm
+                                    <sup>2</sup>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>Six large tanks were used to simulate freshwater and marine environments, with a radius of 0.75m, 0.3m in height and a total volume of 0.53m
+                    <sup>3</sup>, made of high-density polyethylene POLYCHOC&#x2122; with anti UV treatment, and a food safe rating.</p>
+                <p>The six tanks were installed outdoors, filled with water, and equipped with a water mixing and oxygenation system in order to prevent algae growth and bacterial organic matter degradation. This system is composed by an air compressor and a compressed air distribution network for the six tanks. A timer system controller was installed, performing 10 daily cycles of 20 minutes, from 9:00 until 18:00. The experimental setup is presented in detail in 
+                    <xref ref-type="table" rid="T2">Table 2</xref>.</p>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Experimental setup distribution.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Tank</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Photovoltaic 
+                                    <break/>cable</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Water</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">
+                                    <bold>1</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Cable 1</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Fresh</td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">
+                                    <bold>2</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Cable 1</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Salt</td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">
+                                    <bold>3</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Cable 2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Fresh</td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">
+                                    <bold>4</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Cable 2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Salt</td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">
+                                    <bold>5 (control)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Fresh</td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">
+                                    <bold>6 (control)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">Salt</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>The experimental test period was from 16/10/2020 to 07/01/2021. The outdoor distribution of the test tanks is illustrated in 
+                    <xref ref-type="fig" rid="f3">Figure 3</xref>. This outdoor test setup was installed in the experimental campus of the University of &#x00c9;vora (Polo da Mitra, GPS coordinates: 38&#x00b0;31'53.3"N, 8&#x00b0;00'43.3"W). The test site is framed in a rural context, with characteristics similar to the framing of these FPV facilities (for instance the FPV 1 MWp plant in Cuba-Este reservoir, GPS coordinates: 38&#x00b0;10'07.2"N 7&#x00b0;50'51.2"W), whether climatic or regarding the surrounding ecosystem, having no major sources of atmospheric pollution or contamination in its neighbourhood.</p>
+                <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                    <label>Figure 3. </label>
+                    <caption>
+                        <title>Experimental setup with the six water tanks.</title>
+                        <p>The air compressor and timer system are installed inside the red container (top of the image).</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16359/76d871ad-e971-4874-8775-3e023d83d482_figure3.gif"/>
+                </fig>
+                <p>To simulate freshwater systems, tanks 1, 3 and 5 were filled with 
+                    <italic toggle="yes">ca.</italic> 500 L of tap water, and for marine environments simulation, 
+                    <italic toggle="yes">ca.</italic> 18kg of marine salt was added to the tanks 2, 4 and 6, to achieve a salinity level of about 3.5% (
+                    <xref ref-type="fig" rid="f4">Figure 4a</xref>). The salinity value was monitored using a 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.inmtn.com/docs/In-situ/TROLL9500_specs.pdf">TROLL 9500 PROFILER XP multi parametric probe</ext-link>8 (
+                    <xref ref-type="fig" rid="f4">Figure 4b</xref>).</p>
+                <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                    <label>Figure 4. </label>
+                    <caption>
+                        <p>
+                            <bold>a</bold>) Preparation of saltwater; 
+                            <bold>b</bold>) physical-chemical characterization with the multiparametric probe.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16359/76d871ad-e971-4874-8775-3e023d83d482_figure4.gif"/>
+                </fig>
+                <p>Weather and ambient variables were continuously monitored by a meteorological station (
+                    <xref ref-type="fig" rid="f5">Figure 5</xref>) installed 100m away from the water tanks, also in the open field
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>
+                    </sup>. This station is equipped with a two-axis fully automatic sun tracker 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.kippzonen.com/Product/20/SOLYS2-Sun-Tracker">SOLYS2</ext-link>, with two 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.campbellsci.eu/cmp11">CMP11</ext-link> pyranometers to monitor global and diffuse solar radiation, one 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.kippzonen.com/Product/18/CHP1-Pyrheliometer">CHP1</ext-link> pyrheliometer to measure direct solar radiation, one air temperature and relative humidity 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.campbellsci.eu/ee181">sensor</ext-link> and one precipitation 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://pronamic.com/products/small-rain-and-precipitation-sensor">sensor</ext-link>. This station is presented in 
+                    <xref ref-type="fig" rid="f5">Figure 5</xref>.</p>
+                <fig fig-type="figure" id="f5" orientation="portrait" position="float">
+                    <label>Figure 5. </label>
+                    <caption>
+                        <title>Onsite meteorological station.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16359/76d871ad-e971-4874-8775-3e023d83d482_figure5.gif"/>
+                </fig>
+            </sec>
+            <sec>
+                <title>Electrical insulation tests</title>
+                <p>The electrical insulation tests of photovoltaic cables follow a set of standards, namely EN 50618 and EN 50395
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-30">30</xref>,
+                        <xref ref-type="bibr" rid="ref-31">31</xref>
+                    </sup>. After purchasing the cables from the supplier, and before starting the submersion test, an initial dielectric measurement was made. Each cable sample under test is 5 meters long. Special care was taken so that the ends of each cable under test were never submerged, in order to avoid the entry of water or absorption at these points, as well as the contact of the exposed conductor at the ends with water.</p>
+                <p>For the purpose of this electric tests, a voltage source equipment (model 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://elektroautomatik.com/shop/media/pdf/02/c9/96/datasheet_psi9000t_en.pdf">EA-PSI 9000 T</ext-link>)  was used, as well as a photovoltaic and electrical installation tester (
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.metrel.si/en/shop/EIS/photovoltaic-and-electrical-installation-testers/mi-3109.html">Metrel MI 3109 EurotestPV Lite</ext-link>) to measure the insulation resistance. For safety, a galvanic isolation device (
+                    <ext-link ext-link-type="uri" xlink:href="https://www.metrel.si/en/shop/ACC/a-1384.html">Metrel A 1384 PV Safety Probe</ext-link>) was also used between the electrical installer tester and the cable being measured. For measuring the cable insulation resistance, the following procedure was used:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>1.</label>
+                        <p>Visual inspection of each cable, checking for any fault or degradation of the dielectric layer.</p>
+                    </list-item>
+                    <list-item>
+                        <label>2.</label>
+                        <p>Measuring of the cable resistance with the electric tester, applying a voltage of 100 V. If the resistance result is above the minimum limit, the next step was carried out. This initial step is important in order to assess the safety conditions of the cable and if it is safe to proceed in the next steps of the test.</p>
+                    </list-item>
+                    <list-item>
+                        <label>3.</label>
+                        <p>As indicated by the test procedure in the standards, it is necessary to apply a voltage between 80-500 V for one minute to the photovoltaic cable submerged in water, in a small test tank, where the measurements were periodically made. For this, the voltage source was used to apply 100 V to the cable conductor and the water through a solid copper bar (
+                            <xref ref-type="fig" rid="f6">Figure 6b</xref>).</p>
+                    </list-item>
+                    <list-item>
+                        <label>4.</label>
+                        <p>Finally, the cable resistance is measured with the electric tester equipment (
+                            <xref ref-type="fig" rid="f6">Figure 6a</xref>). After the resistance is measured, the cables were submerged again in the outdoor tanks. Electrical insulation tests were carried out once a week for 12 weeks.</p>
+                    </list-item>
+                </list>
+                <fig fig-type="figure" id="f6" orientation="portrait" position="float">
+                    <label>Figure 6. </label>
+                    <caption>
+                        <p>
+                            <bold>a</bold>) Resistance measurement with the I-V curve tracer; 
+                            <bold>b</bold>) application of 100 V with the voltage source.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16359/76d871ad-e971-4874-8775-3e023d83d482_figure6.gif"/>
+                </fig>
+            </sec>
+            <sec>
+                <title>Water physic-chemical characterization</title>
+                <p>A physical-chemical characterization of the water was carried out weekly, measuring key parameters with the multi parametric probe (TROLL 9500 PROFILER XP), including water temperature (T, &#x00b0;C), electrical conductivity (EC, &#x00b5;S/cm), salinity (Sal. mg L
+                    <sup>-1</sup>), total dissolved solids (TDS, mg L
+                    <sup>-1</sup>), pH, oxidation-reduction potential (ORP, mV) and dissolved oxygen (DO, % of O2 saturation and mg L
+                    <sup>-1</sup>). Whenever the volume of water was higher than the initial volume (due to the precipitation events), the salinity values were adjusted, removing water, and adding salt. To evaluate potential impact in the water or aquatic ecosystems due to the cable degradation, analysis to detect the presence of copper in the water through flame atomic absorption spectroscopy, using the SMEWW 3111B method
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-33">33</xref>
+                    </sup> were carried out at the Water Laboratory of the University of &#x00c9;vora. The copper concentration in the sample is determined by flame atomic absorption spectrometry, where a sample is aspirated into a flame and atomized. A light beam is directed through the flame, into a monochromator, and onto a detector that measures the light spectrum by the atomized element in the flame
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-33">33</xref>
+                    </sup>.</p>
+                <p>The presence of microplastics in the water was also monitored, with the samples being filtered by a 20 &#x00b5;m mesh and analysed by Fourier-transform infrared spectroscopy (FTIR) with a 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.perkinelmer.com/product/spotlight-400-sp3-std-ld-l1860816">Perkin Elmer Spotlight 400</ext-link>.</p>
+                <p>These analysis (copper detection and microplastics analysis) were performed at three different times: 1) initially with the water used to fill the tanks; 2) after 6 weeks of cable submersion and 3) at the end of the test period, with 12 weeks of cable submersion.</p>
+            </sec>
+        </sec>
+        <sec sec-type="results | discussion">
+            <title>Results and discussion</title>
+            <sec>
+                <title>Electrical insulation tests results</title>
+                <p>In the first measurement, all cables reached the maximum measurement limit of the device, 200 M&#x03a9;. The first cable to record electrical insulation losses was cable 2, in salt water in the eighth week, with a resistance value of 27 M&#x03a9;, and in the same week the presence of copper was detected with a significant concentration (
+                    <xref ref-type="table" rid="T3">Table 3</xref>). This decrease in the resistance value occurred when the air temperature dropped below 0&#x00b0;C for the first time in that year, as shown in 
+                    <xref ref-type="fig" rid="f7">Figure 7</xref>. The cable 2 submerged in saltwater presented resistance values below 200 M&#x03a9; during the test period, nevertheless these resistance values were higher than 2.9 M&#x03a9;, the minimum insulation resistance value for a 4 mm2 cross-section cable. Cable 2 (freshwater) also presented one low resistance value (21 M&#x03a9; at 28/12/2020), recovering to a higher value the next week. Cable 1, either submerged in freshwater, or in saltwater, never presented lower electrical resistance values (
+                    <xref ref-type="fig" rid="f7">Figure 7</xref>).</p>
+                <table-wrap id="T3" orientation="portrait" position="anchor">
+                    <label>Table 3. </label>
+                    <caption>
+                        <title>Copper concentration in water over time [mg L
+                            <sup>-1</sup>].</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th colspan="1" rowspan="1"/>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">16/10/2020</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">03/12/2020</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">11/12/2020</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">11/01/2021</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">29/01/2021</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Initial sample - water used to fill the tanks</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle"> -</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">- </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Tank 1 - Freshwater</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.015</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle"> -</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle"> -</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.006</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Tank 2 - Saltwater</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.008</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle"> -</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">- </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.011</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Tank 3 - Freshwater</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.017</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle"> -</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle"> -</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Tank 4 - Saltwater</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.052</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.012</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle"> -</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Tank 5 &#x2013; Freshwater (control)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.014</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle"> -</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle"> -</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Tank 6 &#x2013; Saltwater (control)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.005</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0.009</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle"> -</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">- </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">0</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <fig fig-type="figure" id="f7" orientation="portrait" position="float">
+                    <label>Figure 7. </label>
+                    <caption>
+                        <title>Air temperature and electric insulation resistance over time.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16359/76d871ad-e971-4874-8775-3e023d83d482_figure7.gif"/>
+                </fig>
+                <p>The cable 2 submerged in saltwater showed visual signs of degradation of the dielectric layer, with increased volume at that location, indicating potential absorption of salt water in the outer layer, as depicted in 
+                    <xref ref-type="fig" rid="f8">Figure 8</xref>. A possible explanation is related to the occurrence of night temperatures below 0&#x00b0;C and the freezing of the salt water absorbed by the outer layer, with consequent expansion of its volume and acceleration of its degradation.</p>
+                <fig fig-type="figure" id="f8" orientation="portrait" position="float">
+                    <label>Figure 8. </label>
+                    <caption>
+                        <title>Cable 2 (saltwater tank) showing signs of physical degradation of the insulation layer.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16359/76d871ad-e971-4874-8775-3e023d83d482_figure8.gif"/>
+                </fig>
+                <p>That said, this points to the potential failure of this type of cable when submerged. Following this occurrence, more tests should ideally be carried out in a controlled climate chamber, to confirm this behaviour.</p>
+            </sec>
+            <sec>
+                <title>Physical and chemical characteristics of water</title>
+                <p>The test conditions were maintained during the experimental period, in order to have aquatic environments as stable as possible, as depicted in 
+                    <xref ref-type="fig" rid="f9">Figure 9</xref>.</p>
+                <fig fig-type="figure" id="f9" orientation="portrait" position="float">
+                    <label>Figure 9. </label>
+                    <caption>
+                        <title>Physical-chemical characterization during the study period (T1- Tank 1, T2 &#x2013; Tank 2, T3 &#x2013; Tank 3, T4 &#x2013; Tank 4, T5 &#x2013; Tank 5, T6 &#x2013; Tank 6).</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16359/76d871ad-e971-4874-8775-3e023d83d482_figure9.gif"/>
+                </fig>
+                <p>In 
+                    <xref ref-type="fig" rid="f9">Figure 9</xref>
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-34">34</xref>
+                    </sup> is clear that most parameters were stable during the test period, and no major differences between freshwater and saltwater tanks for water temperature and dissolved oxygen were detected. Clearly, all parameters that evaluate the amount of dissolved substances and minerals in the water, as the salinity, electrical conductivity and total dissolved solids, reflect the experimental conditions, distinguishing saltwater and freshwater tanks. In spite of the efforts to keep salinity values around 35 mg L
+                    <sup>-1</sup>, some variations can be observed (it ranges between 32.5 and 41.9 mg L
+                    <sup>-1</sup>), since some dilution occurred due to precipitation events and sometimes an excess of salt was added since heavy precipitation events were predicted. We can also see that oxygenation levels have always been high, so there was a good circulation of water. Water temperature decreased with time, in accordance with the atmospheric temperature decrease and the seasonal changes from Autumn to Winter progression.</p>
+                <p>Regarding the possible release of copper into the water, on 3/12/2020, copper was detected in the saltwater tank 4 (cable 2) with a concentration of 0.052 mg L
+                    <sup>-1</sup>. Since the copper concentration in the water used to fill the basins was 0.005 mg L
+                    <sup>-1</sup>, an increase of 0.045 mg L
+                    <sup>-1</sup> was then registered, as can be seen in 
+                    <xref ref-type="table" rid="T3">Table 3</xref>.</p>
+                <p>The decrease in copper in container 4 shortly after its detection is explained by the fact that excess water was removed from the tank due to the heavy precipitation that occurred at that time.</p>
+                <p>In order to verify a possible water contamination with microplastic released by the cables, this analysis was carried out in all tanks. In 
+                    <xref ref-type="table" rid="T4">Table 4</xref>, we can observe that the microplastics concentration is always low, with the control tanks (5 and 6) presenting higher values than the others. Thus, we can conclude that there was no significant release of microplastics by the photovoltaic cables.</p>
+                <table-wrap id="T4" orientation="portrait" position="anchor">
+                    <label>Table 4. </label>
+                    <caption>
+                        <title>Microplastics concentration in water (the units in the table are number of particles larger than 20 micrometres in size per litre).</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th colspan="1" rowspan="1"/>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Tank 1</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Tank 2</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Tank 3</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Tank 4</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Tank 5</th>
+                                <th align="center" colspan="1" rowspan="1" valign="middle">Tank 6</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="bottom">
+                                    <bold>Organic particles (</bold>
+                                    <italic toggle="yes">e.g.</italic>
+                                    <bold>, PP, PE, PS)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="right" colspan="1" rowspan="1" valign="bottom">
+                                    <bold>Polyethylene (PE)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">2</td>
+                            </tr>
+                            <tr>
+                                <td align="right" colspan="1" rowspan="1" valign="bottom">
+                                    <bold>Polypropylene (PP)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">4</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">4</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">4</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">10</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">6</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="bottom">
+                                    <bold>Organic particles (</bold>
+                                    <italic toggle="yes">e.g.</italic>
+                                    <bold>, PMMA, PUR, PET)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="right" colspan="1" rowspan="1" valign="bottom">
+                                    <bold>Polyester</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="right" colspan="1" rowspan="1" valign="bottom">
+                                    <bold>Ethylene-vinyl acetate (EVA)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">6</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">4</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="bottom">
+                                    <bold>Organic particles with silicone (</bold>
+                                    <italic toggle="yes">e.g.</italic>
+                                    <bold>, plastic, rubber)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="bottom">
+                                    <bold>Organic particles with chlorine (</bold>
+                                    <italic toggle="yes">e.g.</italic>
+                                    <bold>, PVC)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="bottom">
+                                    <bold>Organic particles with fluorine (</bold>
+                                    <italic toggle="yes">e.g.</italic>
+                                    <bold>, PTFE)</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                                <td align="center" colspan="1" rowspan="1" valign="middle">&lt;2</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table-wrap-foot>
+                        <fn>
+                            <p id="TFN1">Legend: PP - Polypropylene; PE - Polyethylene; PS - Polystyrene; PMMA - Polymethyl Methacrylate; PUR - Polyurethane; PET - Polyethylene terephthalate; PVC - Polyvinyl Chloride; PTFE - Polytetrafluoroethylene.</p>
+                        </fn>
+                    </table-wrap-foot>
+                </table-wrap>
+                <p>In future works the same analyses should be carried out, but in an aquatic environment where the remaining components of a floating photovoltaic system are included, such as the floats.</p>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusion</title>
+            <p>The characteristics of aquatic environments pose new challenges to floating photovoltaic installations, with regard to their reliability and performance, as well as in the assessment of potential impacts on the aquatic ecosystems. The marine saltwater environment should be the most challenging for this new technology, due to its salinity, higher waves and wind speed, as well as additional anchoring and mooring difficulties. Being a recent technology, it does not yet benefit from the maturity and greater experience that conventional photovoltaic installations have on land
+                <sup>
+                    <xref ref-type="bibr" rid="ref-35">35</xref>
+                </sup>. This work intended to contribute to the increase of knowledge about these systems, in particular about the consequences of submersion of photovoltaic cables, both in the FPV installation and in the aquatic environment.</p>
+            <p>It was found that cables with rubber outer shell could fail when submerged in saltwater, with a decrease in its electrical insulation resistance and consequent release of copper into the water, potentially impacting the aquatic ecosystems. There is probably a relationship between submersion of this type of cable with temperatures below 0 &#x00b0;C and the occurrence of accelerated degradation of the cable insulation layer. Reduced resistance values were measured in this cable after the occurrence of such temperatures, both in salt and freshwater. This cable type showed visible exterior degradation signs, when submerged in saltwater. However, no microplastics concentration increase was detected in the water.</p>
+            <p>Cross-linked polyethylene insulation showed higher reliability when submerged, without presenting any reduction of its dielectric parameter. However, faults may appear for longer submersion periods, situation most likely to occur in installations in remote sites and with a lower frequency of inspection and maintenance visits. Further testing will be needed to determine the likelihood of failure occurring over longer submersion periods, for both cables and connectors.</p>
+            <p>The results of this work showed that it is possible the occurrence of electrical insulation failures in submerged photovoltaic cables, as well as the leaching of contaminants in case of failure. The release of microplastics has not been shown to exist with new cables, but should be revaluated for longer periods of time, with the consequent ageing of the cables.</p>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>Ethical approval and consent were not required</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>Zenodo: Experimental data of photovoltaic cable submersion tests. 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://protect-us.mimecast.com/s/o8T6CNkE8qiVJ4x89fm_kIb?domain=doi.org">https://doi.org/10.5281/zenodo.7088811</ext-link>
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-34">34</xref>
+                    </sup>
+                </p>
+                <p>This project contains the following underlying data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Experimental Data.xlsx</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Extended data</title>
+                <p>Zenodo: Meteorological data from the experimental period of the submersion test of photovoltaic cables. 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://protect-us.mimecast.com/s/vR2RCOYEZru5lWXjwHvADsd?domain=doi.org">https://doi.org/10.5281/zenodo.7276616</ext-link>
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>
+                    </sup>
+                </p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Meteo data.xlsx (Data collected from weather station)</p>
+                    </list-item>
+                </list>
+                <p>Zenodo: Floating Photovoltaics Installed Capacity in Europe in 2020. 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://protect-us.mimecast.com/s/dYypCPNMYvtv9pmRZi1jo44?domain=doi.org">https://doi.org/10.5281/zenodo.7746070</ext-link>
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-36">36</xref>
+                    </sup>
+                </p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>FPV-Europe_2020.xlsx</p>
+                    </list-item>
+                </list>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</ext-link> (CC-BY 4.0).</p>
+            </sec>
+        </sec>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The authors also would like to thank the Water Laboratory of the University of &#x00c9;vora, for the support and collaboration in the physical-chemical characterization, especially the copper analysis.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="journal">
+                    <collab>United Nations Department of Economic and Social Affairs, Population Division</collab>:
+                    <article-title>Global Population Growth and Sustainable Development.</article-title>UN DESA/POP/2021/TR/NO. 2,<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.un.org/development/desa/pd/content/global-population-growth">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <collab>IEA</collab>:
+                    <article-title>Electricity Information: Overview, IEA Paris.</article-title>License: CC BY 4.0.<year> 2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.iea.org/reports/electricity-information-overview,">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <collab>IEA</collab>:
+                    <article-title>International Energy Agency.</article-title>
+               <year> 2017</year>; (accessed Mar. 24, 2021).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.iea.org/news/deep-energy-transformation-needed-by-2050-to-limit-rise-in-global-temperature">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="journal">
+                    <collab>IEA</collab>:
+                    <article-title>Net Zero by 2050, IEA Paris.</article-title>
+               <year> 2021</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.iea.org/reports/net-zero-by-2050">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Napier-moore</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cherdsanguan</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lim</surname>
+                            <given-names>LK</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Where Sun Meets Water</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://documents1.worldbank.org/curated/en/579941540407455831/pdf/Floating-Solar-Market-Report-Executive-Summary.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>A Review on Floating Solar Photovoltaic Power Plants.</article-title>(accessed Sep. 05, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ijser.org/researchpaper/A-Review-on-Floating-Solar-Photovoltaic-Power-Plants.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rosa-Clot</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Tina</surname>
+                            <given-names>GM</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Submerged and Floating Photovoltaic Systems. Chapter 5</article-title>.<year>2018</year>;<fpage>89</fpage>-<lpage>136</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/B978-0-12-812149-8.00005-3</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Willuhn</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Weekend Read: Don't trow caution to the wind.</article-title>PV Magazine, 22 02.<year> 2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.pv-magazine.com/2020/02/22/the-weekend-read-dont-throw-caution-to-the-wind/.">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <label>9</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bellini</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Japan's largest floating PV plant catches fire after Typhoon Faxai impact</article-title>. PV Magazine.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.pv-magazine.com/2019/09/09/japans-largest-floating-pv-plant-catches-fire-after-typhoon-faxai-impact/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <label>10</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Where Sun Meets Water</article-title>.<year>2019</year>.
+                    <pub-id pub-id-type="doi">10.1596/32804</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <label>11</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>A Study of Floating PV Module Efficiency.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.um.edu.mt/library/oar/bitstream/123456789/9867/1/14MSCSE012.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <label>12</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>A Review of Floating PV Installations: 2007 - 2013.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://riunet.upv.es/bitstream/handle/10251/80704/FLOAT_REVIEW.pdf?sequence=2">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <label>13</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Belgium's first floating PV project comes online.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.pv-magazine.com/2020/09/09/belgiums-first-floating-pv-project-comes-online/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <label>14</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Germany Gets Its First Utility-Scale Floating Solar Power Plant!</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.intelligentliving.co/germany-first-utility-scale-floating-solar-power-plant/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <label>15</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Ciel &amp; Terre International &#x2013; Hydrelio&#x00ae; floating PV system.</article-title>(accessed Sep. 03, 2020).</mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <label>16</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>AZALEALAAN: 1,845 KWP.</article-title>(accessed Sep. 03, 2020).</mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <label>17</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Manchester to host Europes biggest floating solar farm.</article-title>(accessed Sep. 03, 2020).</mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <label>18</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Governantes visitam Central Fotovoltaica Flutuante de Cuba. Veja como foi este equipamento constru&#x00ed;do.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://odigital.sapo.pt/governantes-visitam-central-fotovoltaica-flutuante-de-cuba-veja-como-foi-este-equipamento-construido-c-video/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <label>19</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>B&#x00d6;R: 13 KWP.</article-title>(accessed Sep. 05, 2020).</mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <label>20</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Russia's first floating PV plant comes online.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.pv-magazine.com/2020/08/13/russias-first-floating-pv-plant-comes-online/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <label>21</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Albanian utility given green light for 12.9 MW floating PV plant.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://constructionreviewonline.com/news/albanian-utility-given-green-light-for-12-9-mw-floating-pv-plant/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <label>22</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>EDP arranca com central solar flutuante no Alqueva em janeiro.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.dinheirovivo.pt/economia/edp-arranca-com-central-solar-flutuante-no-alqueva-em-janeiro-12774015.html">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <label>23</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>FPV Alto Rabag&#x00e3;o.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://d2m-energytransit.pt/en/?portfolio=fpv-alto-rabagao-2">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <label>24</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>O'MEGA1: FIRST FLOATING SOLAR POWER PLANT IN FRANCE.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.bouygues-es.com/energy/omega1-first-floating-solar-power-plant-france">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <label>25</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Viana do Castelo avalia impacto de ilhas flutuantes de energia solar no rio Lima.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://observador.pt/2020/07/08/viana-do-castelo-avalia-impacto-de-ilhas-flutuantes-de-energia-solar-no-rio-lima/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <label>26</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Italian engineer invents floating solar panels.</article-title>(accessed Sep. 05, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://phys.org/news/2012-02-italian-solar-panels.html">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <label>27</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>SUVERETO (ITALY).</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri" xlink:href="http://www.floating-solar.com/suvereto.html">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <label>28</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>PIOLENC: FIRST FPV PILOT.</article-title>(accessed Sep. 03, 2020).</mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <label>29</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Floating solar panels, Godley Reservoir, UK.</article-title>(accessed Sep. 03, 2020).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.sciencephoto.com/media/783431/view/floating-solar-panels-godley-reservoir-uk">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <label>30</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Standards Publication Electric cables for photovoltaic systems ( BT ( DE / NOT ) 258 ).</article-title>
+               <year> 2015</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://webstore.ansi.org/preview-pages/BSI/preview_30320864.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <label>31</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>En</surname>
+                            <given-names>BS</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Electrical test methods for electric cables.</article-title>
+               <year> 2003</year>;<volume>3</volume>.</mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <label>32</label>
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rebelo</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fialho</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Novais</surname>
+                            <given-names>MH</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>Meteorological data from the experimental period of the submersion test of photovoltaic cables.</data-title>(Version 1) [Data set].
+                    <source>Zenodo</source>.<year>2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.7276616">http://www.doi.org/10.5281/zenodo.7276616</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <label>33</label>
+                <mixed-citation publication-type="journal">
+                    <collab>APHA</collab>:
+                    <article-title>American Public Health Association; American Water Works Association; Water Environment Federation.</article-title>Stand. Methods Exam. Water Wastewater,<year>2002</year>;<volume>02</volume>:<fpage>1</fpage>-<lpage>541</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <label>34</label>
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fialho</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Novais</surname>
+                            <given-names>MH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rebelo</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>Experimental data of photovoltaic cable submersion tests.</data-title>(Version 1) [Data set].
+                    <source>Zenodo</source>.<year>2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.7088811">http://www.doi.org/10.5281/zenodo.7088811</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-35">
+                <label>35</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>IEC 62548:2016, Photovoltaic (PV) arrays &#x2013; Design requirements</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://standards.iteh.ai/catalog/standards/iec/157457f7-d655-4b5a-886d-78f0bf02ee55/iec-62548-2016">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-36">
+                <label>36</label>
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fialho</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Novais</surname>
+                            <given-names>MH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rebelo</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>Floating Photovoltaics Installed Capacity in Europe in 2020.</data-title>(Version 1) [Data].
+                    <source>Zenodo</source>.<year>2023</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.7746070">http://www.doi.org/10.5281/zenodo.7746070</ext-link>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report31511">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16359.r31511</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Gorjian</surname>
+                        <given-names>Shiva</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r31511a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r31511a1">
+                    <label>1</label>Biosystems Engineering Department, Faculty of Agriculture, Tarbiat Modares University (TMU), Tehran, India</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>16</day>
+                <month>6</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Gorjian S</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport31511"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15122.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The authors have investigated &#x201c;Floating photovoltaic systems: photovoltaic cable submersion testing and potential impacts&#x201d;. The following comments should be addressed: 
+                <list list-type="order">
+                    <list-item>
+                        <p>In Figure 2, it is better to add data for the years 2021-2023.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Based on which criteria the authors have chosen the salinity level? Since FPVs can be installed on seawater, lakes, artificial water bodies, etc.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Has the resistance time been considered as a parameter to evaluate the degradation level of the PV cables? If yes, how can it be generalized to real conditions?</p>
+                    </list-item>
+                    <list-item>
+                        <p>According to the results, can water temperature be considered an effective parameter in combination with water salinity?</p>
+                    </list-item>
+                    <list-item>
+                        <p>The results and discussion section should be improved.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Partly</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Partly</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Partly</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Renewable Energies; Solar Energy Technologies</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report31515">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16359.r31515</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Hilarydoss</surname>
+                        <given-names>Sharon</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r31515a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-4039-2219</uri>
+                </contrib>
+                <aff id="r31515a1">
+                    <label>1</label>Department of Mechanical Engineering, Indian Institute of Petroleum and Energy (IIPE), Visakhapatnam, Andhra Pradesh, India</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>17</day>
+                <month>5</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Hilarydoss S</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport31515"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15122.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Follow uniform decimal format throughout the manuscript including figures.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Indicate components by markings in Fig 4, 5, 6 , 8.</p>
+                    </list-item>
+                    <list-item>
+                        <p>English language usage must be improved throughout the manuscript.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Check the spelling of the sub heading "Water physic-chemical characterization".</p>
+                    </list-item>
+                    <list-item>
+                        <p>Superscripts are not properly indicated, check them throughout the manuscript</p>
+                    </list-item>
+                    <list-item>
+                        <p>Conclusion section must be revised by shortening it and including only important findings. Move discussion portion from conclusion. In future work section below conclusion section.</p>
+                    </list-item>
+                </list> 
+         </p>
+            <p> </p>
+            <p> </p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>I cannot comment. A qualified statistician is required.</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Partly</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>solar energy, desalination, thermodynamic analysis,</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+</article>

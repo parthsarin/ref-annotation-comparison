@@ -1,0 +1,2431 @@
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.14386.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Life cycle analysis of the solar thermochemical energy storage scheme SOCRATCES</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 2 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Hritz</surname>
+                        <given-names>Sara</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Software</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Eusha</surname>
+                        <given-names>Muhammad</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-3895-0939</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Mir</surname>
+                        <given-names>Faraz Rasheed</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Schories</surname>
+                        <given-names>Gerhard</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>TTZ Bremerhaven, Bremerhaven, Bremen, 27572, Germany</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:meusha@ttz-bremerhaven.de">meusha@ttz-bremerhaven.de</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>2</month>
+            <year>2022</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2022</year>
+            </pub-date>
+         <volume>2</volume>
+            <elocation-id>14</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>23</day>
+                    <month>12</month>
+               <year>2021</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Hritz S et al.</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/2-14/pdf"/>
+            <abstract>
+                <p>
+                    <bold>Background:</bold> SOCRATCES is an environment-friendly thermochemical solar energy storage scheme based on calcium-looping
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-1">1</xref>
+                    </sup>. It involves capturing of solar energy using an endothermic splitting of calcium carbonator into calcium oxide and carbon dioxide, and a subsequent exothermic combination of these two products to reproduce calcium carbonate in a cyclic process
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-2">2</xref>
+                    </sup>. The life cycle analysis of this concept, which has generated substantial interest in recent years, is extremely important in its holistic assessment
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-3">3</xref>
+                    </sup>.</p>
+                <p>
+                    <bold>Methods:</bold> The methodology followed was based on the international standards ISO 14040:2006 and 14044:2006, considering three different scales &#x2013; the pilot plant in Seville, Spain
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-1">1</xref>
+                    </sup> and two industrial-scale sizes with 10 and 100 MW. The data for calculating the environmental impact was compiled by the consortium involved in the project SOCRATCES (EU GA 727348) and the previously developed deliverables
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-4">4</xref>
+                    </sup> in the project. Additional information that was not covered during the work of the project was taken from different literature resources. For the calculation of the LCA, the software Umberto&#x00ae; LCA+ was utilized.</p>
+                <p>
+                    <bold>Results:</bold> The results showed that the technology is comparable to alternative energy storage approaches in terms of the environmental impact assessment. It is located in the lower region of CO
+                    <sub>2</sub>-Eq output per kWh produced electricity and has significantly lower toxicity impact. When the eco-efficiency factor is brought into consideration, it emerged that the technology is considerably superior to competing alternatives, which comes from the higher storage time compared to other technologies.</p>
+                <p>
+                    <bold>Conclusions:</bold> The Stirling engine appears to be a sound choice, in terms of conversion efficiency, at comparatively low temperatures, to be integrated with an exothermic reactor, at least at small-scale applications.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>LCA</kwd>
+                <kwd>SOCRATCES</kwd>
+                <kwd>Calcium-looping</kwd>
+                <kwd>solar</kwd>
+                <kwd>thermochemical storage</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>727348</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Research Council (ERC) under the European Union&#x2019;s Horizon 2020 research and innovation programme (grant agreement No 727348).</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>Environmental performance of the SOCRATCES scheme
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>
+                </sup> was assessed and compared to a state-of-the-art storage technology involving the application of molten salts. This was accomplished through the performance of a life cycle analysis (LCA). While fossil-fuel driven energy technologies are characterized by convenience and ease, they have unquestionable deleterious impacts on the environment, emphasizing the need to resort to alternatives. Solar technologies are some of the most attractive solutions among environmentally friendly sources of electricity. However, solar power being available periodically only necessitates the technology's integration with storage systems. Myriad forms of storage technologies have been explored and continue to be explored, one of them being the thermochemical approach adopted in SOCRATCES. The storage allows production and/or release of energy during either peak hours or nighttime.</p>
+            <p>LCA methodology is a widely used technique to analyze the environmental impact of a process during the course of its lifetime
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>. It is performed to ensure that a product or a process does not affect the natural ecosystem and the environment through interference and burdening them beyond their perceived or estimated capacity. LCA of the calcium-looping technology has been performed by researchers such as Zakuciov&#x00e1; 
+                <italic toggle="yes">et al</italic>.
+                <sup>
+                    <xref ref-type="bibr" rid="ref-3">3</xref>
+                </sup> and Copola and Scala
+                <sup>
+                    <xref ref-type="bibr" rid="ref-6">6</xref>
+                </sup>, but in the context of CO
+                <sub>2</sub> capture from combustion power plants. Thus, the work presented here is unique in the sense that it analyses the environmental performance of a calcium-looping process designed to store solar energy.</p>
+        </sec>
+        <sec>
+            <title>Fundamentals of the life cycle approach</title>
+            <p>The LCA was carried out according to the international standards ISO 14040:2006 and 14044:2006 that break the LCA down into four different phases
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>,
+                    <xref ref-type="bibr" rid="ref-8">8</xref>
+                </sup> as shown in 
+                <xref ref-type="fig" rid="f1">Figure 1</xref>:</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>Different phases of the LCA according to ISO 14040:2006
+                        <sup>
+                            <xref ref-type="bibr" rid="ref-8">8</xref>
+                        </sup>.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure1.gif"/>
+            </fig>
+            <list list-type="bullet">
+                <list-item>
+                    <label>1.</label>
+                    <p>Goal and scope definition</p>
+                </list-item>
+                <list-item>
+                    <label>2.</label>
+                    <p>Life cycle inventory (LCI)
+                        <sup>
+                            <xref ref-type="other" rid="FN1">1</xref>
+                        </sup>
+                    </p>
+                </list-item>
+                <list-item>
+                    <label>3.</label>
+                    <p>Life cycle impact assessment (LCIA)</p>
+                </list-item>
+                <list-item>
+                    <label>4.</label>
+                    <p>Interpretation of results</p>
+                </list-item>
+            </list>
+            <p>The pertinent question in terms of objective was determining whether SOCRATCES has a comparatively lower greenhouse gas balance in contrast with comparable state-of-the-art processes or not. The collaborating teams in the consortium had come to an agreement that the functional unit to be used was 1 kWh electrical energy produced in the power block, in evaluating the environmental impacts in LCA. With the definition of the functional unit, the reference flows were determined accordingly. All input and output streams were specified on the basis of the set functional unit.</p>
+            <p>After thus defining the goal and scope to demarcate the boundary and limits, the LCA proceeds with examining the Life Cycle Inventory (LCI). This stage includes collecting and evaluating input and output streams for the examined system, assortment and aggregation of available information. 
+                <xref ref-type="fig" rid="f2">Figure 2</xref> shows a step-by-step methodology to perform the LCI. It starts with the accumulation of information, which chiefly is quantitative data of the operation of the plant.</p>
+            <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                <label>Figure 2. </label>
+                <caption>
+                    <title>Life cycle inventory.</title>
+                    <p>Process of data collection according to ISO 14040:2006
+                        <sup>
+                            <xref ref-type="bibr" rid="ref-8">8</xref>
+                        </sup>.</p>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure2.gif"/>
+            </fig>
+            <p>A close examination of the steps outlined in 
+                <xref ref-type="fig" rid="f2">Figure 2</xref> reveals that the preliminary steps were already executed and documented in the first report on LCA, along with system boundaries for the LCA and the LCC. For the second report on LCA, while the data is revised and updated, the computation and the overall approach remains the same.</p>
+            <p>In the next phase of LCA is the life cycle impact assessment (LCIA). LCIA interprets the information gathered in the LCI, translates them into ecologically pertinent indicators such as material depletion, greenhouse potential, ozone consumption potential, acidification potential, photochemical ozone creation, water discharges, solid waste outflow, toxic potential, hazard potential and land use. Contingent upon the technique chosen and utilized in Umberto&#x00ae;, an assortment of these indicators is picked, suited to SOCRATCES. For this analysis, the methods ReCiPe 2008 Midpoint (H) w/o LT and IPCC 20013 were employed. The method IPCC is used to summarize the current issues contributing to the climate change, stated by the Intergovernmental Panel on Climate Change (IPCC). ReCiPe is a method used for the impact assessment that translates emissions and resource consumption into limited environmental impact categories. The applied categories can be explained as followed:</p>
+            <p>
+                <bold>Cumulative energy demand</bold> implies the cumulative life cycle energy consumed during product production, use and disposal. Under the category of energy consumption, no further conversion into specific impact categories is carried out.</p>
+            <p>
+                <bold>Depletion potential</bold> or amount of resource materials consumed, is currently calculated in terms of kg material per kg of the target product. Resources are defined as fundamental building blocks, needed to produce a product (e.g. coal (raw material for electricity manufacturing), oil, gas, sulfur, iron, phosphorus, sand, copper, etc.). One should keep in mind, that the weighting of the individual raw material consumption values is based on available resources and demand for the specific materials. The lower the reserves of a raw material and the higher the worldwide rate of consumption, the scarcer that resource. The following resource depletions can be referred to this impact category:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Fossil depletion (FD), reported as kg oil- equivalent</p>
+                </list-item>
+                <list-item>
+                    <p>Metal depletion (MD), reported as kg Fe- equivalent</p>
+                </list-item>
+                <list-item>
+                    <p>Water depletion (WD) (m
+                        <sup>3</sup>)</p>
+                </list-item>
+            </list>
+            <p>Emission values are initially calculated separately as water, air and soil emissions. Furthermore, they can be divided in different equivalents.</p>
+            <p>
+                <bold>Water emissions</bold> include both, the total amount of emissions in water and the ecological impact of the chemical being emitted. The following emissions refer to this impact category:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Marine ecotoxicity (Meco), reported as kg 1,4 -DCB- equivalent</p>
+                </list-item>
+                <list-item>
+                    <p>Marine eutrophication (ME), reported as kg N- equivalent</p>
+                </list-item>
+                <list-item>
+                    <p>Freshwater ecotoxicity (FWeco), reported as kg 1,4 -DCB- equivalent</p>
+                </list-item>
+                <list-item>
+                    <p>Freshwater eutrophication (FEW), reported as kg P- equivalent</p>
+                </list-item>
+            </list>
+            <p>
+                <bold>Air emissions</bold> refer to the following impact categories:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Global warming potential (GWP), reported as kg CO
+                        <sub>2</sub>- equivalent</p>
+                </list-item>
+                <list-item>
+                    <p>Photochemical oxidant formation (POCP) -kg NMVOC, reported as ethylene equivalent</p>
+                </list-item>
+                <list-item>
+                    <p>Ozone depletion potential (ODP), reported as kg chlorofluorocarbon -11- equivalent</p>
+                </list-item>
+                <list-item>
+                    <p>Particulate matter formation (PMF) with an aerodynamic diameter smaller than 10 mm</p>
+                </list-item>
+            </list>
+            <p>
+                <bold>Solid (waste) emissions</bold> account for all materials disposed of in a landfill. Recycled or reused materials are not considered as solid waste. The following impacts can be related to this impact category:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Terrestrial acidification (TA), reported as kg SO
+                        <sub>2</sub>- equivalent</p>
+                </list-item>
+                <list-item>
+                    <p>Terrestrial ecotoxicity (TE), reported as kg 1,4 - dichlorobenzene- equivalent</p>
+                </list-item>
+            </list>
+            <p>
+                <bold>Land Use</bold> is an assessment of the environmental impacts on biodiversity through land use and land transformation. The following impacts are related to this impact category:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Agricultural land occupation (m
+                        <sup>2</sup>a)</p>
+                </list-item>
+                <list-item>
+                    <p>Natural land transformation (m
+                        <sup>2</sup>)</p>
+                </list-item>
+                <list-item>
+                    <p>Urban land occupation (m
+                        <sup>2</sup>a)</p>
+                </list-item>
+            </list>
+            <p>
+                <bold>Toxicity potential</bold> refer to the following impact categories:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Human toxicity (HT), reported as kg 1,4- dichlorobenzene- equivalent</p>
+                </list-item>
+                <list-item>
+                    <p>Ionising radiation (IR), reported as kg U235- equivalent</p>
+                </list-item>
+            </list>
+            <p>
+                <bold>Risk potential</bold> reflects the danger of accidents in the manufacture, use and recycling of the product. The values used for the individual products are not absolute but only comparative. The following assessment quantities used are the statistical data from the employers&#x00b4; accident insurance associations on workplace accidents, transportation accidents, abuse risks, plant safety, fire behavior, etc.
+                <sup>
+                    <xref ref-type="bibr" rid="ref-8">8</xref>,
+                    <xref ref-type="bibr" rid="ref-10">10</xref>&#x2013;
+                    <xref ref-type="bibr" rid="ref-12">12</xref>
+                </sup>.</p>
+            <p>For the impact assessment, so-called midpoint category indicators are first estimated, considering problem-oriented effects on the environment and divided into different categories, 
+                <italic toggle="yes">e.g.</italic> acidification, climate change, and eutrophication. The impact resulting from environmental pollution can then be quantified using damage-oriented endpoint methods that are assigned to different classes. According to the ILCD handbook (International Reference Life Cycle Data System), these are human health, the natural environment and natural resources
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>
+                </sup>. The environmental impacts were determined on the basis of six main aspects: the consumption of energy, depletion potential, the consumption of raw materials, resulting emissions, the toxicity potential and, the abuse and risk potential. The emission category includes water emissions, waste and air emissions. The air emission category consist of global warming (GWP), ozone depletion (ODP), acidification (AP) and photochemical ozone creation (POCP). Data acquisition and calculation were conducted according to the ISO 14044 emission categories: cumulative energy demand, depletion potential (fossil depletion or FD) in kg oil-equivalent, metal depletion (MD), in kg Fe-equivalent, water depletion (WD) in m
+                <sup>3</sup>. Land use is an assessment of the environmental impacts on biodiversity through land use and land transformation. The toxicity potential refers to human toxicity and ionizing radiation. The last impact category is the risk potential, which reflects the danger of accidents in manufacturing, using and recycling the product
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>,
+                    <xref ref-type="bibr" rid="ref-8">8</xref>,
+                    <xref ref-type="bibr" rid="ref-12">12</xref>,
+                    <xref ref-type="bibr" rid="ref-13">13</xref>
+                </sup>.</p>
+        </sec>
+        <sec>
+            <title>Data compilation</title>
+            <p>Due to the presence of intertwined relationships between process factors and the environment, the assessment of all impacts requires the development of a very complex model. The analysis extends from extraction of raw materials, through production, utilization, finally to disposal and recycling (&#x201c;cradle to the grave&#x201d;) in order to record all the relevant impacts. With these individual phases of the life cycle, other material flows are connected, which are at least partially included in the life cycle of the primary product. For a complete assessment, all substructures would have to be included in the investigation, for example, the proportionally used traffic areas, the power generation and distribution system, the computers used in the office of the administrative employees, including the associated chip production as well as the software industry etc. In order to be able to carry out an LCA at all, boundary criteria are necessary to determine a balance. Those boundaries define the process that needs to be analyzed with regard to flows, emissions, materials and work.</p>
+            <p>
+                <xref ref-type="fig" rid="f3">Figure 3</xref> shows the system boundary for the SOCRATCES technology. Three stages of life were considered in the calculation with the Umberto&#x00ae; software. For the construction phase, the raw materials and the energy consumption for the components were taken from literature. The data relevant to required materials for plant operation and associated parameters were gathered from the information provided by the consortium partners in project SOCRATCES. For the use phase, a time horizon of 25 years is considered. The data for the end-of-life phase is gathered from different literature resources and the database ecoinvent.</p>
+            <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                <label>Figure 3. </label>
+                <caption>
+                    <title>System boundary of the SOCRATCES technology.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure3.gif"/>
+            </fig>
+            <p>On the basis of those boundaries, a differentiation was made between direct and indirect emissions. All emissions emitted into the environment directly at the power plant site during the operation phase were considered to be direct emissions. All other emissions that are not directly related to the operation of the plant were referred to as indirect emissions.</p>
+            <p>The disposal phase included the dismantling, disposal and recycling of usable materials. In general, a distinction is made between materials that have reached the end of their life cycle and are disposed of and materials that can continue to be recycled. The processes of direct recycling and processes of direct disposal are considered distinct as well. Direct recycling includes the costs of the demolition at the site as well as the sorting of individual recyclable materials in construction waste containers for further use in a subsequent recycling process (cut-off criterion). Further material recycling concerns are focused on the metallic and glass components of the system. For the solar receiver, data for construction and end of life for the solar side (heliostats and tower) is taken according to state of the art in 2016.</p>
+            <p>The SOCRATCES plant consists of two types of equipment and materials. The first is off-the-shelf products such as heat exchangers, turbines, compressors, pumps, etc. The second type comprises highly specialized custom-made equipment. Within this second category fall the calciner and carbonator reactors. It is difficult to conceive that the materials used in the construction of the two reactors will not be available for procurement from exclusively European sources, there being an amply developed high-tech industry. It is relevant to mention that this has been the case for the pilot-scale reactors erected in Seville, Spain. The reactor bodies may require the service of fabricating firms with well-equipped machine workshops, but the required capabilities are evaluated as accessible to metal workshops worldwide. The materials and instrumentation required for the rest of the plant, as mentioned already, are primarily available from European manufacturers. For the power block module of the pilot-scale plant, for example, the recuperator heat exchanger and the Stirling engine were procured from Dutch sources, while the piping and other materials were obtained from local sources in Germany where the construction took place. However, it is worth mentioning that the Stirling engine, while it was originally by a Dutch company, was in fact produced in a Chinese facility and had to be shipped from China to Germany. This may well be the case for other equipment as well since the manufacturing of innumerable European industrial producers takes place outside Europe. The list of components considered for the LCA calculation is shown in 
+                <xref ref-type="table" rid="T1">Table 1</xref>, as well as the sources for the data used for the modelling in the Umberto software.</p>
+            <table-wrap id="T1" orientation="portrait" position="anchor">
+                <label>Table 1. </label>
+                <caption>
+                    <title>List of components considered in the LCA calculation
+                        <sup>
+                            <xref ref-type="bibr" rid="ref-14">14</xref>
+                        </sup>.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1">Location</th>
+                            <th align="center" colspan="1" rowspan="1">Component</th>
+                            <th align="center" colspan="1" rowspan="1">Further Information and data recourse</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="1" rowspan="3">Solar side</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Heliostats</td>
+                            <td colspan="1" rowspan="3">Built and assembled in Spain
+                                <sup>
+                                    <xref ref-type="bibr" rid="ref-15">15</xref>
+                                </sup> /and consortium</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Central tower</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Concentrator</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="4">Calciner</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Calciner</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Built in Europe/consortium</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Heat exchanger</td>
+                            <td colspan="1" rowspan="3">Manufactured in Europe/
+                                <sup>
+                                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                                </sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Compressor</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Electric motor</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Storage</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">3x Storage (CO
+                                <sub>2</sub>, CaO, CaCO
+                                <sub>3</sub>)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Manufactured in Spain/consortium</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="5">Carbonator</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Carbonator</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Manufactured in Greece/consortium</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Heat exchanger</td>
+                            <td colspan="1" rowspan="4">Manufactured in Europe/
+                                <sup>
+                                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                                </sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Turbine</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Compressor</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Electric generator</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="5">Power Block</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Turbine</td>
+                            <td colspan="1" rowspan="5">Manufactured in China/consortium</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Compressor</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Regenerator</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Cooler</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Electric generator</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="3">Additional</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Concrete fundament</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">
+                                <xref ref-type="bibr" rid="ref-15">15</xref>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Piping and wires</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">
+                                <xref ref-type="bibr" rid="ref-15">15</xref>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Transportation of components</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">Within Europe (0&#x2013;3000 km)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>The material and substance flows were recorded during the construction, operation and demolition phases of the plant, as shown in 
+                <xref ref-type="fig" rid="f3">Figure 3</xref>. The material flows of climate-relevant emissions were balanced for the entire life cycle. Bauxite, copper, iron and limestone were recorded as mineral resources and hard coal, lignite, crude oil, natural gas and uranium are recorded as energetic resources. The following substances relevant to the construction and operation of solar thermal systems were identified: steel-reinforced concrete, glass, stainless steel, steel, cast iron, electrical sheet, aluminum, copper, zinc, ceramics, paint, plastics and natural gas. Percentages of recycled material are also taken into account. The data were taken from different literature recourses.</p>
+            <p>For the solar side of the SOCRATCES plant, the construction for the tower and the field of heliostats includes transportation of the baseplate, the supporting structure, the control cabinet, the tower, the concentrator and the heliostat modules themselves. For the tower and the heliostats, transportation as assembled units was considered. For a complete assessment of the solar side, raw material transports should also be taken into account. However, these are subject to a wide range of fluctuations, depending on the local delivery share. The following simplifying assumptions are made to keep the analysis simple:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Only truck transports within the country of installation are considered.</p>
+                </list-item>
+                <list-item>
+                    <p>Transports outside the country for imported components (
+                        <italic toggle="yes">e.g</italic>. by ship) are only taken into account to a limited extent within Europe.</p>
+                </list-item>
+            </list>
+            <p>The assumed transport distance for building materials such as concrete and structural steel is 50 km. For transporting, different lorries are used (Lorry 16&#x2013;32 metric ton-km, EURo6).</p>
+            <p>The foundation consists of concrete and reinforced steel. To convert the concrete mass into the corresponding volume, a density of 2.1 t/m
+                <sup>3</sup> was assumed. In addition, period of operation of construction machinery was also included in the analysis. A hydraulic excavator with 50 to 100 kW output was assumed with the data taken from the ecoinvent database
+                <sup>
+                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                </sup>.</p>
+            <p>The concentrators consist of a reflecting surface and the necessary bracket. For the SOCRATCES project, mean values were extracted from the literature and the ecoinvent database
+                <sup>
+                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                </sup>. For corrosion resistance, the steel parts of all heliostats are galvanized. The reflective part consists of thin glass mirrors that are glued to the metal membrane
+                <sup>
+                    <xref ref-type="bibr" rid="ref-16">16</xref>
+                </sup>. All heliostats have a control cabinet in which control-electronics, transformers, cables and other small parts are housed. The raw material composition of components and electronics could only be roughly estimated. It was assumed that they consist of steel, plastic, aluminum and copper. The data are also taken from the database ecoinvent 3
+                <sup>
+                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                </sup>.</p>
+            <p>When accounting for the operation of the solar side (utilization phase), only maintenance and repair were considered. This includes the expenses for replacement of mirrors and their cleaning. The replacement over the course of 25 years due to breakage or corrosion was taken into account. Statistical mean values that have been taken from literature were used
+                <sup>
+                    <xref ref-type="bibr" rid="ref-17">17</xref>
+                </sup>. The cleaning of the mirrors was scheduled at an interval of a maximum of 6 months. This value can vary greatly depending on the weather conditions. The calculations are based on empirical values and assumed the requirement of 1 L water, 0.002 L of cleaning agent and the use of a small truck-mounted crane to clean one square meter of mirror surface
+                <sup>
+                    <xref ref-type="bibr" rid="ref-18">18</xref>
+                </sup>.</p>
+            <p>The calciner and carbonator are engineered and built, not to be purchased as off-the-shelf products. Since actual data available is only for the pilot-scale plant, reference values were estimated for the assessment of the two reactors. Both components were assembled in Europe, and the materials include steel, stainless steel, ceramics, PVC and copper. For operating the pilot plant, there is also an external electrical heating system with 10 kW that ensures the performance of the plant. However, this is not required for the system in large-scale operations and is therefore not included in the calculation.</p>
+            <p>Data were taken from the database for the components heat exchanger, compressor, turbine, and electric motors as prefabricated parts. Data for raw materials for cables, switch cabinets and connectors were taken from the database as well
+                <sup>
+                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                </sup>. The same applies to the storage tanks for CaO, CaCO
+                <sub>3</sub> and CO
+                <sub>2</sub> (scaling parameters are given in the 
+                <xref ref-type="other" rid="AX1">Annex</xref>).</p>
+            <p>Since most CSP plants are still in use and not completely disposed of yet, it is not possible to provide reliable data on the demolition and recycling of the complete system. For these reasons, the estimated disposal is limited to the demolition work and the transport of the components to the nearest landfill or recycling facility. It is also assumed that the solar tower plant will continue to be used after the 25-year operating period has expired. The tower, the buildings and the foundations of the heliostats and the heliostats themselves will not be dismantled. The demolition work includes the same work that was required for the construction of the SOCRATCES plant. It is expected that 50% of the construction machinery will be used, as less precise work is required. The assumed transport distance to recycling facilities is between 5&#x2013;50 km. The parts to be scrapped are transported with a 40-t truck.</p>
+            <sec>
+                <title>LCA at pilot plant scale</title>
+                <p>
+                    <xref ref-type="fig" rid="f4">Figure 4</xref> shows the pilot plant of the SOCRATCES technology with indirect CSP-CaL integration and a Stirling cycle. This scale is the first system under investigation. This configuration is based on the indirect CSP-CaL integration of a Stirling cycle operating with CO
+                    <sub>2</sub>.</p>
+                <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                    <label>Figure 4. </label>
+                    <caption>
+                        <title>Pilot plant flowsheet diagram of the SOCRATCES technology
+                            <sup>
+                                <xref ref-type="bibr" rid="ref-14">14</xref>
+                            </sup>.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure4.gif"/>
+                </fig>
+                <p>The data needed for sizing the components for the LCA were presented in deliverable D8.14, Report on LCC.</p>
+            </sec>
+            <sec>
+                <title>LCA at Industrial scale</title>
+                <p>For the industrial scale, a 10 MW
+                    <sub>th</sub>/2 MW
+                    <sub>el</sub> industrial plant with an indirect CSP-CaL integration and a Brayton cycle and a 100 MW
+                    <sub>th</sub>/60 MW
+                    <sub>e</sub> industrial plant with direct CSP-CaL integration was considered. 
+                    <xref ref-type="fig" rid="f5">Figure 5</xref> shows the Industrial scale of the SOCRATCES technology
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-19">19</xref>
+                    </sup>.</p>
+                <fig fig-type="figure" id="f5" orientation="portrait" position="float">
+                    <label>Figure 5. </label>
+                    <caption>
+                        <title>Industrial-scale of the SOCRATCES technology
+                            <sup>
+                                <xref ref-type="other" rid="FN2">2</xref>
+                            </sup>.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure5.gif"/>
+                </fig>
+                <p>
+                    <bold>
+                        <italic toggle="yes">2 MW
+                            <sub>e</sub> industrial plant.</italic>
+                    </bold> The industrial-scale configuration is based on the indirect CSP-CaL integration of a Brayton cycle, operating with supercritical CO
+                    <sub>2</sub>. The size of 2 MW
+                    <sub>e</sub> is referred to the net electrical output of the power block, approximately 10 MW
+                    <sub>th</sub>. Since the industrial scale flow diagram is rather complex, a simplified layout is taken into account for the modelling of the technology in the Umberto&#x00ae; software. 
+                    <xref ref-type="fig" rid="f6">Figure 6</xref> shows the simplified layout
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-20">20</xref>
+                    </sup>.</p>
+                <fig fig-type="figure" id="f6" orientation="portrait" position="float">
+                    <label>Figure 6. </label>
+                    <caption>
+                        <title>Simplified layout of the 2 MWe industrial plant
+                            <sup>
+                                <xref ref-type="other" rid="FN3">3</xref>
+                            </sup>.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure6.gif"/>
+                </fig>
+                <p>The data for the modelling of the industrial 2 MW
+                    <sub>e</sub> is taken from 
+                    <xref ref-type="bibr" rid="ref-21">21</xref> (see Appendix).</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">100 MW
+                            <sub>th</sub> industrial plant.</italic>
+                    </bold> The data used for the input calculation of the 100 MW
+                    <sub>th</sub> industrial-scale plant is given in the 
+                    <xref ref-type="other" rid="AX1">Annex</xref>. The configuration is based on the direct CSP-CaL integration (as can be seen in 
+                    <xref ref-type="fig" rid="f5">Figure 5</xref>). The power of 100 MW is referred to as the net thermal flux absorbed in the solar calciner.</p>
+            </sec>
+            <sec>
+                <title>Comparable technologies</title>
+                <p>To get sufficient comparable data, literature research was carried out to establish an overview of the current state of LCA regarding CSP tower plants. 
+                    <xref ref-type="table" rid="T2">Table 2</xref> provides an overview of some key parameters from different studies. In Lorenz
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-22">22</xref>
+                    </sup>, about 120 reports on environmental impact were assessed and compiled and values of greenhouse gas emissions between 22 and 23 g
+                    <sub>CO2</sub> eq./kWh
+                    <sub>el</sub> were reported. This data is considered in the calculation for the comparative Umberto&#x00ae; modelling.</p>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Overview of LCA studies for CSP tower plants with key parameters.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1">Reference</th>
+                                <th align="left" colspan="1" rowspan="1">Telsing
+                                    <sup>
+                                        <xref ref-type="bibr" rid="ref-23">23</xref>
+                                    </sup>
+                                </th>
+                                <th align="left" colspan="1" rowspan="1">Lorenz
+                                    <sup>
+                                        <xref ref-type="bibr" rid="ref-22">22</xref>
+                                    </sup>
+                                </th>
+                                <th align="left" colspan="1" rowspan="1">Mazzaferro
+                                    <sup>
+                                        <xref ref-type="bibr" rid="ref-17">17</xref>
+                                    </sup>
+                                </th>
+                                <th align="left" colspan="1" rowspan="1">Lorenz
+                                    <sup>
+                                        <xref ref-type="bibr" rid="ref-22">22</xref>
+                                    </sup>
+                                </th>
+                                <th align="left" colspan="1" rowspan="1">Lechon
+                                    <sup>
+                                        <xref ref-type="bibr" rid="ref-24">24</xref>
+                                    </sup>
+                                </th>
+                                <th align="left" colspan="1" rowspan="1">Weinrebe
+                                    <sup>
+                                        <xref ref-type="bibr" rid="ref-25">25</xref>
+                                    </sup>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Year</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">2015</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">2013</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">2017</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">2013</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">2006</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">2000</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Location</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">South Africa</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Spain</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Spain</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Israel</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Spain</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Mediterranean Sea</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Power [MW
+                                    <sub>el</sub>]</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">20</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">20</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">100</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">130</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">17</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">30</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Heat transfer fluid</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">MS: NaNO
+                                    <sub>3</sub>,
+                                    <break/>KNO
+                                    <sub>3</sub>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">MS: 
+                                    <break/>unspecified</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">MS: TES</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">MS: Ca(NO
+                                    <sub>3</sub>)
+                                    <sub>2</sub>, 
+                                    <break/>KNO
+                                    <sub>3</sub>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">MS: Ca(NO
+                                    <sub>3</sub>)
+                                    <sub>2</sub>, 
+                                    <break/>NaNO
+                                    <sub>3</sub>, KNO
+                                    <sub>3</sub>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Air</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Storage [h]</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">15</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">7.5</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">4</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">16</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Life-time [a]</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">30</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">25</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">25</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">25</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">25</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">25</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Functional unit</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">1 kWh
+                                    <sub>el</sub>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">1 kWh
+                                    <sub>el</sub>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">1 kWh
+                                    <sub>el</sub>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">1 kWh
+                                    <sub>el</sub>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">1 kWh
+                                    <sub>el</sub>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">1 kWh
+                                    <sub>el</sub>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">GWP [g
+                                    <sub>CO2</sub>-eq./kWh]</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">19.3</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">14.2</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">22.7</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">48.03</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">202</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">18&#x2013;26</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec>
+            <title>Results of the LCA Modelling</title>
+            <p>
+                <xref ref-type="table" rid="T3">Table 3</xref> shows the list of environmental impact categories generated by Umberto&#x00ae; calculated with the methods ReCiPe 2008 Midpoint (H) w/o LT and IPCC 2013
+                <sup>
+                    <xref ref-type="bibr" rid="ref-18">18</xref>
+                </sup>. The data is calculated for the pilot plant (10 kW) and the two industrial SOCRATCES plants (10 MW and 100 MW).</p>
+            <table-wrap id="T3" orientation="portrait" position="anchor">
+                <label>Table 3. </label>
+                <caption>
+                    <title>List of environmental impact categories provided by UMBERTO LCA+, calculated with the methods ReCiPe 2008 Midpoint (H) w/o LT and IPCC 2013
+                        <sup>
+                            <xref ref-type="bibr" rid="ref-26">26</xref>
+                        </sup>.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1">Impact category</th>
+                            <th align="center" colspan="1" rowspan="1">Impact</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES
+                                <break/>10 kW</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES
+                                <break/>10 MW</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES
+                                <break/>100 MW</th>
+                            <th align="center" colspan="1" rowspan="1">Units</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <bold>Cumulative</bold>
+                                <break/>
+                                <bold>energy demand</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">Energy consumption</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">10</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">kWh</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="3" valign="middle">
+                                <bold>Depletion</bold>
+                                <break/>
+                                <bold>potential</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">Fossil depletion</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.04</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.00525</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.01</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">kg-oil &#x2013; eq.</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">Metal depletion</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.08</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.01</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.03</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">kg Fe &#x2013; eq.</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">Water depletion</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.000456</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.0000582</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.000116</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">m
+                                <sup>3</sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="11" valign="middle">
+                                <bold>Emissions</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">Marine ecotoxicity</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">0.000333</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">4.73E-05</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">9.46E-05</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">kg 1,4 - DCB &#x2013; eq.</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">Marine eutrophication</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">0.0000228</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">1.02E-05</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">2.03E-05</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">kg N &#x2013; eq.</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">Fresh water </styled-content>
+                                <break/>
+                                <styled-content style="#3054BA" style-type="color">ecotoxicity</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">0.000119</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">1.85E-05</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">3.69E-05</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">kg 1,4 - DCB &#x2013; eq.</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">Fresh water </styled-content>
+                                <break/>
+                                <styled-content style="#3054BA" style-type="color">eutrophication</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">0.0000194</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">3.06E-06</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">6.11E-06</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#3054BA" style-type="color">kg P &#x2013; eq.</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">Climate Change</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">0.17</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">0.02</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">0.029</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">kg CO
+                                    <sub>2</sub> eq.</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">Global warming </styled-content>
+                                <break/>
+                                <styled-content style="#738135" style-type="color">potential</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">0.17</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">0.02</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">0.003</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">kg CO
+                                    <sub>2</sub> eq.</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">Photochemical </styled-content>
+                                <break/>
+                                <styled-content style="#738135" style-type="color">oxidant formation</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">0.00603</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">1.11E-04</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">2.02E-01</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">kg NMVOC</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">Ozone depletion </styled-content>
+                                <break/>
+                                <styled-content style="#738135" style-type="color">potential</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">9.34E-09</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">1.48E-09</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">2.95E-09</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">kg GFC</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">Particulate matter </styled-content>
+                                <break/>
+                                <styled-content style="#738135" style-type="color">formation</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">0.000505</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">9.30E-05</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">1.86E-04</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#738135" style-type="color">kg PM10</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#C45911" style-type="color">Terrestrial acidification</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#C45911" style-type="color">0.000901</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#C45911" style-type="color">2.18E-04</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#C45911" style-type="color">4.36E-04</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#C45911" style-type="color">kg SO
+                                    <sub>2</sub> &#x2013; eq.</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#C45911" style-type="color">Terrestrial ecotoxicity</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#C45911" style-type="color">0.0000183</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#C45911" style-type="color">4.98E-06</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#C45911" style-type="color">9.96E-06</styled-content>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">
+                                <styled-content style="#C45911" style-type="color">kg 1,4 - DCB &#x2013; eq.</styled-content>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="3" valign="middle">
+                                <bold>Land Use</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">Agricultural land 
+                                <break/>occupation</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.0000752</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.000912</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.00182</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">m
+                                <sup>2</sup>a</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">Natural land 
+                                <break/>transformation</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.0000228</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">3.17E-06</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">6.33E-06</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">m
+                                <sup>2</sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">Urban land 
+                                <break/>occupation</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.00424</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">6.10E-03</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">1.00E-02</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">m
+                                <sup>2</sup>a</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="2" valign="middle">
+                                <bold>Toxicity</bold>
+                                <break/>
+                                <bold>potential</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">Human toxicity</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.04</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.0055</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.01</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">kg 1,4 - DCB &#x2013; eq.</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">Ionising radiation</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.00527</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.000559</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">0.00112</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">kg U235 &#x2013; eq.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <table-wrap id="T4" orientation="portrait" position="anchor">
+                <label>Table 4. </label>
+                <caption>
+                    <title>Comparable results of the LCIA.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1">Impact</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES
+                                <break/>10 kW</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES
+                                <break/>10 MW</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES
+                                <break/>100 MW</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1">Energy 
+                                <break/>consumption 
+                                <break/>[kWh]</td>
+                            <td align="center" colspan="1" rowspan="1">10</td>
+                            <td align="center" colspan="1" rowspan="1">0</td>
+                            <td align="center" colspan="1" rowspan="1">0</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1">Fossil depletion 
+                                <break/>[kg oil-Eq.]</td>
+                            <td align="center" colspan="1" rowspan="1">0.04</td>
+                            <td align="center" colspan="1" rowspan="1">0.00525</td>
+                            <td align="center" colspan="1" rowspan="1">0.01</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1">Human toxicity [kg 
+                                <break/>1.4 - DCB &#x2013; eq.]</td>
+                            <td align="center" colspan="1" rowspan="1">0.0000752</td>
+                            <td align="center" colspan="1" rowspan="1">0.000912</td>
+                            <td align="center" colspan="1" rowspan="1">0.00182</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1">Water depletion 
+                                <break/>[m
+                                <sup>3</sup>]</td>
+                            <td align="center" colspan="1" rowspan="1">0.000456</td>
+                            <td align="center" colspan="1" rowspan="1">0.0000582</td>
+                            <td align="center" colspan="1" rowspan="1">0.000116</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1">Global warming 
+                                <break/>potential [kg CO
+                                <sub>2</sub>-
+                                <break/>Eq.]</td>
+                            <td align="center" colspan="1" rowspan="1">0.17</td>
+                            <td align="center" colspan="1" rowspan="1">0.02</td>
+                            <td align="center" colspan="1" rowspan="1">0.029</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>The environmental impact differs for the three systems, but it is not wildly dissimilar. In terms of the global warming potential, the pilot plant has significantly higher values than the industrial-scale plants because it is reflecting the effects of irregularities such as an augmentative electrical heater which are not present at larger scale.</p>
+            <p>The LCIA results show that the high environmental impact of the pilot plant can be found in every impact category. 
+                <xref ref-type="fig" rid="f7">Figure 7</xref> compares the global warming potential and the fossil depletion. 
+                <xref ref-type="table" rid="T4">Table 4</xref> gives the calculation for 
+                <xref ref-type="fig" rid="f7">Figure 7</xref>. The impacts on human toxicity and water depletion are displayed in 
+                <xref ref-type="fig" rid="f8">Figure 8</xref>. Both figures give an overview of relevant indicative metrics of the SOCRATCES technology with regards to the LCIA. The values of these metrics &#x2013; fossil depletion, global warming potential, human toxicity and water depletion &#x2013; indicated by the 10 kW pilot plant, should not be considered for comparison since the design and operation were not undertaken with a practical application in mind. The pilot plant design is oriented to generate knowledge about processes and components and not to produce power, and its operation is largely an experimental effort. As for the comparison between the 10 MW and the 100 MW plants, carried out using data largely acquired from literature. The metric approximately doubles for the design of 100 MW when compared to 10 MW. Thus, indicating a nonlinear relationship, best approximated by a power-relation of the 
+                <italic toggle="yes">y = ax
+                    <sup>b</sup>
+                </italic>  form. This holds for all four of the metrics considered here.</p>
+            <fig fig-type="figure" id="f7" orientation="portrait" position="float">
+                <label>Figure 7. </label>
+                <caption>
+                    <title>Comparable LCIA results for the three different SOCRATCES sizes for the impacts of global warming potential and fossil depletion.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure7.gif"/>
+            </fig>
+            <fig fig-type="figure" id="f8" orientation="portrait" position="float">
+                <label>Figure 8. </label>
+                <caption>
+                    <title>Comparable LCIA results for the three different SOCRATCES sizes for the impacts of human toxicity and water depletion.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure8.gif"/>
+            </fig>
+            <p>
+                <xref ref-type="table" rid="T5">Table 5</xref> shows the global warming impact for the different life cycle phases.</p>
+            <p>
+                <xref ref-type="fig" rid="f9">Figure 9</xref> shows that for the industrial scale, the main impact of global warming comes from the construction of the plant. The pilot plant has an almost equal GHG impact in the construction and operation phases, mainly from the additional heating installed and its experimental nature.</p>
+            <table-wrap id="T5" orientation="portrait" position="anchor">
+                <label>Table 5. </label>
+                <caption>
+                    <title>Global warming potential impact for the different phases.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1">Impact global warming 
+                                <break/>potential [kg CO2-Eq.]</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES 
+                                <break/>10 kW</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES 
+                                <break/>10 MW</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES 
+                                <break/>100 MW</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1">Construction</td>
+                            <td align="center" colspan="1" rowspan="1">44%</td>
+                            <td align="center" colspan="1" rowspan="1">87%</td>
+                            <td align="center" colspan="1" rowspan="1">92%</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1">Use Phase</td>
+                            <td align="center" colspan="1" rowspan="1">54%</td>
+                            <td align="center" colspan="1" rowspan="1">9%</td>
+                            <td align="center" colspan="1" rowspan="1">5%</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1">Recycling</td>
+                            <td align="center" colspan="1" rowspan="1">2%</td>
+                            <td align="center" colspan="1" rowspan="1">5%</td>
+                            <td align="center" colspan="1" rowspan="1">3%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <fig fig-type="figure" id="f9" orientation="portrait" position="float">
+                <label>Figure 9. </label>
+                <caption>
+                    <title>Comparable global warming potential for the different life cycle phases.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure9.gif"/>
+            </fig>
+            <p>To enhance the comprehension of the generated results in terms of comparison, the following approaches are often adopted:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>1.</label>
+                    <p>Normalization: where the magnitude of category indicator results, are calculated in relation to the reference information;</p>
+                </list-item>
+                <list-item>
+                    <label>2.</label>
+                    <p>Grouping: sorting and possibly ranking of the impact categories;</p>
+                </list-item>
+                <list-item>
+                    <label>3.</label>
+                    <p>Weighting: converting and possibly aggregating indicator results across impact categories using numerical factors based on value-choices.</p>
+                </list-item>
+            </list>
+            <p>In this study, LCIA data was normalized to a reference. This helps understand the relative magnitude of each indicator of the system under study. The least favorable impact is assigned the value of 1, and the other figures are scaled with reference to it. The risk potential was assumed to be equal for all systems. As the least favorable impacts were generated by the pilot plant, it was assigned the value 1, and the two industrial systems were calculated with respect to this reference, as shown in 
+                <xref ref-type="table" rid="T6">Table 6</xref>.</p>
+            <table-wrap id="T6" orientation="portrait" position="anchor">
+                <label>Table 6. </label>
+                <caption>
+                    <title>Normalization of the LCIA data, referring to the pilot plant awarded with the value 1.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1"/>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES 
+                                <break/>10 kW</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES 
+                                <break/>10 MW</th>
+                            <th align="center" colspan="1" rowspan="1">SOCRATCES 
+                                <break/>100 MW</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <bold>Energy consumption</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1">1.00</td>
+                            <td align="center" colspan="1" rowspan="1">0.00</td>
+                            <td align="center" colspan="1" rowspan="1">0.00</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <bold>Depletion potential</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1">1.00</td>
+                            <td align="center" colspan="1" rowspan="1">0.13</td>
+                            <td align="center" colspan="1" rowspan="1">0.33</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <bold>Emission</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1">1.00</td>
+                            <td align="center" colspan="1" rowspan="1">0.12</td>
+                            <td align="center" colspan="1" rowspan="1">0.84</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <bold>Land Use</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1">0.21</td>
+                            <td align="center" colspan="1" rowspan="1">1.00</td>
+                            <td align="center" colspan="1" rowspan="1">1.00</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <bold>Toxicity Potential</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1">1.00</td>
+                            <td align="center" colspan="1" rowspan="1">0.13</td>
+                            <td align="center" colspan="1" rowspan="1">0.25</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <bold>Risk potential</bold>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1">1.00</td>
+                            <td align="center" colspan="1" rowspan="1">1.00</td>
+                            <td align="center" colspan="1" rowspan="1">1.00</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>Weighting is the process of converting indicator results of different impact categories by using numerical factors based on chosen values. It may include aggregation of the weighted indicator results. In this work, the weighting factors were assumed to have an equal share and importance.</p>
+            <p>Following the normalization, the summarized values of the environmental categories were plotted in a spider diagram, shown in 
+                <xref ref-type="fig" rid="f10">Figure 10</xref>. This spider diagram illustrates a graphical depiction of the ecological pros and cons of the SOCRATCES plant at different industrial sizes.</p>
+            <fig fig-type="figure" id="f10" orientation="portrait" position="float">
+                <label>Figure 10. </label>
+                <caption>
+                    <title>Spider diagram of the environmental categories comparing different sizes of the SOCRATCES technology.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure10.gif"/>
+            </fig>
+            <p>It is possible to identify the location in terms of the environmental impact categories. The blue line describes the pilot plant system with 10 kW. It was used as the reference since the values of the Umberto&#x00ae; calculation were the highest. The diagram clearly demonstrates that the industrial scale of the SOCRATCES technology has better values than the pilot plant. In the spider diagram, the land use for the industrial scale is normalized to 1 since, for the pilot plant, the size of the solar side components was simulated on a very small scale. Nevertheless, it needs to be stated that both industrial scales are in normalization to the pilot plant and not to each other. The values for the 100 MW industrial scale are overall slightly higher than those of the 10 MW plant. When comparing the industrial scale to comparable technologies stated in literature (see 
+                <xref ref-type="table" rid="T2">Table 2</xref>), the SOCRATCES technology is clearly competitive. 
+                <xref ref-type="fig" rid="f11">Figure 11</xref> shows the comparison with some data from literature.</p>
+            <fig fig-type="figure" id="f11" orientation="portrait" position="float">
+                <label>Figure 11. </label>
+                <caption>
+                    <title>Comparable data for Global Warming Potential.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure11.gif"/>
+            </fig>
+            <p>
+                <xref ref-type="fig" rid="f11">Figure 11</xref> shows the comparison of the industrial SOCRATCES technology in the size of 10 MW and 100 MW to data that was extracted from literature. Especially when comparing the 100 MW SOCRATCES scale with the plants referred to in Mazzaferro with 100 MW and 7.5 h storage time and in Lorenz with a size of 130 MW and four hours of storage time, the technology of SOCRATCES seems beneficial. SOCRATCES technology can compete with most comparable systems regarding the Life-Cycle-Assessment within the system boundaries. It is very important to always refer to the boundaries of the system and note that the generated results are not absolute but comparative.</p>
+        </sec>
+        <sec>
+            <title>Eco-efficiency approach</title>
+            <p>The purpose of an eco-efficiency analysis is to harmonize economy and ecology. This involves carrying out an overall study of an alternative solution to include a total cost determination and the calculation of ecological impact over the entire life cycle. The eco- and cost-analyses results show the comparison of the overall ecological footprint with the total costs of different processes. The overall ecological footprint can be calculated by the LCIA results. All impacts together were used in the eco-efficiency analysis.</p>
+            <p>
+                <xref ref-type="fig" rid="f12">Figure 12</xref> is used as an example. System 2 shows a certain low ecological impact and low specific costs compared to all other systems. It would be an ideal situation to show the efficiency of the system compared to other processes. Thus, visualizing the most eco-/cost-efficient process for the targeted application directly. The calculation of total costs and the estimation of environmental footprint are independent calculations of the economic and ecological aspects of a system. The assumption is that ecology and economics have the same importance in a sustainability assessment. A technology less economical can compensate for this disadvantage with a better ecological assessment and 
+                <italic toggle="yes">vice versa</italic>. With the eco-efficiency approach, different alternative processes or technologies are comparable. Costs were calculated against environmental categories and plotted together in a diagram.</p>
+            <fig fig-type="figure" id="f12" orientation="portrait" position="float">
+                <label>Figure 12. </label>
+                <caption>
+                    <title>Visualization of the Eco- and Cost-Efficiency [BASF-Method].</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure12.gif"/>
+            </fig>
+            <p>The calculation of total costs and the calculation of the environmental footprint are independent calculations of the economic and ecological aspects of the SOCRATCES technology. The weighing factors were set equal on the assumption that ecology and economics have the same importance in a sustainability assessment. In all calculations, no absolute values are considered, only comparative values are. Costs are calculated and compared to environmental positions and plotted together in a diagram. For the LCA data in the literature, the costing was assessed with the IRENA renewable cost databank
+                <sup>
+                    <xref ref-type="bibr" rid="ref-27">27</xref>
+                </sup>. In order to illustrate the concept of eco-efficiency, the eco-efficiency portfolio was applied.</p>
+            <p>The costs are shown on the horizontal axis, and the environmental impacts are shown on the vertical axis. The graph reveals the eco-efficiency of the SOCRATCES technology 100 MW scale with various systems from literature. Such results allow a look into the future since Eco-efficiency analysis is utilized in making strategic decisions, and it helps to detect and exploit potential ecological and economic improvements. This approach demonstrates that the most favorable technology is located bottom left and the least favorable one on the top right. The distance of the individual processes to the portfolio diagonal is a measure of the respective eco-efficiency. 
+                <xref ref-type="fig" rid="f13">Figure 13</xref> shows that the SOCRATCES technology in the industrial scale of 100 MW and storage duration of 8+ hours is the most favorable one when compared to the other two systems. The Lorenz 130 MW plant has a storage capacity of 4 hours, which increases the costs per kWh drastically. The same applies to the plant referred to in Mazzaferro with 100 MW and a storage capacity of 7.5 hours. Even though the ecological impact is stated insignificantly lower than the SOCRATCES technology, it is important to mention that the system boundaries could vary significantly and are not known in detail for the reference system.</p>
+            <fig fig-type="figure" id="f13" orientation="portrait" position="float">
+                <label>Figure 13. </label>
+                <caption>
+                    <title>Eco-efficiency portfolio of the SOCRATCES technology in comparison with literature data.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15525/adbc6d85-ad81-4c00-8f01-fa3068d96458_figure13.gif"/>
+            </fig>
+        </sec>
+        <sec sec-type="discussion | conclusions">
+            <title>Discussion and conclusion</title>
+            <p>The environmental performance of the SOCRATCES technology was evaluated using a state-of-the-art life cycle approach. The principal goal was to evaluate the potential impacts of the SOCRATCES technology on an industrial scale and interpret the results to establish this innovative technology. It was performed based on the data gathered from the project consortium, database and literature. The process map was built in the Umberto LCA+&#x00ae; software, and the impact categories were calculated. Compressed LCIA data were graphically demonstrated on a spider diagram for five environmental impact categories: the consumption of energy, depletion potential, consumption of raw materials, resulting emissions, and the toxicity potential along with the risk potential.</p>
+            <p>The SOCRATCES technology proposes a novel and entirely green energy storage technique. It captures solar energy using a conventional array of heliostats. Solar energy is used in real-time to perform an endothermic reaction in a novel reactor with no fuel or external electric consumption. The products of this reaction are stored so that they can be brought together in a vigorously exothermic reaction to power an electricity generation cycle whenever required. The nature of the system that is non-dependent on fossil fuels makes the technology profoundly green. Its environmental compatibility is conspicuously reflected in the results of LCA presented in this report. With this technology, the system of thermo-chemical energy storage has the potential to contribute to climate protection and reduce the GHG-emission.</p>
+            <p>In comparison with molten salts storage systems, the SOCRATCES system has a significantly superior eco-efficiency. For example, the global warming potential for the industrial scale of 100 MW
+                <sub>th</sub> has a value of 39 gCO2-Eq per kWh produced electricity for the SOCRATCES technology, whereas the state-of-the-art molten salts storage system contributes with values between 20&#x2013;200 gCO2-Eq /kWh. The calculation clearly demonstrates that the technology developed in the project can compete with alternative methods in terms of ecological aspects, especially in terms of toxicity. When compared to the CSP 100 MW plant in Mazzaferno
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>
+                </sup>, all values for freshwater aquatic ecotoxicity, human toxicity, marine aquatic ecotoxicity, and terrestrial ecotoxicity are significantly higher than the impact values for the SOCRATCES technology. The comparison of the SOCRATCES technology on an industrial scale and the pilot plant are not fully comparable since a pilot plant is an experimental facility non oriented for economic exploitation and optimized ecological impact. Additionally, the external heating installed in the pilot plant affects the result. Nevertheless, the results for the pilot plant are shown as well.</p>
+            <p>The values used for the analysis of the individual processes and the derived results are not absolute, but only comparative. By adjusting parameters, the overall calculation can give a different result. The LCIA methods used in the software Umberto LCA+ namely: ReCiPe 2008 Midpoint (H) w/o LT and IPCC 2013; could be changed, and a different set of results would be generated, but the general trends would remain the same. According to the goal and scope of this study, the chosen methods collects the critical environmental impacts adequately.</p>
+            <p>For a better understanding, different approaches for interpretation of the results were applied. The normalization of the indicator results can be a factor for interpretation. It may be desirable to use several reference systems to show the consequence on the outcome of mandatory elements in the LCIA phase. For the interpretation of LCA results, it is always important to know the meaning of the applied approaches. Ranking and weighing is usually based on value-choices, but is left out in this comparison. This is because the goal was identified and compared to the environmental impact of the SOCRATCES technology. Different individuals, organizations and societies may have different preferences; therefore, it is possible that other parties will reach different ranking results based on the same indicator or normalized indicator results. Still, an average CO
+                <sub>2</sub> equivalent can be given. The process map with all its inputs and outputs were calculated by Umberto LCA+. The databanks ecoinvent v2.2 and v3 were used. The results show that the SOCRATCES technology has a positive environmental impact. Thus, there is the interest for further advances in the development of this technology.</p>
+        </sec>
+        <sec>
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>All data underlying the results are available as part of the article and no additional source data are required.</p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <sec id="AX1" sec-type="supplementary-material">
+            <title>Annex</title>
+            <table-wrap id="T7" orientation="portrait" position="anchor">
+                <label>Table 7. </label>
+                <caption>
+                    <title>Data assumptions for the LCA calculations of the 2MW
+                        <sub>e</sub> industrial scale.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Parameter</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Component/stream</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Operating temperature</td>
+                            <td align="left" colspan="1" rowspan="1">Calciner</td>
+                            <td align="center" colspan="1" rowspan="1">950 &#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Cut-in power</td>
+                            <td align="left" colspan="1" rowspan="1">Calciner</td>
+                            <td align="center" colspan="1" rowspan="1">20% of calciner 
+                                <break/>design power</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Operation time</td>
+                            <td align="left" colspan="1" rowspan="1">Carbonator side</td>
+                            <td align="center" colspan="1" rowspan="1">24 h</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">CaO conversion</td>
+                            <td align="left" colspan="1" rowspan="1">CaO</td>
+                            <td align="center" colspan="1" rowspan="1">0.5</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Thermal losses</td>
+                            <td align="left" colspan="1" rowspan="1">Carbonator</td>
+                            <td align="center" colspan="1" rowspan="1">1% of reaction 
+                                <break/>heat</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="2">Isentropic efficiency</td>
+                            <td align="left" colspan="1" rowspan="1">Storage turbine</td>
+                            <td align="center" colspan="1" rowspan="1">0.8</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Blower/Compressors</td>
+                            <td align="center" colspan="1" rowspan="1">0.8</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Electrical efficiency</td>
+                            <td align="left" colspan="1" rowspan="1">Electric generator/motor</td>
+                            <td align="center" colspan="1" rowspan="1">0.98</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Storage temperature</td>
+                            <td align="left" colspan="1" rowspan="1">Storage vessels</td>
+                            <td align="center" colspan="1" rowspan="1">20 &#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">CO
+                                <sub>2</sub> storage pressure</td>
+                            <td align="left" colspan="1" rowspan="1">CO
+                                <sub>2</sub> vessel</td>
+                            <td align="center" colspan="1" rowspan="1">75 bar</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Solid conveying
+                                <break/>electrical consumption</td>
+                            <td align="left" colspan="1" rowspan="1">CaO, CaCO
+                                <sub>3</sub>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1">10 kJ/(kg-100m)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="3">Minimum &#x2206;T</td>
+                            <td align="left" colspan="1" rowspan="1">Gas-gas HEXs</td>
+                            <td align="center" colspan="1" rowspan="3">15 &#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Gas-solid HEXs</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">HTF-solid HEXs</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="2">Isentropic efficiency</td>
+                            <td align="left" colspan="1" rowspan="1">Turbine CO
+                                <sub>2</sub> Cycle</td>
+                            <td align="center" colspan="1" rowspan="1">0.92</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Compressor CO
+                                <sub>2</sub> Cycle</td>
+                            <td align="center" colspan="1" rowspan="1">0.88</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Electrical efficiency</td>
+                            <td align="left" colspan="1" rowspan="1">Electric generator CO
+                                <sub>2</sub> Cycle</td>
+                            <td align="center" colspan="1" rowspan="1">0.98</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Ambient temperature</td>
+                            <td align="left" colspan="1" rowspan="1">Air CO
+                                <sub>2</sub> Cycle</td>
+                            <td align="center" colspan="1" rowspan="1">20 &#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="2">Minimum &#x2206;T</td>
+                            <td align="left" colspan="1" rowspan="1">Heater CO
+                                <sub>2</sub> Cycle</td>
+                            <td align="center" colspan="1" rowspan="1">20 &#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Cooler CO
+                                <sub>2</sub> Cycle</td>
+                            <td align="center" colspan="1" rowspan="1">15 &#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Compressor inlet pressure</td>
+                            <td align="left" colspan="1" rowspan="1">Compressor Power Block</td>
+                            <td align="center" colspan="1" rowspan="1">75 &#x2013; 95 bar</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Turbine inlet pressure</td>
+                            <td align="left" colspan="1" rowspan="1">Turbine Power Block</td>
+                            <td align="center" colspan="1" rowspan="1">180&#x2013;250 bar</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Turbine inlet temperature</td>
+                            <td align="left" colspan="1" rowspan="1">Turbine Power Block</td>
+                            <td align="center" colspan="1" rowspan="1">500 &#x2013; 700&#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Outlet Temperature (cold 
+                                <break/>side)</td>
+                            <td align="left" colspan="1" rowspan="1">Turbine Power Block</td>
+                            <td align="center" colspan="1" rowspan="1">100 &#x2013; 450 &#x00b0;C</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <table-wrap id="T8" orientation="portrait" position="anchor">
+                <label>Table 8. </label>
+                <caption>
+                    <title>Data assumptions for the LCA calculations of the 100 MW
+                        <sub>th</sub> industrial scale.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Parameter</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Component/stream</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Operating temperature</td>
+                            <td align="left" colspan="1" rowspan="1">Calciner</td>
+                            <td align="center" colspan="1" rowspan="1">900&#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Operating pressure</td>
+                            <td align="left" colspan="1" rowspan="1">Calciner</td>
+                            <td align="center" colspan="1" rowspan="1">1 bar</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Operation time</td>
+                            <td align="left" colspan="1" rowspan="1">Calciner side</td>
+                            <td align="center" colspan="1" rowspan="1">8 h</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Operation time</td>
+                            <td align="left" colspan="1" rowspan="1">Carbonator side</td>
+                            <td align="center" colspan="1" rowspan="1">24 h</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">CaO conversion</td>
+                            <td align="left" colspan="1" rowspan="1">CaO</td>
+                            <td align="center" colspan="1" rowspan="1">0.5</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Thermal losses</td>
+                            <td align="left" colspan="1" rowspan="1">Carbonator</td>
+                            <td align="center" colspan="1" rowspan="1">10% of reaction heat</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Operating temperature</td>
+                            <td align="left" colspan="1" rowspan="1">Carbonator</td>
+                            <td align="center" colspan="1" rowspan="1">920&#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Operating pressure</td>
+                            <td align="left" colspan="1" rowspan="1">Carbonator</td>
+                            <td align="center" colspan="1" rowspan="1">9 bars</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Outlet pressure</td>
+                            <td align="left" colspan="1" rowspan="1">Power cycle turbine</td>
+                            <td align="center" colspan="1" rowspan="1">1 bar</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Isentropic efficiency</td>
+                            <td align="left" colspan="1" rowspan="1">Turbines and compressors</td>
+                            <td align="center" colspan="1" rowspan="1">0.89</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Electrical efficiency</td>
+                            <td align="left" colspan="1" rowspan="1">Electric generator/motor</td>
+                            <td align="center" colspan="1" rowspan="1">0.98</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Storage temperature</td>
+                            <td align="left" colspan="1" rowspan="1">Storage vessels</td>
+                            <td align="center" colspan="1" rowspan="1">20&#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">CO
+                                <sub>2</sub> storage pressure</td>
+                            <td align="left" colspan="1" rowspan="1">CO
+                                <sub>2</sub> vessel</td>
+                            <td align="center" colspan="1" rowspan="1">75 bar</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Solid conveying electrical consumption</td>
+                            <td align="left" colspan="1" rowspan="1">CaO, CaCO
+                                <sub>3</sub>
+                            </td>
+                            <td align="center" colspan="1" rowspan="1">10 kJ/(kg-100m)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="3">Minimum &#x2206;T</td>
+                            <td align="left" colspan="1" rowspan="1">Air cooler</td>
+                            <td align="center" colspan="1" rowspan="2">15&#x00b0;C</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Gas-solid HEXs</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Solid-solid HEXs</td>
+                            <td align="center" colspan="1" rowspan="1">20&#x00b0;C</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <table-wrap id="T9" orientation="portrait" position="anchor">
+                <label>Table 9. </label>
+                <caption>
+                    <title>Scaling parameters for the calculation in Umberto&#x00ae; for the industrial scale of 100 MW.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1">Equipment</th>
+                            <th align="left" colspan="1" rowspan="1">Scaling parameter</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Solar tower</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">100 MW</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Heliostat field</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">350 877 m 
+                                <sup>2</sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Solar Receiver</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">200 MW</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Calciner</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">54 m
+                                <sup>3</sup>/s (entrained flow)</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Carbonator</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">116,5 m
+                                <sup>3</sup>/s</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">CO
+                                <sub>2</sub> vessel</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">571,2 m
+                                <sup>3</sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">CaO storage tank</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">3350 m 
+                                <sup>3</sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">HX
+                                <sub>A,B,E,F,I</sub>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Solid-Fluid (48 MW
+                                <sub>th</sub>, 23 MW
+                                <sub>th</sub>, 
+                                <break/>15 MW
+                                <sub>th</sub>, 2x10 MW
+                                <sub>th</sub>)</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">HXG</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Fluid-Fluid (30 MW
+                                <sub>th</sub>)</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Cooler</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">3 MW
+                                <sub>th</sub>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <fn-group>
+            <fn>
+                <p id="FN1">
+                    <sup>1</sup> Based on the ecoinvent database v2.2 / v3
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-9">9</xref>
+                    </sup>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN2">
+                    <sup>2</sup> Figure used with permission of the corresponding author</p>
+            </fn>
+            <fn>
+                <p id="FN3">
+                    <sup>3</sup> Figure used with permission of the corresponding author</p>
+            </fn>
+        </fn-group>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>SOCRATCES</article-title>.<year>2021</year>; [Zugriff am 12 12 2021].
+                    <ext-link ext-link-type="uri" xlink:href="https://socratces.eu/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Dieter</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bidwe</surname>
+                            <given-names>AR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Scheffknecht</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>9 - Pilot plant experience with calcium looping.</article-title>
+                    <source> 
+
+                        <italic toggle="yes">Calcium and Chemical Looping Technology for Power Generation and Carbon Dioxide (CO2) Capture</italic>. 
+</source>
+               <year>2015</year>;<fpage>171</fpage>&#x2013;<lpage>194</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/B978-0-85709-243-4.00009-4</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zakuciov&#x00e1;</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ko&#x010d;&#x00ed;</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ciahotn&#x00fd;</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Life Cycle Assessment of calcium carbonate loop CO2 capture technology for brown coal power plant unit of the Czech Republic.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Computer Aided Chemical Engineering.</italic>
+               </source>Bd.<year>2018</year>;<volume>43</volume>:<fpage>253</fpage>&#x2013;<lpage>258</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/B978-0-444-64235-6.50045-0</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Schneider</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Grippa</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>LCA, LCC Scope and system boundaries. </article-title>
+               <year>2018</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://socratces.eu/wp-content/uploads/SOCRATCES_D8.2_LCA-LCC-Scope-and-system-boundaries.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Brusseau</surname>
+                            <given-names>ML</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Chapter 32 - Sustainable Development and Other Solutions to Pollution and Global Change.</article-title>In.
+                    <source>
+
+                        <italic toggle="yes">Environmental and Pollution Science (Third Edition).</italic>
+               </source>
+               <year>2019</year>;<fpage>585</fpage>&#x2013;<lpage>603</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/B978-0-12-814719-1.00032-X</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Copola</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Scala</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A Preliminary Techno-Economic Analysis on the Calcium Looping Process with Simultaneous Capture of CO2 and SO2 from a Coal-Based Combustion Power Plant.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Energies.</italic>
+               </source>
+               <year>2020</year>;<volume>13</volume>(<issue>9</issue>):<fpage>2176</fpage>.
+                    <pub-id pub-id-type="doi">10.3390/en13092176</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="journal">
+                    <collab>E. European Comission</collab>:
+                    <article-title>ILCD Handbook, General Guide for Life Cycle Assessment. </article-title>
+               <year>2010</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eplca.jrc.ec.europa.eu/uploads/ILCD-Handbook-General-guide-for-LCA-DETAILED-GUIDANCE-12March2010-ISBN-fin-v1.0-EN.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Baumann</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Tillman</surname>
+                            <given-names>AM</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Hitch-Hiker's Guide to LCA.</article-title>Lund: Studentlitteratur,<year>2004</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/The_Hitch_Hiker_s_Guide_to_LCA.html?id=3QdsQgAACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <label>9</label>
+                <mixed-citation publication-type="journal">
+                    <collab>Ecoinvent</collab>:
+                    <article-title>Database Ecoinvent v2.2, v3</article-title>.<year>2021</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <label>10</label>
+                <mixed-citation publication-type="journal">
+                    <collab>DIN ISO 14044:2006</collab>:
+                    <article-title>Umweltmanagement &#x00d6;kobilanz</article-title>. Beuth Verlag, Berlin,<year>2006</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <label>11</label>
+                <mixed-citation publication-type="journal">
+                    <collab>DIN ISO 14040:2006</collab>:
+                    <article-title>Environmental management.</article-title>Beuth Verlag, Berlin,<year>2006</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.beuth.de/de/norm/din-en-iso-14044/88762013">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <label>12</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Huijbregts</surname>
+                            <given-names>MAJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Steinmann</surname>
+                            <given-names>ZJN</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Elshout</surname>
+                            <given-names>PMF</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>ReCiPe2016: a harmonised life cycle impact assessment method at midpoint and endpoint level.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Life Cycle Assess.</italic>
+               </source>
+               <year>2017</year>;<volume>22</volume>:<fpage>138</fpage>&#x2013;<lpage>147</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s11367-016-1246-y</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <label>13</label>
+                <mixed-citation publication-type="journal">
+                    <collab>European Commission</collab>:
+                    <article-title>LCIA Handbook - Frameworks and requirements for LCA models and indicators.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Luxembourg.</italic>
+               </source>
+               <year>2010</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eplca.jrc.ec.europa.eu/uploads/ILCD-Handbook-LCIA-Framework-Requirements-ONLINE-March-2010-ISBN-fin-v1.0-EN.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <label>14</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Guelpa</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Tesio</surname>
+                            <given-names>U</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Verda</surname>
+                            <given-names>V</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Power cycles: schemes, models, analysis. </article-title>
+               <year>2019</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <label>15</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Whitaker</surname>
+                            <given-names>MB</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Heath</surname>
+                            <given-names>GA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Burkhardt</surname>
+                            <given-names>JJ</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Life cycle assessment of a power Tower concentrating solar plant and the impacts of key design alternatives.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Environ Sci Technol.</italic>
+               </source>
+               <year>2013</year>;<volume>47</volume>(<issue>11</issue>):<fpage>5896</fpage>&#x2013;<lpage>903</lpage>.
+                    <pub-id pub-id-type="pmid">23663111</pub-id>
+                    <pub-id pub-id-type="doi">10.1021/es400821x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <label>16</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Heath</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Burkhardt</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Turchi</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Life Cycle Environmental resulting from the manufacture of the heliostat field for a reference power tower designed in the united states. </article-title>
+               <year>2012</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.nrel.gov/docs/fy13osti/56452.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <label>17</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mazzaferro</surname>
+                            <given-names>CA</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Life Cycle Assessment of Electricity Production from Concentration Solar Tower Power Plants. </article-title>
+               <year>2016</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <label>18</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fern&#x00e1;ndez-Garc&#x00ed;a</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>&#x00c1;lvarez-Rodrigo</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mart&#x00ed;nez-Arcos</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Study of Different Cleaning Methods for Solar Reflectors Used in CSP Plan.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Energy Procedia.</italic>
+               </source>
+               <year>2012</year>;<volume>49</volume>.</mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <label>19</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>GA Part B. </article-title>
+               <year>2017</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <label>20</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tesio</surname>
+                            <given-names>U</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Guelpa</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ortiz</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Optimized synthesis/design of the carbonator side for direct integration of thermochemical energy storage in small size Concentrated Solar Power.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Energy Convers Manag: X.</italic>
+               </source>
+               <year>2019</year>;<volume>4</volume>:<fpage>100025</fpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.ecmx.2019.100025</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <label>21</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tesio</surname>
+                            <given-names>U</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Guelpa</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Verda</surname>
+                            <given-names>V</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Integration of ThermoChemical Energy Storage in Concentrated Solar Power.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Energy Convers Manag: X.</italic>
+               </source>
+               <year>2019</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <label>22</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lorenz</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ko</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kn&#x00fc;pffer</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Life cycle assessment of solar thermal power plants. </article-title>
+               <year>2017</year>.
+                    <pub-id pub-id-type="doi">10.1051/mattech/2018002</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <label>23</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Telsnig</surname>
+                            <given-names>T</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Standortabh&#x00e4;ngige Analys und Bewertung solarthermischer Kraftwerke am Beispiel S&#x00fc;dafrikas.</article-title>Stuttgart.<year>2015</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/285587143_Standortabhangige_Analyse_und_Bewertung_solarthermischer_Kraftwerke_am_Beispiel_Sudafrikas">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <label>24</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lechon</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>De la R&#x00fa;a</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>S&#x00e1;ez</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Life Cycle Environmental Impacts of Electricity Production by Solarthermal Power Plants in Spain.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Journal of Solar Energy Engineering.</italic>
+               </source>
+               <year>2008</year>;<volume>130</volume>(<issue>2</issue>).
+                    <pub-id pub-id-type="doi">10.1115/1.2888754</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <label>25</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Weinrebe</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Technische, &#x00f6;kologische und &#x00f6;konomische Analyse von solarthermischen Turmkraftwerken.</article-title>Stuttgart.<year>2000</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/33787965_Technische_okologische_und_okonomische_Analyse_von_solarthermischen_Turmkraftwerken">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <label>26</label>
+                <mixed-citation publication-type="journal">
+                    <collab>ifu Hamburg</collab>:
+                    <article-title>Umberto LCA+.</article-title>Hamburg.<year>2019</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <label>27</label>
+                <mixed-citation publication-type="journal">
+                    <collab>IRENA</collab>:
+                    <article-title>Renewable Power Generation Costs in 2019. </article-title>
+               <year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2020/Jun/IRENA_Power_Generation_Costs_2019.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report29144">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15525.r29144</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Stendardo</surname>
+                        <given-names>Stefano</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r29144a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r29144a1">
+                    <label>1</label>ENEA, Italian National Agency for New Technologies, Energy, and the Sustainable Economic Development, Rome, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>8</day>
+                <month>6</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Stendardo S</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport29144"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14386.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This work presents the LCIA analysis of a calcium looping process when applied for the thermochemical storage of solar energy. Detailed results based on six main aspects: the consumption of energy, depletion potential, the consumption of raw materials, resulting emissions, the toxicity potential and, the abuse and risk potential. The paper is well structured, but it lacks details on the reference of used database. I suppose that the paper could be reviewed making it acceptable to pass peer review in the Open Research Europe.</p>
+            <p> </p>
+            <p> Revisions:</p>
+            <p> </p>
+            <p> The authors have modelled in detail the impact from raw material transportation with different assumptions. Also, for solar side the authors have reported in table 1 reference 15 for further information. Unfortunately, I cannot find the reference value for: (i) calciner built in Europe; (ii) storage; (iii) power block as they are reported in table 1. Please report any comments in that regard.</p>
+            <p> </p>
+            <p> In page 8 it is reported that &#x201c;Data were taken from the database for the components heat exchanger, compressor, turbine, and electric motors as prefabricated parts.&#x201d; But there is no mention of reference. Please clarify.</p>
+            <p> </p>
+            <p> The first Column of table 3 reports impact categories but the names are non-consistent to those reported in page 3/5. For example general &#x201c;Emission&#x201d; is reported whereas in page 5 there is &#x201c;water emission&#x201d; and &#x201c;air emission&#x201d;.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Partly</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Calcium looping process, CCS, CCU, CO2 management, low-carbon H2 production, energy storage</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report29291">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15525.r29291</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Lalau</surname>
+                        <given-names>Yasmine</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r29291a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-1112-1989</uri>
+                </contrib>
+                <aff id="r29291a1">
+                    <label>1</label>IMT Mines Albi, CNRS UMR 5302, Centre RAPSODEE, Campus Jarlard, IMT Mines Albi, Albi, France</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>6</day>
+                <month>6</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Lalau Y</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport29291"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14386.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The research article &#x201c;Life cycle analysis of the solar thermochemical energy storage scheme SOCRATCES&#x201d; present the environmental impacts calculated by a Life Cycle Assessment (LCA) of a concentrated solar power (CSP) plant including an innovative thermochemical energy storage. The results are analysed and compared to literature.</p>
+            <p> </p>
+            <p> This work deals with a promising renewable energy technology developed by the project consortium up to a 10 kW
+                <sub>e</sub> prototype, providing experimental data. However, the article presents several shortcomings that should be filled before the article can pass peer review. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>First of all, concerning the functional unit: all impacts are given for 1 kWh of electrical energy produced, but there is no mention about the storage contribution in producing energy. A short description of the plant parameters and operation should be summarized, even if previous work detailed this technical part. Besides, when presenting the results, the functional unit should be reminded.</p>
+                    </list-item>
+                    <list-item>
+                        <p>A better description of the plant would also allow to have a better understanding of the Life Cycle Inventory (LCI) which is quite poor (no materials quantities, energy consumption, etc.). For instance, I did not understand why there is no energy consumption in the operation phase at the industrial scale, at least for the heat transfer fluid circulation.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Then, it was not clear for me why two different methods were used, and which one provided which impact category.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Please use systematically the &#x201c;e&#x201d; or &#x201c;th&#x201d; index to indicate if the power in W is thermal or electrical.</p>
+                    </list-item>
+                    <list-item>
+                        <p>In Table 3 (and following data based on it) I think there is a mistake between &#x201c;cumulative energy demand (CED)&#x201d; and &#x201c;energy consumption&#x201d;. The CED is more usually expressed in MJeq and is representative of all the primary energy consumed in the whole life cycle. Thus, it seems impossible to be equal to zero for the industrial scale plant. Another point on this table: &#x201c;climate change&#x201d; and &#x201c;global warming potential&#x201d; is the same indicator.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The environmental impacts of the prototype are presented as non-relevant; the reader asks himself why the authors choose to present it. In my opinion, this assessment could be interesting to underline the gap between assessment based on lab-scale prototype and industrial-scale plant but should be corroborated by a deeper comparison. I did not follow the meaning for the data of the &#x201c;nonlinear relationship, best approximated by a power-relation of the y = ax
+                            <sup>b</sup> form&#x201d;.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Figures 7 and 8 are irrelevant: the impact comparison should be illustrated after normalization. The proposed normalization allows to compare the relative changes on each impact category when the plant scale increase, but not to compare the relative value of the indicators between category. To do so, the authors should refer to the ILCD Handbook recommendation.</p>
+                    </list-item>
+                    <list-item>
+                        <p>On Figure 11 it is not relevant to indicate the Lechon 17 MW GWP value as it refers to an hybrid solar/fossil plant and then is representative of the gas consumption of the plant.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Figure 12 does not seem relevant.</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the conclusion the authors argue that their technology has a significant superior eco-efficiency but does not prove it. Indeed, only the GWP is compared to literature, and compared to a wide range of studies non-harmonized. The GWP should be compared to the mean harmonized value, which is very close to the one in this work. The advantage on toxicity is mentioned but not argued.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Finally, the literature review is quite poor: table 2 is really not actualized and some mistakes are present (Telsing work was published in 2017, the 130 MW
+                            <sub>el</sub> plant in Israel was studied by Martellato, &#x2026;)</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Partly</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Partly</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Partly</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Thermal energy storage; Life Cycle Assessment; Waste heat valorization; Concentrated Solar Power</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+</article>

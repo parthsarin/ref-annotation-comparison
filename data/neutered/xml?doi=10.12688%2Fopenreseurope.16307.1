@@ -1,0 +1,2286 @@
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="letter"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.16307.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Open Letter</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Multi3Generation: Multitask, Multilingual, and Multimodal Language Generation</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Lloret</surname>
+                        <given-names>Elena</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2926-294X</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Barreiro</surname>
+                        <given-names>Anabela</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-9521-3006</uri>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Bhatt</surname>
+                        <given-names>Mehul</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Bugar&#x00ed;n-Diz</surname>
+                        <given-names>Alberto</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Modoni</surname>
+                        <given-names>Gianfranco E.</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-4017-0800</uri>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Silberztein</surname>
+                        <given-names>Max</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Calixto</surname>
+                        <given-names>Iacer</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                    <xref ref-type="aff" rid="a8">8</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Korvel</surname>
+                        <given-names>Grazina</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a9">9</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Diamantaras</surname>
+                        <given-names>Konstantinos</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a10">10</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Katsalis</surname>
+                        <given-names>Alkiviadis</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="aff" rid="a10">10</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Turuta</surname>
+                        <given-names>Oleskii</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-0970-8617</uri>
+                    <xref ref-type="aff" rid="a11">11</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Russo</surname>
+                        <given-names>Irene</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="aff" rid="a12">12</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Erdem</surname>
+                        <given-names>Aykut</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a13">13</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>University of Alicante, Alicante,, San Vicente del Raspeig, 03690, Spain</aff>
+                <aff id="a2">
+                    <label>2</label>Instituto de Engenharia de Sistemas e Computadores: Investigac&#x00b8;ao e Desenvolvimento (INESC-ID), Lisboa, Lisboa, Rua Alves Redol, 9, 1000-029, Portugal</aff>
+                <aff id="a3">
+                    <label>3</label>CoDesign Lab EU, &#x00d6;rebro University, &#x00d6;rebro, &#x00d6;rebro County, S-701 82, Sweden</aff>
+                <aff id="a4">
+                    <label>4</label>Centro Singular de Investigacion en Tecnolox&#x00b4;&#x0131;as Intelixentes (CiTIUS), Universidade de Santiago de Compostela, Santiago de Compostela, Galicia, 15782, Spain</aff>
+                <aff id="a5">
+                    <label>5</label>Institute of Intelligent Industrial Systems and Technologies for Advanced Manufacturing, National Research Council, STIIMA CNR, Bari, via Lembo 38F, 70124, Italy</aff>
+                <aff id="a6">
+                    <label>6</label>Universite de Franche-Comte, Besan&#x00e7;on, Bourgogne-Franche-Comt&#x00e9;, 30-32, rue Megevand, 25030, France</aff>
+                <aff id="a7">
+                    <label>7</label>Amsterdam UMC, Department of Medical Informatics, Amsterdam Public RHealth Research Institute, Amsterdam, Meibergdreef 9, 1105 AZ, The Netherlands</aff>
+                <aff id="a8">
+                    <label>8</label>Amsterdam Public Health, Methodology and Mental Health, Amsterdam, North Holland, The Netherlands</aff>
+                <aff id="a9">
+                    <label>9</label>Vilnius University, Vilnius, Akademijos st. 4, 08412, Lithuania</aff>
+                <aff id="a10">
+                    <label>10</label>Department of Information and Electronic Engineering, International Hellenic University, Thesaloniki, 57400, Greece</aff>
+                <aff id="a11">
+                    <label>11</label>Kharkiv National University of Radio Electronics, Ukraine, Nauky Ave, 14, 61166, Ukraine</aff>
+                <aff id="a12">
+                    <label>12</label>ILC CNR &#x201c;A. Zampolli&#x201d;, Pisa, Via G. Moruzzi, 1, 56124, Italy</aff>
+                <aff id="a13">
+                    <label>13</label>Ko&#x00e7; University, Istanbul, Sar&#x0131;yer, 34450 &#x02d9;, Turkey</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:elloret@dlsi.ua.es">elloret@dlsi.ua.es</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>12</day>
+                <month>10</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>176</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>21</day>
+                    <month>8</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Lloret E et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-176/pdf"/>
+            <abstract>
+                <p>The purpose of this article is to highlight the critical importance of language generation today. In particular, language generation is explored from the following three aspects: multi-modality, multilinguality, and multitask, which all of them play crucial role for Natural Language Generation (NLG) community. We present the activities conducted within the Multi3Generation COST Action (CA18231), as well as current trends and future perspectives for multitask, multilingual and multimodal language generation.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Natural Language Generation</kwd>
+                <kwd>Language Technologies</kwd>
+                <kwd>Multi3Generation</kwd>
+                <kwd>Multilinguality</kwd>
+                <kwd>Multimodality</kwd>
+                <kwd>Multi-task</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100018693">
+                    <funding-source>Horizon Europe Framework Programme</funding-source>
+                    <award-id>18231</award-id>
+                </award-group>
+                <award-group id="fund-2">
+                    <funding-source>Swedish Research Council</funding-source>
+                    <award-id>CounterfactualCommonsense</award-id>
+                </award-group>
+                <award-group id="fund-3">
+                    <funding-source>Spanish Government</funding-source>
+                    <award-id>TED2021-130707B-I00</award-id>
+                </award-group>
+                <award-group id="fund-4">
+                    <funding-source>Generalitat Valenciana</funding-source>
+                    <award-id>CIPROM/2021/21</award-id>
+                </award-group>
+                <award-group id="fund-5">
+                    <funding-source>Spanish Government</funding-source>
+                    <award-id>PID2021-123956OB-I00</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Cooperation in Science and Technology (COST) under the agreement no. CA18231 - Multi3Generation: Multitask, Multilingual, Multimodal Language Generation.&#xD;
+In addition, this research work is partially conducted within the R&amp;D projects &#x201c;CORTEX: Conscious Text Generation&#x201d; (PID2021-123956OB-I00) partially funded by MCIN/ AEI/10.13039/501100011033/ and by &#x201c;ERDF A way of making Europe&#x201d; and &#x201c;Enhancing the modernization public sector organizations by deploying Natural Language&#xD;
+Processing to make their digital content CLEARER to those with cognitive disabilities&#x201d; (TED2021-130707B-I00), funded by MCIN/AEI/10.13039/501100011033 and &#x201c;European Union NextGenerationEU/PRTR&#x201d;, and by the Generalitat Valenciana through the project &#x201c;NL4DISMIS: Natural Language Technologies for dealing with dis- and misinformation with grant reference (CIPROM/2021/21)&#x201d;, Project Counterfactual Commonsense (&#x00d6;rebro University), funded by the&#xD;
+Swedish Research Council (VR).</funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Disclaimer</title>
+            <p>The views expressed in this article are those of the author(s). Publication in Open Research Europe does not imply endorsement of the European Commission.</p>
+        </sec>
+        <sec>
+            <title>Plain language summary</title>
+            <p>The COST Action Multi3Generation (CA18231) is a cooperative project bringing together different groups of researchers focused on Natural Language Generation (NLG). NLG is the technology of using computers to generate human-like language for tasks like translating, answering questions, summarizing documents, simplifying text, and interacting through dialogue. The project focuses on solving common challenges in NLG, such as finding efficient ways to represent information, using advanced machine learning techniques, dealing with uncertainty when people interact with NLG systems, and effectively using structured knowledge from various sources like databases, images, and videos. The goal is to make NLG useful to society and widely available, with industry and academic experts working together. The project is organized into five working groups focused on specific aspects of NLG, including multimodal reasoning and generation, understanding and generating different types of information, efficient machine learning algorithms for language generation, dialogue and conversational language generation, knowledge base exploitation, and industry collaboration and end-user engagement.</p>
+            <p>Over 133 scientists from 34 different countries are involved in the Multi3Generation project. Their disciplines range from computer science to data science to linguistics to computational linguistics, and to digital humanities. A total of 60% of the participants are men and 40% are women. Relevant businesses like Unbabel and JabberBrain are also participating to have a wider European influence. To accomplish its goals and communicate its findings across the research community, the project participates in larger events, holds meetings, short-term scientific missions, training courses, and workshops.</p>
+            <p>The three main areas of focus of the Multi3Generation project are: (i) Multilinguality, (ii) Multimodality, and (iii) Multitasking. Given the variety of digital information available today, these factors are essential for creating language. The aim of Multilinguality is to make it easier for people speaking different languages, especially those with fewer speakers, to interact with machines using their natural language. Multimodality acknowledges that our experience of the world involves multiple senses, like seeing, hearing, and feeling. The project works on generating language using different forms of communication, such as text, images, and speech. Multitasking involves using language generation for various purposes, like translating between languages, describing what we see in pictures or videos, summarizing information, and simplifying complex text. The project aims to improve language generation in these areas to benefit languages that are not widely represented and cater to the diverse needs of users. This article offers insight into the initiatives and planned activities of Multi3Generation for those interested in NLG, as well as future perspectives on this task.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>1 Introduction</title>
+            <p>Today, stochastic-, probabilistic-, statistical- or neural-network-based methods are trendy, thanks partly to OpenAI&#x2019;s ChatGPT
+                <sup>
+                    <xref ref-type="other" rid="FN1">1</xref>
+                </sup>, Google&#x2019;s Bard
+                <sup>
+                    <xref ref-type="other" rid="FN2">2</xref>
+                </sup>, and Microsoft&#x2019;s Sydney
+                <sup>
+                    <xref ref-type="other" rid="FN3">3</xref>
+                </sup> chatbots which have been garnering a lot of attention for their ability to generate detailed answers across many knowledge domains. Consequently, most researchers in Natural Language Processing (NLP) develop systems that use stochastic methods to extract solutions from massive databases used as &#x201c;cheat sheets&#x201d; instead of trying to formalize what meaning needs to be produced and in what style. Moreover, NLP software that uses training corpora associated with stochastic methods is being used daily: people regularly talk to their smartphone thanks to OK Google or Apple Siri, to their home thanks to Amazon&#x2019;s Alexa, and use Machine Translation applications such as Google Translate, Deepl or ChatGPT Translator Plus routinely for their personal and business needs. Natural Language Processing (NLP) addresses all computational and linguistic aspects necessary to address both the comprehension (also known as Natural Language Understanding &#x2013; NLU) and generation of language (
+                <italic toggle="yes">i.e.</italic>, Natural Language Generation &#x2013; NLG)
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>
+                </sup>. In fact, the emergence of deep learning based approaches has significantly revolutionized the traditional conception of NLG
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>, thus making it more popular not only for the scientific community but also attracting the attention of industry and society.</p>
+            <p>The COST Action Multi3Generation (CA18231), coordinated by INESC-ID (
+                <italic toggle="yes">Instituto de Engenharia de Sistemas e Computadores: Investiga&#x00e7;&#x00e3;o e Desenvolvimento em Lisboa</italic>), started in September 2019, aims at fostering an interdisciplinary network of research groups working on different aspects of NLG. The Action frames NLG broadly as the set of tasks where the ultimate goal involves generating language, such as machine translation, question answering, summarization, simplification, or dialogue generation, to name just a few. In fact, the emergence of Generative Artificial Intelligence (AI) (
+                <italic toggle="yes">e.g.</italic> ChatGPT) has significantly revolutionised the traditional conception of NLG
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>, thus making it more popular not only for the scientific community but also attracting the attention of industry and society. Regardless of the NLG application to address, there are a set of common aspects that are critical for the successful development of the different applications, which constitute the core challenges Multi3Generation focuses on. These are:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>
+                        <italic toggle="yes">Data and information representations.</italic> More and more, inputs to NLG applications are heterogeneous and varied, coming from different sources (
+                        <italic toggle="yes">i.e</italic>., tabular data, text, images, videos, Knowledge Bases (KB) or graphs).</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <italic toggle="yes">Machine Learning (ML).</italic> How can modern ML methods such as multitask learning (MTL), representation learning and structured prediction be leveraged for NLG?</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <italic toggle="yes">Interaction.</italic> Applications of NLG, 
+                        <italic toggle="yes">e.g.</italic>, Dialogue Systems, Conversational Search Interfaces and Human-Robot Interaction, pose additional challenges to NLG due to uncertainty derived from the changing environment and the non-deterministic fashion of interaction.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <italic toggle="yes">KB exploitation.</italic> Structured knowledge is key to NLG, supporting ML methods that require expansion, filtering, disambiguation, or user adaptation of generated content. In this respect, how can we efficiently exploit commonsense, world knowledge and multimodal information from various inputs such as knowledge bases, images, and videos to address NLG tasks?</p>
+                </list-item>
+            </list>
+            <p>In addition, and due to the numerous applications that can be derived from NLG, it is of great importance that they are beneficial to society. For this, the industry must play an important role together with academia, which results in making NLG available to the general public. In this respect, language generation applications, such as machine translators, summarizers, paraphrasers, conversational agents, 
+                <italic toggle="yes">etc.</italic>, may become essential tools on a daily basis.</p>
+            <p>In order to face the aforementioned challenges, Multi3Generation is organized into five Working Groups (WG), where each focuses on, and tries to advance research in a specific aspect of NLG. In particular, these are:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>WG1 &#x2013; Grounded Multimodal Reasoning and Generation</p>
+                </list-item>
+                <list-item>
+                    <p>WG2 &#x2013; Efficient Machine Learning Algorithms, Methods, and Applications to Language Generation</p>
+                </list-item>
+                <list-item>
+                    <p>WG3 &#x2013; Dialogue, Interaction and Conversational Language Generation Applications</p>
+                </list-item>
+                <list-item>
+                    <p>WG4 &#x2013; Exploiting Large Knowledge Bases and Graphs</p>
+                </list-item>
+                <list-item>
+                    <p>WG5 &#x2013; Industry and End-User Liaison</p>
+                </list-item>
+            </list>
+            <p>The more than 133 participants in the Action, belonging to 34 different countries, include experts in computer science, data science, linguistics, computational linguistics, and digital humanities. This multidisciplinary and interdisciplinary expertise has greatly benefited Multi3Generation, as challenges have been addressed and solved from different angles. With respect to gender dimension, there are more men than women participating in Multi3Generation. The percentages are 60% men 
+                <italic toggle="yes">versus.</italic> 40% women. To ensure a more significant impact on a European scale, several relevant companies related to NLG technologies are also involved, such as the machine translation company, Unbabel
+                <sup>
+                    <xref ref-type="other" rid="FN4">4</xref>
+                </sup> and the startup JabberBrain
+                <sup>
+                    <xref ref-type="other" rid="FN5">5</xref>
+                </sup>.</p>
+            <p>In order to achieve the objectives of Multi3Generation, different types of activities and dissemination events are developed:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>
+                        <italic toggle="yes">Meetings.</italic> The aim of this type of activity is to support Multi3Generation scientific and networking activities in line with the objectives specified in the project.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <italic toggle="yes">Short-term scientific missions (STMS).</italic> These are institutional visits aiming to support individual mobility, fostering collaboration between individuals. They aim to create synergies between researchers to encourage joint research and maximize the results of the project.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <italic toggle="yes">Training schools.</italic> The purpose of training schools is to facilitate capacity building on NLG, specifically targeted to early careers investigators (
+                        <italic toggle="yes">i.e.</italic>, those individuals who obtained their PhD/doctorate up to eight years ago) and PhD students. Both the Training Schools that took place in 2022 on &#x201c;Representation Mediated Multimodality&#x201d;
+                        <sup>
+                            <xref ref-type="other" rid="FN6">6</xref>
+                        </sup> and on &#x201c;Creative Natural Language Generation&#x201d;
+                        <sup>
+                            <xref ref-type="other" rid="FN7">7</xref>
+                        </sup> are examples of initiatives conducted in this category.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <italic toggle="yes">Workshops.</italic> Workshops aim at attracting the research community&#x2019;s attention in the specific topics related to Multi3Generation. The first Workshop on Multilingual, Multimodal and Multitask Language Generation
+                        <sup>
+                            <xref ref-type="other" rid="FN8">8</xref>
+                        </sup> that will be co-located with &#x2018;The 24th Annual Conference of The European Association for Machine Translation&#x201d; (EAMT 2023), the first Symposium on Challenges for Natural Language Processing
+                        <sup>
+                            <xref ref-type="other" rid="FN9">9</xref>
+                        </sup> (CNLPS&#x2019;23), co-located at the 18th Conference on Computer Science and Intelligence Systems (FedCSIS 2023), or the Workshop on Multimodal, Multilingual Natural Language Generation and Multilingual WebNLG Challenge
+                        <sup>
+                            <xref ref-type="other" rid="FN10">10</xref>
+                        </sup>, co-located at the 16th International Natural Language Generation Conference (INLG 2023), are some examples of conducted activities under this category.</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <italic toggle="yes">Participation in broader events.</italic> This type of activity is focused on disseminating the Multi3Generation Action within the research community. Examples of initiatives conducted within Multi3Generation can be found on the website
+                        <sup>
+                            <xref ref-type="other" rid="FN11">11</xref>
+                        </sup>.</p>
+                </list-item>
+            </list>
+            <p>This article is an opportunity for anyone interested in NLG to discover the initiatives carried out within Multi3Generation COST Action and benefit from the ongoing and coming planned activities.</p>
+        </sec>
+        <sec>
+            <title>2 Natural Language Generation in the context of Multi3Generation</title>
+            <p id="s2">In contrast to the more classical definition of NLG, where four main stages are involved in the process, the ones of content determination, macroplanning, microplanning, and surface realization and each one can be addressed using different approaches
+                <sup>
+                    <xref ref-type="bibr" rid="ref-3">3</xref>
+                </sup>, the emergence of deep learning architectures, such as Transformers
+                <sup>
+                    <xref ref-type="bibr" rid="ref-4">4</xref>
+                </sup>, have brought in integrated architectures, where the whole NLG is tackled at a once, without any distinction within the aforementioned stages. These new approaches require including issues not concerned with language generation in an immediate sense, but that could obviously inform or improve language generation models, as for instance, pre-trained models, transfer learning or parameter estimation
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>&#x2013;
+                    <xref ref-type="bibr" rid="ref-7">7</xref>
+                </sup>.</p>
+            <p>Multi3Generation compiles expertise from different fields, such as computer science, in particular, Natural Language Processing and Artificial Intelligence, humanities, including digital humanities, or mathematics, so the joint research efforts and synergies contribute to putting Europe&#x2019;s research at the forefront of the NLG field.</p>
+            <sec>
+                <title>2.1 Why these three dimensions: Multitasking, Multilinguality and Multimodality?</title>
+                <p>Multi3Generation focuses on three dimensions: (i) multitask, (ii) multilinguality and (iii) multimodality. The importance of these dimensions for language generation is in line with four of the most well-known V&#x2019;s of Big Data: volume, velocity, veracity, and variety
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-8">8</xref>
+                    </sup>, and more specifically to variety dimension. There is no doubt that digital information is increasing exponentially as far as volume and velocity are concerned. Variety is important for language generation, since in the current context, most of the data generated today (around 80%&#x2013;90%) is in an unstructured manner
+                    <sup>
+                        <xref ref-type="other" rid="FN12">12</xref>
+                    </sup>, thus leading to heterogeneous data in different formats and modalities such as audio, video, text, concepts, Resource Description Framework (RDF) triples, numeric data without forgetting that in the case of audio and text, information in different languages can be also found.</p>
+                <p>Focusing on the specific dimensions addressed in this COST Action, multilinguality is a central goal if machines are to perform seamless language generation. End-users are in diverse communities, including linguistic communities, and not all languages are equally represented in the digital landscape, as studied by the &#x201c;Endangered Languages Project&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN13">13</xref>
+                    </sup>. As proof that multilinguality is important within European policies, there is an ongoing initiative for developing an agenda and a roadmap for achieving full digital language equality in Europe by 2030
+                    <sup>
+                        <xref ref-type="other" rid="FN14">14</xref>
+                    </sup>.</p>
+                <p>Multi3Generation emphasizes multilinguality in generation, including European languages with a small number of speakers (
+                    <italic toggle="yes">e.g.</italic> Welsh, Sami), which are also well-represented in the Consortium, as well as languages with low resources from a languages technologies point of view. Under-resourced languages would benefit from advances in multilingual, multitask and transfer learning (which raise the possibility of exploiting large-scale resources for neighboring languages to the benefit of small languages for which training data is harder to come by). The project &#x201c;DIALECT &#x2013; Natural Language Understanding for non-standard languages and dialects&#x201d;, led by Prof. Barbara Plank
+                    <sup>
+                        <xref ref-type="other" rid="FN15">15</xref>
+                    </sup>, MC member of Multi3Generation also addresses the topic of processing languages underrepresented in the Internet. We can include here undergoing projects, such as &#x201c;eSPERTo &#x2013; System for Paraphrasing in Editing and Revision of Texts
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-9">9</xref>,
+                        <xref ref-type="bibr" rid="ref-10">10</xref>
+                    </sup> 
+                    <sup>
+                        <xref ref-type="other" rid="FN16">16</xref>
+                    </sup>, and &#x201c;Paraphrasary&#x201d; (Portuguese version &#x201c;Parafras&#x00e1;rio&#x201d;)
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-11">11</xref>
+                    </sup>, both led by the Action&#x2019;s Chair, Dr. Anabela Barreiro, developed for Portuguese as part of a larger multilingual generation project involving paraphrasing and translation, for which several experimental results have been already published
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-12">12</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-15">15</xref>
+                    </sup>.</p>
+                <p>Another important dimension to take into consideration is multimodality. As stated in 
+                    <xref ref-type="bibr" rid="ref-16">16</xref>,
+                    <xref ref-type="bibr" rid="ref-17">17</xref>, multimodality refers to &#x201c;Our experience of the world is multimodal - we see objects, hear sounds, feel the texture, smell odors, and taste flavors. Modality refers to the way in which something happens or is experienced&#x201d;. In the context of Multi3Generation we address text, vision, and speech. Finally, multitask refers to the multiple application tasks that can be directly derived from NLG, including, among others, translating from one language to another, describing, asking or answering questions from visual content, such as images or videos, summarizing, or simplifying text.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>3 Key aspects for Multimodal Natural Language Generation</title>
+            <p>This section explains the different working groups within Multi3Generation, also discussing some key facts/activities developed in them. WG5, which is related to industry and society will be later discussed in 
+                <xref ref-type="other" rid="s6">Section 6</xref>, due to the importance and popularity that NLG is recently having.</p>
+            <sec>
+                <title>3.1 Grounded Multimodal Reasoning and Generation &#x2013; WG1</title>
+                <p>Linguistic expressions and/or relational categorisations are called grounded when they are linked to non-linguistic, especially quantitative perceptual data, such as information coming from modalities such as vision and audition in spacetime. Such perceptual data could pertain to, for instance, dynamic spatio-temporal phenomena both in an embodied as well as disembodied interaction context. Grounding is, in essence, a key aspect of semiotic construction, 
+                    <italic toggle="yes">e.g.</italic>, enabling high-level meaning acquisition, analogy, and has been a long-standing challenge in Artificial Intelligence and related disciplines. WG1 particularly focuses on grounded knowledge representation, reasoning, and learning (for linguistic purposes) through the following emerging research areas
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-18">18</xref>,
+                        <xref ref-type="bibr" rid="ref-19">19</xref>
+                    </sup>:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Space and Language</p>
+                    </list-item>
+                    <list-item>
+                        <p>Computational Linguistics</p>
+                    </list-item>
+                    <list-item>
+                        <p>Cognitive Linguistics</p>
+                    </list-item>
+                    <list-item>
+                        <p>Cognitive Vision</p>
+                    </list-item>
+                    <list-item>
+                        <p>Vision and Language</p>
+                    </list-item>
+                    <list-item>
+                        <p>Neurosymbolism</p>
+                    </list-item>
+                    <list-item>
+                        <p>Narrative - Discourse</p>
+                    </list-item>
+                    <list-item>
+                        <p>Computational Models of Narrative</p>
+                    </list-item>
+                    <list-item>
+                        <p>Speech and Language Technologies</p>
+                    </list-item>
+                    <list-item>
+                        <p>Human-Centred AI</p>
+                    </list-item>
+                </list>
+                <p>With a categorical focus on the use of multimodal information to reason, learn, and generate natural language, central themes addressed in WG1 include:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Explainability and transparency in multimodal models</p>
+                    </list-item>
+                    <list-item>
+                        <p>Neurosymbolism / Interaction between symbolic &amp; sub-symbolic representations in models</p>
+                    </list-item>
+                    <list-item>
+                        <p>Commonsense knowledge representation and reasoning, and its role in multimodal models</p>
+                    </list-item>
+                    <list-item>
+                        <p>Complementarity / redundancy among data sources or modalities</p>
+                    </list-item>
+                    <list-item>
+                        <p>Situated reasoning, e.g., for language generation, decision-making</p>
+                    </list-item>
+                </list>
+                <p>The primary focus on WG1 has been on investigating the significance of 
+                    <italic toggle="yes">grounded</italic> knowledge representation and reasoning as a foundational basis to mediate multimodal perception and interpretable sensemaking (for language generation, amongst other things) through deeply semantic (neurosymbolic) characterizations supporting explainable commonsense reasoning and learning
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-18">18</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-21">21</xref>
+                    </sup>. WG1 has also been involved in drawing up standards for multimodal data sources, and defining a research roadmap through an appraisal of existing work and identifying gaps to be addressed in future work. Some representative research outputs from collaborations within WG1 include Vision And Language Structured Evaluation (VALSE) , where researchers propose a shift in how to evaluate vision-and-language models. Instead of focusing on standard task-based evaluations (
+                    <italic toggle="yes">e.g.</italic>, assessing the accuracy of a model on visual question answering), they propose to systematically assess model behavior by measuring how well models encode specific targeted linguistic phenomena. For that purpose, authors compare model behavior in the presence of correct 
+                    <italic toggle="yes">versus</italic>. counterfactual examples. The phenomena studied include whether models understand the presence/absence of a certain object type in an image (
+                    <italic toggle="yes">i.e</italic>., existential statements), whether models distinguish the presence of one vs. many instances of a specific object type in an image (
+                    <italic toggle="yes">i.e.</italic>, plurality), whether models can count the number of instances of a particular object type in an image (
+                    <italic toggle="yes">i.e</italic>., counting), among other 
+                    <italic toggle="yes">visuo-linguistic capabilities</italic>. Work in WG1 has resulted in the Multi30K dataset, a parallel corpus of the multimodal dataset for the Ukrainian language
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-22">22</xref>
+                    </sup>. Currently, image descriptions are available in English, German, French, Czech, Turkish, and Ukrainian.</p>
+                <p>WG1 has also developed, in close collaboration with WG2 and WG3, a flagship Training School (TS), first organized in Germany in 2022. The Training School 2022 on 
+                    <italic toggle="yes">Representation Mediated Multimodality</italic>
+                    <sup>
+                        <xref ref-type="other" rid="FN17">17</xref>
+                    </sup> provides a consolidated perspective on the theoretical, methodological, and applied understanding of representation mediated multimodal sensemaking at the interface of language, knowledge representation and reasoning, and visuo-auditory computing. Intended purposes -addressed in the school- encompass diverse operative needs such as explainable multimodal commonsense understanding, multimodal generation/synthesis for communication, multimodal summarization, multimodal interpretation guided decision-support, adaptation &amp; autonomy, and analytical visualization. In addition to hosting an invited faculty delivering lectures, intensive tutorials, and keynotes, the school also provides opportunities for young researchers to position ongoing/early stage research, discuss, and network with school faculty and participants.</p>
+            </sec>
+            <sec>
+                <title>3.2 Efficient Machine Learning algorithms, methods, and applications to language generation &#x2013; WG2</title>
+                <p>The current state-of-the-art NLG systems are all based on deep learning and utilize different neural network architectures, most of which are based on the Transformer architecture. These models also differ from each other based on the learning strategies they employ, such as multitask learning, transfer learning or pre-training, structured prediction, and different types of generative models. WG2 specifically deals with the efficient machine learning techniques behind these recently proposed neural NLG models. Another key focus is the integration strategies for multimodal data, as the input for an NLG system can involve a variety of formats, including not just text but other forms of structured data like databases, images, plots, audio, or video.</p>
+                <p>The discussions within the workgroup resulted in the survey titled &#x201c;Neural Natural Language Generation&#x201d;
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-17">17</xref>
+                    </sup>, which focuses on the most common NLG applications, namely 
+                    <italic toggle="yes">machine translation</italic>, 
+                    <italic toggle="yes">description generation</italic>, 
+                    <italic toggle="yes">abstractive summarization</italic>, 
+                    <italic toggle="yes">automatic speech recognition</italic>, 
+                    <italic toggle="yes">text simplification</italic>, 
+                    <italic toggle="yes">question generation</italic> and 
+                    <italic toggle="yes">visual question generation</italic>, and 
+                    <italic toggle="yes">dialog generation</italic>. This survey analyzes the maturity level of each NLG task with respect to the dimensions of 
+                    <italic toggle="yes">multilinguality</italic>, 
+                    <italic toggle="yes">multimodality</italic>, 
+                    <italic toggle="yes">learning strategies</italic> and 
+                    <italic toggle="yes">controllability</italic>, and draws some conclusions about the remaining challenges and possible future work, providing a more holistic perspective regarding the aforementioned four dimensions. Derived as a direct outcome of this survey, a curated list of resources on Neural NLG, focusing on multilinguality, multimodality, controllability and learning, is publicly available
+                    <sup>
+                        <xref ref-type="other" rid="FN18">18</xref>
+                    </sup>.</p>
+                <p>Furthermore, another research line being investigated within Multi3Generation project is the detection and integration of commonsense knowledge to any downstream NLG task, such as question &amp; answering, abstractive text summarization. COMET
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-23">23</xref>
+                    </sup> and KG-BART
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-24">24</xref>
+                    </sup> were initially chosen to approaches that could be helpful for this aim.</p>
+                <p>KG-BART tackles the generative commonsense reasoning task using the CommonGen
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-25">25</xref>
+                    </sup> dataset. The task is to generate natural language sentence based on common sense using as input concepts-words. It is based on BART model
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-26">26</xref>
+                    </sup> and uses commonsense knowledge from ConceptNet
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-27">27</xref>
+                    </sup>. Knowledge base as augmented knowledge. In the same level, COMmonsEnse Transformers (COMET)
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-28">28</xref>
+                    </sup> can generate new knowledge by adding new commonsense nodes of existing commonsense knowledge graphs like ConceptNet and ATOMIC
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-29">29</xref>
+                    </sup> Retrieval Augmented Generation (RAG)
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-30">30</xref>
+                    </sup> uses BART transformer-based model for NLG tasks using an extra intermediate step by adding external knowledge with Dense Passage Retrieval (DPR)
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-31">31</xref>
+                    </sup>. LETO
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>
+                    </sup> is a system of GPLSI lab in Alicante that collects knowledge and creates a Knowledge Graph (KG) with external knowledge from structured and unstructured text where commonsense knowledge could give added value. The outcome of this research line, framed within WG2, but having also tight connections to WG1 and WG4, could be listed as follows:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Use commonsense knowledge in natural language text (output of KG-BART) in DPR part of RAG model.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Make use of COMET and KG-BART to generate new knowledge.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Tweak KG-BART by adding more knowledge (use Comet Transformer) information except the ConceptNet KG.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Fine-Tune BERT/BART model in relation prediction task using LETO Knowledge Graph and CommonSense KGs and with those updated embeddings use the BERT/BART to NLG tasks.</p>
+                    </list-item>
+                    <list-item>
+                        <p>After experiments, the aim is to make a multilingual/cross-lingual framework for Natural Language Generation tasks.</p>
+                    </list-item>
+                </list>
+                <p>Furthermore, incorporating commonsense knowledge into machine learning models improves models&#x2019; ability to understand and produce natural language by providing background information and context that is not explicitly mentioned in the text. One of the ways to incorporate knowledge graphs into machine learning models is by using Graph-tosequence (Graph2Seq) models. In this case, the database containing common sense knowledge is a knowledge graph where entities are represented as nodes, and relationships between entities are represented as edges. The issues related to encoding the graph structure into a vector representation and integrating it with existing models are widely discussed within this working group.</p>
+            </sec>
+            <sec>
+                <title>3.3 Dialogue, interaction and conversational language generation applications &#x2013; WG3</title>
+                <p>WG3 focuses on Human-Computer Interaction (HCI) tasks in multilingual and multimodal scenarios applying NLG models to distinct use cases, such as conversational agents, with three main directions:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>New answer generation techniques where the (human) agent will receive suggestions</p>
+                    </list-item>
+                    <list-item>
+                        <p>New techniques for conversational quality estimation and sentiment analysis</p>
+                    </list-item>
+                    <list-item>
+                        <p>Creation of multilingual datasets for low-resource languages </p>
+                    </list-item>
+                </list>
+                <p>The main challenges for WG3 concerns:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Scarcity of multimodal and multilingual datasets for chat in general.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Scarcity of multilingual datasets for low resourced languages.</p>
+                    </list-item>
+                    <list-item>
+                        <p>How to benchmarking the models applied.</p>
+                    </list-item>
+                    <list-item>
+                        <p>New metrics for multilingual conversational dialogues.</p>
+                    </list-item>
+                </list>
+                <p>Therefore, this working group works on reviewing the existing literature and resources to conduct: (i) a survey on affective agents and answer generation adaptations to chat data; (ii) a survey on metrics for dialogue systems; (iii) a report on available multilingual datasets for conversational data; and (iv) creating multilingual datasets for low resource languages. Thus, this working group contributes to the cross-task roadmap of the project to responsible AI initiatives since we are working with modalities with severe ethical aspects.</p>
+            </sec>
+            <sec>
+                <title>3.4 Exploiting large knowledge bases and graphs &#x2013; WG4</title>
+                <p>WG4 focuses on using knowledge bases (KBs) and knowledge graphs in NLG, especially for integrating commonsense knowledge and world knowledge into the generated output. An expected result of WG4 is to increase the varieties of knowledge resources and language resources used in NLG. Therefore, WG4 analyzes how to efficiently integrate multimodal KBs, considering theoretical models of semantics and semantic processing that can accommodate linguistic and perceptual information. Among the aims of this working group, increasing existing data-to-text NLG training sets with multilingual and multimodal content and testing neural NLG models performance on psycholinguistic datasets were listed as relevant for its members. However, during the recurrent meetings and a training school about creative natural language generation held in Venice in September 2022, the evaluation of the generated outputs, especially when characterized by multimodality and creativity as in text-to-image neural systems, made the categorizations and the empirical findings of psycholinguistics relevant. In particular, a debate about the features of artificially created outputs such as texts and images made clear that new categorizations and annotation experiments are needed to properly understand how artificial creative artifacts are perceived.</p>
+                <p>One concrete example of integrating knowledge graphs into NLG was described in a paper presented at the 13th Conference on &#x201c;Data analysis methods for software systems&#x201d;
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-33">33</xref>
+                    </sup>. More specifically, the paper reported how sequence-to-sequence (Seq2Seq) learning, which is a widely used encoder-decoder paradigm in natural language generation, can be improved by incorporating graph neural network (GNN) techniques to address challenging issues such as long-dependency problems. Graph-to-sequence (Graph2Seq) GNNs-based encoder-decoder models are increasingly discussed in the literature for tackling particular tasks. Graph2Seq models have shown superior performance compared to Seq2Seq models in various tasks, including neural machine translation, text summarization, and question generation. Disregarding success, Graph2Seq models also inherit challenges, for example, encoding relations between distant nodes. The outstanding issue is how to incorporate text information and transform it into a graph. The hypothesis put forward by the members of this working group in collaboration with the members of WG2 was the following: enriching the graphs with external knowledge and testing pre-trained language models can benefit text generation tasks; using sentence transformers, the KGs can be enriched with extra relationships between available entities in the dataset; transformation of the title from text to the graph can also be beneficial. These hypotheses were validated using the following experimental set-up: the similarities between entities not present in the existing KG of Abstract GENeration DAtaset (AGENDA) dataset
+                    <sup>
+                        <xref ref-type="other" rid="FN19">19</xref>
+                    </sup> 
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-34">34</xref>
+                    </sup> were found; BART-large pre-trained language model was fine-tuned in the abstract generation problem.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>4 A Novel Methodology for Text Generation</title>
+            <p>In the framework of the COST&#x2019;s Multi3Generation Action, we organized an intensive training school
+                <sup>
+                    <xref ref-type="other" rid="FN20">20</xref>
+                </sup> (class + lab) in which we showed the limitations of the stochastic approaches, and presented an alternative methodology to develop automatic generators, automatic paraphrase generators, and machine translation systems. The basis of this methodology is to formalize every level of the linguistic phenomena involved during the text generation process. For instance, such a system must be able to produce an English sentence that represents the predicate &#x201c;Joe loves Lea&#x201d; in the past, aspect +Stop, intensive +High, focus on &#x201c;Joe&#x201d;, and &#x201c;Lea&#x201d; pronominalized, that is &#x201c;
+                <italic toggle="yes">It is Joe who stopped being madly in love with her</italic>&#x201d;. Such a system must be able to access linguistic databases that know what aspectual verbs are available in English, how to express intensivity for love, how to pronominalize an object, 
+                <italic toggle="yes">etc.</italic>
+            </p>
+            <p>During the training course, we have described each of the linguistic phenomena that must be considered to construct such a system, including:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>inflectional morphology (
+                        <italic toggle="yes">e.g.</italic>, to stop &#x2192; stopped)</p>
+                </list-item>
+                <list-item>
+                    <p>derivational morphology (
+                        <italic toggle="yes">e.g</italic>., to love &#x2192; to be in love with)</p>
+                </list-item>
+                <list-item>
+                    <p>local syntax (
+                        <italic toggle="yes">e.g</italic>., Joe loves Lea &#x2192; it is Joe who loves Lea)</p>
+                </list-item>
+                <list-item>
+                    <p>coreference (
+                        <italic toggle="yes">e.g.</italic>, Joe loves Lea &#x2192; Joe loves her)</p>
+                </list-item>
+                <list-item>
+                    <p>intensifier (
+                        <italic toggle="yes">e.g</italic>., to be in love &#x2192; to be madly in love)</p>
+                </list-item>
+            </list>
+            <p>One characteristic of the novel methodology presented is that all its linguistic formalization is neutral, 
+                <italic toggle="yes">i.e.</italic>, it can be used both to parse an existing text and to generate a new text. That makes these linguistic resources suitable not only to develop automatic text generators, but also to parse a text and re-generate it with some different values, such as tense, aspect, modality, or intensifier, 
+                <italic toggle="yes">i.e</italic>., to paraphrase them. Moreover, because there exist linguistic resources in the same format for over 30 languages, it is a matter of parametrizing the application to parse a text in one language and then generate its &#x201c;paraphrase&#x201d; in another language, that is, this has allowed us to develop machine translation applications.</p>
+            <p>The workshop was split into two sessions:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>A theoretical session where the methodology was presented as well as the various types of linguistic resources involved during text generation/paraphrasing/translation.</p>
+                </list-item>
+                <list-item>
+                    <p>A hands-on session that showed the participants how to build the crucial components and linguistic resources for such a system, using the NooJ linguistic development environment
+                        <sup>
+                            <xref ref-type="other" rid="FN21">21</xref>
+                        </sup>.</p>
+                </list-item>
+            </list>
+        </sec>
+        <sec>
+            <title>5 Tools and Resources to Paraphrase and Translation Generation</title>
+            <p>For NLG, it is crucially important the quality of the data that is used in the generation task, but also the tools that are used, how they were built, their strengths and limitations, the ability for the human to control the process, curate, and improve the quality of a generative system. Most systems are black boxes, built in a way in which humans do not have control over the generative process. Some paraphrases generation or extraction techniques may simply involve semi-automated procedures, while others may consist of supervised alignment trained in manual alignments (used for monolingual or bilingual term extraction). Even when supervised training is used in building a system, at a particular stage, the process may get out of human control. We search for ways of developing glass-box systems having in mind the &#x201c;human-in-the-loop&#x201d;, that is, the human in control of the system from the very first stage of its development.</p>
+            <p>Some research has been done at INESC-ID Lisboa in the development of tools and resources to generate paraphrases and translation. Within the Multi3Generation COST Action further developments to initial fundamental research has been recently done, namely the creation of novel resources named &#x2018;paraphrasaries&#x2019;, which are complex complementary extensions of dictionaries, designed to be used in monolingual or multilingual applications
+                <sup>
+                    <xref ref-type="bibr" rid="ref-11">11</xref>,
+                    <xref ref-type="bibr" rid="ref-35">35</xref>
+                </sup>. The concept of &#x201c;paraphrasary&#x201d;, akin to a dictionary at a multiword level, appeared to fill in a void in the creation of linguistically more sophisticated resources. With regards to MT, it is not possible to achieve quality translation without involving comparable quality paraphrasing knowledge and skills (capabilities), because paraphrases are essential for implanting semantic knowledge edge to ensure high fidelity translation instead of approximate or good enough translation. We trust that it is important to revisit alignment tools and methodologies and to define collaboratively-built guidelines for alignment of paraphrases and translation, defining and measuring different degrees of equivalence, while increasing the volume of paraphrastic units, 
+                <italic toggle="yes">i.e.</italic>, pairs of alignments that match semantically identical or similar units of meaning, not only in commonly used corpora, but extend the process to more creative types of text.</p>
+        </sec>
+        <sec>
+            <title>6 Impact of Multi3Generation and perspectives for the future of LG &#x2013; WG5</title>
+            <p id="s6">Several European industries and markets can benefit from the outcomes of this Action, including e-commerce (the ability to translate multi-modal content and, as a result, reach wider audiences), and customer services (through automated assistants). In addition, industries can benefit from Multi3Generation through the development of innovative human-machine Interactions. In this regard, it should be noted that the European modern industry is leaning toward Industry 5.0 which foresees the centrality of the worker in the industrial system
+                <sup>
+                    <xref ref-type="bibr" rid="ref-36">36</xref>
+                </sup>. In this new scenario, the interactions between humans and machines (and, in particular, robots) are evolving to bring advantages in terms of efficiency, ergonomics, flexibility, and safety
+                <sup>
+                    <xref ref-type="bibr" rid="ref-37">37</xref>
+                </sup>.</p>
+            <p>One of the key features for the evolution of human-machine interactions is communication which can be implemented through the use of NLG. In fact, the latter allows generating written or oral content to give the machine the ability to effectively communicate
+                <sup>
+                    <xref ref-type="bibr" rid="ref-38">38</xref>
+                </sup>, thus creating the conditions to realize real applications of human-machine co-working. For instance, it is possible to integrate a human-robot interaction in an assembly process, leveraging NLG and ML to give precise instructions to the operator according to their personal characteristics. This can also be achieved using tailormade chatbots and conversational search Interfaces, which read information about the process and act accordingly.</p>
+            <p>Along with the opportunities, the evolution of the human-machine interaction towards Industry 5.0
+                <sup>
+                    <xref ref-type="other" rid="FN22">22</xref>
+                </sup> brings several challenges, both technical and human-related
+                <sup>
+                    <xref ref-type="bibr" rid="ref-39">39</xref>
+                </sup>. In particular, NLG-related challenges mainly concern the fluidity and flexibility of the communication and the quality of the generated content
+                <sup>
+                    <xref ref-type="bibr" rid="ref-38">38</xref>
+                </sup>. Moreover, among the challenges, it should also be reported the analysis of the ethical repercussions of the adoption of these technologies. In particular, some aspects that should be taken into account are the generation of harmful content or content that can be used to violate the law and the generation and spreading of fake news and misinformation.</p>
+            <p>Regarding challenges and future perspectives for language generation, we should consider, in the first place, the two main existing approaches for NLG systems, as indicated in 
+                <xref ref-type="other" rid="s2">Section 2</xref>: more traditional rule-based approaches, which mostly follow the stages pipeline proposed by 
+                <xref ref-type="bibr" rid="ref-40">40</xref> and more recent End-To-End (E2E) approaches based on the attention mechanism and the Transformer-based models, 
+                <italic toggle="yes">e.g.</italic> BERT
+                <sup>
+                    <xref ref-type="bibr" rid="ref-41">41</xref>
+                </sup>, GPT-2
+                <sup>
+                    <xref ref-type="bibr" rid="ref-42">42</xref>
+                </sup>, or GPT-3
+                <sup>
+                    <xref ref-type="bibr" rid="ref-43">43</xref>
+                </sup>. Both approaches present high scientific and technological challenges and clear needs to develop computational and linguistic resources for building impactful NLG-based systems and applications.</p>
+            <p>Although E2E approaches have burst recently, rule-based generation is still a valid approach, since it is based in a careful design which, in many cases, is the only option for achieving reliable applications (
+                <italic toggle="yes">e.g.</italic>, critical applications where reliability is a relevant requirement). The challenge here is that computational resources must be created or improved to automate and facilitate the design process and/or improve the fluidity of the generated texts. In this sense, valuable resources such as the realization libraries SimpleNLG-GL
+                <sup>
+                    <xref ref-type="bibr" rid="ref-44">44</xref>
+                </sup> or others should be improved in terms of their efficiency, abstraction, generalization of structures, vocabulary, alternate realizations or paraphrases, among others.</p>
+            <p>On the other hand, E2E models, in general, improve the fluency of the texts when compared to a rule-based model. But, very often, they may suffer from &#x201c;hallucinations&#x201d; in which the generated text includes contents which are unrelated to the input data or directly wrong or misleading. The search for an effective method that can foresee, detect, or remedy these situations in NLG E2E models is a major challenge
+                <sup>
+                    <xref ref-type="bibr" rid="ref-45">45</xref>
+                </sup>, as it affects the reliability of these systems, especially in critical or sensitive applications, 
+                <italic toggle="yes">e.g</italic>., in which the moral, mental and physical integrity of people are protected.</p>
+            <p>Furthermore, to train the E2E models, it is necessary to have high-quality corpora which, in some areas are hardly available (this is the usual case in data-to-text systems, for instance). Another scientific challenge of extraordinary interest and relevance is the validation and testing of E2E models. There is currently an intense debate in the scientific community about the generalized use of inadequate automatic evaluation metrics in E2E training, and their lack of sensitivity to the problem of hallucination in texts, and their lack of correlation to human (expert) validations. Manual validations by humans may be a solution for small-scale problems, but not for problems where the variety of texts generated is very high, and may also subject to reproducibility issues
+                <sup>
+                    <xref ref-type="bibr" rid="ref-46">46</xref>
+                </sup>. In this sense, some of the open challenges in this area are:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>New automatic metrics that consider the problems currently existing in E2E generation and methodological strategies in validation that ensure the representativeness of the test sets or samples evaluated by human experts.</p>
+                </list-item>
+                <list-item>
+                    <p>Automated fact-checking mechanisms to prevent or assess the quality and appropriateness of the generated texts against the input data.</p>
+                </list-item>
+            </list>
+            <p>Another challenge in the field of rule-based NLG is the fluidity of the generated texts. The definition of rigid structures causes the generated texts to be very similar, becoming unnatural when reading several texts in succession. The inclusion of rules, synonyms, and paraphrases is still insufficient, and therefore work remains to be done in this area for improving the fluidity and readability of generated texts. In this sense, since one of the main objectives of the NLG is to produce texts that are as similar as possible to human texts, it is essential to create automated resources that provide the generated texts with naturalness and fluency, while ensuring that they correctly describe the data requested from the model.  Striking a balance between naturalness, linguistic variety, readability and, at the same time, consistency with respect to the data is a difficult task, but also essential for a complete NLG system. Dealing effectively with the problems of scalability and maintenance of this approach is also a major technological challenge.</p>
+            <p>The hybridization of the two approaches, orienting the E2E systems not to implement the full pipeline, but to the learning of models (
+                <italic toggle="yes">e.g.</italic>, instances of a grammar), opens a very promising way to improve the quality of texts, the scalability of the approaches and the problem of hallucinations, among others. In Data-To-Text systems, in critical applications, for instance, E2E can be used for simplifying and improving significantly the final linguistic realization stages (merging, for instance, planning and surface realization), whilst content determination is tackled with more reliable classical approaches.</p>
+            <p>Likewise, taking inspiration from the field of machine translation, a major challenge is to consider the &#x201c;human in the loop&#x201d; perspective to orientate the creation of texts not towards a fully automated successful final realization, but to the creation of texts with an acceptable level of quality and which facilitate the final post-editing by a human operator who provides the result with the expected quality and precision.</p>
+            <p>In order to investigate the practical exploitation of the main outcomes of Multi3Generation COST Action, also involving industrial stakeholders, it is worth introducing WG5, whose activities are described in the following subsection.</p>
+            <p>Working Group 5 &#x201c;Industry and End-User Liaison&#x201d; aims to develop links with industry and end-users. As such, its activities embrace collaboration between academic and industrial partners, both on academic projects and real-world product development, seeking to stimulate ideas for novel cross-modal applications.</p>
+            <p>In addition to having participants from the industry, company stakeholders are welcome to the Industrial Advisory Board, which has the functions of advising and informing the Management Committee&#x2019;s activities, and fostering collaboration between industrial and non-industrial participants, including placements for Early Career Investigators and co-organization of shared tasks including the construction of benchmark datasets.  Furthermore, WG5 aims to coordinate user requirement surveys and other methods for obtaining end-user input. In this regard, the potential of the technologies dealing with the action is investigated according to two different activities:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>1.</label>
+                    <p>Conducting a survey among different industrial and academic stakeholders (involving at the beginning the MC members). The survey will have two different perspectives:</p>
+                    <list list-type="bullet">
+                        <list-item>
+                            <label/>
+                            <p>(a)   Eliciting requirements from end-users;</p>
+                        </list-item>
+                        <list-item>
+                            <label/>
+                            <p>(b)   Reporting the available industrial data sources (
+                                <italic toggle="yes">e.g.</italic> ontologies) which can be used to feed NLG tools;</p>
+                        </list-item>
+                    </list>
+                </list-item>
+                <list-item>
+                    <label>2.</label>
+                    <p>analyzing the state of the art with the aim to identify and classify NLG-based applications already available in the industry (
+                        <italic toggle="yes">e.g.</italic>, such as conversational search interfaces; grounded dialogue models; real-time dialogue models; and conversational robots).</p>
+                </list-item>
+            </list>
+            <p>The two above activities are currently ongoing. At the end of these activities, the main achieved outcomes will be reported within specific reports.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>There is no doubt that NLG technology has increased in popularity in the last few years. Although its successes, we can also find some limitations and risks associated to the misuse of such potential technologies. Multi3Generation COST Actions brings together researchers whose expertise is related to different angles of NLG. With the joint efforts of the whole Multi3Generation community, relevant progress has been made while the ongoing of the Action, contributing to putting Europe at the forefront of (human-centered) NLG research. In this paper, an overview of Multi3Generation COST Action is provided, discussing also its WGs, activities, and outcomes obtained. Despite the fact that Action will finish in March, 8th 2024, we expect sustained collaborations between Multi3Generation members either in future COST Actions or in other research initiatives. We also plan to continue jointly developed dissemination actions such as training schools.</p>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>Ethical approval and consent were not required</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data and software availability</title>
+            <p>No data are associated with this article.</p>
+        </sec>
+        <fn-group>
+            <fn>
+                <p id="FN1">
+                    <sup>1</sup>
+                    <ext-link ext-link-type="uri" xlink:href="https://chat.openai.com/auth/login">https://chat.openai.com/auth/login</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN2">
+                    <sup>2</sup>
+                    <ext-link ext-link-type="uri" xlink:href="https://bard.google.com/">https://bard.google.com/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN3">
+                    <sup>3</sup>
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.theverge.com/2023/2/23/23609942/microsoft-bing-sydney-chatbot-history-ai">https://www.theverge.com/2023/2/23/23609942/microsoft-bing-sydney-chatbot-history-ai</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN4">
+                    <sup>4</sup>
+                    <ext-link ext-link-type="uri" xlink:href="www.unbabel.com/">www.unbabel.com/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN5">
+                    <sup>5</sup>
+                    <ext-link ext-link-type="uri" xlink:href="www.jabberbrain.com">www.jabberbrain.com</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN6">
+                    <sup>6</sup>
+                    <ext-link ext-link-type="uri" xlink:href="http://codesign-lab.org/school2022/">http://codesign-lab.org/school2022/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN7">
+                    <sup>7</sup>
+                    <ext-link ext-link-type="uri"
+                         xlink:href="www.multi3generation.eu/2022/06/24/m3g-cost-action-training-school-on-creative-natural-language-generation/">www.multi3generation.eu/2022/06/24/m3g-cost-action-training-school-on-creative-natural-language-generation/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN8">
+                    <sup>8</sup>
+                    <ext-link ext-link-type="uri" xlink:href="www.multi3generation.eu/workshop">www.multi3generation.eu/workshop</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN9">
+                    <sup>9</sup>
+                    <ext-link ext-link-type="uri" xlink:href="https://fedcsis.org/sessions/aaia/cnlps">https://fedcsis.org/sessions/aaia/cnlps</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN10">
+                    <sup>10</sup>
+                    <ext-link ext-link-type="uri" xlink:href="https://synalp.gitlabpages.inria.fr/mmnlg2023/">https://synalp.gitlabpages.inria.fr/mmnlg2023/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN11">
+                    <sup>11</sup>
+                    <ext-link ext-link-type="uri" xlink:href="www.multi3generation.eu/events/participations/">www.multi3generation.eu/events/participations/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN12">
+                    <sup>12</sup>
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://mitsloan.mit.edu/ideas-made-to-matter/tapping-power-unstructured-data">https://mitsloan.mit.edu/ideas-made-to-matter/tapping-power-unstructured-data</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN13">
+                    <sup>13</sup>
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.endangeredlanguages.com/lang/region">https://www.endangeredlanguages.com/lang/region</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN14">
+                    <sup>14</sup>
+                    <ext-link ext-link-type="uri" xlink:href="https://european-language-equality.eu/">https://european-language-equality.eu/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN15">
+                    <sup>15</sup>
+                    <ext-link ext-link-type="uri" xlink:href="https://bplank.github.io/">https://bplank.github.io/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN16">
+                    <sup>16</sup>A demo version of eSPERTo is available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://esperto.hlt.inesc-id.pt/esperto/esperto/demo.pl">https://esperto.hlt.inesc-id.pt/esperto/esperto/demo.pl</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN17">
+                    <sup>17</sup>
+                    <bold>Training School 2022</bold> - Representation Mediated Multimodality. 
+                    <ext-link ext-link-type="uri" xlink:href="http://codesign-lab.org/school2022/">http://codesign-lab.org/school2022/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN18">
+                    <sup>18</sup>
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://github.com/Multi3Generation/neural-natural-language-generation">https://github.com/Multi3Generation/neural-natural-language-generation</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN19">
+                    <sup>19</sup>
+                    <ext-link ext-link-type="uri" xlink:href="https://paperswithcode.com/dataset/agenda">https://paperswithcode.com/dataset/agenda</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN20">
+                    <sup>20</sup>
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://multi3generation.eu/2022/06/24/m3g-cost-action-training-school-on-creative-natural-language-generation/">https://multi3generation.eu/2022/06/24/m3g-cost-action-training-school-on-creative-natural-language-generation/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN21">
+                    <sup>21</sup>
+                    <ext-link ext-link-type="uri" xlink:href="https://nooj.univ-fcomte.fr/">https://nooj.univ-fcomte.fr/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN22">
+                    <sup>22</sup>This terms refers to an approach that provides a vison of industry that aims beyond efficiency and productivity, reinforcing the role and the contribution of industry to society by making European industry more sustainable, human-centric and resilient (
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/industry-50_en">https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/industry-50_en</ext-link>)</p>
+            </fn>
+        </fn-group>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Indurkhya</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Damerau</surname>
+                            <given-names>FJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Handbook of Natural Language Processing. </article-title>Chapman &amp; Hall/CRC machine learning &amp; pattern recognition series. CRC Press,<year>2010</year>.
+                    <pub-id pub-id-type="doi">10.1201/9781420085938</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cao</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Li</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Liu</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>A comprehensive survey of ai-generated content (aigc): A history of generative ai from gan to chatgpt. </article-title>
+               <year>2023</year>.
+                    <pub-id pub-id-type="doi">10.48550/arXiv.2303.04226</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gatt</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Krahmer</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Survey of the state of the art in natural language generation: Core tasks, applications and evaluation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Artif Intell Res.</italic>
+               </source>
+               <year>2018</year>;<volume>61</volume>:<fpage>65</fpage>&#x2013;<lpage>170</lpage>.
+                    <pub-id pub-id-type="doi">10.1613/jair.5477</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Vaswani</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Shazeer</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Parmar</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Attention is all you need. </article-title>In:
+                    <italic toggle="yes">Proceedings of the 31st International Conference on Neural Information Processing Systems.</italic>NIPS&#x2019; Red Hook, NY, USA, Curran Associates Inc,<year>2017</year>;<volume>17</volume>:<fpage>6000</fpage>&#x2013;<lpage>6010</lpage>.
+                    <pub-id pub-id-type="doi">10.48550/arXiv.1706.03762</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Paa&#x00df;</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Giesselbach</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media. </article-title>
+                    <italic toggle="yes">Artificial Intelligence: Foundations, Theory, and Algorithms. </italic>Springer International Publishing,<year>2023</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://books.google.es/books?id=HWSDzwEACAAJ">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Azunre</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Transfer Learning for Natural Language Processing. </article-title>Manning,<year>2021</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://books.google.es/books?id=_hY6EAAAQBAJ">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rothman</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Transformers for Natural Language Processing: Build innovative deep neural network architectures for NLP with Python, PyTorch, TensorFlow, BERT, RoBERTa, and more.</article-title>Packt Publishing,<year>2021</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://books.google.es/books?id=Cr0YEAAAQBAJ">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Han</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname> Lu</surname>
+                            <given-names>X</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Xu</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>On big data benchmarking</article-title>.  In: Jianfeng Zhan,  Rui, Han, and Chuliang Weng, editors,
+                    <italic toggle="yes">Big Data Benchmarks, Performance Optimization, and Emerging Hardware. </italic>Cham,  Springer International Publishing,<year>2014</year>;<fpage>3</fpage>&#x2013;<lpage>18 </lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://arxiv.org/ftp/arxiv/papers/1402/1402.5194.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <label>9</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mota</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Barreiro</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Raposo</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>eSPERTo&#x2019;s Paraphrastic Knowledge Applied to Question-Answering and Summarization</article-title>. In: Linda Barone, Mario Monteleone, and Max Silberztein, editors,
+                    <italic toggle="yes">Automatic Processing of Natural-Language Electronic Texts with NooJ: 10th International Conference,  NooJ 2016,  &#x010c;esk&#x00e9; Bud&#x0115;jovice, Czech Republic, June 9-11, 2016. </italic>Revised Selected Papers. Cham, Springer International Pub lishing,<year>2016</year>;<fpage>208</fpage>&#x2013;<lpage>220</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-319-55002-2_18</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <label>10</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Barreiro</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mota</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Baptista</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Linguistic Resources for Paraphrase Generation in Portuguese: a Lexicon-grammar Approach.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Language Resources and Evaluation.</italic>
+               </source>
+               <year>2022</year>;<volume>56</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>35</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s10579-021-09561-5</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <label>11</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Barreiro</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rebelo-Arnold</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mota</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Parafras&#x00e1;rio: A variety-based paraphrasary for portuguese.</article-title>In:
+                    <italic toggle="yes">Proceedings of the 17th NooJ International Conference 2023.</italic>Book of abstracts.<year>2023</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ssrlab.by/wp-content/uploads/2023/05/2023_varanovich-suprunchuk-zianouka-hetsevich-yarash_automatic-disambiguation-of-the-belarusian.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <label>12</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Barreiro</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mota</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>e-PACT: eSPERTo Paraphrase Aligned Corpus of EN-EP/BP Translations.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Tradu&#x00e7;&#x00e3;o em Revista.</italic>
+               </source>
+               <year>2017</year>;<volume>1</volume>(<issue>22</issue>):<fpage>87</fpage>&#x2013;<lpage>102</lpage>.
+                    <pub-id pub-id-type="doi">10.17771/PUCRio.TradRev.30591</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <label>13</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Barreiro</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mota</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Paraphrastic Variance between European and Brazilian Portuguese. </article-title>In: Marcos Zampieri, Preslav Nakov, Nikola Ljube&#x0161;i&#x0107;, J&#x00f6;rg Tiedemann, Shervin Malmasi, and Ahmed Ali editors,
+                    <italic toggle="yes">Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial) COLING 2018.</italic>Santa Fe New Mexico, USA, Association for Computational Linguistics,<year>2018</year>;<fpage>111</fpage>&#x2013;<lpage>121</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://aclanthology.org/W18-3912/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <label>14</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Barreiro</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rebelo-Arnold</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Batista</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>One Book, Two Language Varieties. </article-title>In: Paulo Quaresma, Renata Vieira, Sandra Alu&#x00ed;sio, Helena Moniz, Fernando Batista, and Teresa Gon&#x00e7;alves, editors,
+                    <italic toggle="yes">Computational Processing of the Portuguese Language.</italic>Cham, Springer International Publishing,<year>2020</year>;<fpage>379</fpage>&#x2013;<lpage>389</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-030-41505-1_36</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <label>15</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mota</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Santos</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Barreiro</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Paraphrasing Emotions in Portuguese</article-title>. In: Bo&#x017e;o Bekavac, Kristina Kocijan, Max Silberztein, and Kre&#x0161;imir &#x0160;ojat, editors,
+                    <italic toggle="yes">Formalising Natural Languages: Applications to Natural Language Processing and Digital Humanities.</italic>Cham, Springer International Publishing,<year>2021</year>;<fpage>134</fpage>&#x2013;<lpage>145</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-030-70629-6_12</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <label>16</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bhatt</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kersting</surname>
+                            <given-names>K</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Semantic interpretation of multi-modal human-behaviour data - making sense of events, activities, processes.</article-title>
+                    <source>
+
+                        <italic toggle="yes">K&#x00fc;nstliche Intell.</italic>
+               </source>
+               <year>2017</year>;<volume>31</volume>(<issue>4</issue>):<fpage>317</fpage>&#x2013;<lpage>320</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s13218-017-0511-y</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <label>17</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Erdem</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kuyu</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Yagcioglu</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Neural natural language generation: A survey on multilinguality, multimodality, controllability and learning.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Artif Intell Res.</italic>
+               </source>
+               <year>2022</year>;<volume>73</volume>:<fpage>1131</fpage>&#x2013;<lpage>1207</lpage>.
+                    <pub-id pub-id-type="doi">10.1613/jair.1.12918</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <label>18</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bhatt</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Suchan</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Artificial Visual Intelligence: Perceptual Commonsense for Human-Centred Cognitive Technologies.</article-title>Springer International Publishing, Cham,<year>2023</year>;<fpage>216</fpage>&#x2013;<lpage>242</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-031-24349-3_12</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <label>19</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bhatt</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Suchan</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Cognitive vision and perception. </article-title>In: Giuseppe De Giacomo, Alejandro Catal&#x00e1;, Bistra Dilkina, Michela Milano, Sen&#x00e9;n Barro, Alberto Bugar&#x00ed;n, and J&#x00e9;r&#x00f4;me Lang, editors,
+                    <italic toggle="yes">ECAI 2020 - 24th European Conference on Artificial Intelligence, 29 August-8 September 2020, Santiago de Compostela, Spain, August 29 - September 8, 2020 - Including 10th Conference on Prestigious Applications of Artificial Intelligence (PAIS 2020)</italic>. Frontiers in Artificial Intelligence and Applications. IOS Press,<year>2020</year>;<volume>325</volume>:<fpage>2881</fpage>&#x2013;<lpage>2882</lpage>.
+                    <pub-id pub-id-type="doi">10.3233/FAIA200434</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <label>20</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Suchan</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bhatt</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Varadarajan</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Commonsense visual sensemaking for autonomous driving - on generalised neurosymbolic online abduction integrating vision and semantics.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Artif Intell.</italic>
+               </source>
+               <year>2021</year>;<volume>299</volume>:
+                    <elocation-id>103522</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1016/j.artint.2021.103522</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <label>21</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Suchan</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bhatt</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Vardarajan</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Semantic analysis of (reflectional) visual symmetry: A human-centred computational model for declarative explainability.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Advances in Cognitive Systems.</italic>
+               </source>
+               <year>2018</year>;<volume>6</volume>:<fpage>65</fpage>&#x2013;<lpage>84</lpage>.
+                    <pub-id pub-id-type="doi">10.48550/arXiv.1806.07376</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <label>22</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Saichyshyna</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Maksymenko</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Turuta</surname>
+                            <given-names>O</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Extension Multi30K: Multimodal dataset for integrated vision and language research in Ukrainian</article-title>. In:
+                    <italic toggle="yes">Proceedings of the Second Ukrainian Natural Language Processing Workshop (UNLP)</italic>. Dubrovnik, Croatia, Association for Computational Linguistics,<year>2023</year>;<fpage>54</fpage>&#x2013;<lpage>61</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://aclanthology.org/2023.unlp-1.7/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <label>23</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bosselut</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rashkin</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sap</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>COMET: commonsense transformers for automatic knowledge graph construction</article-title>. In: Anna Korhonen, David R. Traum, and Llu&#x00ed;s M&#x00e0;rquez, editors,
+                    <italic toggle="yes">Proceedings of the 57th Conference of the Association for Computational Linguistics, ACL 2019, Florence, Italy, July 28- August 2, 2019, Volume 1: Long Papers</italic>. Association for Computational Linguistics,<year>2019</year>;<fpage>4762</fpage>&#x2013;<lpage>4779</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://aclanthology.org/P19-1470/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <label>24</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Liu</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wan</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>He</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Kg-bart: Knowledge graph-augmented bart for generative commonsense reasoning</article-title>. In:
+                    <italic toggle="yes">Proceedings of the AAAI Conference on Artificial Intelligence</italic>.<year>2021</year>;<volume>35</volume>:<fpage>6418</fpage>&#x2013;<lpage>6425</lpage>.
+                    <pub-id pub-id-type="doi">10.1609/aaai.v35i7.16796</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <label>25</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lin</surname>
+                            <given-names>BY</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Zhou</surname>
+                            <given-names>W</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Shen</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Commongen: A constrained text generation challenge for generative commonsense reasoning</article-title>. arXiv preprint arXiv: 1911.03705.<year>2019</year>.
+                    <pub-id pub-id-type="doi">10.48550/arXiv.1911.03705</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <label>26</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lewis</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Liu</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Goyal</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension</article-title>. In:
+                    <italic toggle="yes">Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</italic>. Association for Computational Linguistics.<year>2020</year>;<fpage>7871</fpage>&#x2013;<lpage>7880</lpage>.
+                    <pub-id pub-id-type="doi">10.18653/v1/2020.acl-main.703</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <label>27</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Speer</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Chin</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Havasi</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Conceptnet 5.5:  An open multilingual graph of general knowledge</article-title>.  In:
+                    <italic toggle="yes">Proceedings of the AAAI conference on artificial intelligence</italic>.<year>2017</year>;<volume>31</volume>.
+                    <pub-id pub-id-type="doi">10.5555/3298023.3298212</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <label>28</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bosselut</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rashkin</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sap</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>COMET: Commonsense transformers for automatic knowledge graph construction</article-title>. In:
+                    <italic toggle="yes">Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</italic>. Florence, Italy,  Association for Computational Linguistics,<year>2019</year>;<fpage>4762</fpage>&#x2013;<lpage>4779</lpage>.
+                    <pub-id pub-id-type="doi">10.18653/v1/P19-1470</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <label>29</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sap</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Le Bras</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Allaway</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Atomic: An atlas of machine commonsense for 
+                        <italic toggle="yes">if-then</italic> reasoning</article-title>. In:
+                    <italic toggle="yes">Proceedings of the AAAI conference on artificial intelligence</italic>.<year>2019</year>;<volume>33</volume>:<fpage>3027</fpage>&#x2013;<lpage>3035</lpage>.
+                    <pub-id pub-id-type="doi">10.1609/aaai.v33i01.33013027</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <label>30</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lewis</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Perez</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Piktus</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Retrieval-augmented generation for knowledge-intensive nlp tasks.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Advances in Neural Information Processing Systems.</italic>
+               </source>
+               <year>2020</year>;<volume>33</volume>:<fpage>9459</fpage>&#x2013;<lpage>9474</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <label>31</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Karpukhin</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>O&#x011f;uz</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Min</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Dense passage retrieval for open-domain question answering</article-title>. arXiv preprint arXiv: 2004.04906.<year>2020</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://arxiv.org/abs/2004.04906">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <label>32</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Estevez-Velarde</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Montoyo</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cruz</surname>
+                            <given-names>YA</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Demo application for leto: Learning engine through ontologies.</article-title>In:
+                    <italic toggle="yes">Proceedings of the international conference on recent advances in natural language processing (ranlp 2019).</italic>
+               <year> 2019</year>;<fpage>276</fpage>&#x2013;<lpage>284</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://aclanthology.org/R19-1032.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <label>33</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Korvel</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Katsalis </surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Diamantaras</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Enrich knowledge graphs and test pre-trained language models in graph2seq tasks.</article-title>In: Jolita Bernatavi&#x010d;ien&#x0117;, editor,
+                    <italic toggle="yes">Proceedings of the 13th Conference on Data analysis methods for software systems</italic>. DAMSS 2022, Druskininkai, Lithuania, December 1 -3, Vilnius University Press,<year>2022</year>;<fpage>43</fpage>&#x2013;<lpage>43</lpage>.
+                    <pub-id pub-id-type="doi">10.15388/DAMSS.13.2022</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <label>34</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Koncel-Kedziorski</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bekal</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Luan</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Text Generation from Knowl- edge Graphs with Graph Transformers.</article-title>In:
+                    <italic toggle="yes">Proceedings of the 2019 Conference of the North American Chapter of the As- sociation for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers).</italic>Minneapolis, Minnesota, Association for Computational Linguistics,<year>2019</year>;<fpage>2284</fpage>&#x2013;<lpage>2293</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://aclanthology.org/N19-1238">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-35">
+                <label>35</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Barreiro</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mota</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A multilingual paraphrasary of multiwords.</article-title>In:
+                    <italic toggle="yes">Proceedings of the 1st Workshop on Multilingual, Multimodal and Multitask Language Generation (Multi3Generation - CA18231),</italic>Held in conjunction with the 24th Annual Conference of the European Association for Machine Translation (EAMT 2023)  University of Tampere, Tampere, Finland, 15th June.</mixed-citation>
+            </ref>
+            <ref id="ref-36">
+                <label>36</label>
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Breque</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>De Nul</surname>
+                            <given-names>l</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Petridis</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Industry 5.0: towards a sustainable, human-centric and resilient european industry</article-title>.
+                    <source>European commission, directorate-general for research and innovation</source>,<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://research-and-innovation.ec.europa.eu/knowledge-publications-tools-and-data/publications/all-publications/industry-50-towards-sustainable-human-centric-and-resilient-european-industry_en">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-37">
+                <label>37</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Matheson</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Minto</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Zampieri</surname>
+                            <given-names>EGG</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Human-robot collaboration in manufacturing applications: A review.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Robotics.</italic>
+               </source>
+               <year>2019</year>;<volume>8</volume>(<issue>4</issue>):<fpage>100</fpage>.
+                    <pub-id pub-id-type="doi">10.3390/robotics8040100</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-38">
+                <label>38</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Foster</surname>
+                            <given-names>ME</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Natural language generation for social robotics: opportunities and challenges.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Philos Trans R Soc Lond B Biol Sci.</italic>
+               </source>
+               <year>2019</year>;<volume>374</volume>(<issue>1771</issue>):
+                    <elocation-id>20180027</elocation-id>.
+                    <pub-id pub-id-type="pmid">30853003</pub-id>
+                    <pub-id pub-id-type="doi">10.1098/rstb.2018.0027</pub-id>
+                    <pub-id pub-id-type="pmcid">6452247</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-39">
+                <label>39</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Modoni</surname>
+                            <given-names>GE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sacco</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A human digital-twin-based framework driving human centricity towards industry 5.0.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sensors (Basel).</italic>
+               </source>
+               <year>2023</year>;<volume>23</volume>(<issue>13</issue>):<fpage>6054</fpage>.
+                    <pub-id pub-id-type="pmid">37447903</pub-id>
+                    <pub-id pub-id-type="doi">10.3390/s23136054</pub-id>
+                    <pub-id pub-id-type="pmcid">10346247</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-40">
+                <label>40</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Reiter</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dale</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Building Natural Language Generation Systems.</article-title>Studies in Natural Language Processing. Cambridge University Press,<year>2000</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://dl.acm.org/doi/book/10.5555/331955">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-41">
+                <label>41</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Devlin</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Chang</surname>
+                            <given-names>MW</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lee</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>BERT: Pre-training of deep bidirectional transformers for language understanding.</article-title>In:
+                    <italic toggle="yes">Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics, Human Language Technologies, (Long and Short Papers).</italic>Minneapolis, Minnesota, Association for Computational Linguistics.<year>2019</year>;<volume>1</volume>:<fpage>4171</fpage>&#x2013;<lpage>4186</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://nlp.stanford.edu/seminar/details/jdevlin.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-42">
+                <label>42</label>
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Radford</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wu</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Child</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Language  models  are  unsupervised multitask learners.</article-title>
+               <year> 2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-43">
+                <label>43</label>
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Brown</surname>
+                            <given-names>TB</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mann</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ryder</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Language models are few-shot learners.</article-title>
+                    <source>
+
+                        <italic toggle="yes">CoRR.</italic>
+               </source>abs/2005.14165,<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://openai.com/research/language-models-are-few-shot-learners">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-44">
+                <label>44</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gatt</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Reiter</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>SimpleNLG: A realisation engine for practical applications.</article-title>In:
+                    <italic toggle="yes">Proceedings of the 12th European Workshop on Natural Language Generation (ENLG 2009).</italic>Athens, Greece, Association for Computa- tional Linguistics.<year>2009</year>;<fpage>90</fpage>&#x2013;<lpage>93</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://aclanthology.org/W09-0613">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-45">
+                <label>45</label>
+                <mixed-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Corbelle</surname>
+                            <given-names>JG</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bugar&#x00ed;n-Diz</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Alonso-Moral</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Dealing with hallucination and omission in neural natural language generation: A use case on meteorology.</article-title>In:
+                    <italic toggle="yes">Proceedings of the 15th International Conference on Natural Language Generation.</italic>Waterville, Maine, USA and virtual meeting, Association for Computational Linguistics,<year>2022</year>;<fpage>121</fpage>&#x2013;<lpage>130</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://aclanthology.org/2022.inlg-main.10">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-46">
+                <label>46</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Belz</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Thomson</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Reiter</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Missing information, unresponsive authors, experimental flaws: The impossibility of assessing the reproducibility of previous human evaluations in NLP.</article-title>In:
+                    <italic toggle="yes">The Fourth Workshop on Insights from Negative Results in NLP.</italic>Dubrovnik, Croatia,  Association for Computational Linguistics,<year>2023</year>;<fpage>1</fpage>&#x2013;<lpage>10</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://aclanthology.org/2023.insights-1.1">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report36459">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17604.r36459</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Polignano</surname>
+                        <given-names>Marco</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r36459a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-3939-0136</uri>
+                </contrib>
+                <aff id="r36459a1">
+                    <label>1</label>Department of Computer Science, University of Bari 'Aldo Moro', Bari, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>12</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Polignano M</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport36459"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16307.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The authors present a scientific paper that provides a comprehensive overview of the activities conducted within the framework of COST Action Multi3Generation (CA18231). The contribution is easy to read and understand and well supports the motivation behind the idea of the action. The contributions made throughout the project are both numerous and noteworthy, frequently finding dissemination through prestigious conferences and esteemed scientific journals within the relevant field.</p>
+            <p> </p>
+            <p> To enhance the efficacy of communicating the results obtained from the action, I recommend offering a more detailed exposition of the created artifacts and their corresponding identification procedures within the publicly accessible GitHub repository. This additional information would facilitate a clearer understanding of the artifacts and enable researchers to effectively utilize and build upon the outcomes of the project. Furthermore, it would be advantageous to provide a concise summary of select scientific achievements, supplemented by accompanying experimental results.</p>
+            <p> This would allow readers to grasp the significance of the research conducted and facilitate future exploration and replication of the findings.</p>
+            <p> </p>
+            <p> In conclusion, the contribution presented in this work is meticulously crafted, exhibiting a high level of proficiency in both content and presentation. The thoroughness of the research, the clarity of the writing, and the potential impact of the findings within the scientific community make it a valuable contribution.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Natureal Language Processing, Artificial Intelligence, Text Generation, Recommender Systems</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report35589">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17604.r35589</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Mart&#x00ed;nez-C&#x00e1;mara</surname>
+                        <given-names>Eugenio</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35589a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-5279-8355</uri>
+                </contrib>
+                <aff id="r35589a1">
+                    <label>1</label>Computer Science Department, Universidad de Jaen, Ja&#x00e9;n, Andalusia, Spain</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>2</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Mart&#x00ed;nez-C&#x00e1;mara E</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35589"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16307.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The paper presents the relevance of natural language generation and the development of its challenges in the COST Action Multi3Generation.</p>
+            <p> </p>
+            <p> From my point of view, the paper presents the progress of the project, and how the consortium is facing the challenges of natural language generation. Likewise, the project also is developing teaching and dissemination activities through the organization of workshops, which is very positive.</p>
+            <p> </p>
+            <p> To sum up, I consider that the paper should be accepted for indexing in its current form.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Natural Language Processing</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+        <sub-article article-type="response" id="comment3764-35589">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Lloret</surname>
+                            <given-names>Elena</given-names>
+                        </name>
+                        <aff>Software and Computing Systems, Universidad de Alicante, San Vicente del Raspeig, Alicante, Spain</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>6</day>
+                    <month>11</month>
+               <year>2023</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>Dear Eugenio, thank you very much for reviewing our manuscript and for finding it interesting to the scope of ORE. Natural Language Generation (NLG) has gained popularity in recent years, partly due to the advancements in Generative AI, so from the Multi3generation COST Action, we believe that is important to provide visibility to the activities conducted within the action,&#x00a0; as well as to provide insights, prospects and challenges related to NLG.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+</article>

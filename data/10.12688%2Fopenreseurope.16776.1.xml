@@ -1,0 +1,1648 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.16776.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Understanding the influence of swarming timing on the dispersal of 
+                    <italic>Ostrea edulis</italic> larvae in the Northern Adriatic Sea</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: awaiting peer review]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Bertolini</surname>
+                        <given-names>Camilla</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Software</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-1198-5557</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Pastres</surname>
+                        <given-names>Roberto</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>DAIS, Ca' Foscari University of Venice, Venice, Veneto, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:camilla.bertolini@unive.it">camilla.bertolini@unive.it</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>212</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>20</day>
+                    <month>11</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Bertolini C and Pastres R</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-212/pdf"/>
+            <abstract>
+                <sec>
+                    <title>Background</title>
+                    <p>
+                        <italic toggle="yes">Ostrea edulis</italic>, the European Oyster, is a key habitat engineering species, considered &#x201c;functionally extinct&#x201d; in much of its native range, however the presence of population patches, large enough to allow the recruitment of juveniles, is likely, at least in the Northern Adriatic Sea. In order to decide which areas to protect or enhance with substratum suitable for settlement, it is necessary to understand larval dispersal dynamics. The main research question was to understand how the settlement areas depends on the timing of swarming and on larvae emission location.</p>
+                </sec>
+                <sec>
+                    <title>Methods</title>
+                    <p>Larval dispersal modelling tools already exist, and for the purpose of this study the use of an open-source phyton model code &#x2018;Opendrift&#x2019;, parametrised for 
+                        <italic toggle="yes">O. edulis</italic> larvae with specific parameters related to growth and speed of vertical movement, based on existing literature data. Necessary forcing functions (currents, temperature) were taken from Copernicus, and gridded bathymetry data was downloaded from GEBCO repository.</p>
+                </sec>
+                <sec>
+                    <title>Results</title>
+                    <p>The results of this preliminary model-based study showed that the settling areas depend on the timing of the emission periods, given that different emissions can lead to different time spent as plankton maturing to settlement, therefore potentially reaching further. Initial seeding location can also matter, due to differences in currents that could be encountered.</p>
+                </sec>
+                <sec>
+                    <title>Conclusions</title>
+                    <p>Some experimental validation should follow this modelling approach, including genetic analyses to verify sources, this setup using an open data and an open access existing modelling framework to predict larval settlement is promising in enabling the upscaling and application for restoration and conservation purposes in other areas.</p>
+                </sec>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>European Oysters</kwd>
+                <kwd>Lagrangian modelling</kwd>
+                <kwd>Larval dispersal</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>886037</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under the Marie Sk&#x0142;odowska-Curie grant agreement No. 886037.</funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>
+                <italic toggle="yes">Ostrea edulis</italic>, the European Oyster, is a key habitat engineering species native to the northeast Atlantic, which could be found from Norway to Morocco, as well as in the Mediterranean and Black Seas (
+                <xref ref-type="bibr" rid="ref-4">Bromley 
+                    <italic toggle="yes">et al.</italic>, 2016</xref>). However, overfishing and diseases led to a generalized collapse of its population in Europe, to such an extent that it is listed as a threatened/declining species in The Convention for the Protection of the Marine Environment of the North-East Atlantic (the OSPAR Convention) (
+                <xref ref-type="bibr" rid="ref-23">OSPAR, 2009</xref>). The presence and abundance of 
+                <italic toggle="yes">O. edulis</italic> in the Mediterranean region is less investigated; historical mapping, based on literature, is currently underway (NORA Europe historical working group) and some data on presence are available for download from the 
+                <ext-link ext-link-type="uri" xlink:href="https://mapper.obis.org/?taxonid=140658">OBIS (Ocean Biodiversity Information System) mapper portal</ext-link>. Concerning the northern Adriatic population, most data are from trawling surveys of the early 1990s (
+                <xref ref-type="bibr" rid="ref-22">OGS &amp; ISPRA, 2017</xref>). Since then, no systematic study aimed at characterizing its presence and abundance, has been undertaken. The presence of population patches, large enough to allow the recruitment of juveniles, is highly likely, as reported by a recent field study (
+                <xref ref-type="bibr" rid="ref-5">Burioli 
+                    <italic toggle="yes">et al.</italic>, 2015</xref>), by anecdotal evidence (Munari, 2021, Personal Communication) and by the first author (Bertolini) personal observations, who identified 
+                <italic toggle="yes">O. edulis</italic> juveniles along the coast of Caorle, Pellestrina and in the Venice Lagoon in the summers of 2022 and 2023.</p>
+            <p>As is well known in patchy habitats, connectivity plays a major role in population and metapopulation dynamics (
+                <xref ref-type="bibr" rid="ref-6">Carson 
+                    <italic toggle="yes">et al.</italic>, 2011</xref>; 
+                <xref ref-type="bibr" rid="ref-36">White 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>), however it is not the only factor, as mismatches can occur (
+                <xref ref-type="bibr" rid="ref-19">Marshall 
+                    <italic toggle="yes">et al.</italic>, 2010</xref>; 
+                <xref ref-type="bibr" rid="ref-33">Staudinger 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>). In this regard, the role of transport processes in connecting 
+                <italic toggle="yes">O. edulis</italic> potential larvae sources with settlement sites in the northern Adriatic is still largely unexplored. On the Italian side of the Adriatic, the presence of adult specimen was detected in coastal areas near Trieste, and on the pilings of offshore platforms (
+                <xref ref-type="bibr" rid="ref-12">Gabellini &amp; Lamberti, 2016</xref>; 
+                <xref ref-type="bibr" rid="ref-18">Manoukian 
+                    <italic toggle="yes">et al.</italic>, 2010</xref>; 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://ambiente.regione.emilia-romagna.it/en/parchi-natura2000/network-2000/natura-2000-network-in-emilia-romagna?set_language=en">Natura 2000 network in Emilia-Romagna</ext-link>), as well as on bioconstructions (&#x201c;Tegn&#x00f9;e&#x201d;, 
+                <xref ref-type="bibr" rid="ref-25">Ponti, 2001</xref>) and, anecdotally, on wrecks at depths of 18 m.
+                <bold/>
+            </p>
+            <p>
+                <italic toggle="yes">O. edulis</italic> is a swarming species and larvae can cover large distances (
+                <xref ref-type="bibr" rid="ref-37">Willis 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>). The duration of the larval phase depends largely on water temperature, which affects larvae growth rate (
+                <xref ref-type="bibr" rid="ref-28">Robert 
+                    <italic toggle="yes">et al.</italic>, 1988</xref>; 
+                <xref ref-type="bibr" rid="ref-30">Rodriguez-Perez, 2019</xref>), provided that enough food is available to avoid starvation that would hamper growth ability (
+                <xref ref-type="bibr" rid="ref-16">Labarta 
+                    <italic toggle="yes">et al.</italic>, 1999</xref>; 
+                <xref ref-type="bibr" rid="ref-20">Millar &amp; Scott, 1967</xref>; 
+                <xref ref-type="bibr" rid="ref-28">Robert 
+                    <italic toggle="yes">et al.</italic>, 1988</xref>). Female release 0.1&#x2013;1.5&#x2009;&#x00d7;&#x2009;10
+                <sup>6</sup> larvae, with the number being related to the size and condition (
+                <xref ref-type="bibr" rid="ref-7">Cole, 1941</xref>; 
+                <xref ref-type="bibr" rid="ref-13">Jacobs 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>). The amount of larvae found in the water column seems also to be connected to water temperature, specifically to &#x2018;degree days&#x2019; however analysis of data from 1935 to 2011 in the Netherlands showed the peak in number of larvae (70&#x2013;3,000 L
+                <sup>-1</sup>) to range between 300 and 1,300 degree days resulting in a time period of around 60 days (
+                <xref ref-type="bibr" rid="ref-17">Maathuis 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>). Furthermore the actual life cycle could be more complex as two primary emissions were observed in the Adriatic (May and September, 
+                <xref ref-type="bibr" rid="ref-5">Burioli 
+                    <italic toggle="yes">et al.</italic>, 2015</xref>) and during a field experiment in the Venice Lagoon, females ready to release mature eggs (&#x201c;black sick&#x201d;) were observed from April to December. Given these potential time lags, the main research question was to understand how the settlement areas depends on the timing of swarming and on larvae emission location.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>
+                <italic toggle="yes">Ostrea</italic> larval dispersal was simulated using the open access software package 
+                <italic toggle="yes">Opendrift</italic> (version 1.7.1), which implements a particle tracking algorithm for Lagrangian dispersion using phyton (version 3.9.7) libraries (
+                <xref ref-type="bibr" rid="ref-9">Dagestad 
+                    <italic toggle="yes">et al.</italic>, 2018</xref>). 
+                <italic toggle="yes">Opendrift</italic> includes the &#x2018;
+                <italic toggle="yes">LarvalFish&#x2019;</italic> module, which was designed to simulate the dispersion of cod eggs and, after hatching, larvae dispersion (
+                <xref ref-type="bibr" rid="ref-35">Vikeb&#x00f8; 
+                    <italic toggle="yes">et al.</italic>, 2007</xref>). The open-source code was modified as 
+                <italic toggle="yes">Ostrea edulis</italic> releases larvae, as eggs hatch within the mantle. The updated code is included as 
+                <italic toggle="yes">Extended data</italic> (
+                <xref ref-type="bibr" rid="ref-3">Bertolini, 2023b</xref>). The initial larval size was chosen in accordance with the literature, 0.170 mm (
+                <xref ref-type="bibr" rid="ref-27">Rico-Villa 
+                    <italic toggle="yes">et al.</italic>, 2010</xref>; 
+                <xref ref-type="bibr" rid="ref-30">Rodriguez-Perez, 2019</xref>). Their growth rate and vertical swimming speed were modelled using the allometric equations and the polynomial function given in 
+                <xref ref-type="table" rid="T1">Table 1</xref>, second column. The parameters were estimated based on the data presented in 
+                <xref ref-type="bibr" rid="ref-30">Rodriguez-Perez (2019)</xref>: plots showing the best-fitting curves are shown in 
+                <xref ref-type="fig" rid="f1">Figure 1</xref>.</p>
+            <table-wrap id="T1" orientation="portrait" position="anchor">
+                <label>Table 1. </label>
+                <caption>
+                    <title>Species specific parameters required, equations used and values of coefficients and data source references.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Parameter</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Equation</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Coefficients</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Reference</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Growth Rate (%)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">a*e
+                                <sup>b*Tw</sup>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">a=0.475
+                                <break/>b=0.149</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Data from 
+                                <xref ref-type="bibr" rid="ref-30">Rodriguez-Perez (2019)</xref>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <break/>Growth (&#x03bc;m days
+                                <sup>-1</sup>)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">e
+                                <sup>(-a* 1/(Tw+273.15) + b</sup>.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">a=-8354.9
+                                <break/>b=30.7</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Data from 
+                                <xref ref-type="bibr" rid="ref-30">Rodriguez-Perez (2019)</xref>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Development time (days) </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">a / growth</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">a=110 uM</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Data from 
+                                <xref ref-type="bibr" rid="ref-30">Rodriguez-Perez (2019)</xref>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Length (mm)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">L= a * log (W) + b</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">a= 0.0541
+                                <break/>b= 0.6154</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Data from 
+                                <xref ref-type="bibr" rid="ref-40">Helm &amp; Bourne (2004)</xref>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Speed of vertical movement (mm/sec)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Swim speed = a*L + b* T
+                                <sub>w</sub> + c*L* T
+                                <sub>w</sub> + d </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">a=0.07
+                                <break/>b=0.00009
+                                <break/>c= 0.0006
+                                <break/>d= 0.0017</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Data from 
+                                <xref ref-type="bibr" rid="ref-30">Rodriguez-Perez (2019)</xref>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>Growth rate and temperature (top) weight and length relationships (bottom) used for model parametrisation.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/18122/3698070b-9308-4672-8144-89eaded25f66_figure1.gif"/>
+            </fig>
+            <p>The forcing functions, 
+                <italic toggle="yes">i.e.</italic>, current, salinity and water temperature, were downloaded from the CMEMS global ocean 1/12&#x00b0; physics analysis (x and y water velocities, sea water salinity; 6 hours, 
+                <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.48670/moi-00016">https://doi.org/10.48670/moi-00016</ext-link>) and from CMEMS Mediterranean sea physical analysis (temperature, ocean mixed layer thickness, hourly means, 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://doi.org/10.25423/CMCC/MEDSEA_ANALYSIS_FORECAST_PHY_006_013_EAS4">https://doi.org/10.25423/CMCC/MEDSEA_ANALYSIS_FORECAST_PHY_006_013_EAS4</ext-link>) for the year 2022 (1 April to 31 December) 
+                <italic toggle="yes">via</italic> Copernicus &#x2018;
+                <italic toggle="yes">my ocean viewer&#x2019;</italic>, using map selection with coordinates spanning (lon: 12.00 to 14.00; lat: 44.00 to 46.00) and all vertical levels. Bathymetry with a 5 arc-second interval grid resolution was downloaded from GEBCO (gebco.net) and transformed the negative values to positives and to allow the recognition as an 
+                <italic toggle="yes">Opendrift</italic> bathymetry &#x2018;reader&#x2019;.</p>
+            <sec>
+                <title>Simulations set-ups</title>
+                <p>
+                    <italic toggle="yes">O. edulis</italic> larvae were released from two areas, which were determined based on the following criteria: i) presence of shipwrecks (
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.datiopen.it/it/opendata/Mappa_dei_relitti_in_Italia">http://www.datiopen.it/it/opendata/Mappa_dei_relitti_in_Italia</ext-link>) and ii) presence of the species based on the map of presence/absence of the species available on EMODNET (
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/8e1a8ccc37da27c53c3d2db6bdd5a1efe39db8ea">https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/8e1a8ccc37da27c53c3d2db6bdd5a1efe39db8ea</ext-link>, most of the references for the Northern Adriatic refer to surveys conducted in the early 1990s).</p>
+                <p>The resulting areas were Wreck 1: 45&#x00b0; 17&#x2019; 24&#x2019;&#x2019; N, 12&#x00b0; 59&#x2019; 24&#x2019;&#x2019; E ; Wreck 2: 45&#x00b0; 16&#x2019; 48&#x2019;&#x2019; N, 12&#x00b0; 34&#x2019; 48&#x2019;&#x2019; E. The seeding was set to occur on a radius of 50 m around each wreck to allow for uncertainties in the exact position and seeding was set at 20 cm above seabed (assuming they would be on the wreck, and from observations of adults on raised substrates). Since 
+                    <italic toggle="yes">Opendrift</italic> simulations can be set to last according to time (duration in time, number of calculation steps or final date), larvae were set to retire (reach settlement status) according the development time (the time needed to go from planktonic to settlement stage), which according to 
+                    <xref ref-type="bibr" rid="ref-31">Rodriguez-Perez 
+                        <italic toggle="yes">et al.</italic> (2021)</xref> and other previous research (
+                    <xref ref-type="bibr" rid="ref-8">Cole &amp; Jones, 1939</xref>; 
+                    <xref ref-type="bibr" rid="ref-10">Davis &amp; Calabrese, 1969</xref>; 
+                    <xref ref-type="bibr" rid="ref-29">Robert 
+                        <italic toggle="yes">et al.</italic>, 2017</xref>), is dependent upon temperature. In this case development time was used as &#x2018;expiry date&#x2019; of the larvae, using it to set the simulation duration in time, and was calculated based on the median water column temperatures at the wreck site, assuming they would be representative of those that a larva would encounter. Simulations were done throughout the period April&#x2013;December 2022, which was divided in fortnightly periods when simulations were set to end according to the different development times. Within each fortnightly period, 100 larvae were emitted daily at 18:00. 
+                    <xref ref-type="table" rid="T2">Table 2</xref> reports the median temperatures and development times (calculated using the equation in 
+                    <xref ref-type="table" rid="T1">Table 1</xref>), for each larval seeding fortnight: these ranged from nearly one month in early spring to approximately one week in the warmest part of summer. Temperatures that were actually encountered by the larvae were quantified a posteriori based on actual trajectories.</p>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Median and standard deviation temperatures at the two seeding sites, development days required to reach settlement stage (month and days range considered).</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Period
+                                    <break/>(fortnight)</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">April
+                                    <break/>1&#x2013;14</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">April
+                                    <break/>15&#x2013;30</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">May
+                                    <break/>1&#x2013;14</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">May
+                                    <break/>15&#x2013;31</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">June
+                                    <break/>1&#x2013;14</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">June
+                                    <break/>15&#x2013;31</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">July
+                                    <break/>1&#x2013;14</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">July
+                                    <break/>15&#x2013;31</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Aug
+                                    <break/>1&#x2013;14</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Aug
+                                    <break/>15&#x2013;31</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Sept
+                                    <break/>1&#x2013;14</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Sept
+                                    <break/>15&#x2013;31</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Oct
+                                    <break/>1&#x2013;14</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Oct
+                                    <break/>15&#x2013;31</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Nov
+                                    <break/>1&#x2013;14</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Nov
+                                    <break/>15&#x2013;31</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Dec
+                                    <break/>1&#x2013;14</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Median
+                                    <break/>Temperature
+                                    <break/>(&#x00b0;C)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">10.9&#x00b1;0.5
+                                    <break/>10.9&#x00b1;0.5</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">11.9&#x00b1;0.5
+                                    <break/>11.9&#x00b1;0.4</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">14.1&#x00b1;1.6
+                                    <break/>13.7&#x00b1;1.6 </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">16.3&#x00b1;2.4
+                                    <break/>15.8&#x00b1;2.4</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">21.3&#x00b1;2.8
+                                    <break/>20.7&#x00b1;2.7</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">22.9&#x00b1;2.8
+                                    <break/>22.6&#x00b1;2.7</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">25.3&#x00b1;2.6
+                                    <break/>25.1&#x00b1;2.6</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">25.7&#x00b1;2.3
+                                    <break/>25.4&#x00b1;2.3</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">26.3&#x00b1;1.9
+                                    <break/>26&#x00b1;1.9</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">25.8&#x00b1;1.4
+                                    <break/>25.7&#x00b1;1.4</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">25.3&#x00b1;1
+                                    <break/>25&#x00b1;0.9</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">23.7&#x00b1;1
+                                    <break/>23.6&#x00b1;0.9</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">21.6&#x00b1;0.7
+                                    <break/>21.5&#x00b1;0.5</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">21&#x00b1;0.7
+                                    <break/>21&#x00b1;0.4</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">20.5&#x00b1;0.9
+                                    <break/>20.4&#x00b1;0.6</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">17.7&#x00b1;0.9
+                                    <break/>17.7&#x00b1;0.8</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">14.7&#x00b1;1.1
+                                    <break/>15.2&#x00b1;1</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Development
+                                    <break/>time (days)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">29.65</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">26.45</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">22.65</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">14.4</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">11.4</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">9.11</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">7.335</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">6.85</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">6.55</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">6.75</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">7</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">8.2</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">9.87</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">10.66</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">11.17</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">14.73</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">18.4</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec>
+                <title>Statistical analysis</title>
+                <p>R (version 4.3) was used to open the .nc output files using &#x2018;
+                    <italic toggle="yes">ncdf4&#x2019;</italic> (version 1.21) and create plots using &#x2018;
+                    <italic toggle="yes">gtools&#x2019;</italic> (version 3.94). The code is available as 
+                    <italic toggle="yes">Extended data</italic> (
+                    <xref ref-type="bibr" rid="ref-3">Bertolini, 2023b</xref>).</p>
+            </sec>
+        </sec>
+        <sec sec-type="results">
+            <title>Results</title>
+            <p>
+                <xref ref-type="table" rid="T3">Table 3</xref> (
+                <xref ref-type="bibr" rid="ref-2">Bertolini, 2023a</xref>) shows the actual temperatures encountered in the trajectories of the larvae and the depths of such trajectories.</p>
+            <table-wrap id="T3" orientation="portrait" position="anchor">
+                <label>Table 3. </label>
+                <caption>
+                    <title>Temperatures (median &#x00b1; standard deviation) and Depth (max; min)) of the larvae trajectories for the 100 larvae seeded in each fortnight at the two wrecks location (W1: Wreck 1; W2: Wreck 2).</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Period
+                                <break/>(fortnight)</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Site</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">April
+                                <break/>1&#x2013;14</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">April
+                                <break/>15&#x2013;30</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">May
+                                <break/>1&#x2013;14</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">May
+                                <break/>15&#x2013;31</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">June
+                                <break/>1&#x2013;14</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">June
+                                <break/>15&#x2013;31</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">July
+                                <break/>1&#x2013;14</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">July
+                                <break/>15&#x2013;31</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Aug
+                                <break/>1&#x2013;14</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Aug
+                                <break/>15&#x2013;31</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Sept
+                                <break/>1&#x2013;14</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Sept
+                                <break/>15&#x2013;31</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Oct
+                                <break/>1&#x2013;14</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Oct
+                                <break/>15&#x2013;31</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Nov
+                                <break/>1&#x2013;14</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Nov
+                                <break/>15&#x2013;31</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Dec
+                                <break/>1&#x2013;14</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Temperature
+                                <break/>(&#x00b0;C)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">W1
+                                <break/>W2</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">14.6&#x00b1;0.9
+                                <break/>14.7&#x00b1;1.3</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">13.9&#x00b1;1.9
+                                <break/>16.3&#x00b1;1.6</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">16.5&#x00b1;2.2
+                                <break/>20.8&#x00b1;1.6</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">18&#x00b1;2.7
+                                <break/>22.2&#x00b1;1.7</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">15.8&#x00b1;1.1
+                                <break/>24.6&#x00b1;1.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">17.9&#x00b1;3.1
+                                <break/>24.3&#x00b1;2.3</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">23.8&#x00b1;2.2
+                                <break/>27&#x00b1;0.6</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">24.9&#x00b1;1.9
+                                <break/>27.6&#x00b1;1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">27.2&#x00b1;0.5
+                                <break/>25.4&#x00b1;1.8</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">24.6&#x00b1;1.6
+                                <break/>27.1&#x00b1;0.7</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">24.5&#x00b1;0.8
+                                <break/>25.5&#x00b1;0.9</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">22.1&#x00b1;0.6
+                                <break/>22.6&#x00b1;0.5</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">21.&#x00b1;0.2
+                                <break/>21.1&#x00b1;0.6</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">21.4&#x00b1;1.1
+                                <break/>21.7&#x00b1;1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">18.2&#x00b1;0.7
+                                <break/>17.9&#x00b1;1.6</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">15.8&#x00b1;0.7
+                                <break/>14&#x00b1;0.7</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">13.3&#x00b1;1.7
+                                <break/>13.3&#x00b1;1.9</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Depth (m); </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">W1
+                                <break/>W2</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">31; 0.1
+                                <break/>24,1;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">48.2;0.1
+                                <break/>25.1;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">47.2,0.1
+                                <break/>27.4;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">35;0.1
+                                <break/>32;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">39.9;14
+                                <break/>20;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">36;0.1
+                                <break/>26.1;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">35;1.6
+                                <break/>33.6;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">34.8;0.1
+                                <break/>25;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">33.9;2
+                                <break/>24;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">33;15.2
+                                <break/>28.5;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">29;14.4
+                                <break/>25;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">27.8;18
+                                <break/>27;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">28,6;21
+                                <break/>26;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">30.5;20
+                                <break/>27;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">30.4;20
+                                <break/>24.4;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">33;26
+                                <break/>33;0.1</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">33;25
+                                <break/>33;1</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>In terms of likely settlement areas, as evident from both wrecks, it is highly variable between the different seeding fortnights. Some differences can also be observed in terms of initial seeding locations: while seeding from Wreck 1 larvae go in every direction if the whole reproductive season is cumulated (
+                <xref ref-type="fig" rid="f2">Figure 2</xref>), when seeding from Wreck 2 they do not go to the NE to SE quadrant (
+                <xref ref-type="fig" rid="f3">Figure 3</xref>). This is also evident from the depths (
+                <xref ref-type="table" rid="T3">Table 3</xref>), where larvae from Wreck 2 tend to occupy also shallower zones in all periods, whereas larvae from Wreck 1 in some fortnight only stays deeper (&gt;10 meters). Generally, however, in both cases the larvae with a longer development time (cooler months, 
+                <italic toggle="yes">e.g.</italic>, April and May, November and December) have the potential to settle further away.</p>
+            <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                <label>Figure 2. </label>
+                <caption>
+                    <title>Results from the simulations from Wreck 1.</title>
+                    <p>Each facet represents one fortnight (labels: month- day of simulation start). Dots represent potential settling locations and colours represent depth (z).</p>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/18122/3698070b-9308-4672-8144-89eaded25f66_figure2.gif"/>
+            </fig>
+            <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                <label>Figure 3. </label>
+                <caption>
+                    <title>Results from the simulations from Wreck2.</title>
+                    <p>Each facet represents one fortnight (labels: month- day of simulation start). Dots represent potential settling locations and colours represent depth (z).</p>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/18122/3698070b-9308-4672-8144-89eaded25f66_figure3.gif"/>
+            </fig>
+        </sec>
+        <sec sec-type="discussion">
+            <title>Discussion</title>
+            <p>The results of this preliminary model-based study showed that the settling areas depend on the timing of the emission periods. The spatial distribution of the settling points matches the range of historical distribution from OBIS and observations of spat found in Caorle in summer of 2022 and shallow area of Pellestrina in the summer of 2023 (pers. Obs). Predictions of the settling areas of larvae sourced by Wreck 2 also suggest settlement inside the Venice lagoon, through the Chioggia inlet. Settlement of 
+                <italic toggle="yes">O. edulis</italic> was and is recorded on the inlets and the areas facing the inlets (
+                <xref ref-type="bibr" rid="ref-24">Pellizzato, 1984</xref> and Bertolini personal observation from summer 2022).</p>
+            <p>Shifts in spawning phenology may be a consequence of climate change (
+                <xref ref-type="bibr" rid="ref-11">Dijkstra 
+                    <italic toggle="yes">et al.</italic>, 2011</xref>; 
+                <xref ref-type="bibr" rid="ref-34">Thomas &amp; Bacher, 2018</xref>), which could, in turn, have consequences for the larvae dispersion. In this area, currents show a marked seasonal pattern, with NAd Gyre (anti-clockwise) being present in autumn (
+                <xref ref-type="bibr" rid="ref-1">Artegiani 
+                    <italic toggle="yes">et al.</italic>, 1997</xref>). Therefore, the extension of the emission time window leads to a larger dispersion area, which, in turn, favours the genetic mix within the whole northern Adriatic.</p>
+            <p>The temperature dependence of swarming appears to be dependent by locations. 
+                <xref ref-type="bibr" rid="ref-4">Bromley 
+                    <italic toggle="yes">et al.</italic> (2016)</xref> reports that the onset of spawning of 
+                <italic toggle="yes">Ostrea edulis</italic> occurs above &gt; 15&#x00b0;C throughout its range with higher temperatures at the northern end of the range (Norway, Denmark) and lower temperatures (around 12&#x00b0;C), in some part of the Atlantic in the NE of Spain and in the Adriatic. Therefore, even if in our study at the beginning of April median temperatures at the wreck sites in the northern Adriatic were around 11&#x00b0;C it may still be possible that swarming occurred. In this study median temperatures were used for the seeding area and temperatures were not specific to each trajectory, with development time being fixed for each fortnight, which is a limitation of using a pre-existing module. Differences between the temperature used to estimate development time were up to 4&#x00b0;C lower compared to the actual temperatures of the trajectory in spring, equivalent to nearly 10 days of difference. In the period July-October the temperatures were more closely matching, however larvae released at Wreck 1 ended up in deeper water, which in the summer months were colder than median water temperatures expected at the original location. Consideration of depths and potential for temperature stratification at the area studied should therefore be added when determining the temperature to be used in calculation of development time, as this could be over- or under-estimated. An alternative would be to create another function in 
+                <italic toggle="yes">Opendrift</italic> that would allow stopping the simulation based on final size attained rather than by time, to allow more fine scale estimates based on single trajectories.</p>
+            <p>It should be pointed that what is modelled in this study is only the potential dispersal area. The longer the larval phase, the higher the mortality rate due to predation, while growth may also be affected by the actual availability of food resources: to this regard, the latitudinal West-East trophic gradient could decrease the probability the larvae released close to the Italian coast could settle on the other side of the Adriatic. Last but not least, the availability of suitable substrate (
+                <italic toggle="yes">e.g.</italic>, presence of hard substrate, conspecific cues, predator cues, biofilm (
+                <xref ref-type="bibr" rid="ref-14">Kamermans 
+                    <italic toggle="yes">et al.</italic>, 2018</xref>; 
+                <xref ref-type="bibr" rid="ref-26">Potet 
+                    <italic toggle="yes">et al.</italic>, 2021</xref>; 
+                <xref ref-type="bibr" rid="ref-32">Smyth 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>)), can also affect the outcome of the transition from the larval to the sessile stage of the life cycle.</p>
+            <p>In combination with this modelling approach scaled up to population, an integrated approach that includes sampling for larvae in the water column, checking settlement on substrates at different times, performing genetic analysis (
+                <italic toggle="yes">e.g.</italic>, paternal reconstruction (
+                <xref ref-type="bibr" rid="ref-21">Monteiro 
+                    <italic toggle="yes">et al.</italic>, 2022</xref>)) and conducting broad scale surveys of remnant populations in the Adriatic, would be beneficial to better be able to preserve and restore the species&#x2013;allowing to add suitable substrata in the right places and right time promoting the natural recovery (
+                <xref ref-type="bibr" rid="ref-15">Kerckhof 
+                    <italic toggle="yes">et al.</italic>, 2018</xref>). While more experimental validation would be necessary, this setup using an open data and an open access existing modelling framework to predict larval settlement is promising and could enable upscaling and application for restoration and conservation purposes in other areas.</p>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>Ethical approval and consent were not required.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>Zenodo: Underlying dataset Bertolini and Pastres Understanding the influence of swarming timing on the dispersal of Ostrea edulis larvae in the Northern Adriatic Sea. 
+                    <ext-link ext-link-type="uri" xlink:href="https://zenodo.org/doi/10.5281/zenodo.10125335">https://zenodo.org/doi/10.5281/zenodo.10125335</ext-link> (
+                    <xref ref-type="bibr" rid="ref-2">Bertolini, 2023a</xref>).</p>
+                <p>This project contains the output data files. Other underlying data are from public repositories and links are provided in the text, while the codes developed as part of the study are available at the link in the extended data section.</p>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International license</ext-link> (CC-BY 4.0).</p>
+            </sec>
+            <sec>
+                <title>Extended data</title>
+                <p>Analysis code available from: 
+                    <ext-link ext-link-type="uri" xlink:href="https://github.com/camibe90/OstreaOpendrift">https://github.com/camibe90/OstreaOpendrift</ext-link>
+                </p>
+                <p>Archived analysis code at time of publication: 
+                    <ext-link ext-link-type="uri" xlink:href="https://zenodo.org/doi/10.5281/zenodo.10149770">https://zenodo.org/doi/10.5281/zenodo.10149770</ext-link> (
+                    <xref ref-type="bibr" rid="ref-3">Bertolini, 2023b</xref>).</p>
+                <p>License: 
+                    <ext-link ext-link-type="uri" xlink:href="https://opensource.org/licenses/MPL-2.0">Mozilla Public License 2.0</ext-link>
+                </p>
+            </sec>
+        </sec>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Artegiani</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bregant</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Paschini</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The adriatic sea general circulation. Part II: Baroclinic circulation structure.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Phys Oceanogr.</italic>
+               </source>
+               <year>1997</year>;<volume>27</volume>(<issue>8</issue>):<fpage>1515</fpage>&#x2013;<lpage>1532</lpage>.
+                    <pub-id pub-id-type="doi">10.1175/1520-0485(1997)027&lt;1515:TASGCP&gt;2.0.CO;2</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bertolini</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>Underlying dataset Bertolini and Pastres Understanding the influence of swarming timing on the dispersal of Ostrea edulis larvae in the Northern Adriatic Sea</data-title>.
+                    <source>
+                        <italic toggle="yes">Zenodo</italic>.</source>[Dataset].<year>2023a</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.10125336">http://www.doi.org/10.5281/zenodo.10125336</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bertolini</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>camibe90/OstreaOpendrift: Opendrift Larvalfish module updated for Ostrea edulis (Opendrift_Larvalfish_Ostrea)</article-title>.
+                    <source>
+
+                        <italic toggle="yes">Zenodo.</italic>
+               </source>[Code].<year>2023b</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.10149771">http://www.doi.org/10.5281/zenodo.10149771</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bromley</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>McGonigle</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ashton</surname>
+                            <given-names>EC</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Bad moves: Pros and cons of moving oysters - A case study of global translocations of 
+                        <italic toggle="yes">Ostrea edulis</italic> Linnaeus, 1758 (Mollusca: Bivalvia).</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ocean Coast Manag.</italic>
+               </source>
+               <year>2016</year>;<volume>122</volume>:<fpage>103</fpage>&#x2013;<lpage>115</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.ocecoaman.2015.12.012</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Burioli</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Varello</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Prearo</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>European flat oyster Ostrea edulis (Linneo, 1758) larvae natural collection and offshore culture: a contribution to Mediterranean wild population conservation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ittiopatologia.</italic>
+               </source>
+               <year>2015</year>;<volume>12</volume>:<fpage>107</fpage>&#x2013;<lpage>127</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/306040816_European_flat_oyster_Ostrea_edulis_Linneo_1758_larvae_natural_collection_and_offshore_culture_a_contribution_to_Mediterranean_wild_population_conservation">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Carson</surname>
+                            <given-names>HS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cook</surname>
+                            <given-names>GS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>L&#x00f3;pez-Duarte</surname>
+                            <given-names>PC</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Evaluating the importance of demographic connectivity in a marine metapopulation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ecology.</italic>
+               </source>
+               <year>2011</year>;<volume>92</volume>(<issue>10</issue>):<fpage>1972</fpage>&#x2013;<lpage>1984</lpage>.
+                    <pub-id pub-id-type="pmid">22073788</pub-id>
+                    <pub-id pub-id-type="doi">10.1890/11-0488.1</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cole</surname>
+                            <given-names>HA</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The fecundity of 
+                        <italic toggle="yes">ostrea edulis</italic>.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Mar Biol Assoc U K.</italic>
+               </source>
+               <year>1941</year>;<volume>25</volume>(<issue>2</issue>):<fpage>243</fpage>&#x2013;<lpage>260</lpage>.
+                    <pub-id pub-id-type="doi">10.1017/S0025315400054710</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cole</surname>
+                            <given-names>HA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Jones</surname>
+                            <given-names>EWK</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Some observations and experiments on the setting behaviour of larvae of 
+                        <italic toggle="yes">ostrea edulis</italic>.</article-title>
+                    <source>
+
+                        <italic toggle="yes">ICES J Mar Sci.</italic>
+               </source>
+               <year>1939</year>;<volume>14</volume>(<issue>1</issue>):<fpage>86</fpage>&#x2013;<lpage>105</lpage>.
+                    <pub-id pub-id-type="doi">10.1093/icesjms/14.1.86</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Dagestad</surname>
+                            <given-names>KF</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>R&#x00f6;hrs</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Breivik</surname>
+                            <given-names>O</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Opendrift v1.0: A generic framework for trajectory modelling.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Geosci Model Dev.</italic>
+               </source>
+               <year>2018</year>;<volume>11</volume>(<issue>4</issue>):<fpage>1405</fpage>&#x2013;<lpage>1420</lpage>.
+                    <pub-id pub-id-type="doi">10.5194/gmd-11-1405-2018</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Davis</surname>
+                            <given-names>HC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Calabrese</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Survival and growth of larvae of the European oyster (
+                        <italic toggle="yes">Ostrea edulis</italic> L.) at different temperatures.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Biol Bull.</italic>
+               </source>
+               <year>1969</year>;<volume>136</volume>(<issue>2</issue>):<fpage>193</fpage>&#x2013;<lpage>199</lpage>.
+                    <pub-id pub-id-type="pmid">5794096</pub-id>
+                    <pub-id pub-id-type="doi">10.2307/1539813</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Dijkstra</surname>
+                            <given-names>JA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Westerman</surname>
+                            <given-names>EL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Harris</surname>
+                            <given-names>LG</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The effects of climate change on species composition, succession and phenology: a case study.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Glob Chang Biol.</italic>
+               </source>
+               <year>2011</year>;<volume>17</volume>(<issue>7</issue>):<fpage>2360</fpage>&#x2013;<lpage>2369</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/j.1365-2486.2010.02371.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gabellini</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lamberti</surname>
+                            <given-names>CV</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Piano di monitoraggio ambientale (fase di esercizio) del teminale GNL di Porto Viro e della condotta di collegamento alla terraferma</article-title>.<year>2016</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-40">
+                <mixed-citation publication-type="report">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Helm</surname>
+                            <given-names>MM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bourne</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lovatelli</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Hatchery culture of bivalves. A practical manual</article-title>. FAO Fisheries Technical Paper. No. 471. Rome, FAO,<year>2004</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.fao.org/3/y5720e/y5720e.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Jacobs</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Greeve</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sikkema</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Successful rearing of 
+                        <italic toggle="yes">Ostrea edulis</italic> from parents originating from the Wadden Sea, the Netherlands.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Aquac Rep.</italic>
+               </source>
+               <year>2020</year>;<volume>18</volume>(<issue>10</issue>):
+                    <elocation-id>100537</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1016/j.aqrep.2020.100537</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kamermans</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Walles</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kraan</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Offshore Wind Farms as Potential Locations for Flat Oyster (Ostrea edulis) Restoration in the Dutch North Sea.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sustainability.</italic>
+               </source>
+               <year>2018</year>;<volume>10</volume>(<issue>11</issue>):
+                    <elocation-id>3942</elocation-id>.
+                    <pub-id pub-id-type="doi">10.3390/su10113942</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kerckhof</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Coolen</surname>
+                            <given-names>JWP</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rumes</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Recent findings of wild European flat oysters Ostrea edulis (Linnaeus, 1758) in Belgian and Dutch offshore waters: new perspectives for offshore oyster reef restoration in the southern North Sea.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Belg J Zool.</italic>
+               </source>
+               <year>2018</year>;<volume>148</volume>(<issue>1</issue>):<fpage>13</fpage>&#x2013;<lpage>24</lpage>.
+                    <pub-id pub-id-type="doi">10.26496/bjz.2018.16</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Labarta</surname>
+                            <given-names>U</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fern&#x00e1;ndez-Reiriz</surname>
+                            <given-names>MJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>P&#x00e9;rez-Camacho</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Larvae of Ostrea edulis (L.) during starvation: Growth, energy and biochemical substrates.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Hydrobiologia.</italic>
+               </source>
+               <year>1999</year>;<volume>405</volume>:<fpage>125</fpage>&#x2013;<lpage>131</lpage>.
+                    <pub-id pub-id-type="doi">10.1023/A:1003851220515</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Maathuis</surname>
+                            <given-names>MAM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Coolen</surname>
+                            <given-names>JWP</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>van der Have</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Factors determining the timing of swarming of European flat oyster (
+                        <italic toggle="yes">Ostrea edulis L.</italic>) larvae in the Dutch Delta area: Implications for flat oyster restoration.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sea Res.</italic>
+               </source>
+               <year>2020</year>;<volume>156</volume>:
+                    <elocation-id>101828</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1016/j.seares.2019.101828</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Manoukian</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Spagnolo</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Scarcella</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Effects of two offshore gas platforms on soft-bottom benthic communities (northwestern Adriatic Sea, Italy).</article-title>
+                    <source>
+
+                        <italic toggle="yes">Mar Environ Res.</italic>
+               </source>
+               <year>2010</year>;<volume>70</volume>(<issue>5</issue>):<fpage>402</fpage>&#x2013;<lpage>410</lpage>.
+                    <pub-id pub-id-type="pmid">20850179</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.marenvres.2010.08.004</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Marshall</surname>
+                            <given-names>DJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Monro</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bode</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Phenotype-environment mismatches reduce connectivity in the sea.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ecol Lett.</italic>
+               </source>
+               <year>2010</year>;<volume>13</volume>(<issue>1</issue>):<fpage>128</fpage>&#x2013;<lpage>140</lpage>.
+                    <pub-id pub-id-type="pmid">19968695</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/j.1461-0248.2009.01408.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Millar</surname>
+                            <given-names>RH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Scott</surname>
+                            <given-names>JM</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Larva of The 
+                        <italic toggle="yes">Oyster Ostrea</italic> Edulis During Starvation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Mar Biol Assoc U K.</italic>
+               </source>
+               <year>1967</year>;<volume>47</volume>(<issue>3</issue>):<fpage>475</fpage>&#x2013;<lpage>484</lpage>.
+                    <pub-id pub-id-type="doi">10.1017/S0025315400035104</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Monteiro</surname>
+                            <given-names>HJA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Saurel</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Jacobsen</surname>
+                            <given-names>MB</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Genetic parentage reconstruction as a practical tool applied to aquaculture and restoration programs for the European flat oyster, 
+                        <italic toggle="yes">Ostrea edulis</italic>.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Aquat Living Resour.</italic>
+               </source>
+               <year>2022</year>;<volume>35</volume>.
+                    <pub-id pub-id-type="doi">10.1051/alr/2022018</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <mixed-citation publication-type="journal">
+                    <collab>National Institute of Oceanography and Experimental Geophysics (OGS), Italian National Institute for Environmental Protection and Research (ISPRA), Italy</collab>:
+                    <article-title>Trawl-survey data from the Pipeta programme in the Northern Adriatic Sea (Mediterranean) collected in 1988 and 1991</article-title>.<year>2017</year>.
+                    <pub-id pub-id-type="doi">10.14284/283</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <mixed-citation publication-type="journal">
+                    <collab>OSPAR</collab>:
+                    <article-title>OSPAR Report&#x202f;: Background document for Ostrea edulis and Ostrea edulis beds Biodiversity Series.</article-title>
+                    <source>
+
+                        <italic toggle="yes">OSPAR Comm.</italic>
+               </source>
+               <year>2009</year>;<volume>22</volume>.</mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pellizzato</surname>
+                            <given-names>ML</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>MONITORAGGIO DELL&#x2019;INSEDIAMENTO SU SUBSTRATI ARTIFICIALI DEI BIVALVI OSTREA EDULIS L. E CRASSOSTREA GIGA S (THUNBERG) NELLA LAGUNA DI VENEZIA.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Lav Soc Ven Sc Nat.</italic>
+               </source>
+               <year>1984</year>;<volume>9</volume>(<issue>2</issue>):<fpage>219</fpage>&#x2013;<lpage>223</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.istitutoveneto.org/venezia/documenti/articoli/lavori_svsn/pdf_svsn/volume_9_2/pellizzato.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ponti</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Aspetti biologici ed ecologici delle &#x201c;tegn&#x00f9;e&#x201d;: biocostruzione, biodiversit&#x00e0; e salvaguardia.</article-title>Chioggia, Riv Semest di Stud e Ric del Comune.<year>2001</year>;<volume>18</volume>:<fpage>179</fpage>&#x2013;<lpage>194</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.tegnue.it/ponti2001.asp">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Potet</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fabien</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Chaudemanche</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Which concrete substrate suits you? 
+                        <italic toggle="yes">Ostrea edulis</italic> larval preferences and implications for shellfish restoration in Europe.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ecol Eng.</italic>
+               </source>
+               <year>2021</year>;<volume>162</volume>:
+                    <elocation-id>106159</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1016/j.ecoleng.2021.106159</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rico-Villa</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bernard</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Robert</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>A Dynamic Energy Budget (DEB) growth model for Pacific oyster larvae, 
+                        <italic toggle="yes">Crassostrea gigas</italic>.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Aquac.</italic>
+               </source>
+               <year>2010</year>;<volume>305</volume>(<issue>1&#x2013;4</issue>):<fpage>84</fpage>&#x2013;<lpage>94</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.aquaculture.2010.04.018</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Robert</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>His</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dinet</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Combined effects of temperature and salinity on fed and starved larvae of the European flat oyster 
+                        <italic toggle="yes">Ostrea edulis</italic>.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Mar Biol.</italic>
+               </source>
+               <year>1988</year>;<volume>97</volume>:<fpage>95</fpage>&#x2013;<lpage>100</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/BF00391249</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Robert</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Vignier</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Petton</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Influence of feeding regime and temperature on development and settlement of oyster 
+                        <italic toggle="yes">Ostrea edulis</italic> (Linnaeus, 1758) larvae.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Aquac Res.</italic>
+               </source>
+               <year>2017</year>;<volume>48</volume>(<issue>9</issue>):<fpage>4756</fpage>&#x2013;<lpage>4773</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/are.13297</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <mixed-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rodriguez-Perez</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Informing the conservation and restoration of a keystone species: the larval behaviour of the European oyster 
+                        <italic toggle="yes">Ostrea edulis (Doctoral thesis)</italic>
+                    </article-title>.<year>2019</year>;<volume>154</volume>.
+                    <pub-id pub-id-type="doi">10.17630/sta/7</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rodriguez-Perez</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>James</surname>
+                            <given-names>MA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sanderson</surname>
+                            <given-names>WG</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A small step or a giant leap: Accounting for settlement delay and dispersal in restoration planning.</article-title>
+                    <source>
+
+                        <italic toggle="yes">PLoS One.</italic>
+               </source>
+               <year>2021</year>;<volume>16</volume>(<issue>8</issue>):
+                    <elocation-id>e0256369</elocation-id>.
+                    <pub-id pub-id-type="pmid">34407139</pub-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0256369</pub-id>
+                    <pub-id pub-id-type="pmcid">8372959</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Smyth</surname>
+                            <given-names>DM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Horne</surname>
+                            <given-names>NS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ronayne</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Wild gregarious settlements of 
+                        <italic toggle="yes">Ostrea edulis</italic> in a semi-enclosed Sea Lough: a case study for unassisted restoration.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Restor Ecol.</italic>
+               </source>
+               <year>2020</year>;<volume>28</volume>(<issue>3</issue>):<fpage>645</fpage>&#x2013;<lpage>654</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/rec.13124</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Staudinger</surname>
+                            <given-names>MD</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mills</surname>
+                            <given-names>KE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Stamieszkin</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>It&#x2019;s about time: A synthesis of changing phenology in the Gulf of Maine ecosystem.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Fish Oceanogr.</italic>
+               </source>
+               <year>2019</year>;<volume>28</volume>(<issue>5</issue>):<fpage>532</fpage>&#x2013;<lpage>566</lpage>.
+                    <pub-id pub-id-type="pmid">31598058</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/fog.12429</pub-id>
+                    <pub-id pub-id-type="pmcid">6774335</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Thomas</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bacher</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Assessing the sensitivity of bivalve populations to global warming using an individual-based modelling approach.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Glob Chang Biol.</italic>
+               </source>
+               <year>2018</year>;<volume>24</volume>(<issue>10</issue>):<fpage>4581</fpage>&#x2013;<lpage>4597</lpage>.
+                    <pub-id pub-id-type="pmid">30030873</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/gcb.14402</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-35">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Vikeb&#x00f8;</surname>
+                            <given-names>FB</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sundby</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>&#x00c5;dlandsvik</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Impacts of a reduced thermohaline circulation on transport and growth of larvae and pelagic juveniles of Arcto-Norwegian cod (
+                        <italic toggle="yes">Gadus morhua</italic>).</article-title>
+                    <source>
+
+                        <italic toggle="yes">Fish Oceanogr.</italic>
+               </source>
+               <year>2007</year>;<volume>16</volume>(<issue>3</issue>):<fpage>216</fpage>&#x2013;<lpage>228</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/j.1365-2419.2007.00427.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-36">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>White</surname>
+                            <given-names>JW</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Carr</surname>
+                            <given-names>MH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Caselle</surname>
+                            <given-names>JE</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Connectivity, Dispersal, and Recruitment: Connecting Benthic Communities and the Coastal Ocean.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Oceanography.</italic>
+               </source>
+               <year>2019</year>;<volume>32</volume>:<fpage>50</fpage>&#x2013;<lpage>59</lpage>.
+                    <pub-id pub-id-type="doi">10.5670/oceanog.2019.310</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-37">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Willis</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kamphausen</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Jensen</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Restoration, dispersal and settlement of native European oyster (
+                        <italic toggle="yes">Ostrea edulis</italic>) in energetic tidal areas.</article-title>
+                    <source>
+
+                        <italic toggle="yes">bioRxiv.</italic>
+               </source>
+               <year>2019</year>; 853911.
+                    <pub-id pub-id-type="doi">10.1101/853911</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

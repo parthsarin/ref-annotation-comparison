@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="brief-report"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.14679.2</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Brief Report</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Development of an online pan-European Integrated Pest Management Resource Toolbox</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 2; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Ramsden</surname>
+                        <given-names>Mark</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Furiosi</surname>
+                        <given-names>Margherita</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-7481-3141</uri>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Debenedettis</surname>
+                        <given-names>Paolo</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Stojacic</surname>
+                        <given-names>Isidora</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Software</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Mendes</surname>
+                        <given-names>Marta</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Munier-Jolain</surname>
+                        <given-names>Nicolas</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Caffi</surname>
+                        <given-names>Tito</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-9929-4130</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>RSK ADAS Ltd., ADAS Boxworth, Cambridgeshire, UK</aff>
+                <aff id="a2">
+                    <label>2</label>DIPROVES, Catholic University of the Sacred Heart, Via E. Parmense 84, Piacenza, 29122, Italy</aff>
+                <aff id="a3">
+                    <label>3</label>BioSense Institute, University of Novi Sad, Dr Zorana Djindjica 1, Novi Sad, 21000, Serbia</aff>
+                <aff id="a4">
+                    <label>4</label>Consulai, Consultoria Agroindustrial Lda, Rua da Junqueira, 61 G, Lisboa, 1300-307, Portugal</aff>
+                <aff id="a5">
+                    <label>5</label>INRAE, UMR University/INRA/ENVN, Dijon, France</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:tito.caffi@unicatt.it">tito.caffi@unicatt.it</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>22</day>
+                <month>9</month>
+            <year>2022</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2022</year>
+            </pub-date>
+         <volume>2</volume>
+            <elocation-id>72</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>15</day>
+                    <month>9</month>
+               <year>2022</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Ramsden M et al.</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/2-72/pdf"/>
+            <abstract>
+                <p>The IPM
+                    <bold>
+                        <italic toggle="yes">WORKS</italic>
+                    </bold> IPM Resource Toolbox (Toolbox) has been developed as an interactive, online repository of integrated pest management (IPM) resources. Populated with high priority resources for farmers and their advisors during the project, its structure enables additional resources added over time. The repository is a public interactive website, available to anyone looking to access, understand, and implement IPM. Built on an open-source content management system, the toolbox is designed to require minimal post-production site maintenance and support, while being easily expanded to integrate resources from future initiatives.</p>
+                <p>To ensure an efficient but comprehensive website design, population, maintenance, a survey of target user needs was conducted. Different type of IPM stakeholders, both internal and external to the IPMworks project, ranked the key requirements for the Toolbox, such as practical information about diseases and pests&#x2019; management and economic thresholds: 343 feedbacks and answers from a survey of 10 questions, carried out across Europe in four languages, provided the key elements and foundation for the IPM Resource Toolbox website development and specification.The Toolbox resources are explained in different languages, with images, divided by topics, with the possibility to find additional details and accessible by smartphone. </p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Integrated Pest Management</kwd>
+                <kwd>survey data</kwd>
+                <kwd>resource toolbox</kwd>
+                <kwd>multi-actor</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>101000339</award-id>
+                    <award-id>817617</award-id>
+                </award-group>
+                <funding-statement>This research was undertaken as part of IPMWorks, which received support from the EU funding programme Horizon 2020 (RIA, research and innovation, grant number 101000339), and as part of IPM Decision, which received funding from the EU funding programme Horizon 2020 (RIA, research and innovation, grant number 817617).</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+        <notes>
+            <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 1</title>
+                <p>We tried to better explain our work based on comments and suggestions provided by the reviewers. We replied to reviewers point by point, what we agree on and what we disagree on. The content has not changed, we just tried to clarify what was not clear enough to the reviewers. We improved the captions of figures 3, 4 and 5 to better explain the figures. We have not added any figures; authors, their affiliation, and data have not changed.</p>
+            </sec>
+        </notes>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>How can integrated pest management (IPM) strategies be accessed by users and applied on farm? IPM 
+                <bold>
+                    <italic toggle="yes">WORKS</italic>
+                </bold> IPM Resource Toolbox is an online repository of IPM resources. A survey about stakeholders&#x2019; expectations and use of IPM toolbox was carried out with expected users (grouped in different categories as Farmers, Agronomists, Researchers, Developers, Policy makers/advisors, Retail organizations and others) to understand their requirements, and to collect their opinions about toolbox utility and how it can be developed and managed.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>Intensive use of pesticides has led to many problems such as resistance to agro-chemicals, reduction of natural enemies&#x2019; and non-target organisms&#x2019; population, and rise of chemical residues in final products (
+                <xref ref-type="bibr" rid="ref-1">Ali 
+                    <italic toggle="yes">et al.,</italic> 2021</xref>), all contributing to a general increase of production costs. Modern agriculture strives to achieve more sustainable farming systems, with less reliance on pesticides.  The challenge of reducing inputs applied in fields and reducing the negative effects on the environment, while retaining a high quality and quantity of the final yield, preserving, or increasing farmers&#x2019; incomes is complicated but achievable (
+                <xref ref-type="bibr" rid="ref-2">Barzman 
+                    <italic toggle="yes">et al.,</italic> 2015</xref>; 
+                <xref ref-type="bibr" rid="ref-24">Rezaei 
+                    <italic toggle="yes">et al.,</italic> 2019</xref>; 
+                <xref ref-type="bibr" rid="ref-25">Rossi 
+                    <italic toggle="yes">et al.,</italic> 2012</xref>). To face these issues integrated production was developed, aiming to reach a high-quality production by giving the priority to ecological methods. In this context integrated pest management (IPM) aims to achieve a sustainable crop protection against harmful organisms, keeping the use of chemical pesticides at levels that are economically and environmentally acceptable. In fact, the adequate and safe use of Plant Protection Products (PPP) within IPM program remains a key component and also many projects (such as TOPPS 
+                <ext-link ext-link-type="uri" xlink:href="http://www.topps-life.org/#">http://www.topps-life.org/#</ext-link>) provided great efforts to reduce losses during pesticide applications. In Europe IPM became mandatory in 2014 (
+                <xref ref-type="bibr" rid="ref-7">Directive 2009/128/EC</xref>) and the European Union is progressively banning or limiting the most dangerous pesticides for human health and environment and today is embedded into the &#x201c;Farm to Fork&#x201d; strategy (
+                <xref ref-type="bibr" rid="ref-6">Dara, 2019</xref>; 
+                <xref ref-type="bibr" rid="ref-12">Hillocks, 2012</xref>; 
+                <xref ref-type="bibr" rid="ref-17">Lamichhane 
+                    <italic toggle="yes">et al.,</italic> 2016a</xref>; 
+                <xref ref-type="bibr" rid="ref-19">Lefebvre 
+                    <italic toggle="yes">et al.,</italic> 2015</xref>; 
+                <xref ref-type="bibr" rid="ref-25">Rossi 
+                    <italic toggle="yes">et al.,</italic> 2012</xref>; 
+                <xref ref-type="bibr" rid="ref-29">Way &amp; van Emden, 2000</xref>). 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://ec.europa.eu/food/plants/pesticides/sustainable-use-pesticides/integrated-pest-management-ipm_en">IPM</ext-link> is based on eight principles and considers all processes and components characterizing the agro-system, to reach a long terms sustainable crop production and protection (
+                <xref ref-type="bibr" rid="ref-2">Barzman 
+                    <italic toggle="yes">et al.</italic>, 2015</xref>; 
+                <xref ref-type="bibr" rid="ref-15">Lamichhane, 2017</xref>; 
+                <xref ref-type="bibr" rid="ref-26">Rossi 
+                    <italic toggle="yes">et al.,</italic> 2019</xref>).</p>
+            <p>Agricultural production inevitably becomes more complicated over time, as new innovations in plant breeding, machinery, application technology, management systems, require more time and knowledge to identify suitable approaches and integrate them into existing approaches. Increasing the system complexity therefore increases the benefits of methods, tools, and thresholds to decide if, when, where and what kind of intervention should be carried out, based on updated and detailed information about crops and diseases in a specific context (
+                <xref ref-type="bibr" rid="ref-25">Rossi 
+                    <italic toggle="yes">et al.,</italic> 2012</xref>). Different tools are already available to help farmers in managing pests, such as warning service, on site device and decision support systems (DSS). Even if these tools provide updated information about weather conditions and forecast, crop growth and risks of key pests/disease at regional or farm level (
+                <xref ref-type="bibr" rid="ref-9">Gent 
+                    <italic toggle="yes">et al.,</italic> 2011</xref>; 
+                <xref ref-type="bibr" rid="ref-17">Lamichhane 
+                    <italic toggle="yes">et al.,</italic> 2016a</xref>; 
+                <xref ref-type="bibr" rid="ref-25">Rossi 
+                    <italic toggle="yes">et al.,</italic> 2012</xref>), DSSs and other resources still have a limited uptake among farmers due to a range of actual and perceived barriers, such as farmers not being aware of what resources are available, or resources (such as pest forecast systems) focusing on individual pests while farmers are facing multiple infestations across the farm. IPM resources should satisfy users&#x2019; need in the real field context and demonstrate the economic advantage of their adoption.</p>
+            <p>To fully implement IPM principles a holistic approach is needed, involving the application of different strategies to optimize pests&#x2019; control, considering economic and environmental thresholds (
+                <xref ref-type="bibr" rid="ref-2">Barzman 
+                    <italic toggle="yes">et al.</italic>, 2015</xref>; 
+                <xref ref-type="bibr" rid="ref-12">Hillocks, 2012</xref>; 
+                <xref ref-type="bibr" rid="ref-27">Stenberg, 2017</xref>). However, in many cases the results of IPM research and innovation projects are difficult to be applied by farmers. They perceive IPM as time consuming, and the application of multiple control strategies against different pests is hard in the field context, where different crops require different interventions (
+                <xref ref-type="bibr" rid="ref-8">Ehler, 2006</xref>; 
+                <xref ref-type="bibr" rid="ref-13">Hillocks &amp; Cooper, 2012</xref>; 
+                <xref ref-type="bibr" rid="ref-27">Stenberg, 2017</xref>). Farmers see IPM as a labyrinth of tools and the potential economic advantages are rarely clear (
+                <xref ref-type="bibr" rid="ref-26">Rossi 
+                    <italic toggle="yes">et al.,</italic> 2019</xref>; 
+                <xref ref-type="bibr" rid="ref-29">Way &amp; van Emden, 2000</xref>). A lack of knowledge and understanding of IPM principles can lead to increased confidence in pesticide efficacy, thus farmers&#x2019; education to IPM principles is crucial to make them able to evaluate pesticides, their effects, and make appropriate decisions (
+                <xref ref-type="bibr" rid="ref-9">Gent 
+                    <italic toggle="yes">et al.,</italic> 2011</xref>; 
+                <xref ref-type="bibr" rid="ref-11">Hashemi &amp; Damalas, 2011</xref>; 
+                <xref ref-type="bibr" rid="ref-28">Van den Berg &amp; Jiggins, 2007</xref>). Without support, IPM has a limited success (
+                <xref ref-type="bibr" rid="ref-8">Ehler, 2006</xref>; 
+                <xref ref-type="bibr" rid="ref-19">Lefebvre 
+                    <italic toggle="yes">et al.,</italic> 2015</xref>; 
+                <xref ref-type="bibr" rid="ref-21">Parsa 
+                    <italic toggle="yes">et al.,</italic> 2014</xref>). Many European initiatives, such as IPMWorks (H2020, No. 101000339), IPMDecisions (H2020 No. 817617), SmartProtect (H2020 No. 862563) and Innoseta (H2020 no. 773864) are promoting the adoption of IPM strategies and available tools across Europe to achieve more sustainable farming and plant protection. These fixed term projects develop resources to support advance implementation of IPM towards &#x2018;Holistic IPM&#x2019;. Providing access to resource, training, technical support, and demonstrations of IPM in action and the consequence of their management on the environment improves uptake and implementation (
+                <xref ref-type="bibr" rid="ref-5">Cameron, 2010</xref>; 
+                <xref ref-type="bibr" rid="ref-21">Parsa 
+                    <italic toggle="yes">et al.,</italic> 2014</xref>; 
+                <xref ref-type="bibr" rid="ref-24">Rezaei 
+                    <italic toggle="yes">et al.,</italic> 2019</xref>). At present, IPM resources are spread across multiple projects and associated websites, and this is creating a barrier to access for farmers looking to improve IPM implementation across Europe. </p>
+            <p>One objective of the 
+                <ext-link ext-link-type="uri" xlink:href="http://www.ipmworks.net/">IPMWORKS</ext-link> project is to develop a Resource Toolbox to provide easy access to IPM resources to different stakeholders, making IPM Resources widely accessible in a consistent format across Europe, promoting improved uptake of effective IPM tactics and strategies. This Toolbox is an interactive, online repository of IPM resources, populated with high priority resources for farmers and their advisors during the project, with further resources added over time. The repository is an interactive website with a dedicated search engine, accessed by both consortium members and the public. The website is built on an open-source content management system, requiring minimal post-production site maintenance and support to ensure longevity. This toolbox enables users to easily search, share, and discuss IPM resources. Resources will include training modules, results of demonstration trials, leaflets describing cost-effective IPM strategies, videos of farmers&#x2019; testimonies and demonstration events, training materials, DSS (from 
+                <ext-link ext-link-type="uri" xlink:href="http://www.ipmdecisions.net/">IPMDecisions</ext-link>), cultural control descriptions, and material to evaluate the success of the adopted practices. Resources collated in other EC funded projects can be readily integrated, such as for IPM resources within the 
+                <ext-link ext-link-type="uri" xlink:href="http://www.endureinformationcentre.eu/">ENDURE Information Centre</ext-link> and 
+                <ext-link ext-link-type="uri" xlink:href="https://platform.smartprotect-h2020.eu/en">SmartProtect IPM Thematic Network platform</ext-link>.</p>
+            <p>To ensure an efficient but comprehensive website design a survey of target user needs was conducted. Internal and external IPM stakeholders indicated the relative importance of key requirements. Feedback from these surveys, carried out across Europe, provided the foundation for the website specification.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>The anonymous survey was carried out between November 2020 and January 2021 with potential end users. The survey was open access, available in multiple languages and promoted by project partners in both IPM 
+                <bold>
+                    <italic toggle="yes">WORKS</italic>
+                </bold> and IPM 
+                <italic toggle="yes">Decisions</italic> (
+                <xref ref-type="fig" rid="f1">Figure 1</xref>) through social media channels. The survey was addressed to farmers and advisors, but anyone could answer questions. Potential IPM Resource Toolbox users were categorized into one of the following groups: Farmers, Agronomists, Researchers, Developers, Policy makers/advisors, Retail organizations and others (
+                <xref ref-type="table" rid="T1">Table 1</xref>). Respondents didn&#x2019;t receive any reward for participation.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>Response share to the anonymous survey across Europe (n= 343: different shades on the map show different share of respondents.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16328/83bea896-521d-4211-9f63-6926fee820ad_figure1.gif"/>
+            </fig>
+            <table-wrap id="T1" orientation="portrait" position="anchor">
+                <label>Table 1. </label>
+                <caption>
+                    <title>Description of target groups for the IPM Resource Toolbox.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Stakeholders</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Description</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Total number of filled 
+                                <break/>questionnaire received</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>Farmers</bold>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Individuals working on farms, responsible for enacting and/or making agricultural 
+                                <break/>decisions.</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">119</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>Agronomists</bold>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Individuals working with/for farmers in an advisory role, providing agricultural
+                                <break/>support, advice and/or making decisions on behalf of farmers. Individuals may be
+                                <break/>acting independently, or as part of an industry organization.</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">110</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>Researchers</bold>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Individuals undertaking agricultural research, including academic and/or applied
+                                <break/>research, as well as innovation and development activities. Researchers/ higher
+                                <break/>education students/ research and higher education institutions</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">79</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>Software developers</bold>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Individuals creating or expanding software services within the agricultural sector.</td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">7</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>Policy advisors/</bold>
+                                <break/>
+                                <bold>makers</bold>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Individuals responsible for supporting, advising and/or making policy decisions. </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">9</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>Retail organisations</bold>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Individuals working within food supply chains, including (for example) logistics,
+                                <break/>processing and retail. </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">8</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>Other</bold>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Individuals not directly involved in food production, retail, or policy development,
+                                <break/>e.g. Consumers, general public etc. </td>
+                            <td align="center" colspan="1" rowspan="1" valign="middle">11</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>The study didn&#x2019;t expect a specific sample dimension, and Microsoft Office Forms was used to create and share the survey. The survey wasn&#x2019;t validated before use; collected data were validated, excluding no meaning data/answers. Firstly, the survey asks general information about users, such as the country where they live, which crop they are interested in, and to which group they belong. Almost 90% of respondents were farmers, agronomists and researchers, minimizing the risk of bias from a &#x201c;single perspective&#x201d; (
+                <xref ref-type="table" rid="T1">Table 1</xref>). Then, the survey asks about the actual approach they use for crop management, what they expect from IPM toolbox and what could encourage their use of toolbox. Finally, the survey asks what can be improved on the website and if they know some European projects. The survey collected mainly quantitative data, where users could select the answer among multiple choices or using a Likert scale.  No personal data was collected in the survey, all responses were anonymous, and questions could be left blank, considering missing data as indifference or lack of opinion by respondents. The full questionnaire is available in the 
+                <italic toggle="yes">Extended data</italic> (
+                <xref ref-type="bibr" rid="ref-23">Ramsden, 2022b</xref>).</p>
+            <p>The data were managed to visualize responses from different stakeholder groups, expressing different opinions and expectations. Microsoft Excel was used to manage data and to create graphs and tables.  Users were categorized into groups, knowing the number of respondents in each group and the total number of respondents, we calculate the percentage of participants belonging to each group.</p>
+        </sec>
+        <sec sec-type="results | discussion">
+            <title>Results and discussion</title>
+            <p>Most users (60%) expected to be able to access information and training on pest management (60% of farmers and agronomists) (
+                <xref ref-type="bibr" rid="ref-22">Ramsden, 2022a</xref>). Most of them expected it to be an interactive platform (40% of farmers and agronomists and 70% of researchers), with a catalogue of resources for pest management strategies. There was less expectation across users that the platform would provide a database of projects, a forum for discussion, or a market for sharing strategies. Only few respondents weren&#x2019;t sure what the Toolbox might offer or felt that it would offer something other than the proposed ideas (
+                <xref ref-type="fig" rid="f2">Figure 2</xref>).</p>
+            <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                <label>Figure 2. </label>
+                <caption>
+                    <title>Share of end users who agreed with one (or more) technical characteristics that the ongoing IPM Resource Toolbox should fulfil.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16328/83bea896-521d-4211-9f63-6926fee820ad_figure2.gif"/>
+            </fig>
+            <sec>
+                <title>Resources that would encourage the use of IPM Resource Toolbox</title>
+                <p>All users identified economic thresholds as a valuable tool for inclusion in the toolkit. Monitoring tool descriptions, economic and environmental details, pest forecasts, crop planning tools, and technical IPM guides were identified as especially important tools for inclusion. The description of IPM techniques and the evaluation of their economic and environmental impact were considered important especially by researchers, developers, policy makers, farmers, and advisors (
+                    <xref ref-type="fig" rid="f3">Figure 3</xref>). Training resources were also seen as important within the Toolbox, but more so by researchers than practitioners (farmers and agronomists). Testimonials and case studies weren&#x2019;t seen as being important as tools that specifically detailed the technical elements of implementation and impacts.</p>
+                <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                    <label>Figure 3. </label>
+                    <caption>
+                        <title>Degree of importance given to the description of IPM techniques and evaluation of their economic and environmental impacts by different stakeholders&#x2019; group, expressed as a percentage of the number of respondents in each group.</title>
+                        <p>The degree of importance ranged between 1 and 5 in the survey, where 1 corresponded to &#x201c;not important&#x201d; and 5 &#x201c;very important&#x201d;. The degree is represented by a blue colour scale, from darker blue for value 1 to lighter blue for value 5 (please note that all five colours may not be present in all bars).</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16328/83bea896-521d-4211-9f63-6926fee820ad_figure3.gif"/>
+                </fig>
+            </sec>
+            <sec>
+                <title>What users value when accessing online resources</title>
+                <p>All users identified being able to see the names of people who shared content as increasing their trust in the material (
+                    <xref ref-type="fig" rid="f4">Figure 4</xref>). Most users would like to access a lot of detail on a topic; advisors particularly valued access to details. All users preferred image-based content, especially researchers, developers, advisors, policy makers, and supply chain workers, compared to video, text or audio contents (
+                    <xref ref-type="fig" rid="f5">Figure 5</xref>). Some user types (supply-chain workers/other) preferred video content. No strong preference was found for text or audio-based contents.</p>
+                <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                    <label>Figure 4. </label>
+                    <caption>
+                        <title>Stakeholders groups&#x2019; trust in content when they know who produced/shared it, expressed as a percentage of the number of respondents in each group.</title>
+                        <p>The degree of importance ranged between 1 and 5 in the survey, where 1 corresponded to &#x201c;not important&#x201d; and 5 &#x201c;very important&#x201d;. The degree is represented by a blue colour scale, from darker blue for value 1 to lighter blue for value 5 (please note that all five colours may not be present in all bars).</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16328/83bea896-521d-4211-9f63-6926fee820ad_figure4.gif"/>
+                </fig>
+                <fig fig-type="figure" id="f5" orientation="portrait" position="float">
+                    <label>Figure 5. </label>
+                    <caption>
+                        <title>Preference to image-based content by different stakeholder groups, expressed as a percentage of the number of respondents in each group.</title>
+                        <p>The degree of preference ranged between 1 and 5 in the survey, where 1 corresponded to "I don't prefer image-based contents" and 5 corresponded to "I prefer/want image-based contents". The degree is represented by a blue colour scale, from darker blue for value 1 to lighter blue for value 5 (please note that all five colours may not be present in all bars).</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16328/83bea896-521d-4211-9f63-6926fee820ad_figure5.gif"/>
+                </fig>
+            </sec>
+            <sec>
+                <title>Stakeholder awareness of past/current related projects</title>
+                <p>Most respondents weren&#x2019;t aware of the suggested projects. Researchers together with developers and policy makers were most aware of past and current projects, but among these groups only 25&#x2013;30% of them know some projects. On the other hand, among farmers, advisors, supply chain workers, only few know of past and present projects (6&#x2013;11%) (
+                    <xref ref-type="fig" rid="f6">Figure 6</xref>). This means that a deep revision in how projects&#x2019; topics, goals and results are communicated to a broad audience is needed. As suggested by 
+                    <xref ref-type="bibr" rid="ref-4">Burbi &amp; Rose (2016)</xref> and 
+                    <xref ref-type="bibr" rid="ref-16">Lamichhane 
+                        <italic toggle="yes">et al.</italic> (2018)</xref>, internet and social media channels represent an opportunity to connect farmers and other stakeholders, with the possibility to create online communities to share information, experiences, innovations, and to attend congress or events promoting knowledge exchange.</p>
+                <fig fig-type="figure" id="f6" orientation="portrait" position="float">
+                    <label>Figure 6. </label>
+                    <caption>
+                        <title>Average stakeholders&#x2019; awareness of past and current projects, expressed as a percentage on the number of respondents in each group.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16328/83bea896-521d-4211-9f63-6926fee820ad_figure6.gif"/>
+                </fig>
+            </sec>
+            <sec>
+                <title>Additional comments</title>
+                <p>Stakeholders indicated some improvements to make the IPM toolbox more usable. Considering the accessibility, being a platform available across Europe, contents should be expressed in users&#x2019; native languages (
+                    <xref ref-type="bibr" rid="ref-3">Barzman 
+                        <italic toggle="yes">et al.,</italic> 2014</xref>; 
+                    <xref ref-type="bibr" rid="ref-10">Grasswitz, 2019</xref>; 
+                    <xref ref-type="bibr" rid="ref-18">Lamichhane 
+                        <italic toggle="yes">et al.,</italic> 2016b</xref>), to be more understandable by farmers, because not all of them speak English. In fact, users asked to minimize text contents that require translation. Farmers have little time and they see IPM as time consuming (
+                    <xref ref-type="bibr" rid="ref-8">Ehler, 2006</xref>; 
+                    <xref ref-type="bibr" rid="ref-19">Lefebvre 
+                        <italic toggle="yes">et al.,</italic> 2015</xref>; 
+                    <xref ref-type="bibr" rid="ref-26">Rossi 
+                        <italic toggle="yes">et al.,</italic> 2019</xref>), so they suggested the possibility to access the Toolbox directly from their smartphones to save time and to consult resources also when they are in fields. Contents should be clear, easy to find and tailored to each farm context, describing only the essential and providing recommendations. Information and resources should require minimal clicks to be found in the site, with contents divided into topics and expressed in the simplest way possible, especially if they are about technical aspects. Moreover, stakeholders would like to find easily links to other existing platforms and to have the possibility to read scientific articles about the main topics. Users that have access to scientifical papers, researchers&#x2019; results, or participate to events, are more likely to adopt IPM strategies (
+                    <xref ref-type="bibr" rid="ref-20">McNamara 
+                        <italic toggle="yes">et al.,</italic> 1991</xref>), but most of time scientifical results, articles or congress are not open to farmers, advisors etc. (
+                    <xref ref-type="bibr" rid="ref-14">Hoffmann 
+                        <italic toggle="yes">et al.,</italic> 2007</xref>). Considering the technical contents, final users suggested that they should cover a wider range of pests, diseases and beneficial organisms and they should follow the ongoing of the season, because farmers normally face much more issues compared to what is present in the platforms. Farmers need practical information, in fact toolbox should express technical content in a simple way, targeted to implementation, and minimizing theorical contents. If resources are context specific, as related to a region, a variety, or a soil type, it should be clarified.</p>
+                <p>Most users were interested in the current and future European projects, and they would like to receive news about these. Particularly, H2020 DiverIMPACTS project is developing a Toolbox to find the most relevant resources for users, according to their need, and to encourage the diversification in the agricultural sector for both technical aspects and sector development. Finally, about 96% of respondents were interested in finding out more about IPMworks online IPM Resources Toolbox, confirming the great attention that agricultural stakeholders deserve to research and innovation, especially in the last years (
+                    <xref ref-type="bibr" rid="ref-14">Hoffmann 
+                        <italic toggle="yes">et al.,</italic> 2007</xref>).</p>
+                <p>The Toolbox was developed following the information collected during the abovementioned survey, following users&#x2019; suggestions and feedbacks. The 
+                    <ext-link ext-link-type="uri" xlink:href="https://ipmworks.net/toolbox/#/">IPM Resource Toolbox homepage</ext-link> (
+                    <xref ref-type="fig" rid="f7">Figure 7</xref>) was developed in an easy and clear way to allow search of resources, selecting one or more attributes from the following list: sector of interest, country of origin, project, resource type, specific crop or pest, and language. No login requirement was planned: on the contrary, the available resources are highlighted, and users can search them freely.</p>
+                <fig fig-type="figure" id="f7" orientation="portrait" position="float">
+                    <label>Figure 7. </label>
+                    <caption>
+                        <title>IPM resource Toolbox homepage.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16328/83bea896-521d-4211-9f63-6926fee820ad_figure7.gif"/>
+                </fig>
+                <p>New resources can be added to the toolbox for free by the &#x201c;add resource&#x201d; tab (
+                    <xref ref-type="fig" rid="f7">Figure 7</xref>), filling in a short form with the required information, such as a description of the resource characteristics, the sector which the resource is referred to, the country of origin, relevant pests and crops, the resource type, the project title and, if it&#x2019;s an European project, the grant number, and the language. The toolbox also gives the possibility to upload images and other resources, and to add further information as a link to the original website, DOI, institutional contacts, email, etc. All the uploaded information must be approved by a team member before being available for public.</p>
+                <p>Once the resource of interest is found, users can click and see more details about the topic. An example is reported in 
+                    <xref ref-type="fig" rid="f8">Figure 8</xref>, where user can see the title of the topic, the resource origin, the producer with a contact to eventually ask for more information or clarification, a short summary of the resource, also indicating the sector to which is referred and a link to additional materials to deepen users understanding about the topic.</p>
+                <fig fig-type="figure" id="f8" orientation="portrait" position="float">
+                    <label>Figure 8. </label>
+                    <caption>
+                        <title>An example of available resource on the IPM resource Toolbox.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16328/83bea896-521d-4211-9f63-6926fee820ad_figure8.gif"/>
+                </fig>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>Target users expect the Toolbox to provide quick access to descriptions of IPM resources, and associated training on how to implement those resources. They want the information to be easily accessible, but also be able to see further details wherever available. Users indicated a preference for image-based content, but other formats were all acceptable. Survey was the starting point to understand better what stakeholders need, to create a useful Toolbox, designed for users. The toolbox will be an important tool for spread the adoption of IPM principles across Europe.</p>
+            <p>The toolbox enables stakeholders to both access existing resources, and share their own outputs, with peers from across Europe.</p>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>The research was conducted according to requirements of ethics and integrity in Article 14 of the Model Grant Agreement of Horizon Europe. The research activity was complied with the ethics provisions set out in the Grant Agreement, particularly: highest ethical standards and applicable European law.</p>
+            <p>No personal data were collected, all data collected were anonymous. Ethics approval and consent were not required for this study.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>INRAE: IPMWorks H2020 No. 101000339 &#x2013; IPM Resource Toolbox Survey raw data.</p>
+                <p>
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15454/MGHARY">https://doi.org/10.15454/MGHARY</ext-link> (
+                    <xref ref-type="bibr" rid="ref-22">Ramsden, 2022a</xref>).</p>
+                <p>This project contains the following underlying data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>IPMWorks H2020 No.101000339- IPM Resource Toolbox Survey raw data.tab (Note: this brief report is based exclusively on answers related to the survey (however, the questionnaire contains several questions whose answers were not included in this study)</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Extended data</title>
+                <p>INRAE: IPMWorks H2020 No. 101000339 &#x2013; IPM Resource Toolbox Survey Questionnaire. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15454/7YD5VL">https://doi.org/10.15454/7YD5VL</ext-link> (
+                    <xref ref-type="bibr" rid="ref-23">Ramsden, 2022b</xref>).</p>
+                <p>This project contains the following extended data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>IPM Resource Toolbox Survey.pdf</p>
+                    </list-item>
+                </list>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero "No rights reserved" data waiver</ext-link> (CC0 1.0 Public domain dedication).</p>
+            </sec>
+        </sec>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>Authors would like to thank all those who shared and answered the online questionnaire.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ali</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ullah</surname>
+                            <given-names>MI</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sajjad</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Environmental and health effects of pesticide residues.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sustainable Agriculture Reviews.</italic>
+               </source>Springer, Cham,<year>2021</year>;<volume>48</volume>:<fpage>311</fpage>&#x2013;<lpage>336</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-030-54719-6_8</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Barzman</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>B&#x00e0;rberi</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Birch</surname>
+                            <given-names>ANE</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Eight principles of integrated pest management.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Agron Sustain Dev.</italic>
+               </source>
+               <year>2015</year>;<volume>35</volume>(<issue>4</issue>):<fpage>1199</fpage>&#x2013;<lpage>1215</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s13593-015-0327-9</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Barzman</surname>
+                            <given-names>MS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bertschinger</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dachbrodt-Saaydeh</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Integrated Pest Management policy, research and implementation: European initiatives.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Integr Pest Manag.</italic>
+               </source>
+               <year>2014</year>;<volume>4</volume>:<fpage>415</fpage>&#x2013;<lpage>428</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-94-007-7802-3_17</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Burbi</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rose</surname>
+                            <given-names>KH</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The role of Internet and social media in the diffusion of knowledge and innovation among farmers.</article-title>In
+                    <source>
+
+                        <italic toggle="yes">Proceedings of the 12th European IFSA Symposium.</italic>
+               </source>Newport, UK,<year>2016</year>.
+                    <pub-id pub-id-type="doi">10.13140/RG.2.1.4290.4567</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cameron</surname>
+                            <given-names>PJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Factors influencing the development of integrated pest management (IPM) in selected vegetable crops: A review.</article-title>
+                    <source>
+
+                        <italic toggle="yes">N Z J Crop Hortic Sci.</italic>
+               </source>
+               <year>2010</year>;<volume>35</volume>(<issue>3</issue>):<fpage>365</fpage>&#x2013;<lpage>384</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/01140670709510203</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Dara</surname>
+                            <given-names>SK</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The New Integrated Pest Management Paradigm for the Modern Age.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Integr Pest Manag.</italic>
+               </source>
+               <year>2019</year>;<volume>10</volume>(<issue>1</issue>):<fpage>12</fpage>.
+                    <pub-id pub-id-type="doi">10.1093/jipm/pmz010</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <collab>European Commission: </collab>
+                    <article-title>Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides</article-title>.
+                    <source>
+
+                        <italic toggle="yes">Official Journal of the European Union.</italic>
+               </source>
+               <year>2009</year>;<volume>309</volume>:<fpage>71</fpage>&#x2013;<lpage>86</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:309:0071:0086:en:PDF">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ehler</surname>
+                            <given-names>LE</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Integrated pest management (IPM): definition, historical development and implementation, and the other IPM.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Pest Manag Sci.</italic>
+               </source>
+               <year>2006</year>;<volume>62</volume>(<issue>9</issue>):<fpage>787</fpage>&#x2013;<lpage>789</lpage>.
+                    <pub-id pub-id-type="pmid">16786545</pub-id>
+                    <pub-id pub-id-type="doi">10.1002/ps.1247</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gent</surname>
+                            <given-names>DH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>De Wolf</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pethybridge</surname>
+                            <given-names>SJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Perceptions of Risk, Risk Aversion, and Barriers to Adoption of Decision Support Systems and IPM Perceptions of Risk, Risk Aversion, and Barriers to Adoption of Decision Support Systems and Integrated Pest Management: An Introduction.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Phytopathology.</italic>
+               </source>
+               <year>2011</year>;<volume>101</volume>(<issue>6</issue>):<fpage>640</fpage>&#x2013;<lpage>3</lpage>.
+                    <pub-id pub-id-type="pmid">21117876</pub-id>
+                    <pub-id pub-id-type="doi">10.1094/PHYTO-04-10-0124</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Grasswitz</surname>
+                            <given-names>TR</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Integrated Pest Management (IPM) for Small-Scale Farms in Developed Economies: Challenges and Opportunities.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Insects.</italic>
+               </source>
+               <year>2019</year>;<volume>10</volume>(<issue>6</issue>):<fpage>179</fpage>.
+                    <pub-id pub-id-type="pmid">31234382</pub-id>
+                    <pub-id pub-id-type="doi">10.3390/insects10060179</pub-id>
+                    <pub-id pub-id-type="pmcid">6628405</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hashemi</surname>
+                            <given-names>SM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Damalas</surname>
+                            <given-names>CA</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Farmers' perceptions of pesticide efficacy: Reflections on the importance of pest management practices adoption.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sustain Agric.</italic>
+               </source>
+               <year>2011</year>;<volume>35</volume>(<issue>1</issue>):<fpage>69</fpage>&#x2013;<lpage>85</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/10440046.2011.530511</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hillocks</surname>
+                            <given-names>RJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Farming with fewer pesticides: EU pesticide review and resulting challenges for UK agriculture.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Crop Prot.</italic>
+               </source>
+               <year>2012</year>;<volume>31</volume>(<issue>1</issue>):<fpage>85</fpage>&#x2013;<lpage>93</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.cropro.2011.08.008</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hillocks</surname>
+                            <given-names>RJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cooper</surname>
+                            <given-names>JE</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Integrated Pest Management - Can it Contribute to Sustainable Food Production in Europe with Less Reliance on Conventional Pesticides?</article-title>
+                    <source>
+
+                        <italic toggle="yes">Outlook Agric.</italic>
+               </source>
+               <year>2012</year>;<volume>41</volume>(<issue>4</issue>):<fpage>237</fpage>&#x2013;<lpage>242</lpage>.
+                    <pub-id pub-id-type="doi">10.5367/oa.2012.0107</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hoffmann</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Probst</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Christinck</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Farmers and researchers: How can collaborative advantages be created in participatory research and technology development?</article-title>
+                    <source>
+
+                        <italic toggle="yes">Agric Hum Values.</italic>
+               </source>
+               <year>2007</year>;<volume>24</volume>(<issue>3</issue>):<fpage>355</fpage>&#x2013;<lpage>368</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s10460-007-9072-2</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lamichhane</surname>
+                            <given-names>JR</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Pesticide use and risk reduction in European farming systems with IPM: An introduction to the special issue.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Crop Prot.</italic>
+               </source>
+               <year>2017</year>;<volume>97</volume>:<fpage>1</fpage>&#x2013;<lpage>6</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.cropro.2017.01.017</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lamichhane</surname>
+                            <given-names>JR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Akbas</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Andreasen</surname>
+                            <given-names>CB</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>A call for stakeholders to boost integrated pest management in Europe: a vision based on the three-year European research area network project.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Pest Manag.</italic>
+               </source>
+               <year>2018</year>;<volume>64</volume>(<issue>4</issue>):<fpage>352</fpage>&#x2013;<lpage>358</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/09670874.2018.1435924</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lamichhane</surname>
+                            <given-names>JR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Aubertot</surname>
+                            <given-names>JN</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Begg</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Networking of integrated pest management: A powerful approach to address common challenges in agriculture.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Crop Prot.</italic>
+               </source>
+               <year>2016a</year>;<volume>89</volume>:<fpage>139</fpage>&#x2013;<lpage>151</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.cropro.2016.07.011</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lamichhane</surname>
+                            <given-names>JR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dachbrodt-Saaydeh</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kudsk</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Toward a Reduced Reliance on Conventional Pesticides in European Agriculture.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Plant Dis.</italic>
+               </source>
+               <year>2016b</year>;<volume>100</volume>(<issue>1</issue>):<fpage>10</fpage>&#x2013;<lpage>24</lpage>.
+                    <pub-id pub-id-type="pmid">30688570</pub-id>
+                    <pub-id pub-id-type="doi">10.1094/PDIS-05-15-0574-FE</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lefebvre</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Langrell</surname>
+                            <given-names>SRH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gomez-Y-Paloma</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Incentives and policies for integrated pest management in Europe: a review.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Agron Sustain Dev.</italic>
+               </source>Springer Verlag/EDP Sciences/INRA:<year>2015</year>;<volume>35</volume>:<fpage>27</fpage>&#x2013;<lpage>45</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s13593-014-0237-2</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>McNamara</surname>
+                            <given-names>KT</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wetzstein</surname>
+                            <given-names>ME</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Douce</surname>
+                            <given-names>GK</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Factors Affecting Peanut Producer Adoption of Integrated Pest Management.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Appl Econ Perspect Policy.</italic>
+               </source>
+               <year>1991</year>;<volume>13</volume>(<issue>1</issue>):<fpage>129</fpage>&#x2013;<lpage>139</lpage>.
+                    <pub-id pub-id-type="doi">10.2307/1349563</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Parsa</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Morse</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bonifacio</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Obstacles to integrated pest management adoption in developing countries.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Proc Natl Acad Sci U S A.</italic>
+               </source>
+               <year>2014</year>;<volume>111</volume>(<issue>10</issue>):<fpage>3889</fpage>&#x2013;<lpage>3894</lpage>.
+                    <pub-id pub-id-type="pmid">24567400</pub-id>
+                    <pub-id pub-id-type="doi">10.1073/pnas.1312693111</pub-id>
+                    <pub-id pub-id-type="pmcid">3956194</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ramsden</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>IPMWorks H2020 No. 101000339 - IPM Resource Toolbox Survey raw data.</data-title>[Dataset]. Portail Data INRAE, V3, UNF:6:fqA7uNazl3PGefIP/uyDYQ== [fileUNF],<year>2022a</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.15454/MGHARY">http://www.doi.org/10.15454/MGHARY</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ramsden</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>IPMWorks H2020 No. 101000339 - IPM Resource Toolbox Survey Questionnaire.</data-title>[Dataset]. Portail Data INRAE, V1,<year>2022b</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.15454/7YD5VL">http://www.doi.org/10.15454/7YD5VL</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rezaei</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Safa</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Damalas</surname>
+                            <given-names>CA</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Drivers of farmers' intention to use integrated pest management: Integrating theory of planned behavior and norm activation model.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Environ Manage.</italic>
+               </source>
+               <year>2019</year>;<volume>236</volume>:<fpage>328</fpage>&#x2013;<lpage>339</lpage>.
+                    <pub-id pub-id-type="pmid">30738304</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.jenvman.2019.01.097</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rossi</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Caffi</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Salinari</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Helping farmers face the increasing complexity of decision-making for crop protection.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Phytopathol Mediterr.</italic>
+               </source>
+               <year>2012</year>;<volume>51</volume>(<issue>3</issue>):<fpage>457</fpage>&#x2013;<lpage>479</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/267262102_Helping_farmers_face_the_increasing_complexity_of_decision-making_for_crop_protection">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rossi</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sperandio</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Caffi</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Critical success factors for the adoption of decision tools in IPM.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Agronomy.</italic>
+               </source>
+               <year>2019</year>;<volume>9</volume>(<issue>11</issue>):<fpage>710</fpage>.
+                    <pub-id pub-id-type="doi">10.3390/agronomy9110710</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Stenberg</surname>
+                            <given-names>JA</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A Conceptual Framework for Integrated Pest Management.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Trends Plant Sci.</italic>
+               </source>
+               <year>2017</year>;<volume>22</volume>(<issue>9</issue>):<fpage>759</fpage>&#x2013;<lpage>769</lpage>.
+                    <pub-id pub-id-type="pmid">28687452</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.tplants.2017.06.010</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>van den Berg</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Jiggins</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Investing in Farmers&#x2014;The Impacts of Farmer Field Schools in Relation to Integrated Pest Management.</article-title>
+                    <source>
+
+                        <italic toggle="yes">World Dev.</italic>
+               </source>
+               <year>2007</year>;<volume>35</volume>(<issue>4</issue>):<fpage>663</fpage>&#x2013;<lpage>686</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.worlddev.2006.05.004</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Way</surname>
+                            <given-names>MJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>van Emden</surname>
+                            <given-names>HF</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Integrated pest management in practice - Pathways towards successful application.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Crop Prot.</italic>
+               </source>
+               <year>2000</year>;<volume>19</volume>(<issue>2</issue>):<fpage>81</fpage>&#x2013;<lpage>103</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/S0261-2194(99)00098-8</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report30130">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16328.r30130</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Gil</surname>
+                        <given-names>Emilio</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30130a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Salcedo</surname>
+                        <given-names>Ramon</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30130a1">1</xref>
+                    <role>Co-referee</role>
+                </contrib>
+                <aff id="r30130a1">
+                    <label>1</label>Unit of Agricultural Machinery Research, Department of Agri Food Engineering and Biotechnology, Universitat Polit&#x00e8;cnica de Catalunya, Barcelona, Spain</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>6</day>
+                <month>10</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Gil E and Salcedo R</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport30130"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14679.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>I made a review on the new version of the manuscript. From my side everything is OK and ready to be indexed.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Partly</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Full professor in Ag Engineering, focused in spray application technology and aspects related with environmental contamination</p>
+            <p>We confirm that we have read this submission and believe that we have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report30131">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16328.r30131</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Travlos</surname>
+                        <given-names>Ilias</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30131a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-7713-0204</uri>
+                </contrib>
+                <aff id="r30131a1">
+                    <label>1</label>Laboratory of Agronomy, Department of Crop Science, Agricultural University of Athens, Athens, Greece</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>23</day>
+                <month>9</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Travlos I</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport30131"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14679.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>Authors have addressed the vast majority if the raised issues and consequently their paper can be accepted for indexing.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Associate Professor of Agronomy &amp; Weed Science</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report29681">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15856.r29681</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Travlos</surname>
+                        <given-names>Ilias</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r29681a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-7713-0204</uri>
+                </contrib>
+                <aff id="r29681a1">
+                    <label>1</label>Laboratory of Agronomy, Department of Crop Science, Agricultural University of Athens, Athens, Greece</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>19</day>
+                <month>8</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Travlos I</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport29681"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14679.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>In general, the study is a comprehensive overview of the outcomes and activities within the IPMWorks H2020 project. The overall approach and the general concept are quite interesting and helpful towards the wider adoption of integrated pest management and the challenges. The quality is clearly very good.</p>
+            <p> </p>
+            <p> Some minor comments can be found below in order to further improve the quality of the manuscript and avoid confusion: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>In the abstract and introduction, it would have been nice to provide the number of stakeholders.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Furthermore, the role of pesticides as an important part of IPM should be also mentioned in order to highlight the importance of their sustainable use.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The eight principles of IPM could be also mentioned.</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the methodology section, it would be helpful to specify the number of questions per survey.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Furthermore, authors are encouraged to justify the number of the sample and to show that such a number (119 in total) can be adequate for some conclusions.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The quality of the figures is very good, with only a recommendation to increase their size.</p>
+                    </list-item>
+                    <list-item>
+                        <p>As a general comment, it could be said that the authors could further highlight the novelty of the project and platform and discuss both the differences revealed between the several categories of stakeholders and the potential utility of their overall approach and project.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Associate Professor of Agronomy &amp; Weed Science</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+        <sub-article article-type="response" id="comment3484-29681">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>furiosi</surname>
+                            <given-names>margherita</given-names>
+                        </name>
+                        <aff>Universit&#x00e0; Cattolica del Sacro Cuore, Italy</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>8</day>
+                    <month>9</month>
+               <year>2022</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>The Authors are extremely grateful to Reviewers who took time to read and comment our paper. We addressed mostly all the comments and suggestion both directly in the text and in the rebuttal letter below (our responses in 
+                    <italic>italics</italic>).</p>
+                <p> </p>
+                <p> 
+                    <bold>#Reviewer 2</bold> In general, the study is a comprehensive overview of the outcomes and activities within the IPMWorks H2020 project. The overall approach and the general concept are quite interesting and helpful towards the wider adoption of integrated pest management and the challenges. The quality is clearly very good.</p>
+                <p> </p>
+                <p> Some minor comments can be found below in order to further improve the quality of the manuscript and avoid confusion:</p>
+                <p> </p>
+                <p> In the abstract and introduction, it would have been nice to provide the number of stakeholders.</p>
+                <p> 
+                    <italic>Done.</italic>
+                </p>
+                <p> </p>
+                <p> Furthermore, the role of pesticides as an important part of IPM should be also mentioned in order to highlight the importance of their sustainable use.</p>
+                <p> 
+                    <italic>Done.</italic>
+                </p>
+                <p> </p>
+                <p> The eight principles of IPM could be also mentioned.</p>
+                <p> 
+                    <italic>Honestly, we believe that the link to the official EU website </italic>
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://food.ec.europa.eu/plants/pesticides/sustainable-use-pesticides/integrated-pest-management-ipm_en">
+                        <italic>https://food.ec.europa.eu/plants/pesticides/sustainable-use-pesticides/integrated-pest-management-ipm_en</italic>
+                    </ext-link>
+                    <italic> and the citations of three reference papers is quite enough to give a comprehensive explanation to the reader.</italic>
+                </p>
+                <p> </p>
+                <p> In the methodology section, it would be helpful to specify the number of questions per survey. 
+                    <italic>Done.</italic>
+                </p>
+                <p> </p>
+                <p> Furthermore, authors are encouraged to justify the number of the sample and to show that such a number (119 in total) can be adequate for some conclusions.</p>
+                <p> 
+                    <italic>Actually, the total number of respondents were 343. Unfortunately the EU projects have some clear and strict timeline and deadlines so it was not possible to wait longer so to increase the number of respondents.</italic>
+                </p>
+                <p> </p>
+                <p> The quality of the figures is very good, with only a recommendation to increase their size.</p>
+                <p> 
+                    <italic>We followed ORE requirements, by the way it is possible to download the figures both as ppt and pdf.</italic>
+                </p>
+            </body>
+        </sub-article>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report29640">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15856.r29640</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Gil</surname>
+                        <given-names>Emilio</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r29640a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Salcedo</surname>
+                        <given-names>Ramon</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r29640a1">1</xref>
+                    <role>Co-referee</role>
+                </contrib>
+                <aff id="r29640a1">
+                    <label>1</label>Unit of Agricultural Machinery Research, Department of Agri Food Engineering and Biotechnology, Universitat Polit&#x00e8;cnica de Catalunya, Barcelona, Spain</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>16</day>
+                <month>8</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Gil E and Salcedo R</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport29640"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14679.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The manuscript gives an overview of the excellent and useful work done within IPMWORKS EU project. The idea, objective and results seem really interesting and useful for the improvement of implementation of IPM all around Europe.</p>
+            <p> </p>
+            <p> 
+                <bold>Abstract:</bold> 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>What do you mean by &#x2018;internal and external stakeholders&#x2019;?</p>
+                    </list-item>
+                    <list-item>
+                        <p>The authors indicate twice in the abstract that the survey was conducted in "multiple languages." I suggest that once is enough. It may also be interesting to point out the number of European countries through which the survey has circulated.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Instead of saying "different stakeholders", I would say the number of stakeholders consulted.</p>
+                    </list-item>
+                </list> 
+                <bold>Introduction</bold> 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>IPM and its implementation became mandatory in EU since January 2014. So, theoretically, after 8 years of the entry in force, these practices should be already fully implemented all around Europe. Then, projects and actions as IPM Works and other mentioned in this article should not be needed. The problem is that, after 8 years of the mandatory success in EU of IPM has been very low. Authors should include some objective information about the results of conducted official audits of SUD implementation among EU members, and difficulties encountered on the implementation of IPM.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Additionally, even if the introduction chapter is adequate, it seems that the use of Plant Protection Products within IPM program has been forgotten by the authors. PPP and its adequate and safe use is one of the measures included in IPM and there is a large list of EU projects, some of them similar to IPM WORKS including developed freely accessible platforms, to help farmers in the complex process of PPP application. I suggest authors should at least include some of these important actions conducted already in Europe.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The problems mentioned ('resistance to agro-chemicals, reduction of natural enemies' and non-target organisms' population, and rise of chemical residues in final products') are absolutely true, but given the great efforts that are being made to reduce losses during pesticide applications, I suggest some additional comment in this regard (airborne spray drift, ground losses).</p>
+                    </list-item>
+                    <list-item>
+                        <p>"In Europe IPM became mandatory in 2014 (Directive 2009/128/EC)" I suggest linking this with the current European strategy "From Farm to Fork".</p>
+                    </list-item>
+                    <list-item>
+                        <p>"IPM is based on eight principles" - Could you summarize these 8 principles for us?</p>
+                    </list-item>
+                    <list-item>
+                        <p>I would say "Agricultural production inevitably becomes more complicated over time, as new innovations in plant breeding, machinery, application technology, and management systems require more time..."</p>
+                    </list-item>
+                    <list-item>
+                        <p>&#x201c;whether&#x201d;?</p>
+                    </list-item>
+                    <list-item>
+                        <p>"DSSs and other resources still have a limited uptake among farmers due to a range of actual and perceived barriers, such as farmers not being aware of what resources are available" I suggest adding that efforts are still being made from Europe to correct this, such as the H2020 Innoseta project or the BTSF courses of the European Commission.</p>
+                    </list-item>
+                    <list-item>
+                        <p>"Interactive" appears twice.</p>
+                    </list-item>
+                    <list-item>
+                        <p>What is the difference between 'training material' and 'resource evaluation material'?</p>
+                    </list-item>
+                </list> 
+                <bold>Methods</bold> 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The sentence &#x201c;Almost 90% of respondents were farmers, agronomist and researchers, minimizing the risk of bias&#x201d; is unclear. How is the risk minimized?</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the additional comments&#x2019; chapter, it has been written that &#x201c;being a platform available across Europe, contents should be expressed in user&#x2019;s native languages&#x201d;. Of course, this is obvious and there are already different platforms available in different languages.</p>
+                    </list-item>
+                    <list-item>
+                        <p>How did you translate the tool into several languages? Who helped you?</p>
+                    </list-item>
+                    <list-item>
+                        <p>Given that farmers are the end user of this application (119), may the authors say where the responses have mainly come from (the 3 countries with the most surveys)? This is important, given the degree of heterogeneity within European agriculture.</p>
+                    </list-item>
+                    <list-item>
+                        <p>How many questions were there in total per survey?</p>
+                    </list-item>
+                    <list-item>
+                        <p>"Microsoft Excel was used to manage data and to create graphs and tables" - and did the authors not use any other additional software to analyze the statistics of the data, such as R or SSPS?</p>
+                    </list-item>
+                </list> 
+                <italic>Table 1:&#x00a0;</italic> 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>119 answers from farmers, considering the participation of 17 countries, seems a very poor number and, consequently, difficult to extract conclusions about the opinion of EU farmers. It represents an average of 7 farmers/country. This value cannot be acceptable to extract conclusions. The same comment can be applied for the rest of stakeholder&#x2019;s groups.</p>
+                    </list-item>
+                    <list-item>
+                        <p>When the authors say "number of answers", do they mean the number of surveys? Or the number of questions answered?</p>
+                    </list-item>
+                </list> 
+                <bold>Results:</bold> 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>"Most of them expected it to be an interactive platform (40% of farmers and agronomists and 70% of researchers)" - That's almost double! Why do you think there is this difference?</p>
+                    </list-item>
+                    <list-item>
+                        <p>Figures 3-5. I don't quite appreciate how many different shades of blue there are. I have counted, if I am not mistaken, four. This is confusing to me, since the bars indicate the percentages of a survey that range from 1 to 5. I suggest a clearer bar system or at least include the blue scale from 1 to 5.</p>
+                    </list-item>
+                    <list-item>
+                        <p>I ask myself a question. Respondents indicated that they wanted a tool that above all else was simple, clear, in their native language, and with more images than text. However, this is already being implemented in most DSSs today. Why do these communication problems still occur between the latest advances in pesticide management and application and end users?</p>
+                    </list-item>
+                </list> In general, there is too much text on the importance of survey and very little explanation about the platform itself. How the material has been organized, how users can easily (or not) find the information, which kind of materials are available, and other important practical information expected when a tool box platform is presented. Survey represents just the starting point but, in this article, it seems the core of the project.</p>
+            <p> </p>
+            <p> Figure 7 is the only practical information of the platform and, unfortunately, due to its size, it is nearly impossible to read it. Also, the same comment is applied to Figure 8.</p>
+            <p> </p>
+            <p> In the conclusions it has been written: &#x201c;The toolbox will be an important tool for spread the adoption of IPM principles across Europe&#x201d;. Does it mean that platform is still under development? If it is already available, this sentence should be removed and, of course, a clear and direct link to the platform should be provided.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Partly</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Full professor in Ag Engineering, focused in spray application technology and aspects related with environmental contamination</p>
+            <p>We confirm that we have read this submission and believe that we have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however we have significant reservations, as outlined above.</p>
+        </body>
+        <sub-article article-type="response" id="comment3483-29640">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>furiosi</surname>
+                            <given-names>margherita</given-names>
+                        </name>
+                        <aff>Universit&#x00e0; Cattolica del Sacro Cuore, Italy</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>8</day>
+                    <month>9</month>
+               <year>2022</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>The Authors are extremely grateful to Reviewers who took time to read and comment our paper. We addressed mostly all the comments and suggestion both directly in the text and in the rebuttal letter below (our responses in 
+                    <italic>italics</italic>).</p>
+                <p> </p>
+                <p> 
+                    <bold>#Reviewer 1</bold> The manuscript gives an overview of the excellent and useful work done within IPMWORKS EU project. The idea, objective and results seem really interesting and useful for the improvement of implementation of IPM all around Europe.</p>
+                <p> </p>
+                <p> 
+                    <bold>Abstract</bold> What do you mean by &#x2018;internal and external stakeholders&#x2019;?</p>
+                <p> 
+                    <italic>We meant stakeholders both directly involved in IPMworks and not</italic>.&#x00a0;</p>
+                <p> </p>
+                <p> The authors indicate twice in the abstract that the survey was conducted in "multiple languages." I suggest that once is enough. It may also be interesting to point out the number of European countries through which the survey has circulated.</p>
+                <p> 
+                    <italic>The survey was conducted in four languages (English, French, Italian and Dutch): modified in the abstract. The Survey circulated across all Europe, but we got responses from 20 countries (see figure 1).</italic>
+                </p>
+                <p> </p>
+                <p> Instead of saying "different stakeholders", I would say the number of stakeholders consulted.</p>
+                <p> 
+                    <italic>The total number of respondents were 343, but not all of them were growers: we received replies also from researchers, agronomists, policy makers, and plant protection organizations &#x2026; for these reasons we believe that &#x201c;different stakeholders&#x201d; is better describing the different sources. In any case, we adjusted the abstract in order to be much clearer. Please see also table 1 for more details.</italic>
+                </p>
+                <p> </p>
+                <p> 
+                    <bold>Introduction</bold> IPM and its implementation became mandatory in EU since January 2014. So, theoretically, after 8 years of the entry in force, these practices should be already fully implemented all around Europe. Then, projects and actions as IPM Works and other mentioned in this article should not be needed. The problem is that, after 8 years of the mandatory success in EU of IPM has been very low. Authors should include some objective information about the results of conducted official audits of SUD implementation among EU members, and difficulties encountered on the implementation of IPM.</p>
+                <p> 
+                    <italic>Actually, the aim of the research project IPMworks and the toolbox developed is exactly about overpassing difficulties of application and spread of IPM techniques</italic>
+                </p>
+                <p> </p>
+                <p> &#x00a0;Additionally, even if the introduction chapter is adequate, it seems that the use of Plant Protection Products within IPM program has been forgotten by the authors. PPP and its adequate and safe use is one of the measures included in IPM and there is a large list of EU projects, some of them similar to IPM WORKS including developed freely accessible platforms, to help farmers in the complex process of PPP application. I suggest authors should at least include some of these important actions conducted already in Europe.&#x00a0;</p>
+                <p> 
+                    <italic>Added in the text.</italic>
+                </p>
+                <p> </p>
+                <p> The problems mentioned ('resistance to agro-chemicals, reduction of natural enemies' and non-target organisms' population, and rise of chemical residues in final products') are absolutely true, but given the great efforts that are being made to reduce losses during pesticide applications, I suggest some additional comment in this regard (airborne spray drift, ground losses).</p>
+                <p> 
+                    <italic>Added in the text.&#x00a0;</italic>
+                </p>
+                <p> </p>
+                <p> "In Europe IPM became mandatory in 2014 (Directive 2009/128/EC)" I suggest linking this with the current European strategy "From Farm to Fork".&#x00a0;</p>
+                <p> 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://food.ec.europa.eu/horizontal-topics/farm-fork-strategy_en">
+                        <italic>https://food.ec.europa.eu/horizontal-topics/farm-fork-strategy_en</italic>
+                    </ext-link>
+                    <italic> to be included in the modified text.</italic>
+                </p>
+                <p> </p>
+                <p> "IPM is based on eight principles" - Could you summarize these 8 principles for us?</p>
+                <p> 
+                    <italic>Honestly, we believe that the link to the official EU website </italic>
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://food.ec.europa.eu/plants/pesticides/sustainable-use-pesticides/integrated-pest-management-ipm_en">
+                        <italic>https://food.ec.europa.eu/plants/pesticides/sustainable-use-pesticides/integrated-pest-management-ipm_en</italic>
+                    </ext-link>
+                    <italic> and the citations of three reference papers is quite enough to give a comprehensive explanation to the reader.</italic>
+                </p>
+                <p> </p>
+                <p> I would say "Agricultural production inevitably becomes more complicated over time, as new innovations in plant breeding, machinery, application technology, and management systems require more time..."</p>
+                <p> 
+                    <italic>Yes, corrected in the text.</italic>
+                </p>
+                <p> </p>
+                <p> &#x201c;whether&#x201d;? Typo, sorry.</p>
+                <p> 
+                    <italic>Corrected in the text.</italic>
+                </p>
+                <p> </p>
+                <p> &#x00a0;"DSSs and other resources still have a limited uptake among farmers due to a range of actual and perceived barriers, such as farmers not being aware of what resources are available" I suggest adding that efforts are still being made from Europe to correct this, such as the H2020 Innoseta project or the BTSF courses of the European Commission.</p>
+                <p> 
+                    <italic>Added in the text.</italic>
+                </p>
+                <p> </p>
+                <p> "Interactive" appears twice. Corrected in the text What is the difference between 'training material' and 'resource evaluation material'?</p>
+                <p> 
+                    <italic>Clarified in the text.&#x00a0;</italic>
+                </p>
+                <p> </p>
+                <p> 
+                    <bold>Methods</bold> The sentence &#x201c;Almost 90% of respondents were farmers, agronomist and researchers, minimizing the risk of bias&#x201d; is unclear. How is the risk minimized?</p>
+                <p> 
+                    <italic>The idea was to avoid the creation of a top-down proposed platform: having 90% of answers from farmers made us confident of a bottom-up approach. Better clarified into the text.</italic>&#x00a0;</p>
+                <p> </p>
+                <p> In the additional comments&#x2019; chapter, it has been written that &#x201c;being a platform available across Europe, contents should be expressed in user&#x2019;s native languages&#x201d;. Of course, this is obvious and there are already different platforms available in different languages.</p>
+                <p> 
+                    <italic>We agree.</italic>
+                </p>
+                <p> </p>
+                <p> How did you translate the tool into several languages? Who helped you? In IPMworks we are 35 Partners from all across EU.&#x00a0;
+                    <italic>Everyone helped.</italic>
+                </p>
+                <p> </p>
+                <p> Given that farmers are the end user of this application (119), may the authors say where the responses have mainly come from (the 3 countries with the most surveys)? This is important, given the degree of heterogeneity within European agriculture.</p>
+                <p> 
+                    <italic>We think that Figure 1 is quite clear.</italic>
+                </p>
+                <p> </p>
+                <p> How many questions were there in total per survey?</p>
+                <p> 
+                    <italic>10 questions, some multiple choice and some using Likert scale.</italic>
+                </p>
+                <p> </p>
+                <p> "Microsoft Excel was used to manage data and to create graphs and tables" - and did the authors not use any other additional software to analyze the statistics of the data, such as R or SSPS?</p>
+                <p> 
+                    <italic>No.</italic>
+                </p>
+                <p> </p>
+                <p> 
+                    <italic>Table 1:&#x00a0;</italic>119 answers from farmers, considering the participation of 17 countries, seems a very poor number and, consequently, difficult to extract conclusions about the opinion of EU farmers. It represents an average of 7 farmers/country. This value cannot be acceptable to extract conclusions. The same comment can be applied for the rest of stakeholder&#x2019;s groups.</p>
+                <p> 
+                    <italic>We can agree with this comment: nevertheless, EU funded Projects have a quite clear timeline and deadlines thus it was not possible to wait longer for obtaining more feedbacks. Moreover, yes, it is true that the farmers are the final &#x201c;practical&#x201d; users but more than often they are part of a network with other stakeholders (researchers, agronomists, retail organisations etc.) so the number to use is 343.</italic>
+                </p>
+                <p> </p>
+                <p> When the authors say "number of answers", do they mean the number of surveys? Or the number of questions answered?</p>
+                <p> 
+                    <italic>The number of surveys completed: clarified in the table.&#x00a0;</italic>&#x00a0;</p>
+                <p> </p>
+                <p> 
+                    <bold>Results:</bold> "Most of them expected it to be an interactive platform (40% of farmers and agronomists and 70% of researchers)" - That's almost double! Why do you think there is this difference?</p>
+                <p> 
+                    <italic>Most probably a researcher is much more aware of what an interactive platform is and which type of advantages can provide.&#x00a0;</italic>
+                </p>
+                <p> </p>
+                <p> Figures 3-5. I don't quite appreciate how many different shades of blue there are. I have counted, if I am not mistaken, four. This is confusing to me, since the bars indicate the percentages of a survey that range from 1 to 5. I suggest a clearer bar system or at least include the blue scale from 1 to 5.</p>
+                <p> 
+                    <italic>The shades of blue are 5, unfortunately not all the five categories were always available (if no one scored &#x201c;1&#x201d; the darker colour is not present). A note has been added into the captions.&#x00a0;</italic>
+                </p>
+                <p> </p>
+                <p> I ask myself a question. Respondents indicated that they wanted a tool that above all else was simple, clear, in their native language, and with more images than text. However, this is already being implemented in most DSSs today. Why do these communication problems still occur between the latest advances in pesticide management and application and end users?
+                    <italic>We don&#x2019;t have a definitive answer (unfortunately), nevertheless, most probably, it is due to the lack of &#x201c;bridge&#x201d; between research/innovation and practical agriculture. We hope that IPMworks, as well as many other initiatives, could shorten this gap. In general, there is too much text on the importance of survey and very little explanation about the platform itself. How the material has been organized, how users can easily (or not) find the information, which kind of materials are available, and other important practical information expected when a tool box platform is presented. Survey represents just the starting point but, in this article, it seems the core of the project. </italic> 
+                    <italic>Actually, the platform is at the beginning of its life: it has been just structured and developed and it will be launched in October. In fact, this paper is about the development of the toolbox.</italic>
+                </p>
+                <p> </p>
+                <p> Figure 7 is the only practical information of the platform and, unfortunately, due to its size, it is nearly impossible to read it. Also, the same comment is applied to Figure 8.</p>
+                <p> 
+                    <italic>As previously commented, this is just a &#x201c;preview&#x201d; of the toolbox. Nevertheless, due to ORE requirements the screenshots are at the maximum possible quality. If you download the pdf of the paper the shape is better. Sorry for that.</italic>
+                </p>
+                <p> In the conclusions it has been written: &#x201c;The toolbox will be an important tool for spread the adoption of IPM principles across Europe&#x201d;. Does it mean that platform is still under development? If it is already available, this sentence should be removed and, of course, a clear and direct link to the platform should be provided.</p>
+                <p> 
+                    <italic>Yes, the platform is under development and will be released according EC in October 2022. After the official launch (and if the Editorial Board of ORE agrees) we can add the running link for the Toolbox.</italic>
+                </p>
+            </body>
+        </sub-article>
+    </sub-article>
+</article>

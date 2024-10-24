@@ -1,0 +1,2213 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="methods-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.13700.3</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Method Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Assessing the generalisability of a multicentre qualitative dementia research: the experience and challenges faced by the MinD project in Europe</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 3; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Lim</surname>
+                        <given-names>Jennifer N.W.</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-7696-949X</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Niedderer</surname>
+                        <given-names>Kristina</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Tournier</surname>
+                        <given-names>Isabelle</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Almeida</surname>
+                        <given-names>Rosa</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3721-7214</uri>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Harrison</surname>
+                        <given-names>Dew</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-4002-0113</uri>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Holthoff-Detto</surname>
+                        <given-names>Vjera</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                    <xref ref-type="aff" rid="a6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Ludden</surname>
+                        <given-names>Geke</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>van Rompay</surname>
+                        <given-names>Thomas</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>van der Voort</surname>
+                        <given-names>Mascha</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-4800-7557</uri>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Galansinska</surname>
+                        <given-names>Aleksandra</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Smith</surname>
+                        <given-names>Tina</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-8517-9921</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Lasada</surname>
+                        <given-names>Raquel L.</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-1697-7655</uri>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Bueno</surname>
+                        <given-names>Yolanda A.</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Druschke</surname>
+                        <given-names>Diana</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <xref ref-type="aff" rid="a6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Ziebuhr</surname>
+                        <given-names>Berit</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-8563-1797</uri>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Zanasi</surname>
+                        <given-names>Michele</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Faculty of Education, Health and Wellbeing, University of Wolverhampton, Wolverhampton, WV1 1LY, UK</aff>
+                <aff id="a2">
+                    <label>2</label>Manchester School of Art, Manchester Metropolitan University, Manchester, UK</aff>
+                <aff id="a3">
+                    <label>3</label>INTRAS, Valladolid, Spain</aff>
+                <aff id="a4">
+                    <label>4</label>Faculty of Arts, Business and Social Sciences, University of Wolverhampton, Wolverhampton, UK</aff>
+                <aff id="a5">
+                    <label>5</label>Alexianer Krankenhaus Hedwigshoehe, St. Hedwig Kliniken, Berlin, Germany</aff>
+                <aff id="a6">
+                    <label>6</label>University Hospital Carl Gustav Carus and Carl Gustav Carus Faculty of Medicine, Technical University of Dresden, Dresden, Germany</aff>
+                <aff id="a7">
+                    <label>7</label>Department of Design, Production and Management &amp; Department of Communication Science, University of Twente, Enschede, The Netherlands</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:jennifernw.lim@wlv.ac.uk">jennifernw.lim@wlv.ac.uk</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>10</day>
+                <month>11</month>
+            <year>2021</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2021</year>
+            </pub-date>
+         <volume>1</volume>
+            <elocation-id>64</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>9</day>
+                    <month>11</month>
+               <year>2021</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Lim JNW et al.</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/1-64/pdf"/>
+            <abstract>
+                <p>
+                    <bold>Background</bold>: Generalisation of findings is an important aspect of research and essential for evidence-based practice. While generalisation is common in quantitative research, there is a lack of generalisability in qualitative research. This paper presents the experience and challenges faced by the Designing for People with Dementia (MinD) project in meeting the requirements to strengthen the generalisation of findings on the lived experience of people living with dementia and their engagement to co-create designs to empower their everyday living.</p>
+                <p>
+                    <bold>Methods</bold>: Polit and Beck (2010)&#x2019;s strategies to generalise qualitative findings were applied: (1) replication in sampling; (2) replication of studies; (3) meta-synthesis of findings; (4) reflexivity and conceptualization; (5) immersion with the data; and (6) thick description.</p>
+                <p>
+                    <bold>Results</bold>: While it is possible to increase the generabilisabilty of qualitative evidence through the replication of the sampling to attain a large, heterogeneous sample in different and multiple contexts and environments; implementation of sound and robust research; conducting in-depth analysis and interpretation collaboratively for emergent themes; and meeting the thick description requirement, there are challenges that the project team faced in implementing some of the Polit and Beck&#x2019;s strategies because of the condition, namely dementia, that our participants are having. Other challenges faced were: the language and cultural diversity in the team; diverse work and organisational procedures; and the inter-disciplinary differences relating to the methods of enquiry, approaches and techniques to conduct research. These challenges will need to be identified and addressed at the start of the project with a strong leadership to ensure a seamless journey to complete the project successfully. Trust between the researchers and participants, and time to build this trust are critical to recruitment and participation in the study; these factors are of utmost important in research involving participants with condition such as dementia.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>People living with dementia</kwd>
+                <kwd>generalisation</kwd>
+                <kwd>multicentre design</kwd>
+                <kwd>interdisciplinary</kwd>
+                <kwd>qualitative study</kwd>
+                <kwd>cross-cultural</kwd>
+                <kwd>Europe</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>691001</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the Marie Sk&#x0142;odowska-Curie grant agreement No 691001 (Designing for People with Dementia' [MinD]). This document reflects only the author's view and the Research Executive Agency is not responsible for any use that may be made of the information it contains. The funding body had no influence on study design; data collection and analysis, writing the article and in the decision to submit the article for publication.</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+        <notes>
+            <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 2</title>
+                <p>We have corrected one grammatical error in para 7, line 7in the Introduction section: &#x201c;strengthened&#x201d; changed to &#x201c;strengthen&#x201d;, and addressed the duplication of wordings in para 3 and 4 in the Introduction section on validity and reliability as commented by the reviewer.</p>
+            </sec>
+        </notes>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>This paper describes the use of the multi-centre design by a group of researchers - with different expertise from different discipline of study - to apply the six strategies proposed by Polit and Beck to strengthen the generalisability of their research findings in the population living with mild to moderate dementia in Europe. The authors also presented the challenges they faced in their attempts to generalise their findings. They concluded that it is possible to make claim for generalisation of findings in qualitative research which involved a unique population group namely people living with dementia.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>Generalisation of findings is an important aspect of research and essential for evidence-based practice. To be useful, research findings have to have some relevance for other settings and people outside of the context studied
+                <italic toggle="yes">.</italic> Generalisable results are used to inform and shape policy making, and the design and development of interventions to enable wider application, e.g. in other settings or population groups. The ability to generalise is a key criterion for quantitative research, and it is also important for qualitative research
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>&#x2013;
+                    <xref ref-type="bibr" rid="ref-3">3</xref>
+                </sup>. </p>
+            <p>Transferability of findings across settings is common in qualitative research but generalisation remains an issue that has been widely discussed. However, the general consensus among researchers is that generalisation should be a legitimate concern for qualitative researchers and that they should engage with the generalisability of their results
+                <sup>
+                    <xref ref-type="bibr" rid="ref-4">4</xref>&#x2013;
+                    <xref ref-type="bibr" rid="ref-10">10</xref>
+                </sup>. Ignoring generalisation in qualitative research can prevail the assumption that this method is limited by the lack of its ability to generalise; leading to it not being taken seriously in decision-making
+                <sup>
+                    <xref ref-type="bibr" rid="ref-11">11</xref>
+                </sup>.</p>
+            <p>Firestone (1993) described three models that are used to make claims for the generalisation of research findings: (1) extrapolation from sample to population; (2) extrapolation using a theory; and (3) case-to-case translation. Respectively, these models are better known as: (1) statistical, also known as naturalistic and representational generalisation; (2) theoretical or analytic generalisation; and (3) inferential generalisation
+                <sup>
+                    <xref ref-type="bibr" rid="ref-12">12</xref>
+                </sup>. The statistical generalisation model is applied in quantitative research while naturalistic and representational generalisation are amenable for qualitative research. Naturalistic and representational generalisation can be reached on the basis of recognition of similarities and differences between two groups or cases. Inferential generalisation, also referred to as 
+                <italic toggle="yes">transferability</italic>
+                <sup>
+                    <xref ref-type="bibr" rid="ref-13">13</xref>
+                </sup> or 
+                <italic toggle="yes">case to case</italic> generalisation
+                <sup>
+                    <xref ref-type="bibr" rid="ref-14">14</xref>
+                </sup>, is about the extent to which the results are transferable to other settings. To judge the generalisability of research findings, researchers have to provide the evidence for their claims that readers need to critically assess for quality and usability of the research
+                <sup>
+                    <xref ref-type="bibr" rid="ref-15">15</xref>
+                </sup>. This evidence includes the methodological and scientific rigour of the research as well as the research context and process.</p>
+            <p>Apart from the requirement of evidence, also known as thick description or rich data in qualitative research, generalisability of research is also dependent on whether the research was conducted in a sound and robust manner, i.e. meeting two standards - validity and reliability. In general, validity is an indication of the soundness of a research study and is determined by the design and the methods employed to conduct the research; whereas reliability is about the consistency of the methods used, and whether the study is replicable to produce the same results. In qualitative research, other terms are used interchangeably to describe validity and reliability. For validity, researchers have used quality&#x2019;,&#x2019; rigour&#x2019;, &#x2018;well-grounded&#x2019; and &#x2018;trustworthiness&#x2019;; and for reliability, &#x2018;credibility&#x2019;, &#x2018;neutrality&#x2019;, &#x2018;confirmability&#x2019;, &#x2018;consistency&#x2019; &#x2018;dependability&#x2019;, &#x2018;sustainable&#x2019;, &#x2018;applicability &#x2018; and &#x2018;transferability&#x2019;
+                <sup>
+                    <xref ref-type="bibr" rid="ref-15">15</xref>&#x2013;
+                    <xref ref-type="bibr" rid="ref-18">18</xref>
+                </sup>. The discussion of the different terms and the rigour in which a qualitative study is conducted is essential to ensure the credibility of findings and strategies to reach it are matter of ongoing discussion
+                <sup>
+                    <xref ref-type="bibr" rid="ref-19">19</xref>
+                </sup>. A sound and robust study will strengthen the claims for generalisation.</p>
+            <p>Numerous strategies have been recommended to strengthen the generalisability of qualitative research findings. Polit and Beck
+                <sup>
+                    <xref ref-type="bibr" rid="ref-20">20</xref>
+                </sup> suggested six steps to meet both the validity and reliability standards of research: (1) replication in sampling, using techniques such as purposive sampling and maximum variation sampling to increase heterogeneity in the samples and achieve data saturation in a large sample; (2) replication of studies to confirm the findings (concepts, relationships, patterns and successful interventions) in multiple contexts and times, and with different types of people, as this will strengthen the confidence in the validity and application of the evidence; (3) meta-synthesis of findings about a phenomenon from multiple qualitative studies and techniques; (4) reflexivity and conceptualisation by the researcher about the consequences of applying the findings to the new context; (5) immersion with the data; and (6) thick description. Lewis and Ritchie
+                <sup>
+                    <xref ref-type="bibr" rid="ref-15">15</xref>
+                </sup> also focused on meeting the research standards; they provided a list of questions about the study design, methods, and the congruence between the sending and receiving contexts involved in the generalisation, and emphasised the need for thick description of the study. Gheondea-Eladi
+                <sup>
+                    <xref ref-type="bibr" rid="ref-21">21</xref>
+                </sup> showed that qualitative research is generalisable when the appropriate sampling, coding and data analysis methods are employed.</p>
+            <p>The strategies proposed by Polit and Beck
+                <sup>
+                    <xref ref-type="bibr" rid="ref-20">20</xref>
+                </sup> are theoretically valid and should guide every research, however, in practice these steps may be more complex. This paper reviews the experience and challenges faced by the MinD project
+                <sup>
+                    <xref ref-type="bibr" rid="ref-22">22</xref>
+                </sup> in meeting Polit and Beck&#x2019;s requirements to deliver the generalisation of its findings, and to reflect on the application of Polit and Beck&#x2019;s six steps in practice.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <sec>
+                <title>Ethical approvals</title>
+                <p>Ethics approval for the study was obtained by each of the partners in line with national and European regulations and requirements: UK: University of Wolverhampton and Manchester Metropolitan University ethics boards, ethics reference no. 2018/19:18 (UW) and Ethos 5521 (MMU); Germany: Krankenshaus Hedwigsh&#x00f6;he ethics reference no. Eth-30/16; The Netherlands: University of Twente, ethics reference no. BFD-BMS/2016-JR; Spain: INTRAS: Reference letter 26/01/2016.</p>
+            </sec>
+            <sec>
+                <title>Qualitative dementia research: Designing for People with Dementia project (MinD)</title>
+                <p>Qualitative studies provide an insight into the lived experience of people with dementia (PwD) as well as demonstrating that PwD can participate in research
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-23">23</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-28">28</xref>
+                    </sup>. These studies tend to use small sample sizes and often lack the rich details for readers to judge the quality of research and the extent to which their findings are generalisable. A number of meta-synthesis reporting the lived experience of people with dementia are available, but these reviews did not provide sufficient contextual information required by readers to critically assess and decide on their application and generalisation
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-26">26</xref>,
+                        <xref ref-type="bibr" rid="ref-29">29</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-31">31</xref>
+                    </sup>. A preliminary search revealed that there is not yet a multicentre qualitative study exploring the lived experience and needs of PwD. The project 
+                    <italic toggle="yes">Designing for People with Dementia: Designing for mindful self-empowerment and social engagement</italic> - abbreviated as MinD - fulfilled this gap in research by implementing a multi-national and interdisciplinary qualitative study engaging people with mild to moderate dementia (PwD) through a co-creation approach in developing designs appropriate to their needs, wants and preferences. </p>
+                <p>Funded by the European Union&#x2019;s Horizon 2020 MSCA RISE programme, the MinD project, a 4-year project (March 2016 &#x2013; February 2020), aimed to help PwD engage in social contexts to improve and maintain their psychosocial wellbeing through design and mindfulness
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>
+                    </sup>. It was based on the observation that social engagement is rarely addressed by psychosocial and design interventions, whereas social contact and enjoyment of activities appear as key aspects of the unmet needs for people living with dementia
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-33">33</xref>,
+                        <xref ref-type="bibr" rid="ref-34">34</xref>
+                    </sup>. The choice of a qualitative approach for the MinD project was justified by two mains aspects: a) the need for rich and contextualised data regarding social participation needs and issues encountered by PwD, and b) data collection format adapted to the co-design and co-production approach deployed throughout the project to identify needs and design solutions to better manage dementia in everyday living. The COREQ guideline was applied to deliver a rigorous study throughout the project
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-35">35</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-37">37</xref>
+                    </sup>.</p>
+            </sec>
+            <sec>
+                <title>A multicentre design and interdisciplinary approach</title>
+                <p>Multicentre design is a practical approach to accumulate sufficient numbers of diverse participants in a substantially shorter period of time than could be effected by a single centre or study site
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-22">22</xref>,
+                        <xref ref-type="bibr" rid="ref-38">38</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-40">40</xref>
+                    </sup>. This means a greater number of environments and contexts from which participants are recruited, offering a more representative sample of the target population of the study and allowing for replication of sampling to achieve heterogeneity and maximum variation; thus increasing the strength of generalisation.</p>
+                <p>An interdisciplinary approach benefits research in many ways. Team members from different disciplines can share skills, expertise, knowledge and experience throughout a project. Lee and colleagues
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-41">41</xref>
+                    </sup> contend that an interdisciplinary team enables developing a richer and more complex understanding. Furthermore, collaborative working can improve the quality of the research and its rigor, through enhanced group reflexivity and triangulation of results by researchers with diverse backgrounds.</p>
+                <p>The multicentre MinD project applied an interdisciplinary approach; it&#x2019;s team was comprised of researchers and practitioners from three major disciplines, namely design, health, and computing, including designers, architects, programmers, psychologists, gerontologists, healthcare practitioners and public health researchers &#x2013; working in 18 institutions in 8 countries (the UK, Germany, Luxembourg, the Netherlands, Spain, Italy, Russia and Australia) as well as partner groups of people with lived experience of dementia such as the Groups of Experts by Experience (GEEs) and Patient and Public Involvement group (PPI)
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>
+                    </sup>. Regular two-week exchanges were implemented in each of the partner countries to facilitate the interdisciplinary and iterative research process of the project, and there were a total of 49 exchange visits involving 75 researchers over the 4-year period.</p>
+            </sec>
+        </sec>
+        <sec sec-type="results">
+            <title>Results</title>
+            <p>The MinD project conducted the research in three phases: Phase 1 - needs assessment with PwD and caregivers; Phase 2 - development of mindful design interventions (designs) through co-design workshops with PwD, caregivers, service users, GEEs and PPI, using the data collected in the first phase. Three prototypes (&#x201c;Good Life Kit&#x201d;, &#x201c;This is Me&#x201d; and &#x201c;Let&#x2019;s me up&#x201d;) were developed and further information of these can be found on the MinD website
+                <sup>
+                    <xref ref-type="bibr" rid="ref-32">32</xref>
+                </sup>. The final Phase 3 was the evaluation of the design prototypes with PwD, caregivers and service users. Qualitative data were collected at two points in this project, i.e in Phases 1 and 3, in four countries (Germany, Spain, the Netherlands and the UK), and the findings are reported elsewhere
+                <sup>
+                    <xref ref-type="bibr" rid="ref-36">36</xref>,
+                    <xref ref-type="bibr" rid="ref-37">37</xref>
+                </sup>.</p>
+            <p>Following the ethical approval in each country, recruitment of participants took place with the support of the healthcare professionals and care workers whom the PwD were familiar with, and during data collection, the capacity to participate was continuously monitored
+                <sup>
+                    <xref ref-type="bibr" rid="ref-42">42</xref>
+                </sup>. The experience of the MinD project in applying Polit and Beck&#x2019;s generalisation strategies are described below.</p>
+            <sec>
+                <title>Replication in sampling</title>
+                <p>Various purposive sampling strategies that involve deliberate replication to promote both analytic generalisation and transferability can be used to replicate sampling, namely, maximum variation sampling, critical case sampling and deviant case sampling
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-20">20</xref>
+                    </sup>. For the MinD project, we applied the maximum variation sampling strategy to recruit people living with mild to mid-stage dementia including people with mild cognitive impairment (MCI) who had the capacity to consent to participation.</p>
+                <p>A total of 57 people (41 PwD and 16 caregivers) participated in Phase 1 (the needs assessment) (
+                    <xref ref-type="table" rid="T1">Table 1</xref>), while 65 (51 PwD and 14 caregivers) people participated in Phase 3 (evaluation of design prototypes) (
+                    <xref ref-type="table" rid="T2">Table 2</xref>). The PwD and caregivers who participated in the study came from a mixed socio-economic and cultural background in all the study sites, spoke diversed languages, and were aged between 50 and 80 years old. They were from Caucasian backgrounds as there were few PwD from minority ethnic backgrounds attending the memory clinics, support groups in the study sites.</p>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                    <label>Table 1. </label>
+                    <caption>
+                        <title>Phase 1 - Needs assessment (characteristics by study site).</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">DETAILS</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">GERMANY</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">SPAIN</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">NETHERLANDS</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">UK</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Date of</bold>
+                                    <break/>
+                                    <bold>the needs</bold>
+                                    <break/>
+                                    <bold>assessment</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">September &#x2013; November 2016</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">March 2017</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">June 2017</td>
+                                <td align="left" colspan="1" rowspan="4" valign="top">No data collection at this
+                                    <break/>phase in the UK.
+                                    <break/>
+                                    <break/>This UK site was used for
+                                    <break/>design and development 
+                                    <break/>of the protoypes with the
+                                    <break/>PPI group in Nottingham</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Number of</bold>
+                                    <break/>
+                                    <bold>participants who</bold>
+                                    <break/>
+                                    <bold>completed the</bold>
+                                    <break/>
+                                    <bold>study</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">24 participants (6 PwD and 18
+                                    <break/>caregivers)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">15 participants
+                                    <break/>(9 PwD and 6
+                                    <break/>caregivers)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">18 participants
+                                    <break/>(14 PwD and 4
+                                    <break/>caregivers).</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Methods of data</bold>
+                                    <break/>
+                                    <bold>collection</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Individual interviews (6 PwD and 10
+                                    <break/>caregivers ;
+                                    <break/>1 focus group (8 caregivers),
+                                    <break/>Design probes in 4 groups of 3 PwD
+                                    <break/>each (12 PwD)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Individual
+                                    <break/>interviews (6 PwD),
+                                    <break/>Focus group (6
+                                    <break/>caregivers);
+                                    <break/>Design probes (3
+                                    <break/>Pwd)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Interviews (9 pwd
+                                    <break/>and 4 caregivers)
+                                    <break/>Design probes (5
+                                    <break/>PwD)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Settings</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Day memory clinic, Department
+                                    <break/>of Psychiatry, Psychotherapy and
+                                    <break/>Psychosomatics or at their homes in
+                                    <break/>Berlin (individual interviews)
+                                    <break/>Focus groups with PwD and caregivers
+                                    <break/>in Alzeimer Association groups Dresden</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Specialised
+                                    <break/>Memory clinic for
+                                    <break/>PwD, Volladolid,
+                                    <break/>Northern Spain</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Homevisits</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Phase 3 - Evaluation (characteristics by study site).</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">DETAILS</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">SPAIN</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">NETHERLANDS</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">UK</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">GERMANY</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Date of the</bold>
+                                    <break/>
+                                    <bold>evaluation</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Feb &#x2013; March 2019</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">April 2019</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">June 2019</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">July 2019</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Number of</bold>
+                                    <break/>
+                                    <bold>participants who</bold>
+                                    <break/>
+                                    <bold>completed the</bold>
+                                    <break/>
+                                    <bold>evaluation</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">42 participants (14
+                                    <break/>pwd, 14 MCI, 14
+                                    <break/>caregivers)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">4 PwD</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">7 PwD</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">12 PwD</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Method of data</bold>
+                                    <break/>
+                                    <bold>collection</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">4 focus groups (total
+                                    <break/>participants = 42)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Individual interviews</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Focus groups</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Individual interviews</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Setting</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Memory clinic in
+                                    <break/>Volladolid, Northern
+                                    <break/>Spain</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Participant&#x2019;s home (3
+                                    <break/>participants; Community
+                                    <break/>care home (1 participant),
+                                    <break/>Enschede</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Day care centre where
+                                    <break/>people with dementia
+                                    <break/>meet weekly for social
+                                    <break/>activities, Solihull, England</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Day memory clinic,
+                                    <break/>Department of Psychiatry,
+                                    <break/>Psychotherapy and
+                                    <break/>Psychosomatics, Berlin</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec>
+                <title>Replication of studies</title>
+                <p>According to Shadish and colleagues
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-43">43</xref>
+                    </sup>, validity and applicability of concepts, relationships, patterns and successful interventions will be strengthened if these can be confirmed in multiple contexts, varied times and with different types of people. Deliberate replication of studies can be used as a means to confirm findings and increase generalisation
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-20">20</xref>
+                    </sup>.</p>
+                <p>For Phase 1 of the MinD project, data were collected to assess PwD&#x2019;s needs, wants, preferences, lived experience, subjective wellbeing, self-empowerment and social engagement activities. In Phase 3, data were collected to evaluate the usability and fitness of two prototypes (the &#x201c;Good Life Kit&#x201d; and &#x201c;This is Me&#x201d;). At both phases, data collection happened consecutively across the study sites (
+                    <xref ref-type="table" rid="T1">Table 1</xref> and 
+                    <xref ref-type="table" rid="T2">Table 2</xref>) - this sequential approach allowed not only for replication of the study, but importantly, lessons learned at previous site were useful for improving the process at subsequent study sites. In addition, sites offered multiple settings and contexts, namely, a neuro-psychological rehabilitation center and memory clinic in Spain; a memory disorder clinic and an old age day clinic at the Department of Psychiatry, Psychotherapy and Psychosomatics in Berlin, Alzeimer Association groups in Dresden, a community day care group held at a residential care home in the UK ; and in private homes of PwD in the Netherlands.</p>
+                <p>Apart from replication of studies in multiple contexts, varied time and a different group of participants, we also used a variety of data collection techniques to meet the needs of PwD. For example, visual cards of daily activities were developed - covering three areas of activities and daily life in line with the mindfulness framework of the project - to obtain a holistic understanding of the activities of daily living, social and leisure activities, involvement in decision-making, well-being linked to activity participation, supporting objects or devices, needs, wants and preferences of the participants. Participants took part in individual interviews and/or focus group discussions and in the Netherlands, diaries were also used to collect information of daily activities (see 
+                    <xref ref-type="table" rid="T1">Table 1</xref> for details). These approaches were applied across all the study sites and further details are discussed elsewhere
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>,
+                        <xref ref-type="bibr" rid="ref-36">36</xref>,
+                        <xref ref-type="bibr" rid="ref-37">37</xref>
+                    </sup>.</p>
+                <p>Interview guides were developed for data collection; these were designed and tailored to the needs of PwD for each phase of data collection. These materials were reviewed by the project&#x2019;s interdisciplinary team, and by the European Working Group of People with Dementia representative, and PPI in the UK, for accuracy, readibility and legibility. Specific guidance or protocol was also developed to ensure standardisation of data collection across the sites and training was provided to all the researchers involved in this process. The guides and protocols were translated into the appropriate language for the study site. Individual interviews were conducted iteratively to reach data saturation. Data collection typically lasted between 60 to 90 minutes for individual interviews and focus group discussions
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-36">36</xref>,
+                        <xref ref-type="bibr" rid="ref-37">37</xref>
+                    </sup>.</p>
+            </sec>
+            <sec>
+                <title>Immersion in the data and reflexibility</title>
+                <p>Immersion and reflexivity on the concepts and data throughout the project are pertinent to maintain high quality work; &#x201c;
+                    <italic toggle="yes">The emergent efforts to ask questions of the right people (or to observe the right behaviours or events) force ongoing decisions that are, in theory at least, driven by conceptual demands of the study, and it is these efforts that contribute to analytic generalisation</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-20">20</xref>
+                    </sup>. Immersion and reflexivity of data and concepts in the project occurred at the data analysis and interpretation phase.</p>
+                <p>For the MinD project, the thematic analysis approach
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-44">44</xref>
+                    </sup> was used to collect data and conduct rigorous analysis. Applying qualitative data analysis techniques, which allow for an association between deductive and inductive creation of categories
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-45">45</xref>,
+                        <xref ref-type="bibr" rid="ref-46">46</xref>
+                    </sup>, the data were firstly analysed within each country. The inductive-deductive approach allowed 
+                    <italic toggle="yes">a priori</italic> knowledge or categories from the literature to be explored in the interviews or focus groups, and for the generation of new categories/themes from the data until data saturation was met
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-47">47</xref>
+                    </sup>. The first step of this process involved carefully reading and rereading each transcript
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-48">48</xref>
+                    </sup>. It is an active reading, with the intention of appraising, familiarising, identifying, extracting, recording, organising, comparing, relating, mapping, stimulating and verifying. In other words, it is reading with &#x201c;
+                    <italic toggle="yes">the intention of collating a synthesisable set of accounts</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-48">48</xref>
+                    </sup>. The second step was coding: at least two researchers in each site coded the data, performing a line-by-line coding. In the third step, similar to the translation work performed by Noblit and Hare
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-49">49</xref>
+                    </sup>, a second coding system to categorise participants&#x2019; answers was developed. It involved comparing and contrasting themes by cross-matching them between transcripts to leave a comprehensive set of key themes that fully represented the data from each study site. The fourth step involved presenting the set of key themes at the interdisciplinary project workshops to discuss, reflect and agree on a list of emerging themes. In the fifth and final step, the list of emerging themes was presented to the PwDs in several GEE and PPI groups for triangulation and confirmation. The finalised coding framework was systematically applied to all transcripts using quali.xls. The transcripts were translated from Dutch, German and Spanish language into English by a native speaker for the purpose of re-analysis and team consensus. 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.maxqda.com/">MAXQDA</ext-link> 2018 was used to manage the data analysis.</p>
+            </sec>
+            <sec>
+                <title>Integration of evidence</title>
+                <p>Polit and Beckargued that integration of evidence, which relies on replication of studies, is the most important development for enhancing generalisation in health care research
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-20">20</xref>
+                    </sup>. However they cautioned that integration of evidence through meta-synthesis of research studies as a methodology could lead to the loss of information about study contexts that limits assessment of proximal similarity and transferability of evidence. In the case of the MinD project, the interdisciplinary team and the PwD, GEE and PPI groups provided the avenue to triangulate the findings from different perspectives, thus preserving the richness as well as the contextual information of the study environments.</p>
+            </sec>
+            <sec>
+                <title>Thick description or rich data of the research</title>
+                <p>Thick description of the research is required for readers to judge the generalisability of the findings. Throughout the MinD project, details were kept on all steps as a requirement of the funding scheme, as well as to demonstrate the study&#x2019;s rigour and trustworthiness. Reports for each two-week secondment with relevant notes on workshops, and other relevant meetings notes, documents, reflective journals were kept on data collection, design and evaluation &#x2013; these are located on the project intranet
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>
+                    </sup>. In total, the MinD project convened 49 exchange visits and in each visit, the team discussed the research in each study site, reflective notes were then written up and uploaded onto the project intranet to share with partners.</p>
+            </sec>
+        </sec>
+        <sec sec-type="discussion">
+            <title>Discussion</title>
+            <p>A multicentre study design and interdisciplinary approach undertaken in the MinD project have made it possible to apply the Polit and Beck&#x2019;s strategies to claim and strengthen the generalisability of our findings. However, the MinD team have faced a number of challenges during the journey to make the generalisation claim. For example, replication of the research in multiple sites is not a simple process because of the unique population and the different context and environment at each study site. These methodological challenges are explained in more details below.</p>
+            <sec>
+                <title>From unique population to repeat sampling</title>
+                <p>Many PwD can function independently for most activities, such as social events or using transport, while experiencing some changes and difficulties such as trouble in planning and organisation, remembering new information, locating objects, and some with finding less frequent words or proper nouns in conversations, noticeable to friends and relatives
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-50">50</xref>
+                    </sup>. Working with PwD therefore required specific adaptations to be met to fit their needs. Careful and detailed planning, together with PwD, was made from the start of the project to engage PwD in the MinD project
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-51">51</xref>
+                    </sup>. All these efforts and activities required time and care to build the trust with PwD in all the study sites for successful recruitment and engagement.</p>
+                <p>Unlike multicentre quantitative research which requires a controlled environment with participants sharing homogenous characteristics in multiple settings, exact replication of the qualitative research is not necessary. For qualitative research, the aim is to recruit a representative sample with maximum variation. The primary recruitment criteria for the MinD project was individuals living with mild to moderate dementia. This population is not only vulnerable but also considered as hard-to-reach due to their condition and the safeguarding policies put in place by relevant organisations. Collaborating with healthcare providers and gaining ethical approval from respective organisations, namely care homes and organisations overseeing support groups are the initial steps to researching the lived experience of people living with dementia, but these do not guarantee successful recruitment and data collection
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-42">42</xref>
+                    </sup>. We learnt through our journey that involving the people whom PwD trust, to recruit and collect data was a critical step to gain confidence and trust of PwD in our study. A lot of attention was given to secure involvement of health care professional, care and support staff whom PwD were familiar with to help researchers recruit and then obtained informed consent. The presence of the care workers and support staff during the study provided a safe environment for PwD to confidently participate in the research. We were not only able to successfully recruit PwD with the help from these staff, but maintained full participation from the PwD except for one participant who dropped out of the study
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-42">42</xref>
+                    </sup>.</p>
+                <p>Based on this experience in the first phase of the project (needs assessment), we then developed a dementia friendly protocol and participant information sheet for Phase 3 (evaluation of prototypes) to support the data collection by our team. This protocol emphasised the importance of gaining and understanding of the study with involvement from the care workers and support staff. Engaging PwD in research is therefore a process that required time and care in planning that involved the staff whom they are familiar with; a process that we have learnt to improve over time in our research journey and one that cannot be rushed.</p>
+            </sec>
+            <sec>
+                <title>Replicating study conditions in multiple sites</title>
+                <p>To uphold the quality and rigour of our research, researchers received training and the data collection tool was standardised across the sites. However, we were not able to repeat the condition and data collection technique across the four sites with this population. To meet the needs of our participants, we had to implement different qualitative research techniques at different study sites. Individual interviews were conducted with participants in their home in the Netherlands and in memory clinics in Germany, while focus group discussion technique was used in Spain and the UK. We used various dementia-friendly research materials to meet the needs of PwD. A lot of time was spent working with PwD representatives in the GEE and PPI groups to develop the research materials to address memory, language and attentional difficulties. </p>
+                <p>Allowing extra time at each study site is pertinent to allow for genuine engagement with PwD and their carers. It is important to go along at people&#x2019;s individual pace and honour their preferred and applying diverse methods of engagement in conducting the research. This means navigating work through a compass that is process centred rather than solely output-led. We have to be mindful and constantly reflecting on our practice in order to create safe and compassionate spaces with all the PwD.</p>
+            </sec>
+            <sec>
+                <title>Problems faced in interdisciplinary team</title>
+                <p>Interdisciplinary working in the MinD project has benefited the quality of the work through shared knowledge, experiences and expertise from different disciplines. In total, 75 researchers from 8 partner countries participated in 49 exchange visits over 4 years. However, interdisciplinary working has challenges in that it requires intense negotiation, coordination and management. Design, computing, and health also have distinctive methods of enquiry; approaches and techniques to conduct research. Designers and computing/technologies apply an abductive approach to produce a design (Tavory and Timmermans,2014) while a deductive or inductive approach is commonly employed by healthcare practitioners. These differences have implications on the focus and value framework of the MinD project and can lead to communication issue between members. As a design-led study, the MinD project naturally sought to make design interventions from a productive worldview
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-52">52</xref>
+                    </sup>. To enable a seamless study, agreements were reached through negotiating differences from the start of the project and throughout as necessary, emphasising the main aim and objectives of the project, managing expectations of all parties involved, and importantly, building understanding of the strengths of productive and inductive approaches and the need to produce sound and robust data. From the team perspective, diversity in background, culture and discipline means a longer time for the members to develop relationships and trust to avoid communication issues. Over time, the researchers reported that they better understood, and adapted to, cross-disciplinary, cultural and language barriers in the interdisciplinary exchange visits and that they felt they benefited and enjoyed the networking and learning about the different disciplines and their approaches.</p>
+            </sec>
+            <sec>
+                <title>Logistic issues in a multicentre design</title>
+                <p>Achieving logistical parity between sites and personel in different countries was a challenge due to the particular funding scheme and the delivery through secondments or research exchanges but also due to the developmental nature of design projects. While a generic framework existed for coordinating the study in the four countries, adjustments in allocation of staffing was required with regard to available human resources of who is doing what, for what purpose, how, and where, during the project. This caused at times slight delays with data collection, and demanded good management and coordination regarding staffing. Other logistic and management tasks included the allocation of space for meetings and workshops; the development and agreement of standard protocols, procedures and guidelines for recruitment, data collection and analysis; as well as identifying technological capacity (experts and IT equipments) as needed.</p>
+                <p>During the MinD project, we have applied sound and robust methodological frameworks to conduct our study; we have developed standardised dementia friendly data collection guides and protocols for use across the four sites; we have used a variety of tools, methods, techniques, and settings to meet the needs of our participants in recruitment, data collection and evaluation; and we have applied thematic analysis to conduct a rigorous and trustworthy study, adopting an approach similar to that applied by Nowell and colleague
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-53">53</xref>
+                    </sup>. By following rigorous protocols to conduct the qualitative research, we also met the guidelines to plan and conduct qualitative research as stated in the Consolidated criteria for reporting qualitative research (COREQ) reporting guidelines
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-35">35</xref>
+                    </sup>.</p>
+                <p>The MinD approach was characterised by being international, cross-cultural, interdisciplinary, inter-sectoral, and iterative in its nature. Apart from the benefits gained through shared knowledge, ideas, and experiences from different disciplines, sectors/settings, and cultures, these differences allowed for triangulation to improve the validity of our project. Thus, applying a multicentre and interdisciplinary approach has enabled the MinD project to increase the generalisability of their findings over a single centre study and aiding their generalisability across disciplines, sectors and cultures. Facilitated through the complex pattern of 49 official exchange visits involving 75 researchers, this multicentre, interdisciplinary approach also created a community of practice for the researchers who have developed a broader and richer knowledge base, sharing their knowhow and experience with other researchers, groups with special interests and the general public through the MinD website and other channels
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>
+                    </sup>.</p>
+                <p>To our knowledge, by applying an interdisciplinary approach in a multi-centre study, the MinD project is the first qualitative study to attempt to generalise its findings. Other strengths of our study are the involvement of PwD, through a co-creation approach throughout the project, at their pace; applying a mindfulness approach to engaging PwD and multiple data collection techniques fitting their needs; and the involvement of the healthcare professional, care worker and support staff whom the PwD were familiar with in the research which successfully retained PwD&#x2019;s participation. Although we aimed for a heterogenuos sample, we only recruited Caucasian PwD. We did not manage to recruit PwD from the minority ethnic groups since they have low attendance in our study sites; our findings and prototypes therefore might have limited generalisability in this population, and further research in the minority ethnic population is needed.</p>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusion</title>
+            <p>While it is possible to increase the generalisability of qualitative evidence through a multi-centre and interdisciplinary team approach and to use existing tools such as the COREQ, research knowledge and skills, experience of working with the target population to conduct a rigorous study, there are challenges that we faced because of the condition, namely dementia, that our participants are having, the diversity in terms of language, work culture and organisational procedures, and the inter-disciplinary differences relating to the methods of enquiry; approaches and techniques to conduct research. These challenges will need to be identified and addressed at the start of the project with a strong leadership to ensure a seamless journey to complete the project successfully. Trust between the researchers and participants, and time to build this trust are critical to recruitment and participation in the study; these factors are of utmost important in research involving participants with condition such as dementia.</p>
+        </sec>
+        <sec>
+            <title>Data availability</title>
+            <p>No data are associated with this article.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>This article has been developed as part of the MinD project. We wish to thank all project researchers, external partners, and especially participants of several Groups of Experts by Experience (GEE), including the European Working Group of People with Dementia (EWGPWD), the Public and Patient Involvement (PPI) group in Nottingham, and GEE participants at INTRAS, Valladolid, for their excellent contributions to the MinD project and to making it happen. Further project information: 
+                <ext-link ext-link-type="uri" xlink:href="http://www.designingfordementia.eu/">www.designingfordementia.eu</ext-link>
+            </p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ayres</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kavanagh</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Knafl</surname>
+                            <given-names>KA</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Within-case and across-case approaches to qualitative data analysis.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Qual Health Res.</italic>
+               </source>
+               <year>2003</year>;<volume>13</volume>(<issue>6</issue>):<fpage>871</fpage>&#x2013;<lpage>883</lpage>.
+                    <pub-id pub-id-type="pmid">12891720</pub-id>
+                    <pub-id pub-id-type="doi">10.1177/1049732303013006008</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Groleau</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Zelkowitz</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cabral</surname>
+                            <given-names>IE</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Enhancing generalizability: moving from an intimate to a political voice.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Qual Health Res.</italic>
+               </source>
+               <year>2009</year>;<volume>19</volume>(<issue>3</issue>):<fpage>416</fpage>&#x2013;<lpage>426</lpage>.
+                    <pub-id pub-id-type="pmid">19224883</pub-id>
+                    <pub-id pub-id-type="doi">10.1177/1049732308329851</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Thorne</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Interpretive Description.</article-title>Left Coast Press, Walnut Creek, CA.<year>2008</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sandelowski</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>&#x201c;To be of use&#x201d;: enhancing the utility of qualitative research.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Nurs Outlook.</italic>
+               </source>
+               <year>1997</year>;<volume>45</volume>(<issue>3</issue>):<fpage>125</fpage>&#x2013;<lpage>132</lpage>.
+                    <pub-id pub-id-type="pmid">9210160</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/s0029-6554(97)90043-9</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Yardley</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Demonstrating validity in qualitative health research.</article-title>In.: J.A. Smith, ed.
+                    <italic toggle="yes">Qualitative psychology: a practical guide to research methods.</italic>2nd d. London: Sage,<year>2008</year>;<fpage>253</fpage>&#x2013;<lpage>251</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/281306958_Demonstrating_validity_in_qualitative_psychology">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Green</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Thorogood</surname>
+                            <given-names>N</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Qualitative methods for health research.</article-title>2nd ed. London: Sage,<year>2009</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Qualitative_Methods_for_Health_Research.html?id=vk_fy6QkVQAC">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lewis</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ritchie</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Generalizing from qualitative research.</article-title>In J. Ritchie, J. Lewis, C. McNaughton Nicholls, and R. Ormston, eds.,
+                    <italic toggle="yes">Qualitative research practice</italic>. 2nd ed. London: Sage,<year>2014</year>;<fpage>347</fpage>&#x2013;<lpage>366</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sparkes</surname>
+                            <given-names>AC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Smith</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Qualitative research methods in sport, exercise and health: from process to product.</article-title>London: Routledge.<year>2014</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.routledge.com/Qualitative-Research-Methods-in-Sport-Exercise-and-Health-From-Process/Sparkes-Smith/p/book/9780415578356">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <label>9</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hayhurst</surname>
+                            <given-names>LMC</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sport for development and peace: a call for transnational, multi-sited, postcolonial feminist research.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Qualitative Research in Sport, Exercise and Health.</italic>
+               </source>
+               <year>2016</year>;<volume>8</volume>(<issue>5</issue>):<fpage>424</fpage>&#x2013;<lpage>443</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/2159676X.2015.1056824</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <label>10</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Darnell</surname>
+                            <given-names>SC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Chawansky</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Marchesswault</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The state of play: Critical sociological insights into recent &#x2018;Sport for Development and Peace&#x2019; research.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int Rev Sociol Sport.</italic>
+               </source>
+               <year>2018</year>;<volume>53</volume>(<issue>2</issue>):<fpage>133</fpage>&#x2013;<lpage>151</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/1012690216646762</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <label>11</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Greenhalgh</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Annandale</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ashcroft</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>An open letter to 
+                        <italic toggle="yes">The BMJ</italic> editors on qualitative research.</article-title>
+                    <source>
+
+                        <italic toggle="yes">BMJ.</italic>
+               </source>
+               <year>2016</year>;<volume>352</volume>:<fpage>i563</fpage>.
+                    <pub-id pub-id-type="pmid">26865572</pub-id>
+                    <pub-id pub-id-type="doi">10.1136/bmj.i563</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <label>12</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Firestone</surname>
+                            <given-names>WA</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Accommodation: toward a paradigm-praxis dialectic.</article-title>In: Guba, E. (Ed.),
+                    <italic toggle="yes">The Paradigm Dialog</italic>. Sage, Newbury Park, CA,<year>1990</year>;<fpage>105</fpage>&#x2013;<lpage>124</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://sk.sagepub.com/navigator/mixed-methods/n11.xml">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <label>13</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tracy</surname>
+                            <given-names>SJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Qualitative quality: eight &#x201c;Big-Tent&#x201d; criteria for excellent qualitative research.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Qualitative Inquiry.</italic>
+               </source>
+               <year>2010</year>;<volume>16</volume>(<issue>10</issue>):<fpage>837</fpage>&#x2013;<lpage>851</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/1077800410383121</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <label>14</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Chenail</surname>
+                            <given-names>RJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Getting specific about qualitative research generalizability.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Ethnogr Qual Res.</italic>
+               </source>
+               <year>2010</year>;<volume>5</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>11</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/285909765_Getting_specific_about_qualitative_research_generalizability">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <label>15</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ritchie</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lewis</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Qualitative research practice: a guide for social science students and researchers.</article-title>Sage publishing, London;<year>2005</year>;<fpage>263</fpage>&#x2013;<lpage>286</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <label>16</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Davies</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dodd</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Qualitative research and the question of rigor.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Qual Health Res.</italic>
+               </source>
+               <year>2002</year>;<volume>12</volume>(<issue>2</issue>):<fpage>279</fpage>&#x2013;<lpage>289</lpage>.
+                    <pub-id pub-id-type="pmid">11837376</pub-id>
+                    <pub-id pub-id-type="doi">10.1177/104973230201200211</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <label>17</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lincoln</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Guba</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Naturalistic Inquiry.</article-title>Sage, Beverly Hills, CA.<year>1985</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Naturalistic_Inquiry.html?id=2oA9aWlNeooC">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <label>18</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Seale</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Quality in qualitative research.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Qualitative Inquiry.</italic>
+               </source>
+               <year>1999</year>;<volume>5</volume>(<issue>4</issue>):<fpage>465</fpage>&#x2013;<lpage>478</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/107780049900500402</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <label>19</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Noble</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Smith</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Issues of validity in qualitative research.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Evidence-based Nursing.</italic>
+               </source>
+               <year>2015</year>;<volume>18</volume>(<issue>2</issue>).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ebn.bmj.com/content/ebnurs/18/2/34.full.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <label>20</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Polit</surname>
+                            <given-names>DF</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Beck</surname>
+                            <given-names>CT</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Generalization in quantitative and qualitative research: myths and strategies.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Nurs Stud.</italic>
+               </source>
+               <year>2010</year>;<volume>47</volume>(<issue>11</issue>):<fpage>1451</fpage>&#x2013;<lpage>1458</lpage>.
+                    <pub-id pub-id-type="pmid">20598692</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.ijnurstu.2010.06.004</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <label>21</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gheondea-Eladi</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Is qualitative research generalizable?</article-title>
+                    <source>
+
+                        <italic toggle="yes">Journal of Community Positive Practices.</italic>
+               </source>
+               <year>2014</year>;<volume>XIV</volume>(<issue>3</issue>):<fpage>114</fpage>&#x2013;<lpage>124</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://ideas.repec.org/a/cta/jcppxx/3148.html">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <label>22</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Johnson</surname>
+                            <given-names>JK</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Barach</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Vernooij-Sassen</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Conducting a multicentre and multinational qualitative study on patient transitions.</article-title>
+                    <source>
+
+                        <italic toggle="yes">BMJ Qual Saf.</italic>
+               </source>
+               <year>2012</year>;<volume>21 Suppl 1</volume>:<fpage>i22</fpage>&#x2013;<lpage>i28</lpage>.
+                    <pub-id pub-id-type="pmid">23100548</pub-id>
+                    <pub-id pub-id-type="doi">10.1136/bmjqs-2012-001197</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <label>23</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Dewing</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>From ritual to relationship: A person-centred approach to consent in qualitative research with older people who have a dementia.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Dementia.</italic>
+               </source>
+               <year>2002</year>;<volume>1</volume>(<issue>2</issue>):<fpage>157</fpage>&#x2013;<lpage>171</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/147130120200100204</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <label>24</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mann</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hung</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Co-research with people with dementia for change.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Action Research.</italic>
+               </source>
+               <year>2019</year>;<volume>17</volume>(<issue>4</issue>):<fpage>573</fpage>&#x2013;<lpage>590</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/1476750318787005</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <label>25</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mayrhofer</surname>
+                            <given-names>AM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mathie</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>McKeown</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Young Onset dementia: Public involvement in co-designing community-based support.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Dementia (London).</italic>
+               </source>
+               <year>2020</year>;<volume>19</volume>(<issue>4</issue>):<fpage>1051</fpage>&#x2013;<lpage>1066</lpage>.
+                    <pub-id pub-id-type="pmid">30122064</pub-id>
+                    <pub-id pub-id-type="doi">10.1177/1471301218793463</pub-id>
+                    <pub-id pub-id-type="pmcid">7180317</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <label>26</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Steeman</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>de Casterle</surname>
+                            <given-names>BD</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Godderis</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Living with early-stage dementia: a review of qualitative studies.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Adv Nurs.</italic>
+               </source>
+               <year>2006</year>;<volume>54</volume>(<issue>6</issue>):<fpage>722</fpage>&#x2013;<lpage>38</lpage>.
+                    <pub-id pub-id-type="pmid">16796664</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/j.1365-2648.2006.03874.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <label>27</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tanner</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Co-research with older people with dementia: experience and reflections.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Ment Health.</italic>
+               </source>
+               <year>2012</year>;<volume>21</volume>(<issue>3</issue>):<fpage>296</fpage>&#x2013;<lpage>306</lpage>.
+                    <pub-id pub-id-type="pmid">22574956</pub-id>
+                    <pub-id pub-id-type="doi">10.3109/09638237.2011.651658</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <label>28</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zeilig</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Tischler</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>van der Byl Williams</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Co-creativity, well-being and agency: A case study analysis of a co-creative arts group for people with dementia.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Aging Stud.</italic>
+               </source>
+               <year>2019</year>;<volume>49</volume>:<fpage>16</fpage>&#x2013;<lpage>24</lpage>.
+                    <pub-id pub-id-type="pmid">31229214</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.jaging.2019.03.002</pub-id>
+                    <pub-id pub-id-type="pmcid">6597952</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <label>29</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Greenwood</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Smith</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The experiences of people with young-onset dementia: A meta-ethnographic review of the qualitative literature.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Maturitas.</italic>
+               </source>
+               <year>2016</year>;<volume>92</volume>:<fpage>102</fpage>&#x2013;<lpage>109</lpage>.
+                    <pub-id pub-id-type="pmid">27621246</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.maturitas.2016.07.019</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <label>30</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Moyle</surname>
+                            <given-names>W</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Borbasi</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wallis</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Acute care management of older people with dementia: a qualitative perspective.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Clin Nurs.</italic>
+               </source>
+               <year>2011</year>;<volume>20</volume>(<issue>3&#x2013;4</issue>):<fpage>420</fpage>&#x2013;<lpage>8</lpage>.
+                    <pub-id pub-id-type="pmid">21029231</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/j.1365-2702.2010.03521.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <label>31</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>van Hoof</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kort</surname>
+                            <given-names>HS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>van Waarde</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Environmental interventions and the design of homes for older adults with dementia: An overview.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Am J Alzheimers Dis Other Demen.</italic>
+               </source>
+               <year>2010</year>;<volume>25</volume>(<issue>3</issue>):<fpage>202</fpage>&#x2013;<lpage>232</lpage>.
+                    <pub-id pub-id-type="pmid">20150655</pub-id>
+                    <pub-id pub-id-type="doi">10.1177/1533317509358885</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <label>32</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>MinD - Designing for People with Dementia: Mindful self-empoverment and social engagement</article-title>.
+                    <ext-link ext-link-type="uri" xlink:href="https://designingfordementia.eu/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <label>33</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Oyebode</surname>
+                            <given-names>JR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Parveen</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Psychosocial interventions for people with dementia: An overview and commentary on recent developments.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Dementia (London).</italic>
+               </source>
+               <year>2019</year>;<volume>18</volume>(<issue>1</issue>):<fpage>8</fpage>&#x2013;<lpage>35</lpage>.
+                    <pub-id pub-id-type="pmid">27380931</pub-id>
+                    <pub-id pub-id-type="doi">10.1177/1471301216656096</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <label>34</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Scholzel-Dorenbos</surname>
+                            <given-names>CJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Meeuwse</surname>
+                            <given-names>EJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Olde Rikkert</surname>
+                            <given-names>MG</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Integrating unmet needs into dementia health-related quality of life research and care: Introduction of the Hierarchy Model of Needs in Dementia.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Aging Ment Health.</italic>
+               </source>
+               <year>2010</year>;<volume>14</volume>(<issue>1</issue>):<fpage>113</fpage>&#x2013;<lpage>119</lpage>.
+                    <pub-id pub-id-type="pmid">20155528</pub-id>
+                    <pub-id pub-id-type="doi">10.1080/13607860903046495</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-35">
+                <label>35</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tong</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sainsbury</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Craig</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Qual Health Care.</italic>
+               </source>
+               <year>2007</year>;<volume>19</volume>(<issue>6</issue>):<fpage>349</fpage>&#x2013;<lpage>357</lpage>.
+                    <pub-id pub-id-type="pmid">17872937</pub-id>
+                    <pub-id pub-id-type="doi">10.1093/intqhc/mzm042</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-36">
+                <label>36</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zanasi</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ziebuhr</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bueno</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Feelings of usefulness and empowerment in people with dementia: a qualitative study.</article-title>submitted to
+                    <italic toggle="yes">Brain and Behaviour.</italic>currently under peer review.</mixed-citation>
+            </ref>
+            <ref id="ref-37">
+                <label>37</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Niedderer</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Holthoff-Detto</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>van Rompay</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>&#x201c;This is Me&#x201d;: Evaluation of a boardgame to promote social engagement, wellbeing and agency in people with dementia through mindful life storytelling.</article-title>submitted to
+                    <italic toggle="yes">Journal of Aging Studies.</italic>currently under peer review.</mixed-citation>
+            </ref>
+            <ref id="ref-38">
+                <label>38</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sprague</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Matta</surname>
+                            <given-names>JM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bhandari</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Multicenter Collaboration in observational research: improving generalizability and efficiency.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Bone Joint Surg Am.</italic>
+               </source>
+               <year>2009</year>;<volume>91 Suppl 3</volume>:<fpage>80</fpage>&#x2013;<lpage>86</lpage>.
+                    <pub-id pub-id-type="pmid">19411504</pub-id>
+                    <pub-id pub-id-type="doi">10.2106/JBJS.H.01623</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-39">
+                <label>39</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Chung</surname>
+                            <given-names>KC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Song</surname>
+                            <given-names>JW, WRIST Study Group</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A guide to organizing a multicenter clinical trial.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Plast Reconstr Surg.</italic>
+               </source>
+               <year>2010</year>;<volume>126</volume>(<issue>2</issue>):<fpage>515</fpage>&#x2013;<lpage>523</lpage>.
+                    <pub-id pub-id-type="pmid">20375760</pub-id>
+                    <pub-id pub-id-type="doi">10.1097/PRS.0b013e3181df64fa</pub-id>
+                    <pub-id pub-id-type="pmcid">2917608</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-40">
+                <label>40</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kleiderman</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Boily</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hasilo</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Overcoming barriers to facilitate the regulation of multi-centre regenerative medicine clinical trials.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Stem Cell Res Ther.</italic>
+               </source>
+               <year>2018</year>;<volume>9</volume>(<issue>1</issue>):<fpage>307</fpage>&#x2013;<lpage>316</lpage>.
+                    <pub-id pub-id-type="pmid">30409192</pub-id>
+                    <pub-id pub-id-type="doi">10.1186/s13287-018-1055-2</pub-id>
+                    <pub-id pub-id-type="pmcid">6225696</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-41">
+                <label>41</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lee</surname>
+                            <given-names>RP</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hart</surname>
+                            <given-names>RI</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Watson</surname>
+                            <given-names>RM</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Qualitative synthesis in practice: some pragmatics of meta-ethnography.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Qual Res.</italic>
+               </source>
+               <year>2014</year>;<volume>15</volume>(<issue>3</issue>):<fpage>334</fpage>&#x2013;<lpage>50</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/1468794114524221</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-42">
+                <label>42</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lim</surname>
+                            <given-names>JNW</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Almeida</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Holthoff-Detto</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>What is Needed to Obtain Informed Consent and Monitor Capacity for a Successful Study involving People with Mild Dementia? Our experience in a multi-centre study.</article-title>In K. Niedderer, G.D.S. Ludden, R. Cain and C Woelfel (eds.)
+                    <italic toggle="yes">Designing with and for People with Dementia: Wellbeing, Empowerment and Happiness.</italic>Proceedings of the International MinD Conference. Dresden: MinD &amp; TUD press,<year>2019</year>;<fpage>139</fpage>&#x2013;<lpage>150</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://wlv.openrepository.com/handle/2436/623315">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-43">
+                <label>43</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Shadish</surname>
+                            <given-names>W</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cook</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Campbell</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Experimental and Quasi-Experimental Designs for Generalized Causal Inference.</article-title>Houghton Mifflin,<year>2002</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://psycnet.apa.org/record/2002-17373-000">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-44">
+                <label>44</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Braun</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Clarke</surname>
+                            <given-names>V</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Using thematic analysis in psychology.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Qual Res Psychol.</italic>
+               </source>
+               <year>2006</year>;<volume>3</volume>(<issue>2</issue>):<fpage>77</fpage>&#x2013;<lpage>101</lpage>.
+                    <pub-id pub-id-type="doi">10.1191/1478088706qp063oa</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-45">
+                <label>45</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Maylind</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Qualitative Content Analysis. Theoretical Foundation, Basic Procedures and Software Solution.</article-title>SSOAR Open Access Repository,<year>2015</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-46">
+                <label>46</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kuckartz</surname>
+                            <given-names>U</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Qualitative Text Analysis: A Guide to Methods, Practice &amp; Using Software.</article-title>Sage Publishing,<year>2014</year>.
+                    <pub-id pub-id-type="doi">10.4135/9781446288719</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-47">
+                <label>47</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bengtsson</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>How to plan and perform a qualitative study using content analysis.</article-title>
+                    <source>
+
+                        <italic toggle="yes">NursingPlus Open.</italic>
+               </source>
+               <year>2016</year>;<volume>2</volume>:<fpage>8</fpage>&#x2013;<lpage>14</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.npls.2016.01.001</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-48">
+                <label>48</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Thomas</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Harden</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Methods for the thematic synthesis of qualitative research in systematic reviews.</article-title>
+                    <source>
+
+                        <italic toggle="yes">BMC Med Res Methodol.</italic>
+               </source>
+               <year>2008</year>;<volume>8</volume>:<fpage>45</fpage>&#x2013;<lpage>55</lpage>.
+                    <pub-id pub-id-type="pmid">18616818</pub-id>
+                    <pub-id pub-id-type="doi">10.1186/1471-2288-8-45</pub-id>
+                    <pub-id pub-id-type="pmcid">2478656</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-49">
+                <label>49</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Noblit</surname>
+                            <given-names>GW</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hare</surname>
+                            <given-names>RD</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Meta-ethnography: synthesizing qualitative studies.</article-title>California: Sage Publications;<year>1988</year>;<volume>11</volume>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://us.sagepub.com/en-us/nam/meta-ethnography/book2416">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-50">
+                <label>50</label>
+                <mixed-citation publication-type="journal">
+                    <collab>World Health Organisation</collab>:
+                    <article-title>The ICD-10 classification of mental and behavioural disorders : clinical descriptions and diagnostic guidelines</article-title>.<year>1992</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.who.int/classifications/icd/en/bluebook.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-51">
+                <label>51</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Niedderer</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Harrison</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gosling</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Working with Experts with Experience: Charting Co-production and Co-design in the Development of HCI-Based Design.</article-title>
+                    <source> In 
+
+                        <italic toggle="yes">HCI and Design in the Context of Dementia.</italic>
+               </source>Springer,<year>2020</year>;<fpage>303</fpage>&#x2013;<lpage>320</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-030-32835-1_19</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-52">
+                <label>52</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Niedderer</surname>
+                            <given-names>K</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Explorative Materiality and Knowledge. The Role of Creative Exploration and Artefacts in Design Research.</article-title>
+                    <source>
+
+                        <italic toggle="yes">FormAkademisk.</italic>
+               </source>
+               <year>2013</year>;<volume>6</volume>(<issue>2</issue>):<fpage>1</fpage>&#x2013;<lpage>20</lpage>.
+                    <pub-id pub-id-type="doi">10.7577/formakademisk.651</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-53">
+                <label>53</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Nowell</surname>
+                            <given-names>LS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Norris</surname>
+                            <given-names>JM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>White</surname>
+                            <given-names>DE</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Thematic Analysis: Striving to meet the trustworthiness criteria.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Qual Methods.</italic>
+               </source>
+               <year>2017</year>;<volume>16</volume>(<issue>1</issue>).
+                    <pub-id pub-id-type="doi">10.1177/1609406917733847</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report27982">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15224.r27982</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Lv</surname>
+                        <given-names>Jihui</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27982a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r27982a1">
+                    <label>1</label>Beijing Geriatric Hospital, Beijing, China</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>8</day>
+                <month>11</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Lv J</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27982"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13700.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>In the current study, the authors described the use of the multi-centre design by a group of researchers - with different expertise from different discipline of study - to apply the six strategies proposed by Polit and Beck to strengthen the generalisability of their research findings in the population living with mild to moderate dementia in Europe. The authors also presented the challenges they faced in their attempts to generalise their findings. The results are reasonable and interesting.</p>
+            <p> </p>
+            <p> I have two minor concerns. 
+                <list list-type="order">
+                    <list-item>
+                        <p>In page 3, &#x201c;&#x2026;&#x2026;as this will strengthened&#x201d;, it should be &#x201c;will strengthen&#x201d;.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The introduction part can be more concise and comprehensive, for example, the third paragraph and fourth paragraph unnecessarily mentioned validity and rich data repeatedly.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the rationale for developing the new method (or application) clearly explained?</p>
+            <p>Yes</p>
+            <p>Is the description of the method technically sound?</p>
+            <p>Yes</p>
+            <p>Are the conclusions about the method and its performance adequately supported by the findings presented in the article?</p>
+            <p>Yes</p>
+            <p>If any results are presented, are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are sufficient details provided to allow replication of the method development and its use by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>A specialist working at congnitive impairments.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report27575">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15224.r27575</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Dahlui</surname>
+                        <given-names>Maznah</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27575a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r27575a1">
+                    <label>1</label>Centre of Population Health, Department of Social and Preventive Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur, Malaysia</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>10</day>
+                <month>9</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Dahlui M</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27575"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13700.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>I am OK with&#x00a0;this new version. I suggest the article is accepted for&#x00a0;indexing.</p>
+            <p>Is the rationale for developing the new method (or application) clearly explained?</p>
+            <p>Yes</p>
+            <p>Is the description of the method technically sound?</p>
+            <p>Yes</p>
+            <p>Are the conclusions about the method and its performance adequately supported by the findings presented in the article?</p>
+            <p>Yes</p>
+            <p>If any results are presented, are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are sufficient details provided to allow replication of the method development and its use by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>NA</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report27444">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.14774.r27444</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Dahlui</surname>
+                        <given-names>Maznah</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27444a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r27444a1">
+                    <label>1</label>Centre of Population Health, Department of Social and Preventive Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur, Malaysia</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>6</day>
+                <month>9</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Dahlui M</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27444"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13700.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This manuscript describes a study that had applied a standardised study protocol, of which the framework and guides for the qualitative data collection were developed via a multidisciplinary approach for a multicentre study. The study aims to explain that a study conducted as such would allow its findings to be generalised for Dementia. Polit and Beck&#x2019;s criteria had been used to assess the generalisability of these qualitative research findings. &#x00a0;In addition, issues and challenges faced when implementing and evaluating the multicentre studies had been described. The description on the conduct of the study is very comprehensive and highly appreciated. However, based on the title of this manuscript and the introduction, I was expecting that the findings from the 4 sites would be presented and any dissimilar findings regarding Dementia would be explained after it had been verified that Polit and Beck&#x2019;s criteria of generalisability had been followed.</p>
+            <p> </p>
+            <p> I would like to suggest the change in the title &#x201c;Assessing the generalisability of a multicentre qualitative dementia research: the experience and challenges faced by the MinD project in Europe&#x201d;</p>
+            <p>Is the rationale for developing the new method (or application) clearly explained?</p>
+            <p>Yes</p>
+            <p>Is the description of the method technically sound?</p>
+            <p>Yes</p>
+            <p>Are the conclusions about the method and its performance adequately supported by the findings presented in the article?</p>
+            <p>Yes</p>
+            <p>If any results are presented, are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are sufficient details provided to allow replication of the method development and its use by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Public Health &#x2013; Health Policy and Health Economics</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <sub-article article-type="response" id="comment3169-27444">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Lim</surname>
+                            <given-names>Jennifer NW</given-names>
+                        </name>
+                        <aff>119616, UK</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>6</day>
+                    <month>9</month>
+               <year>2021</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>Dear reviewer,</p>
+                <p> </p>
+                <p> We thank you for your kind feedback and have revised the title of the paper as suggested, to reflect its contents.&#x00a0;</p>
+                <p> </p>
+                <p> Thank you. On behalf of the authors, Dr. Lim</p>
+            </body>
+        </sub-article>
+    </sub-article>
+</article>

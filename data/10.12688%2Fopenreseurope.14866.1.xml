@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.14866.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Recycling of platinum group metals from energy storage devices: a techno-economical business plan analysis</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Spathariotis</surname>
+                        <given-names>Stylianos</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-0449-6376</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Sakkas</surname>
+                        <given-names>Konstantinos Miltiadis</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Polyzou</surname>
+                        <given-names>Ekaterini</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Yakoumis</surname>
+                        <given-names>Iakovos</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>MNLT Innovations PC, Kifisias Ave. 125-127, Athens, 11524, Greece</aff>
+                <aff id="a2">
+                    <label>2</label>MONOLITHOS Catalysts &amp; Recycling Ltd., Vrilissou Str. 83., Polygono-Athens, 11476, Greece</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:yakoumis@monolithos-catalysts.gr">yakoumis@monolithos-catalysts.gr</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>This research is sponsored by PROMET-H2 project (GA: 862253) and may lead to the development of products which may be of commercial interest to the authors. A plan for managing any potential conflicts arising from this arrangement has been created.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>27</day>
+                <month>7</month>
+            <year>2022</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2022</year>
+            </pub-date>
+         <volume>2</volume>
+            <elocation-id>92</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>21</day>
+                    <month>7</month>
+               <year>2022</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Spathariotis S et al.</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/2-92/pdf"/>
+            <abstract>
+                <p>
+                    <bold>Background:</bold> Energy storage devices utilise platinum group metals (PGMs) for their operation and exhibit an increasing adoption rate as green energy production means. Europe consumes the largest amount of PGMs worldwide (ca. 20% of the global demand), with the EU demand reaching ~71.5 t Pd, 78.7 t Pt in 2019; ~90% and 54% respectively for the production of (electro)catalysts. PGMs prices are on the rise, while these materials exhibit a risk of supply as their production in the EU is insignificant; South Africa and Russia produce approximately 84% of the global supply.</p>
+                <p>
+                    <bold>Methods</bold>: PGMs recycling and reutilisation from End-of-Life products to new ones, can drastically facilitate the reduction of the supply/demand gap. Innovation business planning is needed to commercialise the recovered PGMs, which includes marketing and financial elements utilised from an innovation perspective.</p>
+                <p>
+                    <bold>Results</bold>: SWOT (Strengths-Weaknesses-Opportunities-Threats) analysis is formed alongside a Business Model Canvas to define the Business Model and commercial added value.</p>
+                <p>
+                    <bold>Conclusion</bold>: The Financial Plan illustrates that a PGMs recycling facility can be profitable upon the generated market volume and assists in determining the financial sustainability by calculating the Net Present Value (NPV), Initial Rate of Return (IRR) and the break-even point for an investment made.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Business planning</kwd>
+                <kwd>Economics</kwd>
+                <kwd>Sustainability</kwd>
+                <kwd>Platinum Group Metals</kwd>
+                <kwd>Recycling</kwd>
+                <kwd>Innovation</kwd>
+                <kwd>Economic viability</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>862253</award-id>
+                </award-group>
+                <award-group id="fund-2">
+                    <funding-source>NSRF 2014-2020</funding-source>
+                    <award-id>MIS5072495</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No 862253 (project PROMET-H2).&#xD;
+Furthermore, part of this work has been conducted under the project Solar2Hyp (ID: MIS 5072495) under the &#x201c;Research &#x2013; Create &#x2013; Innovate&#x201d; RTDI state aid action, through the NSRF 2014-2020 program for development. </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>Primary energy production, industrial operations and certain end-applications are associated with high carbon emissions, while devices called fuel cells and electrolysers have been developed to reduce the emissions of harmful gases such as CO
+                <sub>2</sub>, CO, etc. Precious metals (PGMs) are used as electrocatalysts on membrane electrode assemblies (MEAs) in order to enhance and accelerate energy production reactions. The green energy production sector grows rapidly, with industries producing green energy for their operations, while minimizing their environmental impact. Thus, a high demand is generated for PGMs, while their supply is still limited, leading to economic imbalances, specifically in the EU area. Recycling these MEA materials once the corresponding devices reach their end-of-life to obtain the contained PGMs, and the re-manufacturing/re-generation of electrocatalysts for new MEAs and fuel cells/electrolysers are major routes to ensure resource sustainability. In this study, it is shown that the aforementioned markets are expected to increase rapidly in the near future, potentially generating vast amounts of EoL MEAs. The traits of the market and the current resources are analysed to form the SWOT analysis, while the elements and characteristics of the business model of recycling the EoL MEAs and re-manufacturing electrocatalysts are presented to define a holistic model under which such operation can be profitable. Finally, a cumulative table illustrating the costs and revenues from operating business in this sector is generated. The table shows the recycling capacity for EoL MEAs and the remanufactured amount of electrocatalysts based on the recycled PGMs, the associated revenues and costs, to conclude that the profitable business margin from such operation for 5 years is estimated at EUR 4.4 million. This shows that, the rise of the green energy production market will allow for profitable business to be operated under the defined parameters, also aligned with low environmental impacts.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>The demand for energy has rapidly increased and at the same time, due to gradual fossil fuel resources depletion, as well as climate changes issues (air pollution, global warming), there is an urgent need for renewable and environmentally friendly alternative fuels. In order to meet the growing energy needs of society Fuel Cell and Hydrogen (FCH) technologies are required, towards reducing the greenhouse gas (GHG) emissions (currently controlled by the EU Emissions Trading System (ETS), the Effort Sharing legislation and the legislation on emissions and removals from LULUCF)
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>
+                </sup>. Fuel cells convert chemical energy from fuels directly to electricity and heat by using electrochemical processes. They consist mainly of solid parts and their operation is noiseless, making them highly reliable and long-lasting devices
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>. High energy efficiency technology of Fuel cells is mainly powered by H2 generated from secure and renewable sources, while operation by-products are water and CO
+                <sub>2</sub> emissions. Hydrogen possesses an energy capacity of 122 kJ/g (2.75 times higher compared to numerous hydrocarbon fuels) and can store 2.6 times more energy than gasoline
+                <sup>
+                    <xref ref-type="bibr" rid="ref-3">3</xref>
+                </sup>. Therefore, H
+                <sub>2</sub> is an ideal energy carrier and gets growing interest to satisfy the energy needs. FCH technologies could play a significant role to meet the energy requirements of the modern world in an environmentally friendly and permanent way. Moreover, unlike conventional energy accumulation/transformation devices (such as batteries and internal combustion engines), fuel cell technologies eliminate the costs related with handling/storing toxic materials such as battery acid or diesel. Acidic polymer electrolyte membrane (PEM) and alkaline (AEM) fuel cells are the most promising technologies and have already been used in automotive market (TOYOTA Mirai PEM fuel cell vehicle) and space travels (Gemini and Apollo missions). Today, more than 30,000 passenger fuel cell vehicles are on the world&#x2019;s road, while the STELLANTIS Group had announced plans to return to fuel cell vehicle production and commercialization by the end of 2021. Nevertheless, a significant volume of PEM fuel cells will reach their end-of-life by 2030, and currently there are not cost efficient processes for recycling their valuable parts containing PGMs. Apart from H
+                <sub>2</sub> fuel storage issues, another serious drawback that fuel cell cars have not yet reached a massive production and selling level, is their high cost
+                <sup>
+                    <xref ref-type="bibr" rid="ref-4">4</xref>
+                </sup>. It should be mentioned that a TOYOTA Mirai has x8 times higher cost than the corresponding passenger car with internal combustion engine. This is partially attributed to the Platinum Group Metals (PGMs) content and price, since a fuel cell car contains 30&#x2013;60 g of PGMs, while the automotive catalyst contains a total of 3&#x2013;5 g of PGMs (depending upon the type of the vehicle). The EU area consumes the world&#x2019;s largest volume of PGMs in industrial applications; ca. 20% of demand worldwide
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>, with ~ 90% of the Pt and 54% of the Pd supply channelled to the production of (electro)catalysts, making it the most demanding application
+                <sup>
+                    <xref ref-type="bibr" rid="ref-6">6</xref>
+                </sup>. Therefore, the main challenge with the current situation is twofold: i) PGMs prices are rising rapidly and the specific materials are facing a serious supply shortage as the PGMs market has been in deficit since 2019, and all-time highs were seen in PGMs prices in 2020, and ii) the almost not existent production of PGMs in Europe ~84% of the primary supply is imported from South Africa and Russia, which have suboptimal geopolitical stability, making Europe entirely dependent on this import
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>. Thus, PGMs are continuously on the Critical Raw Materials List of the EU since 2011 (updated in 2014, 2017 and 2020), with increasing criticality towards EU exploitation
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>
+                </sup>.</p>
+            <p>Based on the above, it is imperative for the EU to secure the supply of PGMs for its end-use applications, allowing room for prospective organisations to be created and operate profitable business on the specific activity. On this scope, the recycling of PGMs containing EoL materials and their reutilisation in the production of new ones, without compromising of the performance and operating efficiency of the new devices, is the major route for reducing the EU PGMs supply/demand gap. In this paper, the technoeconomic aspects of recycling and re-manufacturing of electrocatalysts are analyzed. This is done by applying fundamental business analysis elements adapted to innovation concepts, to overly indicate the prospective business operation margins under the current supply of EoL sources. </p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>The innovation Go-to-Market strategy includes traditional marketing tools and financial sustainability indicators combined and redefined for commercializing offerings (processes and products). In this framework, the elements below are utilised for the aforementioned study:</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <bold>
+                    <italic toggle="yes">Market and Competition Analysis</italic>
+                </bold>, focusing on the current status and size of the market, market trends and expansion potential, the key/dominant players, existing offerings and research under development, categorised depending upon the target TRL of the innovative offering.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <bold>
+                    <italic toggle="yes">Company Go-to-Market strategy development</italic>
+                </bold>, initially formed by utilising a SWOT analysis to identify the Strengths and Opportunities of the market with regard to the S/T development and commercialisation of the offering. Further, possible Weaknesses and Threat in this aspect are identified and mitigation measures are formed to minimize risks and accelerate the commercialisation process.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <bold>
+                    <italic toggle="yes">Business Model Canvas</italic>
+                </bold> to define the business model for generating maximum value to the involved stakeholders as determined by the value proposition of the innovative offering, minimizing in parallel production and commercialisation costs. Special attention is given in the creation of Circular Business Models taking into consideration environmental and social aspects during the commercialisation and ensure an effective business model with minimal socioenvironmental impacts.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <bold>
+                    <italic toggle="yes">Market Share projections</italic>
+                </bold>, including a bottom-up financial modelling forecast considered for the short term, usually the beginning of the commercialisation and up to 5 years ahead, while the commercialisation process is stabilising, and the resource (materials sourcing) capacity is established. Beyond this point, a top-down method is used to determine the financial projections based on market share and commercialization potential (Total Available Market-TAM, Serviceable Available Market-SAM, Serviceable Obtainable Market-SOM model).</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;
+                <bold>
+                    <italic toggle="yes">Financial planning</italic>
+                </bold>, depicting all the commercialization stages as the business potential is evolving, together with revenues and costs streams related with the offering commercialisation in a cumulative Profits and Losses (P&amp;L) table. With respect to innovative market offerings, fundraising rounds are also included and ultimately the financial sustainability indicators are calculated: Net Present Value (NPV), Initial Rate of Return (IRR) and the Break-Even Point for the investment made.</p>
+        </sec>
+        <sec sec-type="results">
+            <title>Results</title>
+            <sec>
+                <title>Market analysis</title>
+                <p>
+                    <bold>
+                        <italic toggle="yes">PGMs market:</italic>
+                    </bold> The global precious metals market, in which PGMs are included together with Au and Ag, was valued at EUR152B (2019) in revenue and the Compound Annual Growth Rate (CAGR) being at 9% between 2020&#x2013;2027. Besides fuel cells (utilizing Pt) and electrolysers (utilising Ir, Ru, Pt, Pd), PGMs are used in a wide range of commercial applications (e.g. electronics, automotive catalytic converters, medical applications, etc.) for which there are often no substitutes. In 2019, the global PGMs supply was 447 tn, out of which 180 tn for Pt and 210 tn for Pd, while the rest accounted for 57 tn. The corresponding gross demand for applications reached 679 tn, creating an annual supply-demand gap of 232 tn. The EU area consumes the world&#x2019;s largest volume of PGMs in industrial applications; ca. 20% of demand worldwide Europe is currently the world&#x2019;s largest consumer of PGMs in industrial applications with a share of ca. 20% of the global demand, estimated at ~154 t worth ~7.5B with current PGMs prices. There are no primary production sites of PGMs in the EU area, and approximately 84% of the primary supply comes from South Africa and Russia. Only about 15% of the worldwide PGMs supply is sourced by processing secondary resources (catalysts, jewellery, high-grade PCBs), while mining of primary deposits, presents extensive operational costs and environmental footprint. In the European area, the market is dominated by 7 key companies (Johnson Matthey-UK, KaiDa Technology-UK, Umicore-BE, Chimet S.p.A.-IT, BASF-DE, Evonik-DE, Heraeus- DE), with Johnson Matthey having ca 40% of the EU market. However, there is a current supply/demand deficit and Brexit hardens the commercial networks of JM in the EU. The majority of the large recycling companies (e.g. Umicore, Johnson Matthey, BASF) apply pyrometallurgical processes for the treatment of PGMs sources and their recovery, which suffer from high energy consumption, high environmental footprint and adverse impacts to both human health and environment, such as those caused by Pb-collectors in the smelting process.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Fuel cells market:</italic>
+                    </bold> The fuel cells market is valued at EUR 218M (2020) and is projected to reach EUR 703 by 2025 (GAGR 26%). The highest end-use case is transportation with more than 30,000 fuel cell cars on the roads, globally. With zero emissions perspective, this market is expected to reach 600,000 units until 2032. Taking into account that each commercial fuel cell utilized in electric car contains about 30&#x2013;60 g Pt, high demand will be accumulated for Pt for this application in the near future. Automotive proton-exchange membrane fuel cells (PEMFCs) have reached sufficient development to be commercially utilised by major automotive companies (incl. TOYOTA, Honda and Hyundai) in electric vehicles. Hydrogen technology cars offer many advantages over battery electric vehicles such as: refuelling time at ca. 3&#x2013;5 min, large milage range-up to 600 km between refuelling, extended lifetime (&gt;200,000 km), high-comfort and safety while driving. Nevertheless, the main residual challenge for PEMFCs is cost. The increased cost of hydrogen cars is due to high mass of platinum (Pt) catalysts being used and the limited production volumes of these devices. Even though Pt loading has decreased significantly in the last few years to ca 0.15 mg Pt/cm
+                    <sup>2</sup> in MEAs, it is a major area needing further reductions. Daimler has reached a 90% reduction of Pt loading in hydrogen models (Mercedes GLC F-Cell vs B-Class F-Cell) since 2009, while Toyota is aiming for a 50% reduction in the TOYOTA Mirai.</p>
+                <p>Furthermore, fuel cells have been proven as a cost effective solution for secondary power generation, especially for the telecommunication field. Batteries and generators that operate on carbonaceous fuels are utilised in most backup-power communication and control systems to allow for undisrupted connection. These traditional power systems are widely utilised, while the need for cost efficient reliability and durability are the main drivers for the industry to seek other power generation technologies. In comparison, fuel cells can offer extended lifetime and better performance in non-optimum environmental conditions. Another advantage of this technology is the compatibility, where fewer moving parts are incorporated, thus requiring less maintenance. Besides, fuel cells systems allow for significant operational cost reduction as they have shorter runtime cycles (max 72 hours operation), compared to conventional battery battery/batterygenerator systems. However, the purchasing cost of a fuel cell power generator is higher upfront, as mentioned before, mainly due to high Pt utilization in MEAs. Under the conventional manufacturing methods, it is projected that ultralow mass utilisation of Pt coupled with large production capacities of fuel cells, could drastically reduce the associated manufacturing costs over the next 10 years. </p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Electrolysers market:</italic>
+                    </bold> The electrolysers market is currently valued at EUR 153M (2020) and is projected to reach EUR 257M by 2026 (GAGR 9%). Electrolysers are primarily utilized in electricity production units and is applicable in the automotive industry, in pharmaceutical and biotechnology and metals and glass industries. Marketwise, the specific market is expected to increase by at least 1000 times by 2040 (from 200 MW current capacity), with 200 GW of electrolyser facility projects in the making, driven by a highly demanding European industrial ecosystem, with infrastructure of over 20 GW installed in Germany, the Netherlands, and Britain, by the end of 2030. With the projected capacity of 214 GW, the EU area could generate up to 32M tn of hydrogen per year, meeting at least 50% of the current demand. Besides, electrolyser facilities are rapidly scaling up, with plans to upgrade the 1&#x2013;10 MW facilities to nominal power capacities of 100&#x2013;500MWs by 2024, to supply local ecosystems. The EU aims to have 40 GW of electrolyser projects operational by 2030, while governments have already initiated projects totalling 34 GW by that date. However, it has been recognized by experts that such an ambitious target cannot be implemented without significant costs reduction in electrolyser infrastructure. PEM electrolysers utilize PGMs (mainly Pd, Ir, Ru, Pt) for their operation, with their EU supply being at limited levels compared to the projected demand. </p>
+            </sec>
+            <sec>
+                <title>SWOT analysis</title>
+                <p>For the purposes of understanding and evaluating the status of the specific market and its potential in relation to recycling and electrocatalysts re-manufacturing, the SWOT analysis was formed (
+                    <xref ref-type="table" rid="T1">Table 1</xref>).</p>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                    <label>Table 1. </label>
+                    <caption>
+                        <title>SWOT analysis.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <tbody>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1" style="background-color:#C2D69B"
+                            valign="top">
+                                    <bold>Strengths</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" style="background-color:#F65850"
+                            valign="top">
+                                    <bold>Weaknesses</bold>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#EAF1DD"
+                            valign="top">S1) Knowledge and expertise on the (raw) materials field and
+                                    <break/>recycling technologies established by research activities for fuel
+                                    <break/>cells and electrolysers, particularly using hydrometallurgical
+                                    <break/>means.
+                                    <break/>S2) Novel, low cost, high efficiency processes, tested for the
+                                    <break/>particular materials (MEAs), exist already in the industrial sector.
+                                    <break/>S3) PGMs recycling is aligned with environmental strategies.
+                                    <break/>S4) PGMs are critical raw materials for the EU and have finite
+                                    <break/>sources worldwide.
+                                    <break/>S5) Robust circular economy operation is created and
+                                    <break/>sustainability is promoted.</td>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#FAC6C6"
+                            valign="top">W1) As the fuel cells/electrolysers market has recently been
+                                    <break/>established, limited EoL materials exist, thus production capacity
+                                    <break/>will not be sufficient to gain significant market share.
+                                    <break/>W2) Commercial channels are not widely established for recycled
+                                    <break/>materials, especially when high specification products are needed.
+                                    <break/>W3) Business expansion and industrialization needs extensive
+                                    <break/>funding.</td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="1" rowspan="1" style="background-color:#92CDDC"
+                            valign="top">
+                                    <bold>Opportunities</bold>
+                                </td>
+                                <td align="center" colspan="1" rowspan="1" style="background-color:#FABF8F"
+                            valign="top">
+                                    <bold>Threats</bold>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#DAEEF3"
+                            valign="top">O1) Green energy production markets are expected to skyrocket
+                                    <break/>in the next few years and the respective devices will be widely
+                                    <break/>utilised across different markets.
+                                    <break/>O2) Public/Private opportunities for funding for further
+                                    <break/>development and business expansion exist in the EU and
+                                    <break/>worldwide.
+                                    <break/>O3) Environmental regulations demand a transition to green
+                                    <break/>energy production across major fields worldwide.
+                                    <break/>O4) The recycled materials are competitive in terms of technical
+                                    <break/>characteristics and price.</td>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#FDE9D9"
+                            valign="top">T1) The PGMs market is highly competitive-consolidated market
+                                    <break/>and difficult to penetrate
+                                    <break/>T2) Market mistrust to recycled and novel products by customers
+                                    <break/>and end users.
+                                    <break/>T3) Product customization and high purity is needed for certain
+                                    <break/>applications, e.g. electrocatalysts for fuel cells/electrolysers and
+                                    <break/>catalysts for automotive catalytic converters.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>The strengths and opportunities identified allow solid recycling and electrocatalysts manufacturing business to be operated for green energy production devices. The advantages of hydrometallurgical processes over pyrometallurgical indicate the preferred use of the specific technology for this business operation. On the other hand, weaknesses and risks have been identified to help resolve marketability issues and deal with bottlenecks to stay ahead of the market. Specifically, mitigation plans are developed for T2 and T3 as process/products demonstrations shall be conducted and relevant certifications need to be obtained for the products and their specifications to match market needs, according to end-products manufacturers. Coupled with prospective dedicated marketing activities in the specific sector, rapid and wide awareness will be created to inform the targeted stakeholders of the value proposition(s) and the quality of the recycled offerings over conventional ones, as well as the potential business opportunity (T1). The mitigation plans for the weaknesses are discussed in the financial planning section.</p>
+            </sec>
+            <sec>
+                <title>Business model canvas</title>
+                <p>Based on the market analysis and the SWOT analysis, the Business Model Canvas is structured to identify the key elements regarding the business model to be followed towards products commercialisation (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>).</p>
+                <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                    <label>Figure 1. </label>
+                    <caption>
+                        <title>Business Model Canvas.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16061/ebd80e4e-888a-49df-be68-7106a4951262_figure1.gif"/>
+                </fig>
+                <p>The business model that was deemed optimal for operating a materials recycling/electrocatalysts re-manufacturing business under the current condition of the market is defined in the Business Model Canvas (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>), centred by the Value Propositions of the novel hydrometallurgical process and the recycled products. Suppliers of EoL green energy production devices (electrolysers and fuel cells) will deliver materials, either the whole device or series of devices namely stacks, where pre-treatment can be subcontracted for business inclusiveness and commercial channels expansion, or parts of the device, such as the MEAs, to the recycling facilities to be treated in premises of the company. There, the innovative hydrometallurgical process for PGMs recovery will take place where finally, the recovered PGMs powder will form the intermediate products (Pure Metals and Metal alloys, as well as Nano Metal Oxides) that will be used to form the final new electrocatalysts materials.</p>
+                <p>The revenue stream is based on selling electrocatalysts for MEAs manufacturing for PEM automotive fuel cells and electrolysers for their utilisation in MEAs and PEMs fuel cells for light duty passenger cars (e-mobility) and green energy power stations. Their estimated price will be formulated according to market prices, the loading of the precious elements, and also taking into account manufacturing costs. Since the raw materials used will derive from a recycling process, their prices will exhibit a ca. 15% cost reduction compared to commercial ones. For reference, it is estimated that the sale price of the recycled electrocatalysts will range at EUR 14.5/g Pt/C, EUR 17/g Pd/C, EUR 21.3/g RuO2, EUR 128/g IrO
+                    <sub>2</sub>. This in turn will allow for a cost reduction in the production of MEAs and automotive fuel cells (MEAs coated with electrocatalysts represent ca 60% of the production cost of one fuel cell device). Therefore, fuel cells with recycled MEAs will also present a ca 10% cost reduction, making them more affordable for the automotive sector, to be utilised in the future vehicles fleet.</p>
+            </sec>
+            <sec>
+                <title>Financial plan</title>
+                <p>Based on the aforementioned business model and the status of the market, a combined 5-year financial plan was drafted for the PGMs recycling revenue stream, to illustrate the business and profit margins coming from the respective sales (
+                    <xref ref-type="table" rid="T2">Table 2</xref>
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-8">8</xref>
+                    </sup>) as evaluated from the current status of the market for the period 2019&#x2013;2021. The financial study and planning were conducted from a conservative to moderate point of view to indicate the low end of commercialisation financials.</p>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Profits and losses (P&amp;L).</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">
+
+                                    <italic toggle="yes">(All values in EUR)</italic>
+                        </th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Year 1</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Year 2</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Year 3</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Year 4</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Year 5</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>EoL MEAs recycled (piece)</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>331200</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>592000</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>920000</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>1576000</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>3120000</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>6539200</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>Electrocatalysts quantity for sale (kg)</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>28</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>48</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>74</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>126</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>221</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>498</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">Pt/C</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">19</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">36</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">56</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">97</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">162</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">
+
+                                    <bold>370</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">Pd/C</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">7</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">8</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">12</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">21</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">42</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">
+
+                                    <bold>90</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">RuO2</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">2</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">2</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">3</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">5</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">10</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">
+
+                                    <bold>21</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">IrO2</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">1</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">2</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">2</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">4</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">8</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#EBF1DE"
+                            valign="top">
+
+                                    <bold>17</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>Revenues -</bold>15% off the market prices (14450 &#x20ac;/kg Pt/C,
+                                    <break/>17000 &#x20ac;/kg Pd/C, 21290 &#x20ac;/kg RuO2, 128350 &#x20ac;/kg IrO2)</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>579724</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>912505</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>1397657</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>2367962</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>4273523</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>9531370</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>Other Revenue streams (private/public fundrainsing)</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>60000</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>60000</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>50000</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>50000</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>50000</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#C4D79B"
+                            valign="top">
+
+                                    <bold>270000</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#76933C"
+                            valign="top">
+
+                                    <bold>Total Gross Revenue from sales</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#76933C"
+                            valign="top">
+
+                                    <bold>639724</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#76933C"
+                            valign="top">
+
+                                    <bold>972505</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#76933C"
+                            valign="top">
+
+                                    <bold>1447657</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#76933C"
+                            valign="top">
+
+                                    <bold>2417962</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#76933C"
+                            valign="top">
+
+                                    <bold>4323523</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#76933C"
+                            valign="top">
+
+                                    <bold>9801370</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>CAPEX</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>1500000</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>0</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>0</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>0</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>0</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>1500000</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">Dissolution, filtration units</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">500000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">500000</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">Solvent extravtion unit</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">400000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">400000</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">Recovery unit</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">300000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">300000</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">Electrocatalytsts manufacturing unit</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">300000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">300000</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>OPEX</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>567806</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>614029</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>679209</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>784588</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>1040644</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#E6B8B7"
+                            valign="top">
+
+                                    <bold>3686276</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">Materials (inc EoL MEAs @0.15 EUR/cm
+                                    <sup>2</sup>, C, consumables,
+                                    <break/>etc.)</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">89680</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">128800</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">178000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">276400</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">508000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">1180880</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">Staff Cost (3 employees full time)</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">242640</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">242640</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">242640</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">242640</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">242640</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">1213200</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">Operations (incl energy, engineering, installation, etc)</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">65486</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">72589</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">88569</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">95548</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">120004</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">442196</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">Decreciations (10% of CAPEX)</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">150000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">150000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">150000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">150000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">150000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">750000</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">Marketing</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">20000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">20000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">20000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">20000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">20000</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">100000</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>Total Cost</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>2067806</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>614029</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>679209</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>784588</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>1040644</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>3686276</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>Other Indirect Costs (10% of Total Costs)</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>206781</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>61403</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>67921</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>78459</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>104064</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#DA9694"
+                            valign="top">
+
+                                    <bold>6191672</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#FCD5B4"
+                            valign="top">
+
+                                    <bold>Operating Profit</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#FCD5B4"
+                            valign="top">
+
+                                    <bold>-1634863</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#FCD5B4"
+                            valign="top">
+
+                                    <bold>297073</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#FCD5B4"
+                            valign="top">
+
+                                    <bold>700527</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#FCD5B4"
+                            valign="top">
+
+                                    <bold>1554915</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#FCD5B4"
+                            valign="top">
+
+                                    <bold>3178815</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#FCD5B4"
+                            valign="top">
+
+                                    <bold>6115094</bold>
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">
+
+                                    <bold>Tax (30%)</bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">0</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">89122</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">210158</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">466474</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">953644</td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#F2DCDB"
+                            valign="top">1719399</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" style="background-color:#00B050"
+                            valign="top">
+
+                                    <bold>
+                                        <italic toggle="yes">Total Net Profit</italic>
+                                    </bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#00B050"
+                            valign="top">
+
+                                    <bold>
+                                        <italic toggle="yes">-1634863</italic>
+                                    </bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#00B050"
+                            valign="top">
+
+                                    <bold>
+                                        <italic toggle="yes">207951</italic>
+                                    </bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#00B050"
+                            valign="top">
+
+                                    <bold>
+                                        <italic toggle="yes">490369</italic>
+                                    </bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#00B050"
+                            valign="top">
+
+                                    <bold>
+                                        <italic toggle="yes">1088440</italic>
+                                    </bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#00B050"
+                            valign="top">
+
+                                    <bold>
+                                        <italic toggle="yes">2225170</italic>
+                                    </bold>
+                        </td>
+                                <td align="right" colspan="1" rowspan="1" style="background-color:#00B050"
+                            valign="top">
+
+                                    <bold>
+                                        <italic toggle="yes">4395695</italic>
+                                    </bold>
+                        </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>It is noted that for evaluating the CAPEX and OPEX of the business case with regard to the maximum EoL materials collected and treated by the process, a hypothesis of a new hydrometallurgical plant is assumed in the scale of semi-industrial, sufficient to treat the below mentioned capacities. The associated infrastructure considered consists of the basic elements mentioned below, representative to a real industrial facility for treating the generating EoL sources: a) three leaching reactors of min 1000 litres volume (estimated price EUR 300,000)</p>
+                <p>b) a filtration unit with a minimum of four filtering columns (estimated price EUR 200,000)</p>
+                <p>c) a mixer settler battery for separation of streams (estimated price EUR 400,000)</p>
+                <p>d) a precipitation/electrorecovery tank (estimated price EUR 300,000)</p>
+                <p>e) a large scale automated electrocatalysts sputtering machine (estimated price EUR 300,000)</p>
+                <p>The associated operating costs for running the unit are estimated to range from EUR 0.5 to 1 million depending upon the expansion of the unit and the processing capacities. It is noted that, at this stage a semi-industrial facility was considered due to the limited resource availability of the EoL materials, and an evaluation was made for minimizing CAPEX/OPEX costs, while maximizing the treatment capacity of the related infrastructure. Overall, the initial upfront investment is estimated at EUR 2 million, while an emergency reserve is estimated at EUR 0.5 million. A semi-industrial unit can be operated with ca 3 full time employees costing an average of EUR 240 per day (based on an 8-hour shift), estimated based on the high end of an average EU salary for specialized personnel.</p>
+                <p>The business plan will be implemented in the beginning of the commercialisation, with only limited number of products that will be produced. The upscaled production line will be ready to recycle ca. 300k &#x0395;&#x03bf;L MEAs annually from year 1 to produce ca 30 kg of electrocatalysts, gradually reaching 3 million MEAs recycled and 200 kg PGMs produced, in year 5. Market shares will gradually increase with primary target the EU PGMs market (Serviceable Available Market-SAM) and at second level the global market (Total Available Market-TAM). By year 5, the business dynamics reflect on obtaining ca 0.5% of the EU market (Serviceable Obtainable Market-SOM) (W3). This will have a significant impact on prospective revenues and profit, which can be utilised towards further investments in case of a good commercialisation scenario to further upscale the production (W2). Furthermore, it is estimated that due to the innovative nature of the business, funds from private/public investment opportunities (e.g. Venture Capitals, EU Horizon/EIT KIC projects, Angel Investors) can be secured, as well as reinvestments of the revenue reserves for business expansion once more materials can be available for recycling. Based on conservative/moderate projected recycling capacities depicted in 
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>, the foreseen revenues translate into a Net Present Value (NPV) of EUR 1.7 million (WACC 5%) with an Initial Rate of Return of 32%, and payback period of 3.8 years, making the specific commercialisation scenario highly attractive for investors, with high implementation potential.</p>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>The green energy production sector is currently under expansion under recent regulations and plans from the EU (e.g. Paris Agreement, Green Deal) for carbon neutrality until 2050. This allows for the development of novel technological devices fuel cells and electrolysers to have a catalytic role in green energy production in the near future. However, such devices utilize PGMs for their operation which have been characterized as critical by the EC. The business opportunities arising from this challenge refer greatly in the recycling of EoL fuel cells and electrolysers to reutilize the PGMs contained in them into new devices. Aiming for a profitable commercialization scenario, the industrials sector must operate a unique processing technology, coupled with Innovation Business Planning to success in commercializing the products. As a simplistic business case, a novel hydrometallurgical process was theorized, potentially sprouting from existing Research and Innovation (R&amp;I) activities as is usually happening with EU cross collaborative projects. The associated marketability elements (Business Model Canvas, SWOT analysis and Financial Planning) can solve major bottlenecks in the beginning and the expansion of a prospective business, and in particular in case of start-up companies. A case study scenario for the recycling of PGMs from EoL fuel cells and electrolysers in the EU area showed that there is potential for profitable operation, even under the conservative/moderate assumptions made for the production capacities and the interest of the markets. Further, it was shown that in such case, the PGMs production business can be decentralized from the few key players dominating it and revolutionized by novel processing methods (i.e. hydrometallurgical over conventional pyrometallurgical ones). On this scope, the respective upfront investment was estimated at EUR 2.5 Million to include all major infrastructure elements alongside the operating costs for installing and operating the unit, while novel processing routes through hydrometallurgy can allow for price reduction of the final products of ca 15%. This in turn, will reduce the cost of commercial electrolysers and fuel cells, making them more affordable for wide utilization and everyday end-use applications. In turn, low cost fuel cells will contribute to lowering the price of fuel cell cars (ca EUR 50,000 current average price) to the EUR 30,000 price range and making them cost competitive with regard to commercial petrol/diesel ones. As concluded from the business case, the initial investment for a semi-industrial recycling/manufacturing facility (ideal balance between cost efficiency and processing capacity maximization) can be repaid within a maximum of 4 years and be financially sustainable in the long term with positive NPV and IRR. Finally, taking into account, societal and environmental aspects, such business scenario very well complies to reduce technological residues and improve societal aspects such as jobs creation, infrastructure and raw materials expertise reinforcement.</p>
+        </sec>
+        <sec>
+            <title>Data availability</title>
+            <p>Open Science Framework: PROMET_H2, 
+                <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17605/OSF.IO/UZ4NH">https://doi.org/10.17605/OSF.IO/UZ4NH</ext-link>
+                <sup>
+                    <xref ref-type="bibr" rid="ref-8">8</xref>
+                </sup>.</p>
+            <p>Data are available under the terms of the Creative Commons Zero "No rights reserved" data waiver (CC0 1.0 Public domain dedication).</p>
+            <p>Revenue projections were made based on the market analysis on the global vehicles fleet powered by fuel cells (30,000 fuel cell cars currently on the roads and expected to reach 600,000 units until 2032). It was assumed that 1,6% of the respective fleet reaches EoL per year, based on their estimated lifespan (100,000 km warranty). Taking into account that each fuel cell contains ca 400 MEAs and 30 g of Pt in total, the associated revenues were calculated based on recycling the PGMs and selling them at discounted prices (15% less) compared to market, as noted in 
+                <xref ref-type="table" rid="T2">Table 2</xref>. The same methodology was followed for calculating the MEAs volume for recycling coming from EoL electrolysers. The projections were made according to market data for 320 electrolyser units in the EU area, taking into account that the recovered PGMs are sold at 15% less than market prices and based on the recovered volumes. The price reduction arises from the novel concept of recycling EoL sources and the associated reduced CAPEX/OPEX hydrometallurgical process operate under. Finally, considering the latter, fundraising rounds can be made possible to exploit the benefits of such concept at the fullest. </p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Staffell</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Scamman</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Velazquez-Abad</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The role of hydrogen and fuel cells in the global energy system.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Energy Environ Sci.</italic>
+               </source>
+               <year>2019</year>;<volume>12</volume>(<issue>Part 2</issue>):<fpage>463</fpage>&#x2013;<lpage>491</lpage>.
+                    <pub-id pub-id-type="doi">10.1039/C8EE01157E</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>O&#x2019;Hayre</surname>
+                            <given-names>RP</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Fuel cells for electrochemical energy conversion.</article-title>
+                    <source>
+
+                        <italic toggle="yes">EPJ Web of Conferences.</italic>
+               </source>
+               <year>2017</year>;<volume>148</volume>:<fpage>00013</fpage>.
+                    <pub-id pub-id-type="doi">10.1051/epjconf/201714800013</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <collab>The Geography of Transport Systems</collab>:
+                    <article-title>Energy Density of some Combustibles (in MJ/kg)</article-title>. accessed: November, 2021.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://transportgeography.org/contents/chapter4/transportation-and-energy/combustibles-energy-content/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="journal">
+                    <collab>PEMBINA Institute</collab>:
+                    <article-title>Hydrogen on the path to net-zero emissions</article-title>. Accessed: November, 2021.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.pembina.org/pub/hydrogen-primer">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Matthey</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>PGM Market Report</article-title>.<year>2020</year>; accessed: November, 2021.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://matthey.com/documents/161599/509428/PGM-market-report-May-2022.pdf/542bcada-f4ac-a673-5f95-ad1bbfca5106?t=1655877358676">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tercero</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>SCRREEN-Report on the future use of Critical Raw Materials</article-title>. accessed: November, 2021.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://scrreen.eu/wp-content/uploads/2019/02/SCRREEN-D2.3-Report-on-the-future-use-of-critical-raw-materials.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="journal">
+                    <collab>European Commission</collab>:
+                    <article-title>Critical raw materials</article-title>. accessed: November, 2021.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/growth/sectors/raw-materials/areas-specific-interest/critical-raw-materials_en">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Spathariotis</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>PROMET_H2.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Open Science Framework.</italic>
+               </source>[Dataset],<year>2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.17605/OSF.IO/UZ4NH">http://www.doi.org/10.17605/OSF.IO/UZ4NH</ext-link>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report29789">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16061.r29789</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Rochas</surname>
+                        <given-names>Sergio</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r29789a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r29789a1">
+                    <label>1</label>Sustainable Energy and Chemistry (EQS), Instituto de Cat&#x00e1;lisis y Petroleoqu&#x00ed;mica, Madrid, Spain</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>15</day>
+                <month>8</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Rochas S</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport29789"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14866.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The manuscript by S. Spathariotis 
+                <italic>et al.</italic> addresses a fundamental aspect, although rarely covered, of the green economy, namely the imperative need of recycling PGM (Pt, Ir, Pd, Ru&#x2026;) from the devices used for the production and use of green hydrogen. In particular the authors focus on the recovery of Pt from fuel cells, especially the fuel cells used in the automotive sector, and the Pt, Ir and Ru used in electrolyzers. The importance of this feature cannot be overestimated, since mining of PGM alone will not suffice to satisfy EU&#x2019;s expected demand of these metals. In addition, as properly identified by the authors, the largest reserves of PGMs, and some of the main companies controlling PMG markets are located in third countries.</p>
+            <p> </p>
+            <p> In their work, the authors present a technoeconomic analysis of the recovery and recycling of PGM metals making a case study for the hydrometallurgical, which according to the authors is superior to the pyrometallurgical one. A brief description of each process should be necessary in order to understand the key aspects of each process, emphasizing the advantages of the hydrometallurgical process. Do the authors know if this process is currently used at commercial level?</p>
+            <p> Through the manuscript, some figures are given without citing references to support them. For instance, it is said that the sale price of the recovered materials could be 15% lower than current market prices. How do the authors get this figure? It is stated that between 30-60 g of Pt are used in fuel cell vehicles. This figure may be a little lower, between 10-20 g (see Thompson 
+                <italic>et al.</italic> (2019
+                <sup>
+                    <xref ref-type="bibr" rid="rep-ref-29789-1">1</xref>
+                </sup>), or SAE Int. J. Sust. Trans., Energy, Env., &amp; Policy / Volume 3, Issue 1, 2022).</p>
+            <p> </p>
+            <p> In their case study, the authors aim to recover Pt, Pd, Ru and Ir from MEAs. What kind of MEAs use Pd?</p>
+            <p> </p>
+            <p> It appears that three persons will be hired to process ca. 6.5 million MEAs in 5 years. This is more than 1200 MEAs per day. Is this figure correct?</p>
+            <p> </p>
+            <p> In the list of equipment an automatic electrocatalyst sputtering is found? Is this equipment needed for preparing the electrocatalysts or for preparing MEAs?</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>I cannot comment. A qualified statistician is required.</p>
+            <p>Is the study design appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it engage with the current literature?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Are all the source data and materials underlying the results available?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Synthesis, characterization and testing of electrocatalysts for fuel cells and electrolyzers</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-29789-1">
+                    <label>1</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Platinum group metal-free catalysts boost cost competitiveness of fuel cell vehicles</article-title>.
+                        <source>
+                            <italic>Nature Catalysis</italic>
+                        </source>.<year>2019</year>;<volume>2</volume>(<issue>7</issue>) :
+                        <elocation-id>10.1038/s41929-019-0291-x</elocation-id>
+                  <fpage>558</fpage>-<lpage>561</lpage>
+                        <pub-id pub-id-type="doi">10.1038/s41929-019-0291-x</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report29777">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16061.r29777</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Benardos</surname>
+                        <given-names>Andreas</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r29777a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r29777a1">
+                    <label>1</label>School of Mining and Metallurgical Engineering, National Technical University of Athens, Athens, Greece</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>8</day>
+                <month>8</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Benardos A</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport29777"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14866.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The work presented by the authors is of good quality and deals with a very interesting research topic, regarding the recycling potential of PGMs from energy storage devices.</p>
+            <p> </p>
+            <p> The importance of recycling platinum group metals is stressed in this work and the economics are calculated for a prospective operating business. The authors have included a very well structured market analysis focusing on the main PGMs containing devices and have presented thoroughly the current status of the corresponding markets, the needs and the main drivers for wide utilization and exploitation.</p>
+            <p> </p>
+            <p> The methodological analysis the authors implemented for extracting meaningful results is well described and consists of basic elements of a business plan analysis. The adaptation of the business plan analysis elements is relatively thorough and financial data and analysis is presented to support the assessment made.</p>
+            <p> Overall, the presented work is of good quality and addresses an emerging application with high potential for market deployment. The data extracted can be useful from a business operational perspective for the industrial ecosystem. However, there some additional points that require further clarification in an attempt to further support the decisions and assumptions made as well as to further enhance the quality of the manuscript.</p>
+            <p> </p>
+            <p> To this end the following are stated: 
+                <list list-type="order">
+                    <list-item>
+                        <p>Important details regarding the market analysis which is presented in the manuscript are given without having being cited appropriately. The authors are encouraged to address this particular issue with proper referencing of the information obtained and used, while they also should stress and identify their own primary market research, if any.</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the SWOT analysis made in Table 1 the authors accurately state the alignment of the proposed effort with the EU strategies already in place. However, issues like minimizing resource dependence in the PGMs and promoting resilient raw material supply chains are not that clearly stated (contrary to the given business model canvas - BMC). Thus, this particular issue should be further commented on and analysed in the manuscript.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The authors are referring to the advantages of hydrometallurgical processes over pyrometallurgical ones. Also they state that this is the preferred technology for their approach. Nevertheless, this is not covered with additional details and although the financial plan section gives brief info regarding the materials/equipment used, the authors should clearly define the hydrometallurgical processes and concept used before the initiation and presentation of the BMC.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The authors' attention is required in Table 2 to clarify the values given (and commented within the manuscript body):</p>
+                        <p> </p>
+                        <p> (a) First of all it is advised that it should be re-written using digit grouping format (perhaps with the use of values in 1,000 &#x20ac; format), allowing the reader to clearly understand the data and numbers given.</p>
+                        <p> (b) The final column giving the aggregation of the categories should be changed as CAPEX and OPEX data are aggregated which is not standard practice in the DCF analysis. If the values are presented, after their discounting (or with the use of WACC), this can be made but only in the OPEX data. After all the overall combined and discounted value of the project is given through the NPV value.</p>
+                        <p> (c) Are the Depreciation and Amortization taken into account? There is a "Decreciations" category that appears to express general expenses but not any (linear?) depreciation of the CAPEX.</p>
+                        <p> (d) Does the "total net profit" column express the yearly cash flow of the project?</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Yes</p>
+            <p>Is the study design appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it engage with the current literature?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Are all the source data and materials underlying the results available?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Mining and Metallurgical Engineering; Cost estimation and feasibility assessment of projects; Design of Underground Mining and Construction projects; Risk Analysis;</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

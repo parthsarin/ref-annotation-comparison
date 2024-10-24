@@ -1,0 +1,2127 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="other"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15321.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Case Study</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Playing with the cultural pilgrimage to stimulate tourism: the xFORMAL project on cultural heritage and informal learning.</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 3 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Siri</surname>
+                        <given-names>Anna</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-1305-4126</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Di Nuzzo</surname>
+                        <given-names>Annalisa</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Marchesini</surname>
+                        <given-names>Simona</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-1384-2912</uri>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>UNESCO Chair in Anthropology of Health. Biosphere and healing systems., University of Genoa, Genova, Italy</aff>
+                <aff id="a2">
+                    <label>2</label>Universit&#x00e0; Suor Orsola, Napoli, Italy</aff>
+                <aff id="a3">
+                    <label>3</label>ALTERITAS &#x2013; Interazione tra popoli, Verona, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:anna.siri@unige.it">anna.siri@unige.it</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>14</day>
+                <month>6</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>93</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>26</day>
+                    <month>4</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Siri A et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-93/pdf"/>
+            <abstract>
+                <p>The focus on culture as an engine of sustainable development has favoured its gradual acquisition by institutions engaged in protection and promotion of heritage as an enabling and systemic factor capable of connecting innovation, education, research, and citizen engagement in a single chain.</p>
+                <p>Knowledge of the landscape that combines works of nature and humankind, and its bio-cultural diversity makes it possible to identify innovative informal education and new tourist itineraries where the real experience is presented as a cultural pilgrimage.</p>
+                <p>The European project of the Marie Sk&#x0142;odowska-Curie Programme RISE project, xFORMAL, in which the authors collaborate, was born to create an informal way of accessing the cultural heritage of one's territory, revealing its past, history, and the civilisations that preceded us.</p>
+                <p>After two years of closure due to the pandemic, this project reintroduced an authentic experience through gamification, a contact with landscapes, museums, and archaeological sites with physical, social, and cultural dimensions of their environments across space and over time.</p>
+                <p>On this basis, the article presents the case study and experimental plan behind the construction of the game xFORMAL as an informal learning case.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Cultural Heritage; Cultural Pilgrimage; Tourism; Anthropology; Sociology; Education 4.0; Gamification; Science Education; Citizen Engagement</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>101008184</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under the Marie Sk&#x0142;odowska-Curie grant agreement No 101008184 (Informal and Non-Formal E-Learning for Cultural Heritage) xFORMAL. </funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>The xFORMAL project aims to create a context where science and technology meet citizens of all ages in an informal intergenerational educational environment based on the interaction of a real experience and virtual game dedicated to the common European cultural heritage. The key ingredients of the project are the history of ancient Europe (partly taught in formal education), landscape (typically, a basis for non-formal learning), the heutagogical approach, virtual/augmented reality (generally recognised as a tool for informal learning) and the sharing of knowledge and experience between researchers from the Social Sciences and Humanities and Information and Communication Technologies in a cross-sectoral context.</p>
+            <p>Intending to contribute to today's social responsibility of heritage education in its various contexts, xFORMAL produces a continuous interaction with the most current forms of educational approaches: from the global one of public archaeology to the conservative one of the conscious memory of the didactics of history and archival sources; from the civil awareness of heritage protection policies, natural and artificial, activated by landscape education to the participative methodologies of the "community cataloguing" of anthropology; from the acquisition of specific skills to the valorisation of creative enterprises; from the opportunities of information sharing and knowledge design to the inclusive design of the latest directions on universal accessibility.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>As we have seen over the past two years, the crisis generated by Covid-19 has heavily affected the cultural and arts sector, in particular impacting museums, cultural venues, all event-related sectors and physical (venue-based) venues. Following their closure, digital content and other experiments aimed at common goals between innovation, culture, education and digital have proliferated.</p>
+            <p>Again, intending to mitigate the economic and social effects caused by the pandemic, Europe has also endowed itself with an exceptional temporary financial measure that is at the heart of 
+                <ext-link ext-link-type="uri" xlink:href="https://next-generation-eu.europa.eu/index_en">NextGenerationEU</ext-link> in which culture plays an essential role in restarting under the banner of common priorities, including sustainability, resilience and cohesion.</p>
+            <p>In the 4.0-dimension of the NextGeneration EU, the third component of the first mission, Digitalization, Innovation, Competitiveness, Culture and Tourism, focuses on tourism and culture. In this context, a specific measure devoted to cultural heritage for the next generation has been outlined, with investments aimed at fostering the creation of a digital heritage of culture, improving physical, sense-perceptual, cultural and cognitive accessibility through effective training actions.</p>
+            <p>Heritage education plays a relevant role, in its plural and interconnected dimension with territories and all citizens and in particular with old and new generations, in the global spirit of the 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.unesco.org/en/articles/unesco-thematic-indicators-culture-2030-agenda">2030 Agenda</ext-link> that recognises all cultures and civilisations as 'crucial factors for sustainable development. Due to its cross-cutting role concerning the environmental, social and economic dimensions of sustainable development, culture is a vector for strengthening unity and inclusion and a powerful driver of growth towards improving and promoting the quality of lifestyles.</p>
+            <p>Within this framework, UNESCO published in 2019 Thematic Indicators for Culture in the 2030 Agenda (Culture|2030), an assessment set of 22 qualitative-quantitative, economic and non-economic thematic indicators through which it aims to measure and monitor the contribution of culture itself to sustainability. The framework highlights its 'transformative' role, and that of the related organisations, both as a factor (driver) and as an agent (enabler) of change for the realisation of new imaginaries, a facilitator of inclusive processes, skills and systems for the completion of dedicated programmes.</p>
+            <p>Culture is therefore placed in a position of proactive confrontation aimed at regenerating forms of active and aware citizenship from a perspective of cooperation between countries.</p>
+            <p>As a confirmation of the sensitivity of the topic, the first Group of Twenty (G20) on Culture held a webinar on 'PRIORITY 3, Building Capacity through Training and Education. Human Capital. The Driver of Culture-led Regeneration&#x2019; to help stabilise the role of culture itself within the G20 Agenda
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>
+                </sup>. The need to promote educational and training actions on culture- and heritage-related values emerges as a condition for the future sustainability of the cultural and creative sectors and is one of the foci of the 
+                <italic toggle="yes">
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.g20.utoronto.ca/2021/210730-culture.html">Rome Declaration of the G20 Culture Ministers</ext-link>
+                </italic>
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>.</p>
+            <p>The document -intended to enshrine the commitment of the parties involved to place culture among the significant economic nodes of the planet's future, integrating it into political and economic planning across the different agendas- reaffirms the value attributed to capacity-building through training and education, "highlighting the role of education and interpretation of cultural heritage to promote appreciation and respect for cultural diversity" as well as the construction of the meanings of heritage itself as a tool to facilitate &#x2018;the conservation, safeguarding and transmission of shared values and know-how to future generations&#x2019;
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>.</p>
+            <p>Europe is renowned for its exceptional skills in the field of cultural heritage. But European excellence in heritage preservation and conservation is jeopardised by the combined effect of the age pyramid and cuts in public budgets; this affects the transmission of heritage knowledge and skills to younger generations.</p>
+            <p>The adoption of the 
+                <italic toggle="yes">
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://culture.ec.europa.eu/document/a-new-european-agenda-for-culture-swd2018-267-final">New European Agenda for Culture</ext-link>
+                </italic>
+                <sup>
+                    <xref ref-type="bibr" rid="ref-3">3</xref>
+                </sup> is at the heart of a relevant series of initiatives promoted by the European Commission (EC) in support of cultural potential. According to the Agenda for Culture, &#x201c;Europe's rich cultural heritage and dynamic cultural and creative sectors strengthen European identity, creating a sense of belonging. Culture promotes active citizenship, common values, inclusion and intercultural dialogue within Europe and across the globe. It brings people together, including newly arrived refugees and other migrants, and helps us feel part of communities. Culture and creative industries also have the power to improve lives, transform communities, generate jobs and growth, and create spill over effects in other economic sectors&#x201d;.</p>
+            <p>It represents a significant step with a view to the recognition of a common identity, the development of learning mobility and the construction of a European space for education by 2025.</p>
+            <p>Focusing on culture, with an approach to diversity and collaborative relations as cohesive factors, the New Agenda aims, among other things, to promote art and culture itself in education to implement collaborative arrangements capable of involving territories in forms of enhancement capable of activating light, sustainable and attractive economies (Council conclusions on the Work Plan for Culture 2019&#x2013;2022)
+                <sup>
+                    <xref ref-type="bibr" rid="ref-4">4</xref>
+                </sup>.</p>
+            <p>In May 2019, the 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://op.europa.eu/en/publication-detail/-/publication/5a9c3144-80f1-11e9-9f05-01aa75ed71a1">European Framework for Action on Cultural Heritage</ext-link>
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup> was published by the European Commission, the first document to recognise the quality of the spill-over effects of a shared cultural heritage on European societies. This framework identifies five key pillars through which to connect heritage to places and communities: improving public access and involvement through digital means; increasing social and economic capital and environmental sustainability; combating illicit trafficking of cultural heritage, increasing the quality of physical interventions on heritage and protecting against natural disasters and climate change; using technologies for innovation on heritage for the benefit of social innovation and capacity building in the sector; and increasing international cooperation.</p>
+            <p>Furthermore, the final approval on 23 September 2020 of the Council of Europe's Framework Convention on the Value of Cultural Heritage for Society, signed in Faro in 2005, has put cultural policies on the track of the new approach to heritage, promoting a broader understanding of cultural heritage and consequently opening a new phase for educational design
+                <sup>
+                    <xref ref-type="bibr" rid="ref-6">6</xref>
+                </sup>.</p>
+            <p>In the current scenario, cultural heritage constitutes a tool rather than a shared space in which to act for the cultural, social, economic and environmental development of a territory and within which to comply with the sustainability principles identified by the seventeen strategic goals (SDGs) of the 2030 Agenda
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>
+                </sup>.</p>
+            <p>UNESCO, in 2019, through the publication Culture|2030 Indicators, defined a framework through which to measure the contribution of culture to environmental and natural sustainability, to the implementation of more welfare-conscious economies, to the identification of soft and hard skills in empowerment and capacity building processes and, finally, to cultural accessibility.</p>
+            <p>On the role of education in achieving the strategic sustainability goals, UNESCO launched the 
+                <italic toggle="yes">Education for Sustainable Development: a Roadmap initiative in 2020</italic>
+                <sup>
+                    <xref ref-type="bibr" rid="ref-8">8</xref>
+                </sup>, which was presented at the recent World Conference in Berlin (17&#x2013;19 May 2021), and which UNESCO placed at the centre of the Global Meeting on Education From Recovery to Accelerating Progress towards Sustainable Development Goal 4 and the more recent International Conference on Transforming Knowledge for Just and Sustainable Futures to mark the 30th anniversary of the UNITWIN/UNESCO Chairs Programme
+                <sup>
+                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                </sup>. The right to inclusive and equitable quality education and the promotion of lifelong learning opportunities for all are themes in which the contribution of education to (and through) cultural heritage plays a not insignificant role. In this framework, it is essential to consider cultural diversity as a factor of human development and heritage, in line with the 
+                <italic toggle="yes">
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities">UN Convention on the Rights of Persons with Disabilities</ext-link>
+                </italic>. The principles recalled in it, like the Article 30, are dedicated to Participation in cultural and recreational life, leisure and sport, are still of current reference for every national and international document on the subject, such as, for example, at the EU level, the recent 
+                <italic toggle="yes">
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/social/main.jsp?catId=1484&amp;langId=en">Strategy for the Rights of Persons with Disabilities for the period 2021- 2030</ext-link>
+                </italic>
+                <sup>
+                    <xref ref-type="bibr" rid="ref-10">10</xref>
+                </sup>, adopted by the European Commission on 3 March 2021.</p>
+            <p>The change of perspective for the training of the individual has given the acquisition of competencies, also in informal and non-formal learning contexts, a substantial value for personal growth, approach to society and in the world of work (
+                <italic toggle="yes">
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018H0604(01)&amp;rid=7">Recommendation of the Council of the European Union on key competences for lifelong learning of 22 May 2018</ext-link>
+                </italic>, new version (2018/C 189/01) updating the previous one (2006/962/EC)
+                <sup>
+                    <xref ref-type="bibr" rid="ref-11">11</xref>
+                </sup>.</p>
+            <p>The functional specificity in open and virtual access learning environments, moreover, makes heritage education sustainable; keeping the implementation of available modalities to guarantee criteria of substantial equality for the dissemination of knowledge and continuous training possible and repeatable over time and conveys, together with respect and responsibility towards heritage, principles of protection, valorisation, and citizenship.</p>
+        </sec>
+        <sec>
+            <title>xFORMAL project</title>
+            <p>The European project of the Marie Sk&#x0142;odowska Curie Programme &#x2013; Research and Innovation Staff Exchange entitled "
+                <ext-link ext-link-type="uri" xlink:href="https://cordis.europa.eu/project/id/101008184">xFORMAL-Informal and Non-Formal E-Learning for Cultural Heritage</ext-link>" acts in the framework in the previous paragraph illustrated.</p>
+            <p>xFORMAL aim at creating an informal way of accessing the cultural heritage of one's territory, revealing its past, its history, the civilisations that preceded us, and the common value.</p>
+            <p>The project will realise this goal through an interactive real and virtual experience that alternatively combines the real world, i.e., a cultural pilgrimage in urban/suburban spaces selected by the xFORMAL Consortium, and an online game where players will find clues to unravel, puzzles to solve, and challenges to embrace.</p>
+            <p>Devoted to students, educators, families, and the larger community, xFORMAL game intersects the head, heart and hands; the &#x201c;three H&#x201d;. More specifically, its goal is to educate the &#x2018;head&#x2019;, promoting authentic understandings of European multifaceted cultural heritage (Heritage Education); engage the &#x2018;heart&#x2019; of people, encouraging a sense of commitment to Europe, and a sense of responsibility to the environment and the global society (Citizenship Education, Sustainable Tourism); and empower the &#x2018;hands&#x2019;, integrating technology in education for active participation in the betterment of society (Education 4.0).</p>
+            <p>In addition to awakening the 
+                <italic toggle="yes">
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018SC0014&amp;from=EN">Key Competences for Life Long Learning</ext-link>
+                </italic>, xFORMAL awakens interest in history, perceived not as something distant and mediated by formal learning but as something with which to have a direct and immediate relationship. Its soul is based on a real experience presented as a cultural pilgrimage, and the narratives developed enable reconstructed cultural scenarios of the ancient world before Romanisation in Italy, France, Spain, and Poland.</p>
+            <p>With the help of a smartphone game application, people encounter the elements of this landscape, gets to know them, studies them, plays with them, and plays with them. On that basis, the xFORMAL game is an informal learning environment with an educational potential involving interdisciplinarity and the acquisition of knowledge and digital, social and cognitive skills.</p>
+            <p>The xFORMAL project fits entirely into international framework since it is:</p>
+            <p>- Inclusive: citizens and communities will be included in the experience of their landscape and cultural heritage.</p>
+            <p>- Participatory: citizens will be invited to play an active role in the process of acquisition of the cultural landscape, participating in the planning, managing and protecting their heritage.</p>
+            <p>- Building capacity of involved actors: all the stakeholders will have equal &#x2018;voice&#x2019; in the Participatory Action Research promoted by xFORMAL.</p>
+            <p>- Sustainable: a bottom-up approach will create direct benefit to the communities, by strengthening the relationships among them to foster local ownership and shared responsibility.</p>
+        </sec>
+        <sec>
+            <title>xFORMAL theoretical framework</title>
+            <p>People today need a broader and deeper set of skills to work, communicate, access information, products and services, and participate in social and civic life. Citizenship education and heritage education share common principles and goals to enhance participation, engagement, and cultural awareness. They are extraordinary tools which can be harnessed to help us understand change and continuity in objects, ideas, traditions, and everyday life. We can foster people's critical awareness to reinterpret their culture through heritage education. In doing this, we ensure processes of social empowerment that enable us to competently preserve a commonly shared past and our cultural heritage as European citizens. The challenge, therefore, is to create channels of communication between the main actors involved in the management of heritage and, at the same time, to promote the engagement of society as the primary recipient and legatee of heritage itself.</p>
+            <p>With all this in mind, heritage education turns out to be one of the main dimensions of citizenship education. It plays a key role in training critical citizens, in the promotion of intercultural education and in the construction of local identities equipped to face the challenges of global citizenship.</p>
+            <p>However, educating with, from, towards and for heritage implies a revision of learning contents and pedagogical tools.</p>
+            <p>From a lifelong learning perspective, youth and adults should possess skills predicted by rapidly changing technology; they should be conducted but not instructed; they should have guided accessibility to information.</p>
+            <p>Education 4.0 is a focused approach to learning that aligns with the fourth industrial revolution and is about transforming the future of education using advanced technology and artificial intelligence. Personalised learning, available anywhere, anytime, collaborative and engagement tools allow for expanding skills required to live in our changing society.</p>
+            <p>Creativity is the foundation of Education 4.0, which eschews theoretical knowledge and pushes learners to learn time management along with the organisational, and collaborative skills essential for the road ahead.</p>
+            <p>The progressive shift from informal learning and entertainment to online platforms and the virtual dimension is likely to negatively affect the perception of cultural landscape and heritage and contribute to a progressive loss of contact with history and its documents on the ground.</p>
+            <p>It follows that starting from the educational level, we need to steer society towards a selection of effective strategies to enable citizens to appropriate their own and others' landscapes through direct exploration, conveyed by refined and reasoned methodologies made available from technology, as suggested by xFORMAL on the basis of the theoretical framework described hereafter.</p>
+            <sec>
+                <title>Heritage education</title>
+                <p>Transversal to knowledge, languages and cultures, heritage education today finds itself having to contribute to the new formative and inclusive challenges and to strengthen, in a dynamic and flexible sense, both the experimentation of an innovative system for knowledge and skills-transfer and an open management system in the sign of sustainability and cultural welfare. In particular, the change of perspective on the centrality of people and communities, in line with the Faro Convention, requires increasingly advanced interactive forms of planning and various collaborative relationships oriented to include territories, schools and universities. In recognising tangible and intangible heritage as a widespread and ever-changing resource, citizens and communities realise its value as a 'common good', as suggested by the 
+                    <italic toggle="yes">
+                        <ext-link ext-link-type="uri"
+                            xlink:href="https://culture.ec.europa.eu/policies/strategic-framework-for-the-eus-cultural-policy">Strategic framework for the EU's cultural policy</ext-link>
+                    </italic>.</p>
+                <p>In this framework, the 
+                    <italic toggle="yes">
+                        <ext-link ext-link-type="uri"
+                            xlink:href="https://openarchive.icomos.org/id/eprint/2436/1/EUQS_revised-2020_EN_ebook.pdf">European quality principles for EU-funded interventions with potential impact upon cultural heritage</ext-link>
+                    </italic> (ICOMOS 2019) guidelines that were drafted are based on the principle of cultural heritage being a 'common good'.</p>
+                <p>The contribution of 'heritage communities' to the cultural domain opens up the construction of meanings and content capable of generating new culture, the joint assumption of civic responsibilities and shared management choices between institutions and local actors, thus making the recognition and sharing of social memory indispensable
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-12">12</xref>
+                    </sup>. Memory is not a property of intelligence, but the basis, whatever it may be, on which concatenations of actions are recorded. According to Zagato
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-12">12</xref>
+                    </sup>, memory, long thought to be a typical individual faculty, has a profoundly social and collective nature: our memories are shared by many other people in our group or our generation so that the memory of the individual is always interwoven with his or her affiliations. There is no identity of the individual nor a collectivity that does not rest on memory understood both as an interpretation of the past and as a prospect towards a future reality, desired or feared. It is in the social context that people, as a rule, acquire their memory. It is always in society that they recall, recognise, and locate their memories.</p>
+                <p>Collective memory contains an undeniable individual dimension. The past never remains as it is but is constantly selected, filtered, and restructured in the terms posed by the demands and needs of the present at both an individual and societal level. It is illusory to believe that our memories must remain unchanged over time and that, if forgotten, it is only a matter of rediscovering their primitive imprint or, at most, correcting the deformations they have undergone. Instead, we must think of memory as an active, living force.</p>
+                <p>As a symbolic system, collective memory is part of the culture. According to Halbwachs
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-13">13</xref>
+                    </sup>, memory plays an important role in defining the cultural system understood as 'a series of conceptions inherited and expressed in symbolic form using which people communicate, perpetuate and develop their knowledge about life and their attitudes towards it'. The collective memory of a group is, for Halbwachs, a set of representations of the past that are preserved and transmitted among its members through their interaction. A synthesis of remembered events and notions, it is also a shared way of interpreting them. Anecdotes, tales, life stories, proverbs, catchphrases, instructions for practical life, common sayings and symbols become syntheses of elements that emerge in interaction and impose themselves on each one as a somewhat codified resource. Within this framework, their stories take on a narrative form and their actions an order taken for granted insofar as they refer to shared and handed-down norms, values, and symbols.</p>
+                <p>As the foundation of identity, collective memory is core in the representations concerning the group's (historical and mythical) origins. It recalls and reinforces the values and norms intrinsically linked to the group's cultural heritage. As Halbwachs demonstrated, each group incessantly selects and reorganises images of the past with the interests and projects that predominate in the present. This process is intrinsically related to the places and the transformations of those places that the community and the relationships it weaves with the opportunities that gradually present themselves. Symbolic aspects, rituals, and land use make possible what is called the ethnicization of the landscape
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-13">13</xref>
+                    </sup>.</p>
+                <p>A place of memory, therefore, needs precise historical and scientific organisation work: the choice of the place, the collection of documentation, the approval of the place by the group or the community, the setting up of a material (museums, house-museum, monuments) or virtual (internet) itinerary, the duration of the place, a valid textual structure that allows the traces of memory present in that particular place to be read and shared by the social group. The specific experiential tourism that is being implemented of material memory places, their sense of stability, given by the real presence of certain traces, guarantees the collective memory a dimension of continuity and favours what Eviatar Zerubavel defines as &#x2018;highly reassuring conservative illusion that nothing fundamental has really changed&#x2019;
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-14">14</xref>
+                    </sup>.</p>
+                <p>The phenomena of &#x2018;globalisation&#x2019;, &#x2018;democratisation&#x2019;, &#x2018;massification&#x2019;, and &#x2018;mediatisation&#x2019;, which have characterised Western society over the last half-century, have also invested, on a social and cultural level, the practices of memory. Memory and history are no longer a unicum oriented towards constructing a past, an identity, and a memory common to the nation. Within this perspective of change, every community must write its history, and every social group must do the same to define and continuously redefine its cultural identity, especially in anthropological terms. This becomes imperative for any social reality, from community to association, from group to ethnic group, down to the individual.</p>
+                <p>The tradition, of which memory is the bearer, is not something mechanically transmitted and passively learned: it can be creatively received, modified and rewritten to the point of being authentic. </p>
+                <p>The place of memory, as a synthesis of one's belongings, thus also becomes a counter-memorial place that inspires new perspectives against the tyranny of the dominant historicized memory
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-15">15</xref>
+                    </sup>. On the other hand, the danger inherent in this reappropriation of places and cultural heritage is that of invented memory of the past as a way of creating a new sense of identity for ruler and ruled
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-16">16</xref>
+                    </sup>.</p>
+                <p>Cultural assets are understood as material and immaterial heritage and represent fundamental elements of a community's experiences. Reconstructing and re-appropriating the roots of specific collective identity without losing sight of the global location of cultures is today a strong point of the new glocal dynamics (e.g., having features that are both local and global) in a genuinely transcultural sense. With a view to the valorisation, fruition and patrimonialisation of the territory, space must also be recognised as the cultural form of the overall physical space (physical-environmental-symbolic territorial) and, therefore the 'subject' of the forms of the landscape and beyond. The traces of human action remain imprinted on things and people and constitute that extra element that makes the construction of a community unique.</p>
+                <p>The 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.commonground.org.uk/parish-maps">Parish Maps</ext-link>, for example, used by the NGO 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.commonground.org.uk/history">Common Ground</ext-link>, founded by Sue Clifford in 1983, constitute for anthropology a sort of reconstruction/re-appropriation of the community subjects both as bearers of culture and as builders of memory, to realise the definition of a &#x2018;place of beauty, wonder, liveability&#x2019; not only of space. Through maps, the young generations, appropriately guided, can be the glue between old and new for pleasurable heritage tourism that induces an emic self-awareness and an identification of one's resources.</p>
+                <p>In an integrated system relating to cultural, natural and economic assets as a whole, it is necessary to promote projects for the valorisation, preservation and enjoyment of the landscape, historical heritage and popular tradition around which the inhabitants themselves, even then perhaps in a network with other neighbouring municipalities, can rediscover their roots, their identity, their ability to create, strengthen and enhance the image of the territory, also through the revitalisation of tradition. </p>
+                <p>The sense of a Community Map, as delineated by the most innovative strands of anthropological research borrowing from the English experience of Parish Maps, consists in the concrete possibility of reconstructing and defining, in a continuous and vital process, the way through which the community represents itself to the world
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-17">17</xref>
+                    </sup>. On this line, the 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.coe.int/en/web/landscape">European Landscape Convention</ext-link> also expresses recognition that effective territory protection can only be implemented with effective social involvement.</p>
+                <p>Community maps, then, are the starting point for making cultural heritage a resource that can concretely serve everyone and the entire development process, to address the economic, social and environmental challenges of globalisation. The community map represents the real re-appropriation by the community of a symbolic yet concrete experienced space that can act as a positive driving force for a definitive and overwhelming take-off of the area.</p>
+                <p>One tool that can facilitate this process and that appears more suitable than others is the Ecomuseum with the related construction of experience tourism routes.</p>
+                <p>The Ecomuseum encompasses a plurality of assets that are also very different from each other, such as oral traditions, festivals and rituals, techniques, and knowledge, and so on 
+                    <xref ref-type="bibr" rid="ref-18">18</xref>,
+                    <xref ref-type="bibr" rid="ref-19">19</xref>.</p>
+                <p>The objective of Ecomuseums' &#x2013; emphasises Antonia Bertocchi &#x2013;, 'is the enhancement of links with the territory, understood both as a more or less intact natural environment and as a man-made environment, i.e., modified by the presence of man and by the type of environmental impact caused by human activities and work'
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-20">20</xref>
+                    </sup>.</p>
+                <p>In this sense, the cultural landscape can and must be incorporated as an efficient resource in the strategies of what anthropologists, particularly in the South American area, call &#x2018;Ethno-Development&#x2019;
+                    <sup>,</sup> since it is one of the components of what we can identify as a community's 'own resources'
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-21">21</xref>,
+                        <xref ref-type="bibr" rid="ref-22">22</xref>
+                    </sup>.</p>
+                <p>Therefore, the enhancement of the cultural landscape must not be reduced, as most of the proposed plans and interventions do, to a container of culture, but its role as a generator of culture must be recognised when it functions as a reference of identification for those who perceive it as the indissoluble heritage of the social group.</p>
+                <p>Undoubtedly the path is long but, in the short term, small constant changes can be promoted. The collection, selection, and cataloguing of the tangible and intangible culture of the community can be realised with structured meetings in which citizens become protagonists to play a multifunctional role. Citizens can become collectors, cataloguers, and users of the heritage of anthropological assets. Still, also, they can be trained in the new professionalism of the sector linked to the knowledge and traditions of the territory, artisan knowledge, popular knowledge and a heritage of oral transmission that could not only be catalogued and collected but also made spectacular by allowing an interactive use of museums.</p>
+                <p>And it is in this microcosm of belonging that the relationship between social sciences, art and history becomes ever closer and more fruitful, profoundly permeating the theoretical framework of the xFORMAL project.</p>
+            </sec>
+            <sec>
+                <title>Heritage Tourism and cultural pilgrimage</title>
+                <p>In light of the new modes of travel, it is necessary to rethink the nature of art cities and heritage tourism, which for Italy and the whole of Europe is a gamble not to be missed. The xFORMAL project can be fully incorporated into heritage tourism, since it considers landscape as a fundamental and integral part of the travel experience
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-23">23</xref>,
+                        <xref ref-type="bibr" rid="ref-24">24</xref>
+                    </sup>.</p>
+                <p>Tourism, in its most innovative and sustainable declinations, contributes to the integration of cultures and mutual recognition, creating a concrete possibility of fruitful pollution
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-25">25</xref>
+                    </sup>.</p>
+                <p>Tourists re-appropriate and share the memory and the territory in the encounter with the host through what is defined as experience tourism: not only the search for new experiences but the search for a social distinction based on an overall lifestyle
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-26">26</xref>
+                    </sup>.</p>
+                <p>The benefit, for the visitor/traveller, is not so much a better understanding of the past, the distant, the different, but a reaffirmation of identity through an understanding of the place one occupies in time and space, 'passing through' the places one encounters.</p>
+                <p>An encounter with otherness defines the dimension of identity. One of the most complex dynamics of the encounter of contemporary societies is determined by mass tourism. In this sense, the anthropology of complex societies defines tourism as a &#x2018;total social fact&#x2019;
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-27">27</xref>
+                    </sup> in its specific possibility of identifying the modes of impact and encounter between guests and hosts. The phenomenon is ancient but, at the same time, linked to postmodernity and new forms of using time and space
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-28">28</xref>
+                    </sup>. The use of time in postmodernity has profoundly changed along with the motivations of tourism or travel understood as leisure. Tourism, no longer linked to the outdated vision of leisure time consumption, becomes a dimension of doing; of building culture as social capital, a resource of a community, a symbolic, institutional construction that allows for the definition of horizons of meaning and memory that arise from the encounter between host and guest communities.</p>
+                <p>Roger Sue speaks of today's 'dominant time' as time freed from the panoptic of traditional capitalist divisions of labour and no longer experienced as worthless 'leisure', as a 'waste of time'
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-29">29</xref>
+                    </sup>.</p>
+                <p>Tourism thus determines decisive changes affecting the mentality and behaviour produced by mobilising local resources, both intellectual and material, in the perspective of new development. Several aspects of the territory and the testimonies of the past that inhabit it are condensed into what is called &#x2018;Heritage Tourism&#x2019;. The main themes of this type of tourism are the landscape, historical dwellings, archaeological, architectural, artistic and natural heritage sites, regional development, special interest tourism, educational excursions, dramatic arts, cultural tours, monument visits, nature trips, the presence of demological interests and traditions combined with post-modernity. It is understood, due to the complexity of the elements involved, that heritage is not only history or reconstruction of past events.</p>
+                <p>History deals with facts and, as Pirandello points out, the fact in itself is like an empty sack in that it does not stand unless you fill it with a content or a concept (&#x2018;Ma un fatto &#x00e8; come un sacco, veda, che vuoto non si regge. Perch&#x00e8; si regga, bisogna prima farci entrar dentro la ragione e i sentimenti che lo han determinato.')
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-30">30</xref>
+                    </sup>. Historical facts do not exist until the historian creates them, sometimes even falsely assumed to be true
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-31">31</xref>
+                    </sup>.</p>
+                <p>While history is thus based on facts, cultural heritage augments available information and provides interpretations according to a logic of surplus of meaning, which in turn creates 'heritage'. Heritage is, therefore, not only history, but is an interpretive and culturally defined act this also with regard to 'natural' heritage.</p>
+                <p>It is in this sense that the territory of the cultural district must be understood, which is a way of profitably interpreting this cultural capital of development on the one hand and of self-definition on the other, contributing to redesigning the areas of cultural belonging. This specificity is realised in constructing the self-representation concerning the tourist's imaginaries and modes of encounter.</p>
+                <p>It is necessary to give the traveller-tourist the possibility of being in the original places where the testimonies of the past lose their arid museum-like character and become sensorially perceptible and experientially recognisable in their original context and its practical immediacy and everydayness. In particular, as the EU invites us to do, it is necessary to rethink and activate tourist flows also and, above all, towards less-known territories and heritage.</p>
+                <p>Throughout Europe, there has been a significant transformation of experiential tourism, and the anthropology of tourism has contributed to innovative projects since the last decades of the last century. The focus has been on the construction of self-representation, the community of belonging in relation to the tourist's imaginaries. There are many definitions that anthropologists have given to this process: Mc Cannel speaks of the sacralisation of the site
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>
+                    </sup>, Butler of tourist space
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-33">33</xref>
+                    </sup>, Cohen of construction of authenticity
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-34">34</xref>
+                    </sup>, Graburn of ritual space
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-35">35</xref>
+                    </sup>, Simonicca of vernacularity of the site
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-36">36</xref>
+                    </sup>. The constituent elements of this articulated process have to do with the definition of spaces, of places for the enjoyment of tradition, and with the construction of an identity-culture that, as S. Behabib says,is often &#x2018;fictitiously superimposed&#x2019;
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-37">37</xref>
+                    </sup>.</p>
+                <p>Tourism relates to all aspects of experiences that invest both new forms of holism and continuous reshaping. According to Cohen
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-34">34</xref>
+                    </sup> and Mc Cannel
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>
+                    </sup>, to name a few of the most accredited theorists, the phenomenon &#x2013; in addition to economic processes and new planning based on sustainable development &#x2013; determines a strong cultural change. For S. Zukin, especially in Europe, art towns encourage tourism linked to the deep roots of local history and tradition
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-38">38</xref>
+                    </sup>. Still, these same motivations also drive visitors to small towns to rediscover lost authenticity and forgotten everyday experiences
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-22">22</xref>
+                    </sup>.</p>
+                <p>Special attention is to be paid at an innovative form of tourism, the pilgrimage. Pilgrimages have been undertaken by humankind in all periods of history
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-39">39</xref>
+                    </sup>. Conceived as a form of communication in space and time by D. Le Br&#x00e9;ton
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-40">40</xref>
+                    </sup>, it is defined as a &#x2018;culture in motion&#x2019; by S. Coleman and J. Eade
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-41">41</xref>
+                    </sup>. But, most importantly, in pilgrimage, the place-centred approach replaces the person-centred approach typical of private worshipping. The contact with the monument&#x2013; the experience of visiting a museum and working with a piece of stone cut centuries ago&#x2013; allows citizens to step outside their homes and project themselves towards the outside world, and in this case, towards the historical identity of their urban or extra-urban landscape that belongs to the entire community. Not surprisingly, some scholars have established parallels between pilgrimage and tourism
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-42">42</xref>,
+                        <xref ref-type="bibr" rid="ref-43">43</xref>
+                    </sup>.</p>
+                <p>Bauman defines the pilgrim (secular or religious) as a &#x2018;restless seeker for identity&#x2019;. He assumes that the destination, the set purpose of life's pilgrimage, gives form to the formless, makes a whole out of the fragmentary, and lends continuity to the episodic. Bauman aims to trace the move from pilgrim to tourist, from modernity to postmodernity, since if the modern problem of identity has been to construct an identity and to keep it stable, the postmodern challenge is how to avoid fixation and thus keep one&#x2019;s options open
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-44">44</xref>
+                    </sup>. An example is provided by the project 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.veronaminorhierusalem.it/">'Verona Minor Hierusalem'</ext-link>, where the pilgrimage pathways developed in the town during the Middle Ages &#x2013; conceived as alternatives to the problematic and perilous routes in the Holy Land &#x2013; have been revitalised and proposed to citizenships to allow the (re)discovery of parts of the town rich in cultural heritage, usually neglected by tourists and citizens. In a couple of years, these districts have enjoyed new popularity in tourism routes, with clear gains also for the hospitality and reception infrastructures in the city.</p>
+            </sec>
+            <sec>
+                <title>Education 4.0 and Informal education</title>
+                <p>Pedagogical approaches are reorienting their paradigms toward innovating educational processes to meet the needs of an ever-changing technological society. Knowledge generation in Education 4.0 transcends pedagogy and andragogy to promote an heutagogical approach, a self-learning centred on the learner that encourages self-reflection and metacognition
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-45">45</xref>
+                    </sup>.</p>
+                <p>Education 4.0, considered a disruptive educational innovation, has some key features: on the one hand, it proposes a strong integration and fusion of various digital and mobile technologies
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-46">46</xref>
+                    </sup> and the availability of open learning environments and educational resources (OER), on the other hand it offers open access, lifelong, individualised and autonomous learning
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-47">47</xref>
+                    </sup>. Education 4.0, as Fisk
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-48">48</xref>
+                    </sup> pointed out, is capable of disaggregating the higher education system in favour of personalised and flexible learning offers
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-49">49</xref>
+                    </sup>.</p>
+                <p>In this sense, the heutagogical approach has been suggested as a theory for applying to emerging technologies in distance education and guiding the ways in which distance educators develop instruction using newer technologies such as social media
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-50">50</xref>
+                    </sup>.</p>
+                <p>The aim is to ensure that future workers are highly trained in the use of emerging technologies and at the same time the development of interdisciplinary skills that can stimulate reflective thinking
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-51">51</xref>,
+                        <xref ref-type="bibr" rid="ref-52">52</xref>
+                    </sup>.</p>
+                <p>In this sense, a key role is played by adaptive learning systems
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-53">53</xref>,
+                        <xref ref-type="bibr" rid="ref-54">54</xref>
+                    </sup> in which technology is used to promote learning according to the profile and needs of each student
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-47">47</xref>
+                    </sup>. Education 4.0 takes place in complex virtual learning environments (VLEs), where there is an increased need for interactive and collaborative educational components
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-55">55</xref>
+                    </sup>.</p>
+                <p>The integration of smart learning environments into the educational ecosystem has been widely mentioned in the literature, defining the characteristics that a smart learning environment must have
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-56">56</xref>,
+                        <xref ref-type="bibr" rid="ref-57">57</xref>
+                    </sup>.</p>
+                <p>Universities, educational institutions and research centres support and encourage educational innovation initiatives and projects to develop new practices involving the application of new technologies.</p>
+                <p>Gamification, for example, derives popularity from games and their inherent abilities to enhance learning through motivation to action, adoption of engaging game mechanics and dynamics, and problem solving in the most diverse fields of knowledge and life of individuals
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-58">58</xref>
+                    </sup>.</p>
+                <p>It is based on the use of elements traditionally found in games, such as storytelling, feedback, reward system, conflict, cooperation, competition, clear goals and rules, interaction, interactivity, among others, in other activities that are not directly associated with games
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-59">59</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-61">61</xref>
+                    </sup>.</p>
+                <p>Serious games have been successfully used in many contexts for developing future skills along with the 21st-century learning ecosystem
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-62">62</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-64">64</xref>
+                    </sup>, as they offer significant advantages, such as combining high-quality content, showing high engagement, and turning mistakes into learning elements
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-65">65</xref>,
+                        <xref ref-type="bibr" rid="ref-66">66</xref>
+                    </sup>.</p>
+                <p>In the literature on the subject, it can be seen that the scope of experimentation is mostly within school and university curricula, i.e., within formal education or non-formal education as defined by the Council of Europe.</p>
+                <p>There is a lack of information, design methodologies and evaluation mechanisms that enable educators to use emerging technologies and pedagogical approaches to provide the right innovative solutions in the field of informal education. According to the Council of Europe, informal education refers to &#x2018;a lifelong learning process, whereby each individual acquires attitudes, values, skills and knowledge from the educational influences and resources in his or her own environment and from daily experience. People learn from family and neighbours, in the marketplace, at the library, at art exhibitions, at work and through playing, reading and sports activities. The mass media are a very important medium for informal education, for instance through plays and film, music and songs, televised debates and documentaries. Learning in this way is often unplanned and unstructured&#x2019;
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-67">67</xref>
+                    </sup>.</p>
+                <p>It is estimated that informal learning accounts for about 80% of our knowledge. With the vast amount of data available to everyone in an accessible and constant way, as our information world or 'infosphere'
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-68">68</xref>
+                    </sup> looms, the school of the future will be increasingly geared towards supporting the cognitive structure and critical apparatus of the learner able to select data and make the best use of it for their education and growth. However, since a significant part of knowledge will continue to come from informal learning, we have the opportunity to take up this challenge and, as academia and as educators, to convey through this mode, albeit hybrid, the fundamental elements of knowledge in a methodologically sound and effective manner.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>xFORMAL case study</title>
+            <p>Moving from the conceptual background based on the framework above, xFORMAL proposes cultural-historical game pathways that allow citizens to rediscover their monuments, museums, and archaeological landscape.</p>
+            <p>The concept of pilgrimage, to valorise a region or a town's cultural heritage, in xFORMAL project, has been adapted to a period of history, which is usually ignored by the school curriculum, i.e., the pre-Roman cultures. Throughout Europe, the history of this period (which runs from the 8th to the 1st c. BC) is rarely presented in History classes, and citizens ignore what is collected in their museums and landscape related to civilisations before Rome.</p>
+            <p>Yet, the heritage left by these ancient peoples, such as the Etruscan in Italy, the Gauls in France or the Hibers in Spain is important and relevant for our times: alongside the alphabet, arrived in Europe from Greece during the late 8th c. BCE, mythology, beliefs or technology have their roots well before Greco-Roman civilisation and form a large part of our historical and cultural heritage, which is largely ignored.</p>
+            <sec>
+                <title>xFORMAL game's ingredients</title>
+                <p>In the xFORMAL game, obstacles are overcome by moving through a complex world, accumulating adequate tools and booty, until finally, the treasure or goal is reached. This genre focuses on exploration and puzzle solving, featuring long-term obstacles without requiring quick reflexes or intense action. The game, that will be available in a release to play on mobile devices at the end of the project, will be developed combining geolocation information with the information retrieved from the platform within a game narrative. The adventure game contains a self-evaluation tool, allows the researchers to answer the main scope of the project, i.e., how informal learning can impact formal education, passing through the intermediation role of Museums and cultural associations.</p>
+                <p>The game&#x2019;s mission is to physically explore a pathway and be creative and quick for finishing the game. It is an adventure-packed geolocation game that has several locations to be visited. Each pathway reveals history and ancient landscapes. The location-based game unfolds in a multicultural environment, stimulating players to walk outdoors and explore the surrounding environment. The player is taken through urban or country landscapes, in modern or historical places.</p>
+                <p>
+                    <bold>
+                        <underline>Aim of the game</underline>
+                    </bold>
+                </p>
+                <p>Realised through real experience of the landscape/heritage chosen by the xFORMAL partners, the game will allow the player to acquire the following abilities, skills, and knowledge, according to the European Framework of Competences and Skills described in the document.</p>
+                <p>xFORMAL will intersect with the following skills:</p>
+                <p>- Digital competence: by playing with devices such as smartphones and tablets.</p>
+                <p>- Personal, social competence and the ability to learn by visiting museums, by playing the game in groups or with the family.</p>
+                <p>- Competence in matters of citizenship: approaching and exploring public places devoted to the preservation of cultural heritage.</p>
+                <p>- Expertise in cultural awareness and expression: by exploring and analysing monuments and other records of the cultural heritage. The entertainment part, based on the challenge and the gaining of special objects, will help informal learning because it will motivate the player to embark on the game and proceed along the path.</p>
+                <p>From an educational perspective, xFORMAL focuses primarily on the development of soft skills, and the partnership will pursue research and development of innovative assessment tools in an informal education setting.</p>
+                <p>Different soft skills intersect the project, namely:</p>
+                <p>- Organisational skills (i.e., time management; critical thinking; strategic planning).</p>
+                <p>- Co-operative skills (i.e., flexibility and adaptability; collaboration and networking; working styles; analytical thinking; implementing changes; fostering creativity).</p>
+                <p>- Creative thinking skills (i.e., innovativeness).</p>
+                <p>- Social skills (i.e., intercultural skills).</p>
+                <p>- Personal skills (i.e., handling stress; self-awareness; personal development; self-management; emotional intelligence).</p>
+                <p>Moving the evaluation system closer to the 
+                    <ext-link ext-link-type="uri" xlink:href="https://europa.eu/europass/en/europass-tools">Europass tools</ext-link>, the framework of the project is the 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://europa.eu/europass/en/europass-tools/european-qualifications-framework">European Qualifications Framework (EQF)</ext-link>, placing of the knowledge, skills, and competence descriptors on three levels (A, B, C).</p>
+                <p>
+                    <bold>
+                        <underline>The pathway-scenarios</underline>
+                    </bold>
+                </p>
+                <p>The game is organised in a framework of pathways, which will be a sort of pilgrimage into the cultural heritage. In the same way as the ancient pilgrims, the gamer will have to gather credentials (tools, awards, points) during the path by solving challenging tasks. xFORMAL called the stations on the pathway with their monuments: &#x2018;scenarios&#x2019;.</p>
+                <p>Each path will be designed following an incremental level of difficulty. Affording the tasks of the first stops, the player will acquire competencies in solving the following tasks. For example, if at the path's start he recognises the alphabet and some letters written on a monument, in the end, he will be able to transcribe more extended portions of an inscription. Each pathway will be composed of multiple stops (e.g., museum, town, archaeological park o site) in which the player will find two-four cultural records (arch, cippus, stele, inscription, vase, coin, etc.).</p>
+                <p>The player will have to solve several tasks for each cultural record (reading letters, measuring the object, recognizing the form, counting, discovering some hidden element, etc). Once all the tasks of each stop are solved, the player will be free to move to the next stop. To solve the tasks (challenges), the player will have some help (educational kit), which can be unlocked in exchange for certain credentials or gadgets accumulated in previous tasks. A short video will present the landscape and the cultural framework in which the player is moving.</p>
+                <p>
+                    <bold>
+                        <underline>Geographic environment</underline>
+                    </bold>
+                </p>
+                <p>In the pathways developed within real landscapes, the player will locate themself in the landscape. They will move on the landscape, and the device will track their position via geolocalisation. A grid with the ancient, reconstructed landscape will be at any time available on the map, allowing to verify the continuity between ancient and modern landscapes.</p>
+                <p>
+                    <bold>
+                        <underline>Challenges typology</underline>
+                    </bold>
+                </p>
+                <p>A series of challenges will be offered to the player. They will be developed according to this entry typology:</p>
+                <p>- fill in the blank (insert the correct letter, number, noun, grapheme sequences; a maximum of 30 letters, spaces included, is allowed)</p>
+                <p>- multiple choice (up to three options selected in a drop-down menu)</p>
+                <p>- select part of an image (by clicking on the picture offered in the game app/environment)</p>
+                <p>- right/false option (answering a question after viewing the videos or reading the educational tools offered by the guide character at each stop).</p>
+                <p>
+                    <bold>
+                        <underline>Educational kit</underline>
+                    </bold>
+                </p>
+                <p>For each pathway's stop and each monument, the player will have an educational kit. All the tools necessary to solve the tasks will be available: a 2.5-minute video introducing the landscape and the epigraphic/archaeological culture, and other tools to recognise alphabets, objects and monuments. Some of them, specifically the introductory videos, will be available from the beginning without restrictions. Other tools will be unlocked after solving some tasks.</p>
+                <p>
+                    <bold>
+                        <underline>Narrative</underline>
+                    </bold>
+                </p>
+                <p>The underlying narrative will be unique for all the x FORMAL Partner countries. It will be centred on two items: 1) solving as many riddles and collecting as many tools as possible, and 2) entering the Common Room (&#x2018;Commons&#x2019;): a virtual space where all the players who have reached the higher scores can meet.</p>
+                <p>Each riddle, taken from collection of Latin text, can be solved only by successfully executing all the challenges related to a single monument. By each assignment, the player will be awarded a part of the enigma. Extra tasks, such as counting, calculating or measuring, or assignments regarding the inscriptions, can provide earnings, in the form of gold rings, power sticks, and pre-Roman or Roman coins. These sub-tasks are fixed for each pathway so that the final score will be compatible with a European-wide competition. The player will be rewarded with extra points by solving the puzzles, and their nickname will appear in the general ranking list with all the game-winners, displayed on the Project platform and the starting page of the app.</p>
+                <p>The Common Room will be a virtual environment. The players will meet and speak to another via. a chat/translation tool embedded in the game. Both the original language and the translation in English/another language will appear. The riddles might be solved only by successfully executing all the tasks in a stop or in a monument. The player will be awarded a part of the enigmas (a few words) by successfully solving the assignment. The word collected on the completion of each task will form the phrase containing the mystery in the Latin language. The player will be rewarded with extra points by solving the puzzles, and their nickname will appear in the general ranking list with all the game-winners, displayed on the Project platform and the starting page of the app. Common Room hosted in a virtual environment for sharing experiences.</p>
+                <p>
+                    <bold>
+                        <underline>Latin language for the underlying narrative</underline>
+                    </bold>
+                </p>
+                <p>Since xFORMAL is framed historically from the 8th century B.C. to Romanization, it is natural for the player to deal with the Latin language during the game. They will find some Latin inscriptions and Roman monuments and will be accompanied the riddles written in Latin for the duration of the route. They will have all the possible online resources to understand the language, and they can ask for some help from someone who can understand the Latin language (a parent, a relative, a friend, or a teacher). They will approach another topic as part of the cultural heritage. </p>
+                <p>
+                    <bold>
+                        <underline>Unlocking necessary educational tools</underline>
+                    </bold>
+                </p>
+                <p>The tools required to solve a challenge will be available but locked. To unlock the tools for the task, you must have solved the previous task successfully. The acquired tools will be available for the player to the end of the game. He will need them to take the final self-assessment test, in which questions on all the topics acquired during the game will be requested. Additional (complex) tasks can allow more scores during the whole path, which will count in the final award after unlocking the riddle. </p>
+                <p>
+                    <bold>
+                        <underline>Gaming analytics</underline>
+                    </bold>
+                </p>
+                <p>xFORMAL adopts gaming analytics to improve its gaming design, according to user preferences, and attract more gamers to play the project game. Data-driven game design effectively engages any gamer at specific levels in the game. The use of game analytics metrics will be used to identify game optimisation points and improve the overall gaming model.</p>
+                <p>The Game Performance Analysis Dashboard is the heart and soul of the game analysis and is critical for identifying any recurrent problem or elevating the game performance. Thanks to data visualization techniques, dashboards are easily accessible for most users and can be deployed in tracking online player data.</p>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusion</title>
+            <p>The whole world is committed to upholding the right to quality education, training, and lifelong learning and to ensure everyone has the opportunity to develop key competencies. They are developed in a lifelong learning perspective, from early childhood to all adult life, through formal, non-formal and informal learning in all contexts, including family, school, workplace, neighbourhood, and other communities. Key competencies are all considered to be of equal importance and contribute to a fruitful life in society. They can be applied in many different contexts and different combinations.</p>
+            <p>The xFORMAL project aims to create a context where science and technology meet citizens of all ages in an informal intergenerational educational environment based on a platform and game dedicated to the common European cultural heritage. The key ingredients of the project are the history of ancient Europe (partly taught in formal education); landscape (typically, a basis for non-formal learning); the heutagogic approach; virtual/augmented reality (generally recognised as a tool for informal learning) and the sharing of knowledge and experience between researchers from the Social Sciences and Humanities and Information and Communication Technologies in a cross-sectoral context.</p>
+            <p>Intending to contribute to today's social responsibility of heritage education in its various contexts, xFORMAL produces a continuous interaction with the most current forms of educational approaches. In particular, the project moves from the global one of public archaeology to the conservative one of the conscious memory of the didactics of history and archival sources; from the civil awareness of heritage protection policies, natural and artificial, activated by landscape education to the participative methodologies of the &#x2018;community cataloguing&#x2019; of anthropology; from the acquisition of specific skills to the valorisation of creative enterprises; from the opportunities of information sharing and knowledge design to the inclusive design of the latest directions on universal accessibility. Last but not least, elements such as critical thinking, problem-solving skills, teamwork, communication and negotiation skills, analytical skills, creativity and intercultural competencies are some of the core competencies that the project aimed to intercept.</p>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>Ethical approval and consent were not required.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <p>All data underlying the results are available as part of the article and no additional source data are required.</p>
+        </sec>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="journal">
+                    <collab>G20 Culture Ministerial Priority 3- Building capacity through training and education</collab>:
+                    <article-title>Human Capital. The driver of Culture-led Regeneration.</article-title>Multi-stakeholder Webinar,<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://carleton.ca/climatecommons/cu-events/human-capital-the-driver-of-culture-led-regeneration-webinar/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <collab>Ministers of Culture of the G20</collab>:
+                    <article-title>Rome Declaration of the G20 Ministers of Culture.</article-title>
+               <year> 2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.g20.utoronto.ca/2021/210730-culture.html">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <collab>European Commission</collab>:
+                    <article-title>New European Agenda for Culture.</article-title>
+               <year> 2018</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://culture.ec.europa.eu/document/a-new-european-agenda-for-culture-swd2018-267-final">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>Council conclusions on the Work Plan for Culture 2019-2022</article-title>.
+                    <ext-link ext-link-type="uri" xlink:href="https://culture.ec.europa.eu/node/96">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <article-title>European Framework for Action on Cultural Heritage</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://op.europa.eu/en/publication-detail/-/publication/5a9c3144-80f1-11e9-9f05-01aa75ed71a1">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cerquetti</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>
+                        <italic toggle="yes">More is Better!</italic> Current Issues and Challenges for Museum Audience Development: A Literature Review.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Journal of Cultural Management &amp; Policy.</italic>
+               </source>
+               <year>2016</year>;<volume>6</volume>(<issue>1</issue>):<fpage>2016</fpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.encatc.org/media/2663-2016encatc_journal_vol6_issue13043.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="journal">
+                    <collab>United Nations</collab>:
+                    <article-title>2030 Agenda for Sustainable Development.</article-title>
+               <year> 2015</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://sdgs.un.org/2030agenda">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="journal">
+                    <collab>UNESCO</collab>:
+                    <article-title>Education for Sustainable Development a Roadmap - ESD 2030.</article-title>
+               <year> 2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000374802.locale=en">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <label>9</label>
+                <mixed-citation publication-type="journal">
+                    <collab>UNESCO</collab>:
+                    <article-title>International Conference on Transforming Knowledge for Just and Sustainable Futures to mark the 30th anniversary of the UNITWIN/UNESCO Chairs Programme.</article-title>
+               <year> 2022</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://en.unesco.org/futuresofeducation/unitwin-30th-anniversary-conference">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <label>10</label>
+                <mixed-citation publication-type="journal">
+                    <collab>European Commission</collab>:
+                    <article-title>Strategy for the Rights of Persons with Disabilities for the period 2021- 2030.</article-title>
+               <year> 2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/commission/presscorner/detail/en/ip_21_810">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <label>11</label>
+                <mixed-citation publication-type="journal">
+                    <collab>Council of the European Union</collab>:
+                    <article-title>Recommendation of the Council of the European Union on key competences for lifelong learning of 22 May 2018.</article-title>
+               <year> 2018</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018H0604(01)&amp;rid=7">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <label>12</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zagato</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Notion of 'Heritage Community' in the Council of Europe&#x2019;s Faro Convention. Its Impact on the European Legal Framework.</article-title>In:
+                    <italic toggle="yes">Between Imagined Communities of Practice: Participation, Territory and the Making of Heritage.</italic>G&#x00f6;ttingen: G&#x00f6;ttingen University Press,<year>2015</year>;<fpage>141</fpage>&#x2013;<lpage>168</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://books.openedition.org/gup/220">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <label>13</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Halbwachs</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>On Collective Memory.</article-title>(Edited, Translated and Introduced by Lewis A Coser). Chicago: University of Chicago Press,<year>1992</year>;<fpage>244</fpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/On_Collective_Memory.html?id=GPhGukFWC84C&amp;redir_esc=y">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <label>14</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zerubavel</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Time Maps: Collective Memory and the Social Shape of the Past.</article-title>Chicago: The University of Chicago Press,<year>2003</year>.
+                    <pub-id pub-id-type="doi">10.7208/chicago/9780226924908.001.0001</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <label>15</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tamm</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Beyond History and Memory: New Perspectives in Memory Studies.</article-title>
+                    <source> 
+
+                        <italic toggle="yes">History Compass.</italic> 
+               </source>
+               <year> 2013</year>;<volume>11</volume>(<issue>6</issue>):<fpage>458</fpage>&#x2013;<lpage>473</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/hic3.12050</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <label>16</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Said</surname>
+                            <given-names>EW</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Invention, Memory, and Place.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Critical Inquiry.</italic>
+               </source>
+               <year>2000</year>;<volume>26</volume>(<issue>2</issue>):<fpage>175</fpage>&#x2013;<lpage>192</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/1344120">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <label>17</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Grasseni</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Ecomuseo-logie. Pratiche e interpretazioni del patrimonio.</article-title>locale Rimini, Guaraldi.<year> 2010</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.parcobarro.it/meab/Grasseni.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <label>18</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>de Varine</surname>
+                            <given-names>H</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>L'&#x00e9;comus&#x00e9;e.</article-title>In:
+                    <italic toggle="yes">Gazette.</italic>Printemps,<year>1978</year>;<volume>11</volume>(<issue>2</issue>):<fpage>29</fpage>&#x2013;<lpage>40</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <label>19</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Corinto</surname>
+                            <given-names>GL</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Ecomuseum of George Henri Rivi&#x00e8;re.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Anthropol.</italic>
+               </source>
+               <year>2020</year>;<volume>35</volume>(<issue>1&#x2013;2</issue>):<fpage>35</fpage>&#x2013;<lpage>56</lpage>.
+                    <pub-id pub-id-type="doi">10.14673/IJA2020121056</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <label>20</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bertocchi</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Il concetto di &#x201c;ecofonte&#x201d;, per un rinnovamento epistemologico dell&#x2019;antropologia eco-museale&#x201d;.</article-title>In:
+                    <italic toggle="yes">Studi Etno-Antropologici e Sociologici.</italic>
+               <year> 2006</year>;<volume>34</volume>.</mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <label>21</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Canclini</surname>
+                            <given-names>NC</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Differenti, disuguali, disconnessi</article-title>. Meltemi Roma.<year>2004</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <label>22</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Castellanos</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Machuca</surname>
+                            <given-names>JA</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Turismo, identidades y exclusion</article-title>. Universidad Autonoma Metropolitana - Casa Juan Pablos, Mexico,<year>2008</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cetri.be/Turismo-identidades-y-exclusion-1043?lang=fr">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <label>23</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Jim&#x00e9;nez-Garc&#x00ed;a</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ruiz-Chico</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pe&#x00f1;a-S&#x00e1;nchez</surname>
+                            <given-names>AR</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Landscape and Tourism: Evolution of Research Topics.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Land.</italic>
+               </source>
+               <year>2020</year>;<volume>9</volume>(<issue>12</issue>):<fpage>488</fpage>.
+                    <pub-id pub-id-type="doi">10.3390/land9120488</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <label>24</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lecteur</surname>
+                            <given-names>I</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>P&#x00e8;lerinage. Une tr&#x00e8;s courte introduction</article-title>. Oxford,<year>2015</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <label>25</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Nagle</surname>
+                            <given-names>JC</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Idea of Pollution</article-title>. 43 U.C. Davis L. Rev. 1 (2009-2010).<year>2009</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://scholarship.law.nd.edu/law_faculty_scholarship/313/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <label>26</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Richards</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Cultural Tourism in Europe</article-title>. CABI, Wallingford.<year>1996</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Cultural_Tourism_in_Europe.html?id=xroeAQAAMAAJ&amp;source=kp_book_description&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <label>27</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Maus</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Essai sur le don: forme et raison de l'&#x00e9;change dans les soci&#x00e9;t&#x00e9;s archa&#x00ef;ques</article-title>. Ann&#x00e9;e Sociologique, seconde s&#x00e9;rie.<year>1923&#x2013;1924</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://classiques.uqac.ca/classiques/mauss_marcel/socio_et_anthropo/2_essai_sur_le_don/essai_sur_le_don.html">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <label>28</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lyotard</surname>
+                            <given-names>JF</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>La condition postmoderne: Rapport sur le savoir</article-title>. Paris: Minuit,<year>1979</year>. (
+                    <italic toggle="yes">The Postmodern Condition: A Report on Knowledge,</italic>translated Geoff Bennington and Brian Massumi, Minneapolis, MN: Minnesota University Press. 1984.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/La_condition_postmoderne_rapport_sur_le.html?id=XKlRPwAACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <label>29</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sue</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Tempo in frantumi</article-title>. Dedalo, Bari,<year>2001</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.edizionidedalo.it/strumenti-scenari/il-tempo-in-frantumi.html">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <label>30</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pirandello</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Six Characters in Search of an Author</article-title>.<year>1921</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.encyclopedia.com/arts/educational-magazines/six-characters-search-author">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <label>31</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bloch</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Apologie pour l'histoire ou m&#x00e9;tier d'historien: &#x00c9;dition critique pr&#x00e9;par&#x00e9;e par &#x00c9;tienne Bloch</article-title>. Armand Colin,<year>1993</year>.  (nouvelle &#x00e9;dition plus compl&#x00e8;te et int&#x00e9;grant des brouillons, pr&#x00e9;fac&#x00e9;e par Jacques Le Goff. R&#x00e9;&#x00e9;dit&#x00e9;e en 2018). 1993.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.sudoc.abes.fr/cbs/DB=2.1//SRCH?IKT=12&amp;TRM=003095584&amp;COOKIE=U10178,Klecteurweb,D2.1,E1dde248a-10a,I250,B341720009+,SY,QDEF,A%5C9008+1,,J,H2-26,,29,,34,,39,,44,,49-50,,53-78,,80-87,NLECTEUR+PSI,R115.96.6.73,FN">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <label>32</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>MacCannel</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Staged Authenticity: Arrangements of Social Space in Tourist Setting.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Am J Sociol.</italic>
+               </source>
+               <year>1973</year>;<volume>79</volume>(<issue>3</issue>):<fpage>589</fpage>&#x2013;<lpage>603</lpage>.
+                    <pub-id pub-id-type="doi">10.1086/225585</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <label>33</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Butler</surname>
+                            <given-names>RW</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The concept of a Tourist Area Cycle of Evolution: Implications for Management of Resources.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Can Geogr.</italic>
+               </source>
+               <year>1980</year>;<volume>24</volume>(<issue>1</issue>):<fpage>5</fpage>&#x2013;<lpage>12</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/j.1541-0064.1980.tb00970.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <label>34</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cohen</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A Phenomenology of Tourist Experiences.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sociology.</italic>
+               </source>
+               <year>1979</year>;<volume>13</volume>(<issue>2</issue>):<fpage>179</fpage>&#x2013;<lpage>201</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/003803857901300203</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-35">
+                <label>35</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Graburn</surname>
+                            <given-names>NHH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Jafari</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Introduction: Tourism social science.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ann Tour Res.</italic>
+               </source>
+               <year>1991</year>;<volume>18</volume>(<issue>1</issue>):<fpage>1</fpage>-<fpage>11</fpage>.
+                    <pub-id pub-id-type="doi">10.1016/0160-7383(91)90035-A</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-36">
+                <label>36</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Simonicca</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Antropologia del turismo</article-title>. La nuova Italia Scientifica, Roma,<year>1997</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-37">
+                <label>37</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Behabib</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Claims of Culture</article-title>. Princeton University Press, Princeton,<year>2002</year>.
+                    <pub-id pub-id-type="doi">10.1515/9780691186542</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-38">
+                <label>38</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zukin</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Naked City: The Death and Life of Authentic Urban Places</article-title>. Oxford University Press,<year>2010</year>.
+                    <pub-id pub-id-type="doi">10.1093/oso/9780195382853.001.0001</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-39">
+                <label>39</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Reader</surname>
+                            <given-names>I</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Pilgrimage: A Very Short Introduction</article-title>. Oxford University Press, United Kingdom,<year>2015</year>.
+                    <pub-id pub-id-type="doi">10.1093/actrade/9780198718222.001.0001</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-40">
+                <label>40</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Le Breton</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Marcher: Eloge des chemins et de la lenteur</article-title>. M&#x00e9;taili&#x00e9;, Paris,<year>2012</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Marcher.html?id=a3G3uAAACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-41">
+                <label>41</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Coleman</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Eade</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Reframing Pilgrimage. Cultures in Motion</article-title>. London and New York: Routledge,<year>2004</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.routledge.com/Reframing-Pilgrimage-Cultures-in-Motion/Coleman-Eade/p/book/9780415303552">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-42">
+                <label>42</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Graburn</surname>
+                            <given-names>NHH</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Tourism: the sacred journey</article-title>. In: V. Smith, ed.,
+                    <italic toggle="yes">Hosts and Guests: the anthropology of Tourism.</italic>University of Pennsylvania, Philadelphia,<year>1977</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Tourism_the_Sacred_Journey.html?id=yhP3PQAACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-43">
+                <label>43</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Myerhoff</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Organization and ecstasy: deliberation and accidental communitas among Huichol Indians and American youth</article-title>. In: S.F. Morre and B. Myerhoff, eds.
+                    <italic toggle="yes">Symbols and Politics in Communal Ideology: cases and questions.</italic>Ithaca: Cornell University Press,<year>1975</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-44">
+                <label>44</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bauman</surname>
+                            <given-names>Z</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>From Pilgrim to tourist - or a short history of identity</article-title>. In: S. Hall, P. du Gay, eds.,
+                    <italic toggle="yes">Questions of Cultural Identity.</italic>London,<year>1996</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://psycnet.apa.org/record/1996-98438-001">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-45">
+                <label>45</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Blaschke</surname>
+                            <given-names>LM</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Heutagogy and Lifelong Learning: A Review of Heutagogical Practice and Self-Determined Learning.</article-title>
+                    <source>
+
+                        <italic toggle="yes">The International Review of Research in Open and Distance Learning.</italic>
+               </source>
+               <year>2012</year>;<volume>13</volume>(<issue>1</issue>):<fpage>56</fpage>&#x2013;<lpage>71</lpage>.
+                    <pub-id pub-id-type="doi">10.19173/irrodl.v13i1.1076</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-46">
+                <label>46</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Androsch</surname>
+                            <given-names>FM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Redl</surname>
+                            <given-names>U</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>How Megatrends Drive Innovation</article-title>.
+                    <italic toggle="yes">BHM Berg-und H&#x00fc;ttenm&#x00a8;annische Monatshefte</italic>.<year>2019</year>;<volume>164</volume>(<issue>11</issue>):<fpage>479</fpage>&#x2013;<lpage>483</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s00501-019-00901-1</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-47">
+                <label>47</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Luo</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Boland</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Chan</surname>
+                            <given-names>CH</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>How to Use Technology in Educational Innovation</article-title>. In: Roberts L. (eds)
+                    <italic toggle="yes">Roberts Academic Medicine Handbook.</italic>Springer;<year>2020</year>;<fpage>141</fpage>&#x2013;<lpage>7</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-030-31957-1_15</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-48">
+                <label>48</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fisk</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Education 4.0 the Future of Learning Will Be Dramatically Different, in school and throughout life</article-title>.<year>2017</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.peterfisk.com/2017/01/future-education-young-everyone-taught-together">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-49">
+                <label>49</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bartolom&#x00e9;</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Casta&#x00f1;eda</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Adell</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Personalisation in educational technology: The absence of underlying pedagogies.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Educ Technol High Educ.</italic>
+               </source>
+               <year>2018</year>;<volume>15</volume>(<issue>14</issue>):<fpage>1</fpage>&#x2013;<lpage>17</lpage>.
+                    <pub-id pub-id-type="doi">10.1186/s41239-018-0095-0</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-50">
+                <label>50</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Blaschke</surname>
+                            <given-names>LM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hase</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Heutagogy and digital media networks: Setting students on the path to lifelong learning.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Pacific Journal of Technology Enhanced Learning.</italic>
+               </source>
+               <year>2019</year>;<volume>1</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>14</lpage>.
+                    <pub-id pub-id-type="doi">10.24135/pjtel.v1i1.1</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-51">
+                <label>51</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rojko</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Industry 4.0 concept: Background and overview.</article-title>
+                    <source>
+
+                        <italic toggle="yes">International Journal of Interactive Mobile Technologies.</italic>
+               </source>
+               <year>2017</year>;<volume>11</volume>(<issue>5</issue>):<fpage>77</fpage>&#x2013;<lpage>90</lpage>.
+                    <pub-id pub-id-type="doi">10.3991/ijim.v11i5.7072 </pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-52">
+                <label>52</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bughin</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hazan</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lund</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Skill Shift: Automation and the Future of the Workforce.</article-title>McKinsey Global Institute,<year>2018</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.mckinsey.com/featured-insights/future-of-work/skill-shift-automation-and-the-future-of-the-workforce">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-53">
+                <label>53</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kara</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sevim</surname>
+                            <given-names>N</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Adaptive learning systems: Beyond teaching machines.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Contemp Educ Technol.</italic>
+               </source>
+               <year>2013</year>;<volume>4</volume>(<issue>2</issue>):<fpage>108</fpage>&#x2013;<lpage>120</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiU0NDLvcn-AhUm2TgGHXvtBlEQFnoECA4QAQ&amp;url=https%3A%2F%2Ffiles.eric.ed.gov%2Ffulltext%2FEJ1105533.pdf&amp;usg=AOvVaw3VWEvKn-FKMT15qLR2S_S4">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-54">
+                <label>54</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Murray</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>P&#x00e9;rez</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Informing and performing: A study comparing adaptive learning to traditional learning.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Informing Science: The International Journal of an Emerging Transdiscipline.</italic>
+               </source>
+               <year>2015</year>;<volume>18</volume>:<fpage>111</fpage>&#x2013;<lpage>125</lpage>.
+                    <pub-id pub-id-type="doi">10.28945/2165</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-55">
+                <label>55</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Richert</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Plumanns</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gross</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Learning 4.0: Virtual immersive engineering education.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Digital Universities: International Best Practices and Applications.</italic>
+               </source>
+               <year>2015</year>;<volume>2</volume>:<fpage>51</fpage>&#x2013;<lpage>66</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.semanticscholar.org/paper/Learning-4.0%3A-virtual-immersive-Engineering-Richert-Gro%C3%9F/b3ab832814e46e9b79a75c7d7b7520bfa3005595">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-56">
+                <label>56</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zhu</surname>
+                            <given-names>ZT</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Yu</surname>
+                            <given-names>MH</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Riezebos</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A research framework of smart education.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Smart Learning Environments.</italic>
+               </source>
+               <year>2016</year>;<volume>3</volume>(<issue>1</issue>):<fpage>4</fpage>.
+                    <pub-id pub-id-type="doi">10.1186/s40561-016-0026-2</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-57">
+                <label>57</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hariharasudan</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kot</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A scoping review on digital English and Education 4.0 for Industry 4.0.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Soc Sci.</italic>
+               </source>
+               <year>2018</year>;<volume>7</volume>:<fpage>1</fpage>&#x2013;<lpage>13</lpage>.
+                    <pub-id pub-id-type="doi">10.3390/socsci7110227</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-58">
+                <label>58</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Alsawaier</surname>
+                            <given-names>RS</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The effect of gamification on motivation and engagement.</article-title>
+                    <source>
+
+                        <italic toggle="yes">International Journal of Information and Learning Technology.</italic>
+               </source>
+               <year>2018</year>;<volume>35</volume>(<issue>1</issue>):<fpage>56</fpage>&#x2013;<lpage>79</lpage>.
+                    <pub-id pub-id-type="doi">10.1108/IJILT-02-2017-0009</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-59">
+                <label>59</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Dicheva</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dichev</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Agre</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Gamification in education: A systematic mapping study.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Educational Technology &amp; Society.</italic>
+               </source>
+               <year>2015</year>;<volume>18</volume>(<issue>3</issue>):<fpage>75</fpage>&#x2013;<lpage>88</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/jeductechsoci.18.3.75">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-60">
+                <label>60</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Khaleel</surname>
+                            <given-names>FL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ashaari</surname>
+                            <given-names>NS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wook</surname>
+                            <given-names>TSMT</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Gamification elements for learning applications.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Adv Sci Eng Inf Technol.</italic>
+               </source>
+               <year>2016</year>;<volume>6</volume>(<issue>6</issue>):<fpage>868</fpage>&#x2013;<lpage>874</lpage>.
+                    <pub-id pub-id-type="doi">10.18517/ijaseit.6.6.1379</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-61">
+                <label>61</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sailer</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hense</surname>
+                            <given-names>JU</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mayr</surname>
+                            <given-names>SK</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>How gamification motivates: An experimental study of the effects of specific game design elements on psychological need satisfaction.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Comput Human Behav.</italic>
+               </source>
+               <year>2017</year>;<volume>69</volume>:<fpage>371</fpage>&#x2013;<lpage>380</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.chb.2016.12.033</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-62">
+                <label>62</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gurbuz</surname>
+                            <given-names>SC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Celik</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Serious games in future skills development: A systematic review of the design approaches.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Comput Appl Eng Educ.</italic>
+               </source>
+               <year>2022</year>;<volume>30</volume>(<issue>5</issue>):<fpage>1591</fpage>&#x2013;<lpage>1612</lpage>.
+                    <pub-id pub-id-type="doi">10.1002/cae.22557</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-63">
+                <label>63</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Almeida</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Simoes</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Role of Serious Games, Gamification and Industry 4.0 Tools in the Education 4.0 Paradigm.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Contemp Educ Technol.</italic>
+               </source>
+               <year>2019</year>;<volume>10</volume>(<issue>2</issue>):<fpage>120</fpage>&#x2013;<lpage>136</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://eric.ed.gov/?id=EJ1213661">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-64">
+                <label>64</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bahadoorsingh</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dyer</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sharama</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Integrating serious games into the engineering curriculum - a game-based learning approach to power systems analysis.</article-title>
+                    <source>
+
+                        <italic toggle="yes"> Int J Comput Vis Robot.</italic>
+               </source>
+               <year>2016</year>;<volume>6</volume>(<issue>3</issue>):<fpage>276</fpage>&#x2013;<lpage>289</lpage>.
+                    <pub-id pub-id-type="doi">10.1504/IJCVR.2016.077372</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-65">
+                <label>65</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Papanastasiou</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Drigas</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Skianis</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Serious games in K-12 education: Benefits and impacts on students with attention, memory and developmental disabilities.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Program.</italic>
+               </source>
+               <year>2017</year>;<volume>51</volume>(<issue>4</issue>):<fpage>424</fpage>&#x2013;<lpage>440</lpage>.
+                    <pub-id pub-id-type="doi">10.1108/PROG-02-2016-0020</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-66">
+                <label>66</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tsekleves</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cosmas</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Aggoun</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Benefits, barriers and guideline recommendations for the implementation of serious games in education for stakeholders and policymakers.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Br J Educ Technol.</italic>
+               </source>
+               <year>2016</year>;<volume>47</volume>(<issue>1</issue>):<fpage>164</fpage>&#x2013;<lpage>183</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/bjet.12223</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-67">
+                <label>67</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Brander</surname>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pancho</surname>
+                        </name>
+               </person-group>:
+                    <article-title>Compass: A Manual on Human Rights Education with Young People. 3rd ed.</article-title>Council of Europe.<year>2020</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-68">
+                <label>68</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Floridi</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Fourth Revolution: How the Infosphere is Reshaping Human Reality.</article-title>Oxford,<year>2014</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/The_Fourth_Revolution.html?id=hOF_AwAAQBAJ&amp;redir_esc=y">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report33572">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16563.r33572</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Cecalupo</surname>
+                        <given-names>Chiara</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33572a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-4230-3803</uri>
+                </contrib>
+                <aff id="r33572a1">
+                    <label>1</label>Departamento de Humanidades: Historia, Geograf&#x00ed;a y Arte, Universidad Carlos III de Madrid, Getafe, Community of Madrid, Spain</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>7</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Cecalupo C</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33572"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15321.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article is very interesting and aims to present the fascinating xFORMAL project within a broader theoretical framework. The article has very good potential, and I think it needs to be improved in some points.</p>
+            <p> </p>
+            <p> The first three parts offer indeed a broad view of the cultural and political foundations at international level on which the EU-funded xFORMAL project is based. The first section is definitely the most interesting and valuable part of the essay. I really appreciated the comprehensive overview of recent actions made by international bodies for culture and education. It is an excellent summary, very useful for contextualising the project, but which can also be helpful to anyone interested in the topic.</p>
+            <p> </p>
+            <p> The bibliography on pilgrimage, tourism and ecomuseums is also correct and appropriate, though brief in relation to the vast number of texts published recently on these topics. However, as this is a work of an international scope, it would be preferable to present broader examples and comparisons. For example, among the reproductions of the Holy Land conceived as alternatives to the routes to Jerusalem, the experience of Verona Minor Hierusalem is very interesting and could be better contextualised by looking at the numerous examples worldwide (see Crispin Paine's most recent bibliography).</p>
+            <p> </p>
+            <p> I find that the second part of the article needs revision. First of all, what is presented as an xFORMAL case study does not seem to be a case study, nor is it clear whether it describes a finished work or a proposal. The description of a real scenario would really give strength to the essay.</p>
+            <p> </p>
+            <p> In dealing with these themes, however, the authors should better frame the issues of gamification in heritage tourism and learning practices. I suggest looking at further bibliography such as "Tourism Fictions, Simulacra and Virtualities", edited by Maria Gravari-Barbas, Nelson Graburn and Jean-Fran&#x00e7;ois Staszak, Routledge 2020.</p>
+            <p> </p>
+            <p> Similarly, when discussing citizen engagement through digital and virtual, it is important to mention themes of digital tools for heritage (i.e. equality of access to devices, right to disconnection, digital fatigue and digital exclusion). These are key issues, , deeply debated in contemporary museology and heritage use, that cannot be overlooked.</p>
+            <p> </p>
+            <p> At last, I have some concerns regarding the use of &#x2018;pilgrimage&#x2019; in this case. The word 'pilgrimage' (although always defined in the article as 'cultural pilgrimage') is always strongly characterised by religious aspects. In this text, the concept of pilgrimage is applied to non-religious (and pre-Roman) matters, but this is not always obvious to the reader. I suggest to the authors to clarify very well what they mean by the word &#x2018;pilgrimage&#x2019;, and to reflect on the fact that this word do not fit in discourses that focus only on the monuments and places, without entering into the central issue of any &#x201c;pilgrimage&#x201d;, that is the individual, supernatural perception of the place, as experienced by every single visitor.</p>
+            <p>Is the case presented with sufficient detail to be useful for teaching or other practitioners?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full access and reuse by other researchers?</p>
+            <p>Partly</p>
+            <p>Are the conclusions drawn adequately supported by the data and analysis?</p>
+            <p>Partly</p>
+            <p>Is the background of the case&#x2019;s history and progression described in sufficient detail?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Cultural Heritage, Museums, Christian Archaeology</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-33572-1">
+                    <label>1</label>
+                    <mixed-citation>
+                        <person-group person-group-type="author"/>:
+                        <article-title>Tourism Fictions, Simulacra and Virtualities</article-title>.
+                        <source>
+                            <italic>Routledge, Oxford</italic>
+                        </source>.<year>2020</year>;</mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report33580">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16563.r33580</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>L&#x00f3;pez-Salas</surname>
+                        <given-names>Estefan&#x00ed;a</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33580a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2889-6465</uri>
+                </contrib>
+                <aff id="r33580a1">
+                    <label>1</label>Department of Architectural Design, Urban Planning and Composition, Universidade da Coruna, A Coru&#x00f1;a, Galicia, Spain</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>11</day>
+                <month>7</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 L&#x00f3;pez-Salas E</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33580"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15321.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The paper presents the project xFormal that aims to test and improve informal or non-formal learning on Cultural Heritage related to the pre-Roman European history, through the use of game-based technologies.</p>
+            <p> </p>
+            <p> The paper is well-structured into two main parts, after the introduction. The first one is devoted to the presentation of the xFormal project and its theoretical framework, and the second one is focused on the introduction of the cultural-historical game pathways that xFormal project will developed to promote learning in the pre-Roman cultures.</p>
+            <p> </p>
+            <p> The theoretical framework of the project is very well-written, grounded and easy to understand. It is also well-balanced in the presentation of the main research areas related to the study: (1) Heritage education, (2) Heritage Tourism and cultural pilgrimage, and (3) Education 4.0 and Informal Education that, on the whole, offer a brief but really well-explained review of three fundamental areas in which the project is being developed.</p>
+            <p> </p>
+            <p> However, the second part of the structure, the case study could be better introduced and discussed in relation to the theoretical framework previously presented. First of all, it is not clear to what extent the case study has already been implemented or if it is a proposal to be developed, currently. In fact, the case study lacks any reference to the real pathway scenarios that have been selected to its development or a discussion about the results in relation the evaluation systems they are said to be implemented. In addition, in this second part of the article there are some repetitions in relation to the information presented in different sections that make the reader wonder if so many sub-sections are needed or if some of them should be joined (i.e. The Pathway-scenarios + Educational kit (already presented at the end of the previous section); Narrative + Unlocking necessary educational tools).</p>
+            <p> </p>
+            <p> As in the introduction of the article and in the theoretical framework of the project is given importance to the implication of community in writing its own history, I would recommend the authors to explain how the design of the game, pathways-scenarios, and narratives face that aspect. Does the project propose any co-creative experience in the selection and/or design of scenarios and narratives? If so, how was that process implemented or is it being implemented?</p>
+            <p> </p>
+            <p> Another important aspect that both the introduction and theoretical framework point to is universal accessibility, and inclusive design. In fact, it is also point out in the conclusions of the article, but there is a complete lack of information regarding this aspect in the presentation of the case study.</p>
+            <p> </p>
+            <p> In my opinion, it is important that the article discusses in the Conclusion how the case study proposed can achieve or has already achieved the challenges presented in the introduction and theoretical framework. This could be faced with a broader discussion in the conclusions, with more clear and direct relations in between the main points of the theoretical framework, the challenges exposed, and the solutions presented in the case study.</p>
+            <p> </p>
+            <p> Other points to be considered by the authors are the following:</p>
+            <p> </p>
+            <p> 1.The first part of the title (Playing with the cultural pilgrimage to stimulate tourism) should be reconsidered as it does not match its content properly. The article presents a particular project which is more focused on testing new forms of informal education on Cultural Heritage through game-based technologies than on stimulating tourism. The article presents the cultural-historical game pathways, the game ingredients and aims in relation to estimated learning competences, so the main focus in this article is mainly on education, but not on a tourist approach.</p>
+            <p> </p>
+            <p> 2.&#x00a0;While the plain language summary is well-written and clear, the abstract could be improved in particular in what respect to the main aim of the article, the case study, to which only a sentence is devoted at the end of the abstract. It could also be improved the way in which the structure of the article is presented and a brief reference to the results.</p>
+            <p> </p>
+            <p> 3. In the whole text there are some excerpts of external authors that are quote with simple quotation marks and others with double quotation marks. I suggest the authors to use a common way for the quotations. For instance, in the paragraph number 8 of the introduction, we find the following two excerpts: &#x2026;
+                <bold>"</bold>highlighting the role of education and interpretation of cultural heritage to promote appreciation and respect for cultural diversity
+                <bold>"</bold>&#x2026; (double quotation marks)</p>
+            <p> &#x2026;
+                <bold>&#x2018;</bold>the conservation, safeguarding and transmission of shared values and know-how to future generations
+                <bold>&#x2019;</bold>. (simple quotation marks)</p>
+            <p> This issue should be reviewed in the whole article.</p>
+            <p> </p>
+            <p> 4.&#x00a0;In case of long quotations (more than three lines) such as the ones of the Introduction (Paragraph 10, 
+                <italic>Europe&#x2019;s rich cultural heritage and dynamic cultural and creative sectors&#x2026;</italic>) and Education 4.0 and Informal education (Paragraph 12, 
+                <italic>a lifelong learning process, whereby each&#x2026;</italic>), I will recommend the authors to include them as a separate paragraph, indented and in italic type, without quotation marks.</p>
+            <p> </p>
+            <p> 5.&#x00a0;There is a minor mistake in paragraph 4 of the Introduction:</p>
+            <p> 
+                <italic>Heritage education plays a relevant role, in its plural and interconnected dimension with territories and all citizens and in particular with old and new generations, in the global spirit of the 2030 Agenda that recognises all cultures and civilisations as 
+                    <bold>'crucial</bold> factors for sustainable development </italic>[this sentence lacks the closing quotation mark].</p>
+            <p> </p>
+            <p> 6.&#x00a0;There is a minor mistake in paragraph 2 of The pathways-scenarios:</p>
+            <p> </p>
+            <p> 
+                <italic>Each pathway will be composed of multiple stops (e.g., museum, town, archaeological park 
+                    <bold>o</bold> 
+            </italic>[should be 
+                <bold>or</bold>] 
+                <italic>site) in which the player will find two-four cultural records (arch, cippus, stele, inscription, vase, coin, etc.).</italic>
+            </p>
+            <p> </p>
+            <p> 7.&#x00a0;There is a minor mistake in paragraph 2 of Narrative:</p>
+            <p> </p>
+            <p> 
+                <italic>The Common Room will be a virtual environment. The players will meet and speak to another 
+                    <bold>via.</bold> 
+            </italic>[the point should be removed]
+                <italic> a chat/translation tool embedded in the game.</italic>
+            </p>
+            <p>Is the case presented with sufficient detail to be useful for teaching or other practitioners?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full access and reuse by other researchers?</p>
+            <p>Partly</p>
+            <p>Are the conclusions drawn adequately supported by the data and analysis?</p>
+            <p>Partly</p>
+            <p>Is the background of the case&#x2019;s history and progression described in sufficient detail?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Cultural Heritage, Digital Humanities, Monastic Architecture and Landscape, Digital Art and Architectural History</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report33164">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16563.r33164</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Buonincontri</surname>
+                        <given-names>Piera</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33164a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r33164a1">
+                    <label>1</label>Italian National Research Council, Institute of Studies on the Mediterranean, Rome, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>7</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Buonincontri P</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33164"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15321.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article presents a case study of the construction of the game xFORMAL as a technological tool to create an informal way of accessing the cultural heritage. It is an interesting topic and it has been nice to read the study. Despite that, in my opinion, it should be improved for indexing.</p>
+            <p> </p>
+            <p> The paper lacks an appropriate theoretical background, since it does not present the main literature review about gamification in tourism, cultural heritage enhancement through technology, and informal learning. I think also that, in order to enhance the role of culture for stimulating tourism (as the authors recall in the title), they should devote more attention to the tourism sector. More theoretical explanations are necessary about the use of technologies in tourism experience, the main drivers and features of experience in tourism, and the role of culture in stimulating tourism. The link between tourism and the aim of the project (and the game) should be made clearer starting from the introduction section. In this section, authors could be more effective also avoiding confusion between the global and European level of analysis: they should focus to a wider and international level (UNESCO), and then to the Europe level, without mixing them.</p>
+            <p> </p>
+            <p> The empirical part of the study, devoted to the xFORMAL game, should better reflect the theoretical framework of the study, in order to allow to the readers to understand how the game is able to improve the informal education and to enhance the heritage tourism through the use of technology. More information on the game (where it has been tested, how the games and landscapes have been selected, what is the level of appreciation) could be useful to the readers.</p>
+            <p> </p>
+            <p> Conclusion should be better linked to the results that arises from the read of the game through the theoretical framework.</p>
+            <p> </p>
+            <p> At p. 7: at the end of the second line/second column, 18 and 19 have to be superscripts.</p>
+            <p> </p>
+            <p> The paper is well written and easy to understand.</p>
+            <p>Is the case presented with sufficient detail to be useful for teaching or other practitioners?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Partly</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full access and reuse by other researchers?</p>
+            <p>Partly</p>
+            <p>Are the conclusions drawn adequately supported by the data and analysis?</p>
+            <p>Yes</p>
+            <p>Is the background of the case&#x2019;s history and progression described in sufficient detail?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Tourism experience, smart destinations, cultural tourism</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+</article>

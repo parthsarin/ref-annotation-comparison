@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="letter"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15507.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Open Letter</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>ROOTS - Circular policies for changing the biowaste system</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Su&#x00e1;rez</surname>
+                        <given-names>Miguel &#x00c1;ngel</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-4896-6165</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Gambuzzi</surname>
+                        <given-names>Elisa</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-0236-9576</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Soriano Disla</surname>
+                        <given-names>Jos&#x00e9; M.</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-0351-9775</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Castej&#x00f3;n</surname>
+                        <given-names>Gemma</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3113-862X</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Poggiaroni</surname>
+                        <given-names>Giulio</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Ling</surname>
+                        <given-names>James</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>CETENMA, Cartagena, Spain</aff>
+                <aff id="a2">
+                    <label>2</label>European Biomass Industry Association, Brussels, Belgium</aff>
+                <aff id="a3">
+                    <label>3</label>Greenovate! Europe, Brussels, Belgium</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:j.ling@greenovate-europe.eu">j.ling@greenovate-europe.eu</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>16</day>
+                <month>5</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>78</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>3</day>
+                    <month>3</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Su&#x00e1;rez M&#x00c1; et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-78/pdf"/>
+            <abstract>
+                <p>The circular economy has a huge potential to make our societies more sustainable and decarbonised, with a reduced impact on the planet&#x2019;s resources. The deployment of innovative solutions in the field of urban biowaste valorisation and reuse is still hindered by numerous bottlenecks, such as technological readiness, funding and financing tools availability, quality and quantity of biowaste and regulatory barriers. The European Green Deal and associated legislative initiatives provide the opportunity to overcome the last ones.</p>
+                <p>To promote innovative solutions for the European circular bioeconomy and help to overcome the barriers for the deployment of a circular bioeconomy, five Horizon 2020 projects working on biowaste valorisation have teamed up. This joint initiative is named ROOTS - circulaR pOlicies for changing the biOwasTe System. The projects HOOP, VALUEWASTE, SCALIBUR, WaysTUP! and CITYLOOPS are piloting new solutions to transform urban biowaste (food waste and green waste) and wastewater into valuable products like feed, fertilisers, bioplastics, biopesticides, proteins and bioethanol. They use different processes and technologies, but they all rely on high levels of recycling/upcycling and propose valorisation solutions relevant to the uptake of a truly circular bioeconomy.</p>
+                <p>As a result of the work performed and experience acquired, a number of bottlenecks have been identified, on the following topics: biowaste prevention, recycling targets and treatment plants, waste and by-products, biopesticides, insects for animal feed, single cell protein, citizen behaviour, investment needs.</p>
+                <p>For each identified bottleneck, this open letter proposes specifically 1) policy recommendations for each level of governance, and 2) information about solutions, good practices and concrete experiences from the participating projects.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>biowaste</kwd>
+                <kwd>recycling</kwd>
+                <kwd>waste</kwd>
+                <kwd>by-products</kwd>
+                <kwd>biopesticides</kwd>
+                <kwd>insects</kwd>
+                <kwd>animal feed</kwd>
+                <kwd>protein</kwd>
+                <kwd>single cell protein</kwd>
+                <kwd>investment</kwd>
+                <kwd>circular economy</kwd>
+                <kwd>circular bioeconomy</kwd>
+                <kwd>circular cities and regions</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>817788</award-id>
+                    <award-id>818312</award-id>
+                    <award-id>101000836</award-id>
+                    <award-id>821033</award-id>
+                    <award-id>818308</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No [817788](SCALABLE TECHNOLOGIES FOR BIO-URBAN WASTE RECOVERY [SCALIBUR]), No [818312](Unlocking new VALUE from urban bioWASTE [VALUEWASTE]), No [818308](Value chains for disruptive transformation of urban biowaste into biobased products in the city context [WaysTUP!]), No [821033](Closing the loop for urban material flows [CityLoops]), No [101000836](HUB OF CIRCULAR CITIES BOOSTING PLATFORM TO FOSTER INVESTMENTS FOR THE VALORISATION OF URBAN BIOWASTE AND WASTEWATER [HOOP]). </funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Disclaimer</title>
+            <p>The views expressed in this article are those of the author(s). Publication in Open Research Europe does not imply endorsement of the European Commission.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>The circular economy has a huge potential to make our societies more sustainable and decarbonised, with a reduced impact on the planet&#x2019;s resources. The European Union (EU) has made a significant commitment to this model and several initiatives and projects have been launched since the approval of the first 
+                <xref ref-type="bibr" rid="ref-14">Circular Economy package (2015)</xref>.</p>
+            <p>As 34% of European municipal waste is organic, valorisation of biowaste is a key tenet of a circular economy (
+                <xref ref-type="bibr" rid="ref-2">EEA, 2020</xref>). Indeed, the 
+                <xref ref-type="bibr" rid="ref-17">EU Bioeconomy Strategy (2018)</xref> sees cities becoming major circular bioeconomy hubs, where biowaste is a feedstock for safe and sustainable biobased products. Changes in the EU waste legislation are expected to lead to more quality biowaste becoming available for use in biorefineries from 2024.</p>
+            <p>The deployment of innovative solutions in the field of urban biowaste valorisation and reuse is still hindered by numerous bottlenecks, such as technological readiness, funding and financing tools availability, quality and quantity of biowaste and regulatory barriers. The European Green Deal and associated legislative initiatives provide the opportunity to overcome the last ones. This open letter offers a set of concrete recommendations for policy makers together with information about solutions, good practices and concrete experiences.</p>
+        </sec>
+        <sec>
+            <title>The ROOTS Initiative</title>
+            <p>To promote innovative solutions for the European circular bioeconomy and help to overcome the barriers for the deployment of a circular bioeconomy, five Horizon 2020 projects working on biowaste valorisation have teamed up. This joint initiative is named ROOTS - circulaR pOlicies for changing the biOwasTe System.</p>
+            <p>The projects HOOP, VALUEWASTE, SCALIBUR, WaysTUP! and CITYLOOPS are piloting new solutions to transform urban biowaste (food waste and green waste) and wastewater into valuable products like feed, fertilisers, bioplastics, biopesticides, proteins and bioethanol. They use different processes and technologies, but they all rely on high levels of recycling/upcycling and propose valorisation solutions relevant to the uptake of a truly circular bioeconomy.</p>
+            <p>At a first stage, the ROOTS promoters shared their concerns on the regulatory barriers hindering the deployment of circular bioeconomy. The joint work resulted in the release of a first position paper in May 2021 (
+                <xref ref-type="bibr" rid="ref-20">HOOP 
+                    <italic toggle="yes">et al.</italic>, 2021</xref>) discussing four policy issues and the related proposed recommendations. The promoting projects have advanced providing results and evidences. The ROOTS group has grown including one more project and the 25 European cities participating in the five projects provided feedbacks and shared their views. All the gathered knowledge was used to further develop the position paper.</p>
+            <p>As a result of the work performed and experience acquired, a number of bottlenecks have been identified. For each identified bottleneck, this open letter proposes specifically 1) policy recommendations for each level of governance, and 2) information about solutions, good practices and concrete experiences from the participating projects.</p>
+        </sec>
+        <sec>
+            <title>Biowaste prevention</title>
+            <p id="S1">Municipal waste accounts for 27% of total waste generated in the EU (excluding mineral waste) (
+                <xref ref-type="bibr" rid="ref-3">EEA, 2022</xref>). According to the waste hierarchy, prevention is the management system with highest priority. The 2020 EU Circular Economy Action Plan aims to halve the quantity of municipal waste not recycled or prepared for reuse by 2030, while all EU Member States must recycle or prepare for reuse at least 60% of their municipal waste by 2030. As both targets are correlated, ambitious waste prevention actions will be key to reaching them (
+                <xref ref-type="table" rid="T1">Table 1</xref>). In the specific case of food waste, the Farm to Fork Strategy sets ambitious reduction targets, but it would be necessary to define targets for all sub-categories of biowaste: household food waste, green waste, HORECA waste, agri-food industrial waste, wastewater sludges. This recommendation arises from the fact that the generation mechanisms and chemical-physical characteristics of these streams are widely different, and so are the reduction potential and recycling/upcycling options.</p>
+            <table-wrap id="T1" orientation="portrait" position="anchor">
+                <label>Table 1. </label>
+                <caption>
+                    <title>Recommendations for municipal waste prevention.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Recommendations</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Level of governance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Include targets for specific biowaste streams prevention (household food waste, HORECA, agri-food industry,
+                                <break/> green waste) in the &#x201c;
+                                <ext-link ext-link-type="uri"
+                                  xlink:href="https://ec.europa.eu/environment/pdf/waste/prevention/Waste%20prevention%20guidelines.pdf">Commission&#x2019;s guidance to prepare a waste prevention programme</ext-link>&#x201d; (
+                                <xref ref-type="bibr" rid="ref-34">EU c., 2012</xref>)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Include the request to report on the abovementioned targets in the &#x201c;
+                                <ext-link ext-link-type="uri"
+                                  xlink:href="https://ec.europa.eu/environment/archives/waste/reporting/pdf/C_2012_2384.pdf">Questionnaire for Member States reports</ext-link>
+                                <break/> 
+                                <ext-link ext-link-type="uri"
+                                  xlink:href="https://ec.europa.eu/environment/archives/waste/reporting/pdf/C_2012_2384.pdf">on the implementation of Directive 2008/98/EC of the European Parliament and of the Council on waste</ext-link>&#x201d;
+                                <break/>(
+                                <xref ref-type="bibr" rid="ref-7">EU a., 2012</xref>).</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Reduce green waste by fostering sustainable landscaping of green spaces </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Local</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Define a waste prevention plan with specific targets for the different streams of municipal waste</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European, National
+                                <break/> and Local</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Set compulsory food waste prevention targets and practices for large producers such as restaurants, hotels, 
+                                <break/>supermarkets, hospitals</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">National and Regional</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>
+                <bold>Examples of solutions, good practices and concrete experiences</bold>
+            </p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>CITYLOOPS has developed food demand management models in Porto (Portugal) to minimise food waste generation.</p>
+                </list-item>
+                <list-item>
+                    <p>In the HOOP &#x201c;Lighthouse&#x201d; Kuopio (Finland), the waste management company J&#x00e4;tekukko encourages households to compost to reduce biowaste production. The unpublished report by the 
+                        <xref ref-type="bibr" rid="ref-20">HOOP project (2022)</xref> of Kuopio urban metabolism reveals that they generate approximately 40% less biowaste than the average of the other HOOP Lighthouse Cities and Regions.</p>
+                </list-item>
+            </list>
+        </sec>
+        <sec>
+            <title>Recycling targets and treatment plants</title>
+            <p>In 2019, the EU Member States generated more than 225 million tonnes of municipal solid waste, 34 % of which were biowaste (
+                <xref ref-type="bibr" rid="ref-40">Eurostat, 2023</xref>). According to the Waste Framework Directive (WFD, 2008/98/EC); 
+                <xref ref-type="bibr" rid="ref-5">EU, 2008</xref> and the Directive 2018/851, (
+                <xref ref-type="bibr" rid="ref-16">EU a, 2018</xref>) EU countries need to collect biowaste separately or ensure recycling at source from the end of 2023 onwards. Despite there is no specific recycling target for biowaste at EU level, biowaste is key to achieve the EU target to recycle 65 % of municipal waste by 2035 (
+                <xref ref-type="table" rid="T2">Table 2</xref>).</p>
+            <table-wrap id="T2" orientation="portrait" position="anchor">
+                <label>Table 2. </label>
+                <caption>
+                    <title>Recommendations for the improvement of recycling biowaste and biowaste treatment plants.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Recommendations</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Level of governance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Establish recycling targets for biowaste.
+                                <break/>When possible, prioritise the implementation of door-to-door collection (see section 
+                                <xref ref-type="other" rid="S1">Biowaste prevention</xref>).</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European, National 
+                                <break/>and Regional</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Establish door-to-door collection schemes at least for commercial activities such as restaurants, hotels, 
+                                <break/>supermarkets, groceries.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Regional and local</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Establish mechanisms to incentivise the participation in the separate collection of biowaste (
+                                <bold>
+                                    <italic toggle="yes">e.g.</italic>
+                                </bold> pay-as-
+                                <break/>you-throw schemes)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Regional and local</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Define the minimum percentage to be recovered in mechanical-biological treatment plants.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">National and Regional</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>On the other hand, the absence of targets for specific biowaste streams hinders the deployment of biorefineries-based approaches, since their economic viability rely on a sufficient feedstock quantity and quality.</p>
+            <p>
+                <bold>Examples of solutions, good practices and concrete experiences</bold>
+            </p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>WaysTUP! is demonstrating the technological feasibility of the recovery of waste that currently cannot be re-introduced to the market and ends up in landfills or incinerators (for example, cellulosic rejections from wastewater treatment plants used to produce bioethanol and biosolvents, obtaining 115&#x2013;130 litres of bioethanol out of one ton of rejections, according to the unpublished report from the WaysTUP! project (2022).</p>
+                </list-item>
+                <list-item>
+                    <p>In 2019 the HOOP Lighthouses of M&#x00fc;nster (Germany) and Albano Laziale (Italy), that implemented the separate collection of biowaste more than 20 years ago, collected 87% and 94% respectively of the total generated biowaste, according to unpublished reports from Abfallwirtschaftsbetriebe M&#x00fc;nster (2018) and Volsca Ambiente e Servizi S.p.A. (2022). In both cases, door-to-door collection is done. On the other hand, Greater Porto Area (Portugal) does not reach those numbers despite the efforts in separate collection and campaigns. 
+                        <ext-link ext-link-type="uri" xlink:href="https://portal.lipor.pt/pls/apex/f?p=2020:1:0">LIPOR Waste Observatory</ext-link> data centre shows that data are related to the nature of the housing, as big apartment buildings find more difficulties in separate collection.</p>
+                </list-item>
+            </list>
+        </sec>
+        <sec>
+            <title>Waste and by-products</title>
+            <p>Definitions of waste and by-products are included in the 
+                <xref ref-type="bibr" rid="ref-5">EU, 2008</xref> and its amendment with Directive 2018/851 (
+                <xref ref-type="bibr" rid="ref-16">EU a, 2018</xref>). According to them, &#x201c;waste is defined as any substance or object which the holder discards or intends or is required to discard&#x201d;. However, a by-product (Art. 5.1 Directive 2008/98/CE) (
+                <xref ref-type="bibr" rid="ref-5">EU, 2008</xref>) is defined as 
+                <italic toggle="yes">a substance or object resulting from a production process the primary aim of which is not the production of that substance or object is considered not to be waste, but to be a by-product if the following conditions are met:</italic>
+            </p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>
+                        <italic toggle="yes">(a) further use of the substance or object is certain;</italic>
+                    </p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <italic toggle="yes">(b) the substance or object can be used directly without any further processing other than normal industrial practice;</italic>
+                    </p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <italic toggle="yes">(c) the substance or object is produced as an integral part of a production process; and</italic>
+                    </p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <italic toggle="yes">(d) further use is lawful, i.e. the substance or object fulfils all relevant product, environmental and health protection requirements for the specific use and will not lead to overall adverse environmental or human health impacts.</italic>
+                    </p>
+                </list-item>
+            </list>
+            <p>In terms of circular economy, the future use of waste is much more restricted than in the case of by-products. Moreover, this definition also implies that the status of by-product can be only considered for those coming from industrial processes or other economic activities (
+                <italic toggle="yes">i.e.</italic> agriculture) and not for those coming from separate collection from households. This, for example, affects used cooking oils from households, despite having similar characteristics to the oil generated in production facilities. As demonstrated in the project WaysTUP!, the restriction in the definition makes that specific separate collection from households or similar undergoes the waste management route regardless of the quality of the separately collected biowaste.</p>
+            <p>The End-of-Waste status is a bottleneck in the application of circular economy. The conditions for such evaluation are decentralised into the Member States, even at regional level, with unstandardized and potentially very long procedures. These administrative applications, act as a barrier for the entrepreneurship in circular economy (
+                <italic toggle="yes">i.e.</italic> biorefineries) and promote the use of industrial feedstocks only. Actually, the circular bioeconomy business models of many companies and potential start-ups depend on this End-of-Waste status of the feedstock, the lack of which forces companies to apply for waste management licenses to operate, that, again, can be a lengthy and obstructive process. The recognition of End-of-Waste status should be standardized at EU level for biowaste, similarly to what was done for scrap metals, glass and copper by EU Regulations 333/2011 (
+                <xref ref-type="bibr" rid="ref-7">EU b, 2011</xref>), 1179/2012 (
+                <xref ref-type="bibr" rid="ref-11">EU b, 2012</xref>)  and 715/2013 (
+                <xref ref-type="bibr" rid="ref-13">EU b, 2013</xref>), respectively (
+                <xref ref-type="table" rid="T3">Table 3</xref>).</p>
+            <table-wrap id="T3" orientation="portrait" position="anchor">
+                <label>Table 3. </label>
+                <caption>
+                    <title>Recommendations for usage of waste as a by-product in circular economy.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Recommendations</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Level of 
+                                <break/>governance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">To establish the criteria required for End-of-Waste status for several kinds of urban biowaste (
+                                <bold>
+                                    <italic toggle="yes">i.e.</italic>
+                                </bold> food
+                                <break/> waste, green waste, used cooking oils), similarly to what achieved by EU Regulations 333/2011 (
+                                <xref ref-type="bibr" rid="ref-7">EU b, 2011</xref>),
+                                <break/> 1179/2012 (
+                                <xref ref-type="bibr" rid="ref-11">EU b, 2012</xref>) and 715/2013 (
+                                <xref ref-type="bibr" rid="ref-13">EU b, 2013</xref>) for scrap metals, glass and copper, respectively. This
+                                <break/> should help to set an EU reference and to promote unlocking the End-of-Waste requirements on national (or
+                                <break/> regional) level. This can be run through the foreseen implementing acts in Directive 2018/851
+                                <break/> (
+                                <xref ref-type="bibr" rid="ref-16">EU a, 2018</xref>) (Art.6.2) or through more binding policy options (regulations, directives) if preferred. This should
+                                <break/> help to clarify and simplify the End-of-Waste procedures, especially in Member States with lower degree of
+                                <break/> development of policies in the area of biowaste valorisation.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Create a Fast-Track for the obtention of waste management licences for actors upcycling or recycling
+                                <break/> biowaste, to promote the integration of these feedstocks in a circular process. </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">National, regional</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Create specific categories for products coming from biowaste, with their own requirements, allowing for 
+                                <break/>multiple reuse, aligned with the principles of the circular economy. This might be considered in case the 
+                                <break/>bioproduct does not fulfil all the general requirements but still complies with functionality and safety.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European,
+                                <break/> national</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>
+                <bold>Examples of solutions, good practices and concrete experiences</bold>
+            </p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>The technology provider for the production of bioplastics from used cooking oils, involved in WaysTUP! and HOOP, demonstrates that it is easy to analyse a feedstock to evaluate whether it meets technical specifications for their biotechnology process.</p>
+                </list-item>
+                <list-item>
+                    <p>Within SCALIBUR, WaysTUP! and HOOP, hydrolysis and pyrolysis are employed to treat biowaste, which properties are significantly modified in the process, transforming it into either a nutrient/culture medium for bioprocesses or a bioproduct (biochar) for further use.</p>
+                </list-item>
+                <list-item>
+                    <p>Regulatory barriers were experienced when installing VALUEWASTE pilot plant in Murcia (Spain) waste treatment facility. Apart from the environmental authorisation for the pilot plant which took more time than expected, two VALUEWASTE partners operating the pilot were requested to obtain a waste management licence, which delayed the beginning of the pilot plant operations.</p>
+                </list-item>
+                <list-item>
+                    <p>As conveniently described in the Section 
+                        <xref ref-type="other" rid="S2">Single cell protein (SCP)</xref>, UNIBIO has demonstrated the safety/functionality of their product using biogas as feedstock.</p>
+                </list-item>
+            </list>
+        </sec>
+        <sec>
+            <title>Biopesticides</title>
+            <p>Biopesticides are defined as &#x201c;low risk&#x201d; plant protection products, which implies &#x201c;not containing substances of concern, being sufficiently active, and not causing unnecessary pain and suffering to vertebrates to be controlled&#x201d;, according to Regulation 1107/2009 (
+                <xref ref-type="bibr" rid="ref-34">EU c, 2009</xref>). However, biopesticides have to face several barriers for their application as biocontrol products in terms of: durability, risk assessment, infrastructure requirements for their application, knowledge transfer from distributers to farmers, effective integration in plant disease management protocols, integrated and/or customised formulations, harmonisation and mutual recognition procedures for regulatory purposes and the uncertainty about the secure registration of new biopesticides.</p>
+            <p>Nevertheless, the European Commission following the Farm to Fork Strategy has revised the EU&#x2019;s pesticide framework and set an EU-binding 50% chemical pesticide reduction target by 2030 but leave Member States free to set their own national targets. This support will help to speed up the market uptake of these products.</p>
+            <p>Nowadays, the lack of specific regulation for biopesticides means that these forms of biocontrol have not yet been able to live up to their full potential, as currently it takes around a decade to reach the market.</p>
+            <p>We propose the following recommendations (
+                <xref ref-type="table" rid="T4">Table 4</xref>) to mitigate this situation:</p>
+            <table-wrap id="T4" orientation="portrait" position="anchor">
+                <label>Table 4. </label>
+                <caption>
+                    <title>Policy recommendations to facilitate the market uptake of biopesticides.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Recommendations</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Level of
+                                <break/> governance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Create a simplified specific regulatory framework based on scientific data coming from research activities
+                                <break/> and projects allowing for an easier commercialisation of biopesticides. This regulatory feature should 
+                                <break/>consider the specific features of biopesticides in contrast to chemical pesticides, and act accordingly. </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European, National
+                                <break/> and Regional</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Elaborate guidance documents that will enable the EU farmers to have access to alternative treatments
+                                <break/> through biopesticides already in the market and update them regularly; enhance, promote and prioritise the 
+                                <break/>use of biopesticides 
+                                <bold>
+                                    <italic toggle="yes">versus</italic>
+                                </bold> the chemical ones; integrate them in the Integrated Management Plan and in
+                                <break/> the Common Agricultural Policy and update them regularly; identify and quantify the environmental, social 
+                                <break/>and economic benefits of using biopesticides 
+                                <bold>
+                                    <italic toggle="yes">versus</italic>
+                                </bold> their chemically-derived counterparts; facilitate the 
+                                <break/>application and registration requirements in the EU including flexibility to new products.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Update the regulation/restriction/ban in those cases where the use of chemical pesticides has shown a clear 
+                                <break/>negative effect on environment and human health and favour and promote the use of biopesticides as their 
+                                <break/>direct substitutes.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European, National 
+                                <break/>and Regional</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>
+                <bold>Examples of solutions, good practices and concrete experiences</bold>
+            </p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;By means of two different processes based on submerged and solid-state fermentation of the separately collected urban biowaste, successfully implemented and validated at pilot scale, SCALIBUR produced 
+                <italic toggle="yes">Bacillus thuringiensis</italic> (Bt) (
+                <italic toggle="yes">var. kurstaki</italic> and 
+                <italic toggle="yes">var. israelensis</italic>, respectively) derived biopesticides. The final product is being tested (insecticide activity) in order to quantify its effect against a concrete pest. (Bt) Biopesticides are the most widely explored and commercially successful microbial insecticides. However, the traditional production process is based on the use of defined synthetic media and first-generation carbon sources. The approach of SCALIBUR&#x2019;s project is based on the use of renewable sources (urban biowaste). The bioconversion of urban biowaste into biopesticides has many important considerations: (1) low-cost feedstock that increases market competitiveness of biopesticides over chemical counterparts; (2) generation of environmentally friendly bioproduct; (3) minimization of solid waste, thus promotion of circular economy; and (4) reduction of non-renewable resources use.</p>
+        </sec>
+        <sec>
+            <title>Insects for animal feed</title>
+            <p>Insects are a great source of proteins and using biowaste to grow and feed insects could unlock several economic opportunities. However, the uptake of circular insect breeding for nutritional purposes faces obstacles like the prohibition to feed insects with biowaste, the limitation of species that can be fed with insects, and the spare number of insect species allowed for human and animal nutrition purposes.</p>
+            <p>The projects of ROOTS are developing value-chains based on insect-rearing for feed production. Until 2021, the use of insects for feed purposes was approved only for aquaculture. However, since the second half of 2021, insect protein is allowed for pig and poultry feed. This is in line with objectives of the Farm to Fork strategy, aiming to make livestock farming more sustainable and seek alternative feed materials. Insect-protein could be the answer to this challenge.</p>
+            <p>As discussed, the main challenge comes from the feedstock used for feeding insects since it is not allowed to use neither separately collected urban biowaste (tested in VALUEWASTE and WaysTUP!), nor digestate from anaerobic digestion of separately collected urban biowaste (tested in VALUEWASTE). This is stated in Regulation 767/2009 Annex III Chapter 1.6 for urban solid waste (
+                <xref ref-type="bibr" rid="ref-30">EU a, 2009</xref>). This Regulation (Annex III Chapter 1.6 for urban solid waste) makes an exception with catering waste (HORECA waste, SCALIBUR), which according to Regulation 142/2011 (
+                <xref ref-type="bibr" rid="ref-32">EU a, 2011</xref>) (Annex I 22) implementing the Regulation 1069/2009 (
+                <xref ref-type="bibr" rid="ref-31">EU b, 2009</xref>) (about animal by-products and derived products not intended for human consumption) is defined as &#x201c;all waste food, including used cooking oil originating in restaurants, catering facilities and kitchens, including central kitchens and household kitchens.&#x201d; This category also appears in the Regulation 2017/1017 (
+                <xref ref-type="bibr" rid="ref-34">EU a, 2017</xref>) amending Regulation (EU) No 68/2013 (
+                <xref ref-type="bibr" rid="ref-33">EU a, 2013</xref>) on the Catalogue of feed materials as catering reflux (Category 9.9.1 in Catalogue of Feed), defined as &#x201c;All waste food containing material of animal origin including used cooking oil originating in restaurants, catering facilities and kitchens, including central kitchens and household kitchens&#x201d;. However, despite being present in the Catalogue, this feedstock, which can be equivalent to HORECA waste (SCALIBUR), is not allowed for feeding insects to be used later in animal feed (Regulation 1069/2009 (
+                <xref ref-type="bibr" rid="ref-31">EU b, 2009</xref>), Art.11b: &#x201c;The following uses of animal by-products and derived products shall be prohibited: (b) the feeding of farmed animals other than fur animals with catering waste or feed material containing or derived from catering waste&#x201d;).</p>
+            <p>ROOTS pledges to favour the uptake of insect-based animal feed by bringing down all the remaining regulatory impediments and further enlarge its use to more species. Recommendations made on &#x201c;Waste and by-products&#x201d; will also help to overcome this particular challenge (
+                <xref ref-type="table" rid="T5">Table 5</xref>).</p>
+            <table-wrap id="T5" orientation="portrait" position="anchor">
+                <label>Table 5. </label>
+                <caption>
+                    <title>List of policy recommendations to facilitate the market uptake of animal feeds of insectile origin.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Recommendations</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Level of 
+                                <break/>governance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Revision of Regulation 767/2009 (
+                                <xref ref-type="bibr" rid="ref-30">EU a, 2009</xref>) on the placing on the market and use of feed (Annex III Chapter 1.6)
+                                <break/>and 1069/2009 (
+                                <xref ref-type="bibr" rid="ref-31">EU b, 2009</xref>) in relation to article 11b provided that either the separately collected urban biowaste or
+                                <break/>the catering waste comply with one of these requirements:
+                                <break/>&#x00a0;&#x00a0;&#x2022;&#x00a0;&#x00a0;Do not contain materials of animal origin as a result of Member State, Regional or local specific waste regulations
+                                <break/>&#x00a0;&#x00a0;&#x2022;&#x00a0;&#x00a0;The biowaste feedstock fulfils the requirements to ensure that the insect feed complies with the technical, 
+                                <break/>environmental and safety requirements, as well as with the requirements for management systems to 
+                                <break/>demonstrate compliance with the criteria, including for quality control and self-monitoring, and accreditation, 
+                                <break/>where appropriate. This would be in line with the End-of-Waste criterion (Art.6) from Directive 2018/851
+                                <break/>(
+                                <xref ref-type="bibr" rid="ref-16">EU a, 2018</xref>) amending Directive 2008/98/CE (
+                                <xref ref-type="bibr" rid="ref-5">EU, 2008</xref>)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Ban on animal products in separate collection (
+                                <bold>
+                                    <italic toggle="yes">i.e.</italic>:</bold> adapting the separate collection to the existing regulations aimed 
+                                <break/>at food safety)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">National, 
+                                <break/>regional, local</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Focus food safety research programmes on promising biowaste upcycling technology for biowaste, with the aim to
+                                <break/> fund research projects aimed at demonstrating that the current regulations can be modified, fostering the upcycling 
+                                <break/>of more biowaste fractions (
+                                <bold>
+                                    <italic toggle="yes">e.g.</italic>
+                                </bold> documenting prion content in the value chain of insects)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Increase the number of insect species for animal nutrition. </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>
+                <bold>Examples of solutions, good practices and concrete experiences</bold>
+            </p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;Entomo Agroindustrial fed black soldier fly larvae with separately collected urban biowaste and digestate, while other VALUEWASTE partners tested the derived bioproduct safety. Preliminary results on the experimental 
+                <italic toggle="yes">in vitro</italic> models with human hepatic and intestinal cells are positive and indicative that it is possible to obtain safe compounds from this valorisation line. However, further research is needed to improve the selection and categorization of biowaste, in order to be able to establish the requirements that different types of biowaste must meet in order to be included in the food chain.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;In the WaysTUP! project, the University of Alicante is testing the functionality of black soldier fly larvae as poultry feed, evaluating the quality of the produced meat. At the same time, vegetable agriculture by-products and source separated animal by-products are being tested (fish, coffee, meat) as feedstock for the larvae. Larvae meal has similar properties as conventional soybean meal but being more sustainable.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;One of HOOP project developers, Invertapro, is farming yellow mealworm to be employed as source of protein in aquaculture feed, farm animal feed and pet food. To avoid regulatory barriers on the marketability of the bioproduct, insects are fed with agri-food by-products instead of biowaste.</p>
+        </sec>
+        <sec>
+            <title>Single cell protein</title>
+            <p id="S2">Single cell protein (SCP) comes from unicellular microorganisms, like bacteria and microalgae, and can be produced in a circular way by employing treated biowaste and/or biogas as part of the feeding and microorganism&#x2019;s growing media. More specifically, a circular growing media includes 
+                <italic toggle="yes">i)</italic> hydrolysed biomass (including biowaste) that can be used to produce culture broths, 
+                <italic toggle="yes">ii)</italic> biomethane (
+                <italic toggle="yes">i.e.</italic>: the methane produced by anaerobic digestion of biowaste), the nutrient for methanotrophic bacteria and 
+                <italic toggle="yes">iii)</italic> carbon dioxide from biogas, to grow microalgae.</p>
+            <p>The main challenge lies in the raw materials/feedstock used to produce the growing media. As in the case of Insects for animal feed, barriers are found in Regulation 767/2009 (
+                <xref ref-type="bibr" rid="ref-30">EU a, 2009</xref>), affecting the use of separately collected urban biowaste (VALUEWASTE, HOOP) and Regulation 1069/2009 (
+                <xref ref-type="bibr" rid="ref-31">EU b, 2009</xref>), affecting catering waste (HOOP). In this case the interpretation of the status of this SCP is more difficult for two reasons:</p>
+            <p>1.&#x00a0;&#x00a0;&#x00a0;&#x00a0;It is not clear whether the SCP obtained from these growing media can be considered as derived products or not. Even though hydrolysis (
+                <italic toggle="yes">Reduction of molecular size by appropriate treatment with water and either heat/pressure, enzymes or acid/alkali</italic>) and fermentation (
+                <italic toggle="yes">Process in which micro-organisms such as bacteria, fungi or yeasts either are produced or used on materials to modify their chemical composition or properties</italic>) appear in the glossary of processes in Regulation 2017/1017 (
+                <xref ref-type="bibr" rid="ref-33">EU a, 2017</xref>) amending Regulation (EU) No 68/2013 (
+                <xref ref-type="bibr" rid="ref-33">EU a, 2013</xref>) on the Catalogue of feed materials (Annex, Part B), it is not clear that the SCP can be considered a derived product, as the hydrolysate or the biogas are used as culture media.</p>
+            <p>2.&#x00a0;&#x00a0;&#x00a0;&#x00a0;Regulation 1069/2009 (
+                <xref ref-type="bibr" rid="ref-31">EU b, 2009</xref>) (Art 5) does not mention any end-point criteria (from which the Regulation is not applicable anymore) for those derived products intended for feed of farmed animals (Art 31), although it does for derived products intended for other applications (Articles 32, 33, 35 and 36).</p>
+            <p>In both cases (methanotrophic bacteria and microalgae) the SCP is not obtained directly from the waste, but it is transformed into an intermediate (biogas, hydrolysate) used for growing the microorganisms. Therefore, it is not clear whether circular SCP for both animal and human nutrition can be commercialized in EU due to regulation restrictions, even if the biowaste-derived feeding media have, as described above, very different characteristics from untreated biowaste.</p>
+            <p>We propose the recommendations in order to improve the legislation regarding SCP listed in 
+                <xref ref-type="table" rid="T6">Table 6</xref>.</p>
+            <table-wrap id="T6" orientation="portrait" position="anchor">
+                <label>Table 6. </label>
+                <caption>
+                    <title>List of legislation recommendations for the market uptake of single cell protein.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Recommendations</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Level of 
+                                <break/>governance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Revision of Regulation 1069/2009 (
+                                <xref ref-type="bibr" rid="ref-31">EU b, 2009</xref>) (Art.5) in order to set or to allow the conditions for
+                                <break/>setting (for instance through Regulation 142/2011 (
+                                <xref ref-type="bibr" rid="ref-32">EU a, 2011</xref>)) the end-point criteria related to the
+                                <break/>production of feed for farmed animals, so that it is clear when the bioproduct stops being a derived
+                                <break/>from animal by-product.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">European</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Revision of Regulation 142/2011 (
+                                <xref ref-type="bibr" rid="ref-32">EU a, 2011</xref>) (Annex IV, Chapter IV Section 3, 1b) to include the use
+                                <break/>as culture media for microorganisms for the hydrolysates of Category 3 catering waste and similar
+                                <break/>(separate collection of biowaste from households), including also those microorganisms used for
+                                <break/>farmed animal feed </td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">European</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Revision of Regulation 142/2011 (
+                                <xref ref-type="bibr" rid="ref-32">EU a, 2011</xref>) (Annex X, Chapter III) to include single cell protein as fish
+                                <break/>feed.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">European</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Ban on animal products in separate collection</td>
+                            <td align="left" colspan="1" rowspan="1" valign="middle">National, 
+                                <break/>regional, local</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>
+                <bold>Examples of solutions, good practices and concrete experiences</bold>
+            </p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Greentech Innovators, one of HOOP project developers, produces microalgae for aquaculture feed from the hydrolysate from HORECA waste.</p>
+                </list-item>
+                <list-item>
+                    <p>At UNIBIO facilities, SCP is produced from methanotrophic bacteria and biogas coming from anaerobic digestion of separately collected urban biowaste. The product has been tested for functionality and safety. In terms of safety, and given the good results for some samples, there are reasons to be optimistic about the future. However, further research is needed on the fine-tuning of the biological process and on designing analysis and quality control strategies for the production of safe high value methanotrophic bacteria products. In terms of functionality, the addition of Uniprotein+ to food matrices resulted in beneficial nutritional values across all the tested matrices. In another functional/safety test with fish, results show that the replacement of fishmeal in commercial diets for rainbow trout by SCP produced by UNIBIO is a feasible and sound nutritional/health strategy in feed formulation.</p>
+                </list-item>
+            </list>
+        </sec>
+        <sec>
+            <title>The behavioural issue</title>
+            <p>Citizens play a crucial role to enable biowaste valorisation routes towards high added value bioproducts. Indeed, most valorisation technologies rely on high quality biowaste feedstocks (low impurity content), while the availability of sufficient quantities represents an economic driver for the deployment of valorisation businesses. Citizens shall be well aware of how they can contribute to a fruitful separate collection scheme (
+                <xref ref-type="table" rid="T7">Table 7</xref>). The quality drastically depends on their (and the HORECA sector&#x2019;s) ability to properly separate the biowaste from the rest of solid waste, in order to minimize the content of impurities or non-organic materials. The quantity requirement shall not be meant to throw as much biomass as possible, but to separate the non-avoidable fraction in the dedicated waste stream. In summary, poor biowaste separation is the result of careless sorting, low knowledge/interest about proper sorting, and lack of (adequate) systems to separately collect the urban biowaste or incentive/punitive systems. This can be addressed by policy tools.</p>
+            <table-wrap id="T7" orientation="portrait" position="anchor">
+                <label>Table 7. </label>
+                <caption>
+                    <title>List of recommendation to improve the behavioural aspect.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Recommendations</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Level of
+                                <break/> Governance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">The EU and Member States should ensure the systematic application of penalization and/or reward systems
+                                <break/> at local level, to encourage citizens to properly sort biowaste. Actually, local governments, 
+                                <italic toggle="yes">i.e.</italic>: the owners and
+                                <break/> responsible of generated waste, are often hesitant to promulgate ordinances that imply unpopular measures like 
+                                <break/>economic penalization of citizens uncomplying with proper separate collection, because these measures are not 
+                                <break/>legal imperatives. </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">European, 
+                                <break/>national</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Regarding the communication campaigns, resources are usually provided by the waste management companies,
+                                <break/> main beneficiaries of revenues associated to high-quality and quantity separately collected fractions. According to
+                                <break/> the EC Green Best Practice Community (
+                                <xref ref-type="bibr" rid="ref-33">EU b, 2017</xref>), excellence case studies suggest to assess awareness-raising
+                                <break/> effectiveness according to a short list of indicators. One of them is to devote a proper budget to awareness-raising 
+                                <break/>activities.
+                                <break/>&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;Private companies: Tender requirements for the selection of waste collection companies should include the 
+                                <break/>obligation to invest in communication and awareness raising campaigns. (Local governance)
+                                <break/>&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;Public companies: Obligation to comply with specific standards for selected indicators (Regional governance).</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Local, regional</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>One of the behavioural components related to biowaste sorting/consumption of bio-based products, is related to social acceptance. The acceptance of circular bio-based products is not discussed in this paper for three reasons: 
+                <italic toggle="yes">i)</italic> from VALUEWASTE experience (
+                <xref ref-type="bibr" rid="ref-21">VALUEWASTE D8.4, 2022</xref>), citizens are favourable to circular bioproducts; 
+                <italic toggle="yes">ii</italic>) no policy barriers are found and, finally, iii) to boost the presence and acceptance of circular bioproducts, scientific (
+                <italic toggle="yes">i.e.</italic>: evidence of safety) and marketing tools are more significant than policy tools.</p>
+            <p>
+                <bold>Examples of solutions, good practices and concrete experiences</bold>
+            </p>
+            <p>According to the experience of ROOTS projects, best performances in terms of separate collection are observed where bins can be associated to specific users. This strategy allows the conjoined application of reward and punishment mechanisms, that maximize the results in terms of quantity and quality of separate collection. As exemplified below, ROOTS partners that count on the highest quality and rate of separately collected biowaste adopt this strategy. The case of Murcia (Spain) is exposed as exemplary in communication campaign to start the separate collection from scratch.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;In Albano Laziale (Italy), involved in both SCALIBUR and HOOP projects, the impurities in separately collected urban biowaste from household is very low (2&#x2013;5% w/w). They adopted door-to-door collection with bar code bins and perform continuous information campaigns on how and why to separate waste. Slight reduction of waste management fees and recent application of the PAYT fee, always coupled with control and penalization (fines) of uncomplying citizens. An unpublished report from Volsca Ambiente Servizi e S.p.A (2022) found that after the implementation of the PAYT scheme, the percentage of putrescible material in separately collected biowaste increased from 86.27% (2019) to 90.22% (2022), revealing an improvement in sorting behaviour.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;The separate collection of household biowaste in HOOP Lighthouse M&#x00fc;nster (Germany) also counts on very low impurity levels (2&#x2013;5% w/w). Actions such as door-to-door collection with bar code bins or continuous information campaigns have been carried out. AWM (public waste management company) created an educational trail on the closed landfill and counts on a department of education for sustainable development. AWM launched in 2017 the four-phases Aktion Biotonne campaign, an information campaign combined with the inspection of the quality of bio-bins of each household biowaste. If the quality found in the bins does not comply with standards, the citizens get a yellow card with instructions for better sorting. If the problem continues, the bio-bin is removed and household throws biowaste in the mixed-waste bin, with consequent application of the highest annual fee. With Aktion Biotonne, the impurities decreased from 3.5% in mid-2017 to 1.9% in early-2018, according to an unpublished report from the Institute for Infrastructure, Water, Resources and Environment (2018), indicating that the information campaign had an effect on the separation behaviour.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;In Murcia (Spain), a city involved in both VALUEWASTE and HOOP projects, awareness campaigns were the first step to start the implementation of the separate collection of urban biowaste. Door-to-door information campaigns were carried out by the so-called &#x201c;bio-patrols&#x201d; (
+                <italic toggle="yes">i.e.</italic> dedicated staff whose mission is to interact with biowaste providers, usually in a face-to-face mode). In Murcia, the waste management company (Prezero) and Murcia City Council carried out specific campaigns to 1) explain citizens and biowaste large producers (mainly food markets) about the new separate collection system, 2) raise awareness on the high value products that can be obtained from biowaste. These campaigns supported the pilot experience implementation of the separate collection of urban biowaste that went from February 2020 until April 2022. During this experience, the average amount of improper biowaste found on citizens open bins went from 4.9% at the beginning, to 8.1% by the end, according to an unpublished report from the 
+                <xref ref-type="bibr" rid="ref-21">VALUEWASTE project (2022)</xref>. This decrease in quality is related with increased participation (
+                <italic toggle="yes">i.e.</italic> higher quantity) and relaxation of educational campaigns focused on biowaste quality, which were affected by COVID-19. Thus, it is recommended to maintain active campaigns at all times on the subject of biowaste quality. Biowaste quality from large producers (average of 3% of improper waste), was better than the one reported for citizens.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;Within the SCALIBUR project, an unpublished report from Las Dehesas methanisation plant, Madrid (2021) shows that Madrid (Spain) has increased the quality of the separately collected urban biowaste from 74.75% in 2019 to 80.73% in 2021 thanks to the continuous ongoing social awareness campaigns and engagement activities run by the city Council (&#x201c;Acierta con la org&#x00e1;nica&#x201d;, &#x201c;cuando reciclo yo acierto&#x201d; or &#x201c;con erre de&#x201d;), campaigns that have integrated the Biowaste Clubs organised within SCALIBUR and other social awareness activities, like webinars (&#x201c;Sustainable Trends and Opportunities of the Retail Sector in Spain&#x201d;) or the &#x201c;Local Champions in Madrid&#x201d;, who are local organizations in Madrid that have the power to influence a positive change in the community and consumers in general through the diffusion of practices related to circular economy and resource efficiency.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;The VALUEWASTE consortium published the 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.cencenelec.eu/media/CEN-CENELEC/CWAs/RI/cwa17866_2022.pdf">CEN Workshop Agreement on &#x201c;Key factors for the successful implementation of urban biowaste selective collection schemes&#x201d;</ext-link> (
+                <xref ref-type="bibr" rid="ref-1">CEN-CENELEC, 2022</xref>)</p>
+        </sec>
+        <sec>
+            <title>Investment needs</title>
+            <p>Following the recommendations discussed above, the regulatory framework can be updated to overcome current and future challenges meeting specific needs. There is no doubt that a more favourable regulatory framework can facilitate the change, but in order to make the circular economy paradigm a reality, there is a need to address non-policy barriers. Probably, the most important one is that related to unlocking investment, either public or private. From this perspective, Europe is making a huge effort in mobilizing capital to foster the uptake of sustainable economic activities through funding and financing schemes, acting as a worldwide reference for the transition to a sustainable economy.</p>
+            <p>Thus, ROOTS partners suggest focusing on the following investment-related mechanisms in a way to speed up the fostering of circular bioeconomy:</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;Horizon Europe research and innovation funding programme to allocate resources to specifically deploy biowaste waste-to-product or waste-to-energy valorisation.</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;LIFE research and innovation funding programme to the scale-up and deployment of the aforementioned innovative solutions</p>
+            <p>&#x2022;&#x00a0;&#x00a0;&#x00a0;&#x00a0;Ensure the inclusion of circular bioeconomy criteria among the technical screening criteria for objective 
+                <italic toggle="yes">4. Transition to a Circular Economy</italic> in the EU Taxonomy, currently under development.</p>
+        </sec>
+        <sec>
+            <title>The road ahead</title>
+            <p>The ROOTS group wants to play an important role in achieving a more sustainable society through circular biowaste valorisation schemes that comply with safety and health standards. We gathered to provide the perspective of Horizon 2020 projects and speak out loud to concretely contribute to transform and improve our society. For this reason, we must combine the development of new innovative solutions with the necessary dialogue with policy makers on regulatory barriers. Policy makers should pay more attention to the results arising from the hundreds of EU funded projects which constantly provide results, field experiences and best practices.</p>
+            <p>The ROOTS group will continue to operate, despite the conclusion of some of the organizing projects. Others will join in the future and the stakeholder community built in the past two years shall carry on the proposals presented here. </p>
+            <p>Find out more about the ROOTS projects and reported public deliverables and activities on their respective websites:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>
+                        <ext-link ext-link-type="uri" xlink:href="https://cityloops.eu/">cityloops.eu</ext-link>
+                    </p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <ext-link ext-link-type="uri" xlink:href="https://hoopproject.eu/">hoopproject.eu</ext-link>
+                    </p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <ext-link ext-link-type="uri" xlink:href="https://scalibur.eu/">scalibur.eu</ext-link>
+                    </p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <ext-link ext-link-type="uri" xlink:href="https://valuewaste.eu/">valuewaste.eu</ext-link>
+                    </p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <ext-link ext-link-type="uri" xlink:href="https://waystup.eu/">waystup.eu</ext-link>
+                    </p>
+                </list-item>
+            </list>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>Ethical approval and consent were not required</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <p>No data are associated with this article.</p>
+        </sec>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>&#x00c1;frica Pardavila, INNOVARUM</p>
+            <p>Aida Anthouli, Draxis</p>
+            <p>Alba Cerisuelo, Valencian Institute for Agricultural Research (IVIA)</p>
+            <p>Bel&#x00e9;n Miranda, SAV</p>
+            <p>Caterina Coll Lozano, Perseo Biotechnology</p>
+            <p>C&#x00e9;sar Aliaga, ITENE</p>
+            <p>Christoph Baumann, Abfallwirtschaftsbetriebe M&#x00fc;nster (AWM)</p>
+            <p>Cristina Gonz&#x00e1;lez, ITENE</p>
+            <p>Emilia Hamarsland Bj&#x00e5;nes, BIR AS</p>
+            <p>Federica Giglio, Comune di Albano</p>
+            <p>Fiona Woo, CSCP</p>
+            <p>Ingmar H&#x00f8;g&#x00f8;y, Greentech Innovators AS</p>
+            <p>Jon Jonoski, ICLEI</p>
+            <p>Jorge Rodrigues de Almeida, RdA Climate Solutions</p>
+            <p>Juan Cort&#x00e9;s Ortiz, Entomo Agroindustrial</p>
+            <p>Katerina Valta, Draxis</p>
+            <p>Luca Cori, Volsca Ambiente e Servizi S.p.A.</p>
+            <p>Mar&#x00ed;a C&#x00e1;mara-Ru&#x00ed;z, CETENMA</p>
+            <p>Mar&#x00ed;a Cruz Ferreira, Ayuntamiento de Murcia (ALEM)</p>
+            <p>Miguel Mitsou, CETENMA</p>
+            <p>Santos Rojo, Universidad de Alicante</p>
+            <p>Simon Gresset, ICLEI</p>
+            <p>Toralf Igesund, BIR AS</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <collab>CEN-CENELEC</collab>:
+                    <article-title>CEN Workshop Agreement Key factors for the successful implementation of urban biowaste selective collection schemes</article-title>.<year>2022</year>; Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cencenelec.eu/media/CEN-CENELEC/CWAs/RI/cwa17866_2022.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <collab>European Environment Agency (EEA)</collab>:
+                    <article-title>Bio-waste in Europe - turning challenges into opportunities</article-title>.<year>2020</year>; Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eea.europa.eu/publications/bio-waste-in-europe">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <collab>European Environment Agency (EEA)</collab>:
+                    <article-title>Reaching 2030&#x2019;s residual municipal waste target &#x2014; why recycling is not enough</article-title>.<year>2022</year>; Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eea.europa.eu/publications/reaching-2030s-residual-municipal-waste">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union</collab>:
+                    <article-title>Waste framework directive 2008/98</article-title>. Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eea.europa.eu/policy-documents/waste-framework-directive-2008-98-ec">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, a</collab>:
+                    <article-title>Regulation No. 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed, amending European Parliament and Council Regulation (EC) No 1831/2003 and repealing Council Directive 79/373/EEC, Commission Directive 80/511/EEC, Council Directives 82/471/EEC, 83/228/EEC, 93/74/EEC, 93/113/EC and 96/25/EC and Commission Decision 2004/217/EC</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02009R0767-20181226">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, b</collab>:
+                    <article-title>Regulation No. 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation)</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02009R1069-20191214">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, c</collab>:
+                    <article-title>Regulation No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC</article-title>. Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:309:0001:0050:EN:PDF">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, a: </collab>
+                    <article-title>Commission Regulation (EU) No 142/2011 of 25 February 2011 implementing Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive Text with EEA relevance</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0142-20220417">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, b</collab>:
+                    <article-title>Council regulation No 333/2011 of 31 March 2011 establishing criteria determining when certain types of scrap metal cease to be waste under Directive 2008/98/EC of the European Parliament and of the Council</article-title>. Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R0333">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, a</collab>:
+                    <article-title>Commission implementing decision of 18.4.2012: establishing a questionnaire for Member States reports on the implementation of Directive 2008/98/EC of the European Parliament and of the Council on waste</article-title>. Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/environment/archives/waste/reporting/pdf/C_2012_2384.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, b</collab>:
+                    <article-title>Commission Regulation No 1179/2012 of 10 December 2012 establishing criteria determining when glass cullet ceases to be waste under Directive 2008/98/EC of the European Parliament and of the Council.</article-title>Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1179">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, c</collab>:
+                    <article-title>Preparing a Waste Prevention Programme.</article-title>October<year> 2012</year>; Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/environment/pdf/waste/prevention/Waste prevention guidelines.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <mixed-citation publication-type="journal">
+                    <article-title>European Union, a. Commission Regulation No 68/2013 of 16 January 2013 on the Catalogue of feed materials Text with EEA relevance</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02013R0068-20220724">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, b</collab>:
+                    <article-title>Commission Regulation No 715/2013 of 25 July 2013 establishing criteria determining when copper scrap ceases to be waste under Directive 2008/98/EC of the European Parliament and of the Council.</article-title>Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0715">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union</collab>:
+                    <article-title>Closing the loop: Commission adopts ambitious new Circular Economy Package to boost competitiveness, create jobs and generate sustainable growth.</article-title>2nd December 2015. Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0715">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, a: </collab>
+                    <article-title>Commission Regulation (EU) 2017/1017 of 15 June 2017 amending Regulation (EU) No 68/2013 on the Catalogue of feed materials (Text with EEA relevance.)</article-title>.<year> 2017a</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://eur-lex.europa.eu/eli/reg/2017/1017/oj">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, b</collab>:
+                    <article-title>Green Best Practice Community.</article-title>
+                    <italic toggle="yes">"Awareness-raising".</italic>
+               <year> 2017</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://greenbestpractice.jrc.ec.europa.eu/node/84">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, a</collab>:
+                    <article-title>Directive 2018/851 of the European Parliament and of the Council of 30 May 2018 amending Directive 2008/98/EC on waste.</article-title>Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32018L0851">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <collab>European Union, b</collab>:
+                    <article-title>Updated Bioeconomy Strategy 2018.</article-title>Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://knowledge4policy.ec.europa.eu/publication/updated-bioeconomy-strategy-2018_en">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-40">
+                <mixed-citation publication-type="journal">
+                    <collab>Eurostat</collab>:
+                    <article-title>Municipal waste by waste management operations</article-title>.<year>2023</year>; Last accessed: 28/03/2023.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/eurostat/databrowser/view/env_wasmun/default/table?lang=en">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <collab>HOOP, VALUEWASTE, SCALIBUR, 
+                        <italic toggle="yes">e tal.</italic>
+                    </collab>:
+                    <article-title>CirculaR pOlicies for changing the biOwasTe System (ROOTS): a position paper.</article-title>
+               <year> 2021</year>; Last accessed: 18/11/2022.
+                    <ext-link ext-link-type="uri" xlink:href="https://waystup.eu/roots-position-paper/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <collab>VALUEWASTE</collab>:
+                    <article-title>Deliverable 8.4 Report on Social acceptance of Biowaste Derived Products and Services</article-title>.<year> 2022</year>; Last accessed: 24/01/2023.
+                    <ext-link ext-link-type="uri" xlink:href="https://zenodo.org/record/7387200#.ZAV5MpdBy9u">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report33863">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16764.r33863</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Khoshnevisan</surname>
+                        <given-names>Benyamin</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33863a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r33863a1">
+                    <label>1</label>Department of Green Technology, University of Southern Denmark, Odense, Denmark</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>22</day>
+                <month>8</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Khoshnevisan B</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33863"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15507.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p># The deployment of innovative solutions in the field of urban biowaste valorisation and reuse is still hindered by numerous bottlenecks, such as technological readiness, funding and financing tools availability, quality and quantity of biowaste and regulatory barriers. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Social aspects are better also included here. For instance, the social acceptance of the final products.</p>
+                    </list-item>
+                </list> # EU state members currently have different sorting and source separation strategies. Could it be one aspect to align source sorting and source separation strategies?</p>
+            <p> </p>
+            <p> # In the HOOP &#x201c;Lighthouse&#x201d; Kuopio (Finland), the waste management company J&#x00e4;tekukko encourages households to compost to reduce biowaste production. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>I would not call it biowaste generation prevention. In such conditions, biowaste is generated. The only difference is its management strategy. Since the waste is generated and not prevented, I would argue that home composting is not the most circular and sustainable option at some points.</p>
+                    </list-item>
+                </list> # Examples of solutions, good practices and concrete experiences. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>I would suggest adding one or two more examples here if possible.</p>
+                    </list-item>
+                </list> # Waste and by-products 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>I would also suggest the term Residuals or Resource residuals instead of waste. Once they are used as feedstock within the bioeconomy concept they are not waste any more but a resource.</p>
+                    </list-item>
+                </list> # Single cell protein, bullet 1: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Methane oxidizing bacteria and Hydrogen oxidizing bacteria are two types of SCP. The former grows on methane and the latter grows on hydrogen and carbon dioxide. While methane and carbon dioxide are supplied from biogas, they also need nitrogen to grow. Some studies show that nitrogen can be safely remove from biogas slurries, urine, digestate to grow SCP (e.g. see Khoshnevisan&#x00a0;
+                            <italic>et al.</italic>, 2020
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-33863-1">1</xref>
+                            </sup>). Such strategy can ensure safety of final product.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Partly</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Waste management; Biowaste biorefiney; Sustainability assessment</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-33863-1">
+                    <label>1</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Coupling electrochemical ammonia extraction and cultivation of methane oxidizing bacteria for production of microbial protein.</article-title>
+                        <source>
+                            <italic>J Environ Manage</italic>
+                        </source>.<year>2020</year>;<volume>265</volume>:
+                        <elocation-id>10.1016/j.jenvman.2020.110560</elocation-id>
+                  <fpage>110560</fpage>
+                        <pub-id pub-id-type="pmid">32421560</pub-id>
+                        <pub-id pub-id-type="doi">10.1016/j.jenvman.2020.110560</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report33424">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16764.r33424</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Kumar</surname>
+                        <given-names>Vinay</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33424a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-1937-9685</uri>
+                </contrib>
+                <aff id="r33424a1">
+                    <label>1</label>Department of Community Medicine, Saveetha Institute of Medical and Technical Sciences, Chennai, India</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>7</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Kumar V</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33424"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15507.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article entitled &#x201c;ROOTS - Circular policies for changing the biowaste system&#x201d; explores and explain about the policies related to biowaste system. The manuscript discusses the ROOTS initiatives, biowaste prevention, recycling targets, treatment plants, waste and by products, biopesticides, insects for animal feed and single cell proteins.</p>
+            <p> </p>
+            <p> The manuscript has been structured in a well manner. At the same time, it explains the key problems associated with the biowaste policies. In addition, it addresses the major regulations already available and their amendment recommendations. The article has been written good English syntax and is error free. In my opinion it will be a great asset for readers and researchers associated with biowaste management. The article is approved from my side, and it can be accepted for indexing.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>NA</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

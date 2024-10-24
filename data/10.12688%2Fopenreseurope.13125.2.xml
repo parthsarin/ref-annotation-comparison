@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.13125.2</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Crossover comparison of climate-change adaptation measures taken in the Gdansk (Baltic-sea) and Rotterdam (Nord-sea) deltas.</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 2; peer review: 3 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Sanders</surname>
+                        <given-names>Fred</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-1180-4656</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Sanders</surname>
+                        <given-names>Hugo</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Jonkers</surname>
+                        <given-names>Karen</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>CPONH NGO, Heerhugowaard, The Netherlands</aff>
+                <aff id="a2">
+                    <label>2</label>Urbanism Department, Delft University of Technology, Delft, The Netherlands</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:fredsanders.cponh@gmail.com">fredsanders.cponh@gmail.com</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>13</day>
+                <month>10</month>
+            <year>2021</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2021</year>
+            </pub-date>
+         <volume>1</volume>
+            <elocation-id>9</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>11</day>
+                    <month>10</month>
+               <year>2021</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Sanders F et al.</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/1-9/pdf"/>
+            <abstract>
+                <p>Gdansk in Poland and the Netherlands share a long-term relationship that started with the establishment of Dutch Mennonites in the Vistula delta in the 16th Century. Climate-change figures show that both the Polish Gdansk and Dutch Rotterdam deltas will suffer flooding due to sea level rise, with accumulating severe rainfall accompanied by high river levels; reasons that led to a comparison of the adaptation measures taken. On the basis of the crossover comparison studied, it can be concluded that Poland and the Netherlands have a virtually identical approach when it comes to climate-change impacts on their current situation. With regard to the long-term climate-change trend, the Netherlands is exploring for the future more &#x2018;anticipatory&#x2019; measures with the development of new scenarios for the protection of land and cities. In the Netherlands the use of Hackathon approach is thereby used more often to explore such scenarios. The interaction between the experts and stakeholders of different expertise in this methodology show to lead to creative and new perspectives. This approach may also be recommended for the situation in Gdansk.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>climate change</kwd>
+                <kwd>mitigation</kwd>
+                <kwd>adaptation</kwd>
+                <kwd>built environment</kwd>
+                <kwd>coastal cities</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>823901</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under the Marie Sk&#x0142;odowska-Curie grant agreement No [823901], (project sosclimatewaterfront).</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+        <notes>
+            <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 1</title>
+                <p>We used the comments of the reviewers to make our contribution to the 2019 Gdansk conference being part of the EU H2020 'SOS Climate Waterfront&#x2019; project a better scientific paper. Firstly, we added an introduction chapter (1) to our paper to give the research-question and the motivation for the research more attention and thereby also give attention to parallel research of others inside and outside the EU, as suggested by the reviewers. Secondly, we split the conclusions session in analysis and conclusion chapters (4 and 5) to give the comparison of both deltas, Gdansk and Rotterdam, more working-out that the action-perspective of the Hackathon methodology becomes better sustained, as the third reviewer rightly advised. Third, as suggested by reviewers, we made adaptation measures more the central theme in our paper, whereby we made more clear the different types of adaptation measures in the conceptual model. Lastly, we checked word choices and readability of the paper. We thank the reviewers for their suggestions and hope our paper will be helpful to other researchers, and people of practice.</p>
+            </sec>
+        </notes>
+    </front>
+    <body>
+        <sec>
+            <title>Northern EU Delta&#x2019;s under climate-change pressure</title>
+            <p>Climate-change sea-level rise is increasingly seen as the major threat for coastal cities in Europe and globally, as most cities are historically situated in coastal delta&#x2019;s (
+                <xref ref-type="bibr" rid="ref-1">Angel 
+                    <italic toggle="yes">et al.</italic>, 2012</xref>). Despite the fact that the climate-related threats are diverse and accumulation determines the real impact, the sea level rise for many of these cities makes an unexpectedly large contribution to this; being an important insight of and foundation for the EU H2020 &#x2018;
+                <italic toggle="yes">SOS Climate Waterfront&#x2019;</italic> project (
+                <xref ref-type="bibr" rid="ref-26">SOSCW, 2019</xref>). Within Europa, the focus of this EU project, the situation in the Northern area, the area of the North Sea and the Baltic Sea, is more complex due to zones with land rise and land decline. Secondly, some areas lay under sea-level since centuries and have a high risk of severe flooding in combination with water impoundment by north-western storms [due to the fact that both seas have a funnel shape]. A situation that is becoming more critical due to the climate-change sea-level rise trend (
+                <xref ref-type="bibr" rid="ref-11">EEA, 2021</xref>).</p>
+            <p>In 
+                <xref ref-type="fig" rid="f1">Figure 1</xref> in the three pictures is shown how land of the surrounding countries will theoretically become flooded by sea-level rise, where the effect of land rise has not been processed yet; see the zones of land rise and decline on 
+                <xref ref-type="fig" rid="f1">Figure 1</xref>. The situation of Scandinavia however to be taken into account, is different from the rest of Europe. Here the land is still uplifting due to the two-kilometre-thick ice layer pressing the land down, that left the area a 10.000 years ago (
+                <xref ref-type="bibr" rid="ref-23">NLS, 2021</xref>). The rise of the land of Scandinavia, the fastest in the centre in the Baltic Sea in between Finland and Sweden, is 0,01 meter yearly, faster than the actual and predicted sea-level rise due to climate-change [chapter 2]. Hugo Sanders, participant in this EU H2020 project, observed himself during his 2020 visit to Finland that the village of Kalajoki on the west coast of Finland has already been moved to the sea several times because the harbour became too shallow for the ships. How different to the zone south of Scandinavia where the land declines due to peat oxidation and clinching of low-lying clay layers.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>The land flooding of the northern zone of Europe, at 1-, 5- and 10-meters sea level rise from left to right (pictures made by using 
+                        <ext-link ext-link-type="uri" xlink:href="http://www.floodmap.net/">www.floodmap.net</ext-link> an open-access governmental website); with an indication of the zones of land rise [above the red line] and decline [below the red line] [1 cm = 400 km].</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15302/81057d42-0fdb-4ed2-86d2-d9d092c8b7c4_figure1.gif"/>
+            </fig>
+            <p>With the recent IPCC report as reference, it&#x2019;s not only this zone south of Scandinavia that due to land inclination will suffer more from the predicted sea level rise, this is a global problem to handle, with short and long-term adaptation measures to develop. About the Netherlands it can be said, that there are decades of experience in adaptation measures; strategies that are copied into the world. An example recently is the proposal for the area north and south of this zone-boundary, as given by a Dutch-Swedish scientist combination; the plan to close off the North Sea and thus the Baltic Sea, with a dam from the Atlantic Ocean (
+                <xref ref-type="bibr" rid="ref-13">Groeskamp &amp; Kjellsson, 2020</xref>), see 
+                <xref ref-type="fig" rid="f2">Figure 2</xref>.</p>
+            <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                <label>Figure 2. </label>
+                <caption>
+                    <title>Impressions of &#x2018;Damming the North Sea&#x2019; (source: TU Delft Delta magazine 2021).</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15302/81057d42-0fdb-4ed2-86d2-d9d092c8b7c4_figure2.gif"/>
+            </fig>
+            <p>This proposal, however, in addition to the enormous costs and the difficult technical feasibility, only blocks sea-level rise and does not solve the accumulation of the other water-related threats like high river levels, severe rainfall and storm surge from the sea, accompanied by high waves. That&#x2019;s why, to the opinion of the Dutch team in the &#x2018;SOS Climate Waterfront&#x2019; project; more adaptation solutions for delta areas should be explored, which provide security for the short and the long term. Not only because of the economic importance of coastal harbours and their hinterland, also for prevention of the historic inner-cities that are so vulnerable for higher water-levels.</p>
+            <p>With the focus on adaptation measures, because of the short-term risks for cities and their inhabitants; the initiative is taken to compare the Gdansk and Rotterdam delta situation, the two main harbours in this Baltic Sea and North Sea area. The idea is, that comparing the local and national taken and explored measures, should be educational for both cities, their countries and other coastal harbour delta cities. Within memory that the Gdansk delta with its surrounding polders, was created by the Dutch in the 16
+                <sup>th</sup> century, does this research fit in well with this historical tradition. This approach also fits the goals of the &#x2018;
+                <italic toggle="yes">SOS Climate Waterfront&#x2019;</italic> project, to explore robust climate-change water-related action-perspectives for the benefit of other coastal cities in Europe.</p>
+            <p>What sets as the research-question: 
+                <italic toggle="yes">&#x2018;What lessons can be learned from comparing the Gdansk and Rotterdam Delta&#x2019;s water related climate-change threats and adaptation measures that are executed and in planning, and what action perspectives can be recognized therein, from which these two cities and possibly also other coastal cities can benefit.&#x2019;</italic>
+            </p>
+            <p>For answering this double question, Hugo Sanders from the Dutch project team visited Gdansk in 2019 to discuss the situation on its location. Afterwards three researchers from the Dutch team including himself, worked out the Gdansk and Rotterdam situation in the Netherlands [chapters 2 and 3], followed by crossover comparison (focusing on the factors that can be mutually compared) for exploring action perspectives, as a result of presentations and discussion during the 2019 &#x2018;SOS Climate Waterfront&#x2019; seminar in Gdansk with additional desktop searching [chapter 4] with conclusions and acknowledgements [chapter 5]. For which a conceptual model is chosen and worked-out [chapter 4].</p>
+            <p>The research approach thereby follows the set-up of other comparison studies, from which most compare harbour situations among continents. For instance, the comparison of the Rotterdam-Guangzhou China situation [the Pearl River study project of Urbanism, Delft University of Technology] and Hamburg-Rotterdam (
+                <xref ref-type="bibr" rid="ref-18">Huang-Lachmann &amp; Lovett, 2016</xref>).</p>
+        </sec>
+        <sec>
+            <title>The Gdansk Baltic-sea climate-change delta situation</title>
+            <p>The Baltic Sea borders nine countries, is 1,600 km long, 193 km wide at its maximum and only 55 meters deep on average. The climate differences are huge in this area; strong long winters in the north and a mild continental climate in the south. This affects the water conditions and therewith the coastal circumstances and its water-related threats. Climate change influences this situation due to sea level rises, winter sea level changes, changing pole-tides, wind-induced water backlash, and the increasing water level changes in the sea joining rivers (
+                <xref ref-type="bibr" rid="ref-12">Ekman, 2009</xref>). The interaction of these influencing factors is complex, and the water level and the fluctuations therein are particularly location dependent (
+                <xref ref-type="bibr" rid="ref-24">Omstedt 
+                    <italic toggle="yes">et al.</italic>, 2004</xref>). These factors have changed more drastically over recent years due to climate-change (
+                <xref ref-type="bibr" rid="ref-2">BACC Author Team, 2008</xref>).</p>
+            <p>The situation of the Scandinavian land north of the Baltic Sea is quite extraordinary. Here the land still rises every year after the former ice ages. The weight of the melted ice sheets is taken away and the land is returning to its former position. This is quite different from the southern Baltic Sea shore where the land is subject to subsidence (
+                <xref ref-type="bibr" rid="ref-16">Flemming 
+                    <italic toggle="yes">et al.</italic>, 2017</xref>). There are many developing factors that together predict that the coasts around the Baltic Sea will change remarkably due to climate change in the years to come (
+                <xref ref-type="bibr" rid="ref-20">Labuz, 2015</xref>). According to the EC Inventory (
+                <xref ref-type="bibr" rid="ref-10">EEA, 2006</xref>), the Polish coastal zone is highly vulnerable to climate change, although relatively few people live along this 634 km coastline. See 
+                <xref ref-type="fig" rid="f3">Figure 3</xref> for an impression of the influence on the Polish coastline in case of rising sea-level rise.</p>
+            <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                <label>Figure 3. </label>
+                <caption>
+                    <title>The land flooding at 1-, 5- and 10-meters sea level rise from left to right (pictures made by using 
+                        <ext-link ext-link-type="uri" xlink:href="http://www.floodmap.net/">www.floodmap.net</ext-link>, an open-access governmental website, with 
+                        <ext-link ext-link-type="uri" xlink:href="https://www.openstreetmap.org/copyright">OpenStreetMap &#x00a9; OpenStreetMap contributors</ext-link>) [1 cm = 50 km].</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15302/81057d42-0fdb-4ed2-86d2-d9d092c8b7c4_figure3.gif"/>
+            </fig>
+            <p>Gdansk is situated along the Baltic Sea coast in the Gulf of Gdansk, west of the great Zulawy polder area, also called the Vistula delta because of the river Vistula that dominates the area. The area and the landscape are protected because the Vistula delta is a nature reserve, is responsible for 6% of the Polish agricultural food production and is an important source of drinking water. Handling the climate-change water-related impact on this delta, is especially urgent because besides sea-level rise and land inclination, there is an increasing accumulation of high river water levels because of severe rainfall in the last decade, especially coming from the higher hinterland. For the city of Gdansk, the situation has become more urgent in recent years as the city border lies at the eastern funnel-shaped outlet of the Baltic Sea with an open</p>
+            <p>The area of the city of Gdansk is characterised by an anthropogenic landscape of polders, dried marshlands and former oxbow lakes that have suffered periodic flooding during the last few centuries. The situation changed with the construction of the bypass channel of the Vistula river east of Gdansk city in 1895, leading directly to the Gulf of Gdansk (
+                <xref ref-type="bibr" rid="ref-27">WMO, 2005</xref>). However, climate change caused new flooding by cumulating sources in 1924 (huge snowmelt and rainfall), 1955 (strong storm), 1956 (ice-jam), 1983 (accident), and 2001 (torrential rainfall) (
+                <xref ref-type="bibr" rid="ref-5">Cyberski 
+                    <italic toggle="yes">et al.</italic>, 2006</xref>). The coastal situation of Gdansk situated within the Gulf of Gdansk is thus determined by several climate change factors whereby the configuration of the Baltic Sea as a whole plays a role. The main influencing factors are: the higher seawater temperature; decreasing ice formation; increasing water import from rivers with their fluctuations along the Baltic Sea coast and in specific locations; increasing water backlog due to storm surges and more heavy clustered rainfall; the rising and falling of the land, which differs from the southern coast on the northern coast, whereby the effects differ locally along the 1,900 km long coast (
+                <xref ref-type="bibr" rid="ref-12">Ekman, 2009</xref>). For which computer simulations are under development at institutes in Poland  
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.climatechangepost.com/poland/climate-change/">https://www.climatechangepost.com/poland/climate-change/</ext-link> (
+                <xref ref-type="bibr" rid="ref-3">Climate-change Post, update 2021</xref>) and at NIOZ in the Netherlands as well.</p>
+            <p>The current situation is that Gdansk city and the eastern polder area remains dry by constant action: dike reinforcement and drainage pumping the water out of the delta by channels and the rivers to the sea. For the city of Gdansk, the planned climate change measures are: 1) long term coastal protection strategies; 2) flood warning system for the safety of residents; 3) canaling of the Vistula river to the Gulf of Gdansk in 1840 and 1895; 4) reservoirs for flood protection built on streams in cascades; 5) expansion of the city drainage system for capturing heavy rainfall; 6) creating a new. Lower risk riverfront and city architecture. Measures are taken to decrease the impact on buildings in the event of flooding, for example placing crucial functions on the first floor higher, and creating parks and gardens that allow rainwater to pass into the absorbing capacity of the soil (
+                <xref ref-type="bibr" rid="ref-21">ModE, 2010</xref>; 
+                <xref ref-type="bibr" rid="ref-22">ModE, 2019</xref>).</p>
+            <p>An additional factor is, how the impact of climate-change in the other corners of the Baltic Sea influence the situation in Gdansk and its surroundings. For instance; the reduction in ice-formation in the northern part of the Baltic Sea will in wintertime reduce the rise in seawater level on the southern coast (
+                <xref ref-type="bibr" rid="ref-12">Ekman, 2009</xref>). Another factor would be; that unless the costs of extra measures at this south coast in general will be less than the loss of value in the coastal area of Poland, the total investment will probably and actually be too much for the region (
+                <xref ref-type="bibr" rid="ref-28">Zeidler, 2015</xref>).</p>
+            <p>Results of the discussion about this situation in Gdansk within the &#x2018;SOS Climate Waterfront&#x2019; project on location and within the Dutch team, yielded: 1) learning approaches from the probably similar situations in the Gdansk eastern funnel-area of the Baltic Sea could deliver new measuring insights, by studying the coastal; situation of Estonia, Latvia, Lithuania and Finland; 2) studying the relationship of land-rise at the northside of the Baltic Sea, for instance the situation of nearby Finland, is necessary to know the southern situation better; and 3) measures taken at the coast of Stockholm, a for Gdansk apparently other situation at the Baltic Sea, could provide new opportunities. Additionally, 4) influences of climate-change on nature and its biodiversity should get attention, with as example: deforestation and destruction of river-vegetation accelerates the discharge of water from rivers.</p>
+        </sec>
+        <sec>
+            <title>The Rotterdam North Sea climate change delta situation</title>
+            <p>The last severe flood in the Netherlands, called &#x2018;Watersnoodramp&#x2019;, happened in February 1953 whereby 165 hectares of land flooded, mainly in the southwest of the country. In total, 1836 people lost their lives, 10k people lost their homes from the 72k that had to be evacuated, and approximately 50k cows and 150k chickens died. This unexpected disaster became the start of &#x2018;Deltaplan&#x2019; to protect the Netherlands from the sea in the future. With the installation of the governmental &#x2018;Delta Commission&#x2019; in 1953 two months later, plans to shorten the coast with 700 km of dikes started (
+                <xref ref-type="bibr" rid="ref-7">Deltawet, 1958</xref>). During the years after, the safety of the important city of Rotterdam was ensured by this program through construction of the &#x2018;Maesland barrier&#x2019;: the construction of two moving arms that turn into the Rhein-river waterway at high tide to close it off. In 2011 this &#x2018;Deltaplan&#x2019; changed drastically; due to climate-change. The Delta Commission was directed to make plans to address seawater level rises and other climate-change coupled impacts in the future (
+                <xref ref-type="bibr" rid="ref-8">Deltawet, 2011</xref>).</p>
+            <p>Based on the recent Delta-Commission statement, the Dutch coast system can handle 10 meters of sea level rise totally, assuming there are no budget constraints. Flood scenarios show that 50% of the country will be flooded in that extreme situation when there would be no coastal dikes (
+                <xref ref-type="bibr" rid="ref-14">Haasnoot 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>), which concerns the part of the country where almost 80% of the country population lives and where the cities Amsterdam and Rotterdam, the most important economic motors of the country, see 
+                <xref ref-type="fig" rid="f4">Figure 4</xref>.</p>
+            <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                <label>Figure 4. </label>
+                <caption>
+                    <title>The situation of the Netherlands in relation to sea level: actual situation behind the dikes (left), flooding in case of 1.0 meter higher sea level without dikes (middle), and in case of 10.0 meter (right) (pictures made by using 
+                        <ext-link ext-link-type="uri" xlink:href="http://www.floodmap.net/">www.floodmap.net</ext-link>, an open-access governmental website, with OpenStreetMap &#x00a9; 
+                        <ext-link ext-link-type="uri" xlink:href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</ext-link>) [1cm = 50 km].</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15302/81057d42-0fdb-4ed2-86d2-d9d092c8b7c4_figure4.gif"/>
+            </fig>
+            <p>The most recent advice from this commission of 15 September 2020 (
+                <xref ref-type="bibr" rid="ref-6">Deltaprogramma, 2021</xref>) focussed on: 1) water security, 2) freshwater availability; and 3) spatial design, all related to climate-change impact. The Delta Commission thereby concluded that the Dutch coastal defence system can handle the 100 cm sea level rise that may happen at the earliest in 2100 according to worse-case scenarios based on the 2014 Fifth assessment IPCC institute report. However, the newest 2021 Sixth IPCC report states that this worse-case scenario could be more serious. That&#x2019;s why with more urgency in the Netherlands for the Rhein delta adaptation measures are in development and construction. Measures in and around the city of Rotterdam to be taken, following statements of this Delta Commission, are: 1. coastal and hinterland dikes have to be reinforced, 2. rivers need to be upstream widened for water collection capacity at high river levels, 3. buildings and housing complexes along river embankments must be redesigned so that high river levels, as a result of the combination of high-water discharge from the rivers and high sea levels, cannot cause severe damage in the coming centuries, and 4. rain collection reservoirs are being built in the city.</p>
+            <p>Most worrisome for an update of the 2011 Deltaplan will be the major operation to gradually strengthen and raise all dikes, the primary sea defence and the polder dikes being the second and third defence system of the Dutch country. The central factor behind the risk analysis of the primary sea defence is the accumulation of the rising sea-level, temporary high river levels, and storm with high swell waves. Additionally drier periods can weaken these defence system dykes(
+                <xref ref-type="bibr" rid="ref-8">Deltawet, 2011</xref>).</p>
+            <p>These effects also have secondary impact on the overload of sewer systems in cities, the subsidence of old houses, and the fertility of agricultural land for which salinization is an important factor. The production of Dutch tulip bulbs and potatoes already suffer from low salinization. The most drastic impact on national scale, however, is the expected future flooding of the large cities in the western part of the Netherlands and the stagnation of economic growth in the adjacent industrial sites, which a major impact on national scale.</p>
+            <p>To stay ahead of this development, more drastic measures in the coming centuries will be needed according to the 2020 Delta Commissioner advise to address the impact of water-related climate-change on the long-term. In 2019 therefor a &#x2018;Policy Hackathon&#x2019; was organized (
+                <xref ref-type="bibr" rid="ref-15">Haasnoot 
+                    <italic toggle="yes">et al.</italic>, 2019</xref>) to explore robust scenarios and solutions for the long run. This resulted in the three main scenarios for handling extreme sea level rise in the Netherlands: 1. defending the delta by fortification using a high dike around the country; 2. defending the delta by creating a new barrier off the coast with the advantage of new land for housing and tourism; 3. defending the most important economic areas including the cities using dikes with the sea coming into the land, see 
+                <xref ref-type="fig" rid="f5">Figure 5</xref>.</p>
+            <fig fig-type="figure" id="f5" orientation="portrait" position="float">
+                <label>Figure 5. </label>
+                <caption>
+                    <title>Three scenarios for handling extreme sea level rise in the Netherlands; the three scenarios from left to right.</title>
+                    <p>(Copied from the Hackathon report with permission of Deltares) (
+                        <xref ref-type="bibr" rid="ref-15">Haasnoot 
+                            <italic toggle="yes">et al.</italic>, 2019</xref>).</p>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15302/81057d42-0fdb-4ed2-86d2-d9d092c8b7c4_figure5.gif"/>
+            </fig>
+            <p>Comments on the three Hackathon scenarios as discussed within the &#x2018;SOS Climate Waterfront&#x2019; project Dutch team: 1. the choice to raise the outer dikes has limitations, because the subsoil has limited bearing capacity, the drainage of river water is hindered and because the land behind the dike will experience problems in draining rainwater to the sea, 2. the construction of a second defense zone outside the primary sea defense not only creates extra land and recreational facilities that could contribute to funding the defense zone, but also a transition zone is created by which the river water could flow easier to the sea and the land behind the dike is protected in a multi-value and multi-usable way, and 3. giving back land to the sea does not fit into the Dutch tradition and it breaks down the many investments made in the past, it is also practically difficult to keep the large cities such as Rotterdam in the form of islands alive, because they are seaports with industry and logistics handling. The fact that the Netherlands is still an important agricultural country on a global scale is thus negated.</p>
+        </sec>
+        <sec>
+            <title>Crossover comparison and action perspectives</title>
+            <p>When comparing the climate-change adaptation measures of the cities Gdansk in Poland and Rotterdam in the Netherlands, both are situated in the heart of the country&#x2019;s most important delta and both locations are similarly in relation to the sea and to the hinterland. Both cities: 1) are located by an enclosed sea in the northern hemisphere, in a delta with surrounding &#x2018;polder&#x2019; areas; 2) face sea level rise; 3) experience backwater during storms; and 4) are located on a river in the delta where the river level fluctuates strongly, caused by meltwater upstream, heavy rainfall alternated with dry periods, with peaks occurring when these influences coincide. The situations are so similar that it is interesting to learn from the mutual experiences in the field of climate-change interventions.</p>
+            <p>It is valuable to compare why and to what extent is chosen for short or long-term adaptive measures, in what capacity and proportions. Because, as concluded based on the Dutch situation [chapter 1], long-term adaptive measures are meant to be designed to change with changing climate conditions and theoretically could be more flexible and. durable.</p>
+            <p>To explain this opposite type of adaptation measures in comparison, the &#x2018;Astra&#x2019; model (based on IPCC models) that places categories of adaptation measures in a diagram is used for comparison and analyses (
+                <xref ref-type="bibr" rid="ref-17">Hilpert 
+                    <italic toggle="yes">et al.</italic>, 2007</xref>). distinguishes between &#x2018;Autonomous&#x2019; (short-term) and &#x2018;Planned&#x2019; (long-term) measures dividing these into &#x2018;Defensive&#x2019; and &#x2018;Anticipatory&#x2019; measures, see 
+                <xref ref-type="fig" rid="f6">Figure 6</xref>.</p>
+            <fig fig-type="figure" id="f6" orientation="portrait" position="float">
+                <label>Figure 6. </label>
+                <caption>
+                    <title>Diagram for climate-change adaptation measures (Adapted from IPCC 2007 Report, with permission of Cambridge University Press, 20 January 2021) (
+                        <xref ref-type="bibr" rid="ref-19">IPCC, 2007</xref>).</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15302/81057d42-0fdb-4ed2-86d2-d9d092c8b7c4_figure6.gif"/>
+            </fig>
+            <p>Using the different measures realized and planned for the cities of Gdansk and Rotterdam are categorized besides each other, see 
+                <xref ref-type="table" rid="T1">Table 1</xref>. This table is created for crossover comparison of the measures mentioned [chapter 2 and 3]; focusing on the factors that can be compared for benefit of both city locations, for working-out action perspectives, for these cities and possibly also for other cities. </p>
+            <table-wrap id="T1" orientation="portrait" position="anchor">
+                <label>Table 1. </label>
+                <caption>
+                    <title>Inventory and comparison Gdansk and Rotterdam climate-change adaption measures.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top">MEASURES</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Gdansk</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Rotterdam</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+
+                                <bold>Coping the situation</bold>
+                     </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">&#x2022;&#x00a0;&#x00a0;&#x00a0;New riverfront and city architecture</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">&#x2022;&#x00a0;&#x00a0;&#x00a0;New riverfront and city architecture.</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+
+                                <bold>Absorbing effects</bold>
+                     </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">-</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">&#x2022;&#x00a0;&#x00a0;&#x00a0;Long-term measures:
+                                <break/>scenarios 1 and 3</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+
+                                <bold>Blocking the threat</bold>
+                     </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">&#x2022;&#x00a0;&#x00a0;&#x00a0;Plan coastal protection strategy
+                                <break/>&#x2022;&#x00a0;&#x00a0;&#x00a0;Flood warning system residents.
+                                <break/>&#x2022;&#x00a0;&#x00a0;&#x00a0;City drainage system for heavy rainfall
+                                <break/>&#x2022;&#x00a0;&#x00a0;&#x00a0;Reservoirs for flood in rivers
+                                <break/>&#x2022;&#x00a0;&#x00a0;&#x00a0;The &#x2018;Vistula&#x2019; canals to &#x2018;Gdansk Gulf&#x2019;</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">&#x2022;&#x00a0;&#x00a0;&#x00a0;Raising primary and inner dikes.
+                                <break/>&#x2022;&#x00a0;&#x00a0;&#x00a0;Closing rivers in case of emergency.
+                                <break/>&#x2022;&#x00a0;&#x00a0;&#x00a0;Rain collecting reservoirs.
+                                <break/>&#x2022;&#x00a0;&#x00a0;&#x00a0;Widening upstream river beds.</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+
+                                <bold>Recovery measures</bold>
+                     </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">-</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">&#x2022;&#x00a0;&#x00a0;&#x00a0;Long-term measures:
+                                <break/>scenario 2.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>The location conditions of Gdansk and Rotterdam are quite similar, the differences are the size and logistics position in Europe. Both cities and their countries are aware of their vulnerability to climate-change impacts because of their delta situated locations; which they show by working-out measures and implement them.</p>
+            <p>A similarity in the measures that have been realized as the influx of water away from the cities is slowed down by widening rivers, rainwater reservoirs are constructed and dikes are raised, is that the primarily focus is on &#x2018;defensive&#x2019; measures. Thus, avoiding flooding and the accumulation of effects as much as possible. The difference in general is that for the city of Rotterdam more &#x2018;anticipatory&#x2019; adaptation measures are in development, largely fulfilled by measures initiated at national level.</p>
+            <p>The fact that more effort is in progress creating &#x2018;anticipatory&#x2019; short and long-term adaptation measures for the situation of Rotterdam, instigated from the national level, must lay in the tradition of the Netherlands to protect the country against high water, and the financial situation may also play a role in this. Nevertheless, the &#x2018;defensive&#x2019; flood protection measures taken at Gdansk and Rotterdam is not that different, given the difficulty of the &#x2018;anticipatory&#x2019; measures being worked on.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions and acknowledgements</title>
+            <p>It should be noted that it is apparently difficult for both locations to find &#x2018;anticipatory&#x2019; adaptation measures. While it is precisely in these measures to find action-perspectives, to create measures of a more structural nature. A good example of such coastal climate-change measures is the so-called &#x2018;Sand Motor&#x2019; created at the northwest coast of the Netherlands (
+                <xref ref-type="bibr" rid="ref-4">Climate Adapt, 2021</xref>): erosion of the dunes is prevented by creating a sand depot against the dunes in the coastal current, so that the erosion caused by storms is compensated in a natural way. However, it concerns a sparsely populated area where the space is not needed for industry and shipping. The problem of small measures for industrial cities such as Gdansk and Rotterdam are apparently that the required space is already in use. Still, it is promising that the Hackathon method offers a creative and promising solution, by involving all stakeholders around the problem. With crosspollination of knowledge and perspectives, adaptation measures can be explored in a more active and societal acceptable way. There way the action-perspective found in the Hackathon methodology is therefor process-based and not an actual solution scenario, but is being used more and more for climate-change issues and situation [also called Climathon]. Examples are: the 2020 Bangkok Climate Change Hackathon, the 2020 Open-source Presidential Hackathon Taiwan and the virtual EU Climathon program [
+                <ext-link ext-link-type="uri" xlink:href="https://climathon.climate-kic.org">https://climathon.climate-kic.org</ext-link>]. The Hackathon research methodology that first started with private group sessions, shows with these examples to be developed in an open research methodology in which researchers and problem owners worldwide can participate. This development as it is going makes this an interesting methodology to use for climate-change challenges in a multitude of situations.</p>
+        </sec>
+        <sec>
+            <title>Data availability</title>
+            <p>All data underlying the results are available as part of the article and no additional source data are required.</p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Angel</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Parent</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Civco</surname>
+                            <given-names>DL</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Atlas of urban expansion</article-title>. book - Lincoln Inst.<year>2012</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.lincolninst.edu/research-data/data/atlas-urban-expansion">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <collab>BACC Author Team</collab>:
+                    <article-title>Assessment of Climate Change for the Baltic Sea Basin.</article-title>Springer book.<year>2008</year>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-540-72786-6</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <article-title>Climate Adapt website of the EC and EIA</article-title>.<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://climate-adapt.eea.europa.eu/eu-adaptation-policy/sector-policies/coastal-areas">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <article-title>Climate-change Post</article-title>. update<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.climatechangepost.com/poland/climate-change/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cyberski</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Grze&#x015b;</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gutry-Korycka</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>History of floods on the river Vistula</article-title>.
+                    <source>
+
+                        <italic toggle="yes">Hydrolog Sci J.</italic>
+               </source>
+               <year>2006</year>;<volume>51</volume>(<issue>5</issue>):<fpage>799</fpage>&#x2013;<lpage>817</lpage>.
+                    <pub-id pub-id-type="doi">10.1623/hysj.51.5.799</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <article-title>Deltaprogramma</article-title>.<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://dp2021.deltaprogramma.nl/kabinetsreactie.html">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <article-title>Deltawet.</article-title>
+               <year>1958</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://wetten.overheid.nl/jci1.3:c:BWBR0002283&amp;z=2004-07-01&amp;g=2004-07-01">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <article-title>Deltawet.</article-title>
+               <year>2011</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://wetten.overheid.nl/jci1.3:c:BWBR0030836&amp;z=2012-01-01&amp;g=2012-01-01">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <collab>EEA</collab>:
+                    <article-title>Policy research on the changing faces of Europe&#x2019;s coastal areas due to sea level rise</article-title>.<year>2006</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <collab>EEA</collab>:
+                    <article-title>Indicator assessment of extreme sea levels and coastal flooding</article-title>.<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eea.europa.eu/data-and-maps/indicators/storms-and-storm-surges-in-europe-2/assessment">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ekman</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Changing Level of the Baltic Sea During 300 Years: A Clue to Understanding the Earth.</article-title>
+                    <source>
+
+                        <italic toggle="yes">PQR.</italic>
+               </source>
+               <year>2009</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/The_Changing_Level_of_the_Baltic_Sea_Dur.html?id=0oJXQwAACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Groeskamp</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kjellsson</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>NEED Northern European Enclosure Dam for if climate mitigation fails</article-title>. Report: American Meteorological Society.<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://tempodacqua.com/wp-content/uploads/2020/02/bams-d-19-0145.1.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Haasnoot</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Diermanse</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kwadijk</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Strategie&#x00eb;n voor adaptatie aan hoge en versnelde zeespiegelstijging. Een verkenning.</article-title>Deltares Hackathon rapport 11203724-004.<year>2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://publications.deltares.nl/11203724_004.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Haasnoot</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kwadijk</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Van Alphen</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Adaptation to uncertain sea level rise; how uncertainty in Antarctic mass-loss impacts the coastal adaptation strategy of the Netherlands.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Environmental research.</italic>
+               </source>
+               <year>2020</year>;<volume>15</volume>(<issue>3</issue>).
+                    <pub-id pub-id-type="doi">10.1088/1748-9326/ab666c</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Flemming</surname>
+                            <given-names>NC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Harff</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Moura</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The Baltic Sea Basin</article-title>. Book
+                    <italic toggle="yes">&#x2018;Submerged Landscapes of the European Continental Shelf</italic>.<year>2017</year>.
+                    <pub-id pub-id-type="doi">10.1002/9781118927823.ch5</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hilpert</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wolf</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Schmidt-Thom&#x00e9;</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Towards climate change adaptation in the Baltic Sea Region.</article-title>Astra EU project report.<year>2007</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/291300517_Towards_climate_change_adaptation_in_the_Baltic_Sea_Region">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Huang-Lachmann</surname>
+                            <given-names>JT</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lovett</surname>
+                            <given-names>JC</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>How cities prepare for climate-change: comparing Hamburg and Rotterdam.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Cities.</italic>
+               </source>
+               <year>2016</year>;<volume>54</volume>:<fpage>36</fpage>&#x2013;<lpage>44</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.cities.2015.11.001</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <mixed-citation publication-type="journal">
+                    <collab>IPCC</collab>:
+                    <article-title>Third Intergovernmental Panel on Climate Change Assessment Reports</article-title>.<year>2007</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.ipcc.ch/pub/syrgloss.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <collab>Labuz</collab>:
+                    <article-title>Environmental Impacts, costal erosion and coastline changes.</article-title>In
+                    <italic toggle="yes">Springer book &#x2018;Second assessment of climate change for the Baltic Sea basin</italic>.<year>2015</year>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-319-16006-1_20</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <mixed-citation publication-type="journal">
+                    <collab>ModE (Ministry of the Environment)</collab>:
+                    <article-title>Report on &#x2018;Climate change adaptation plans in 44 Polish cities&#x2019;</article-title>.<year>2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ietu.pl/wp-content/uploads/2019/05/MPA_broszura_podsumowujaca_NET-ENG-20-12.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <collab>ModE (Ministry of the Environment)</collab>:
+                    <article-title>Report from the UBC Commission on Energy, Environment and Transportation</article-title>.<year>2010</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://archive.ubc.net/files/2220.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <mixed-citation publication-type="journal">
+                    <collab>NLS</collab>:
+                    <article-title>National Land Survey of Finland: NLS 2021: National Land Survey of Finland</article-title>.<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.maanmittauslaitos.fi/en/research/interesting-topics/land-uplift">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Omstedt</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pettersen</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rodhe</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Baltic Sea climate: 200 year of data on air temperature, sea level variation, ice cover, and atmospheric circulation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Climate Research.</italic>
+               </source>
+               <year>2004</year>;<volume>25</volume>(<issue>3</issue>):<fpage>205</fpage>&#x2013;<lpage>216</lpage>.
+                    <pub-id pub-id-type="doi">10.3354/cr025205</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <mixed-citation publication-type="journal">
+                    <article-title>SOS Climate Waterfront project (2019 started)</article-title>.<year>2019</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://sosclimatewaterfront.eu/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <mixed-citation publication-type="journal">
+                    <collab>World Meteorological Organization (WMO)</collab>:
+                    <article-title>Study of historical floods in central Eastern Europe from integrated flood management viewpoint</article-title>.<year>2005</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.floodmanagement.info/projects/pilot/europe/Summary_CEE_APFM.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zeidler</surname>
+                            <given-names>RB</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sea Level Rise and Coast Evolution in Poland.</article-title>book of the 24
+                    <sup>th</sup>International Conference on Coastal Engineering.<year>2015</year>;<fpage>3462</fpage>&#x2013;<lpage>3475</lpage>.
+                    <pub-id pub-id-type="doi">10.1061/9780784400890.251</pub-id>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report27797">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15302.r27797</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>van der Schoor</surname>
+                        <given-names>Tineke</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27797a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2829-3808</uri>
+                </contrib>
+                <aff id="r27797a1">
+                    <label>1</label>Research Centre for Built Environment NoorderRuimte, Hanze University of Applied Sciences, Groningen, The Netherlands</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>25</day>
+                <month>10</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 van der Schoor T</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27797"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13125.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The author's response lists several changes that have been made, navigation would be easier for the reader if the chapters/ sections were numbered.</p>
+            <p> </p>
+            <p> The Hackathon method is now briefly described, and the reader is referred to another report for more information - however, this is in Dutch. Furthermore, a methodology article on Hackathon or Climathon as a research method would be very interesting.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>NA</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report27798">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15302.r27798</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Mabon</surname>
+                        <given-names>Leslie</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27798a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r27798a1">
+                    <label>1</label>Scottish Association for Marine Science, University of the Highlands and Islands, Inverness, UK</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>10</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Mabon L</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27798"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13125.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This is a much improved text, thanks very much for the opportunity to review it. Two very minor comments that need be addressed: 
+                <list list-type="order">
+                    <list-item>
+                        <p>The conclusion would benefit from a couple of sentences that reiterate the key findings of the research, in addition to the material that is there already.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The article needs thorough proofreading as there are several spelling and typographical errors (e.g. the title of the first section does not need an apostrophe in Deltas).</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Partly</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Partly</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Partly</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>climate change adaptation; environmental governance; environmental policy</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report27796">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15302.r27796</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Nones</surname>
+                        <given-names>Michael</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27796a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-4395-2637</uri>
+                </contrib>
+                <aff id="r27796a1">
+                    <label>1</label>Institute of Geophysics, Polish Academy of Sciences, Warsaw, Poland</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>14</day>
+                <month>10</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Nones M</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27796"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13125.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>Dear Authors,</p>
+            <p> Many thanks for having revised the article following my comments.</p>
+            <p> In my opinion, the present version is more scientifically sound and could help in managing delta cities exposed to climate change.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Partly</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>No</p>
+            <p>Reviewer Expertise:</p>
+            <p>River morphodynamics.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report26990">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.14195.r26990</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Mabon</surname>
+                        <given-names>Leslie</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r26990a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r26990a1">
+                    <label>1</label>Scottish Association for Marine Science, University of the Highlands and Islands, Inverness, UK</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>22</day>
+                <month>6</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Mabon L</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport26990"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13125.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>reject</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>Thank you for the opportunity to review this work. The option the portal gives me for recommendation is titled 'Not Approved', which sounds a lot more harsh than I intend my recommendation to be! If this was a more traditional academic journal, I would probably select 'Major Revisions'. I believe that this can become a scientifically sound piece of research with a bit of expansion and re-writing as follows. So please do not be put off by the 'Not Approved' recommendation.</p>
+            <p> </p>
+            <p> This is an interesting and valuable paper which compares approaches to flooding in two delta areas in the northern part of Europe &#x2013; Gdansk and Rotterdam. Approaches to dealing with flooding under conditions of rising sea levels and increasingly frequent extreme events are fast becoming an area of scholarly concern, so this is a timely contribution from a part of the world that has not received as much scholarly attention as other low-lying areas to date.</p>
+            <p> </p>
+            <p> However, whilst the premise of the paper is valuable and I strongly believe there is important data in here, I believe the paper needs some reworking and development to really bring out the scientific insights. As it stands this is fine as a case report, however if it is to be developed into a scholarly contribution (either here or for publication in another venue) then more engagement with the existing research literature is needed. My suggestions for how to do this are as follows. 
+                <list list-type="order">
+                    <list-item>
+                        <p>You should make much more of the comparison between the two cases. At present, there is a useful table on the adaptive activities of each city, and a few paragraphs on some of the similarities and differences between the cases. For an international readership, the comparison between the cases, and especially what we can learn from where there are differences and why, is going to be equally as valuable as the descriptive information on what is happening in each of the cities. I would therefore suggest you to significantly expand the comparison section and to consider how your findings build on what is already discussed in the literature. Looking at how the cities might learn from each other could be an especially valuable line of enquiry, given the growing scholarly interest in how cities can learn from each other (both formally and informally) to develop resilience. See e.g.</p>
+                        <p> </p>
+                        <p> Acuto, M., &amp; Leffel, B. (2020). Understanding the global ecosystem of city networks. Urban Studies, 004209802092926. https://doi.org/10.1177/0042098020929261</p>
+                        <p> </p>
+                        <p> Bai, X., Nagendra, H., Shi, P., &amp; Liu, H. (2020). Cities: build networks and share plans to emerge stronger from COVID-19. Nature, 584(7822), 517&#x2013;520. https://doi.org/10.1038/d41586-020-02459-2</p>
+                    </list-item>
+                    <list-item>
+                        <p>I was especially interested to read about the Policy Hackathon approaches to developing flood scenarios and solutions in Rotterdam. I wonder if this is something you could look into more in the discussion, perhaps as a response to my point above? For instance, what new and different ways are cities using to engage a range of knowledges and expertises in the governance of challenging and uncertain issues such as flooding, and how can these Hackathon-type approaches produce more robust outcomes compared to more traditional approaches to science-policy-practice interaction? (see for example the Presidential Hackathon organised in Taiwan in 2020, which used open data to encourage teams to develop solutions for each of the Sustainable Development Goals).</p>
+                    </list-item>
+                    <list-item>
+                        <p>If the text here is going to stand as a scientific contribution, it would be helpful to add an introductory section which sets out the context of the work and the key scholarly (or even policy) issues that the work speaks to. For example, a lot of work has been done on adaptation in deltas in lower-latitude country contexts, however there is perhaps not much on adaptation in deltas at higher-latitudes. Nonetheless, the last year or so has seen a huge upswing in research into adaptation for coastal areas in higher-latitude countries (see e.g. this recent special issue 
+                            <ext-link ext-link-type="uri"
+                               xlink:href="https://link.springer.com/article/10.1007/s13412-021-00700-6">https://link.springer.com/article/10.1007/s13412-021-00700-6</ext-link>) so there is an emerging science-policy requirement that your work comes at just the right time to engage with.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Methodology. Again reflecting the above, if the work is going to be developed it would be worthwhile having a more explicit Method/Methodology section, as readers will want to see this. So for example, you mention you did a cross-over analysis. What is meant by a cross-over analysis, and how did you do this in practice? Take, for example, the very helpful Table 1 you have &#x2013; where does this information come from (e.g. policy analysis, interviews?) and how was it sourced/analysed? How can you be sure you got all the relevant information for each city, and how can you demonstrate to the readers that you did the analysis in a rigorous way? Reference to some standard methods textbooks and/or other papers which use a similar methodological approach will help to show the rigour of the work.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Partly</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Partly</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Partly</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>climate change adaptation; environmental governance; environmental policy</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to state that I do not consider it to be of an acceptable scientific standard, for reasons outlined above.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-26990-1">
+                    <label>1</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Understanding the global ecosystem of city networks</article-title>.
+                        <source>
+                            <italic>Urban Studies</italic>
+                        </source>.<year>2021</year>;<volume>58</volume>(<issue>9</issue>) :
+                        <elocation-id>10.1177/0042098020929261</elocation-id>
+                  <fpage>1758</fpage>-<lpage>1774</lpage>
+                        <pub-id pub-id-type="doi">10.1177/0042098020929261</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-26990-2">
+                    <label>2</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Cities: build networks and share plans to emerge stronger from COVID-19.</article-title>
+                        <source>
+                            <italic>Nature</italic>
+                        </source>.<volume>584</volume>(<issue>7822</issue>) :
+                        <elocation-id>10.1038/d41586-020-02459-2</elocation-id>
+                  <fpage>517</fpage>-<lpage>520</lpage>
+                        <pub-id pub-id-type="pmid">32843732</pub-id>
+                        <pub-id pub-id-type="doi">10.1038/d41586-020-02459-2</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-26990-3">
+                    <label>3</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Introduction: Managed retreat and environmental justice in a changing climate</article-title>.
+                        <source>
+                            <italic>Journal of Environmental Studies and Sciences</italic>
+                        </source>.<year>2021</year>;
+                        <elocation-id>10.1007/s13412-021-00700-6</elocation-id>
+                        <pub-id pub-id-type="doi">10.1007/s13412-021-00700-6</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+        <sub-article article-type="response" id="comment3202-26990">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Sanders</surname>
+                            <given-names>Fred</given-names>
+                        </name>
+                        <aff>CPONH NGO, The Netherlands</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>6</day>
+                    <month>10</month>
+               <year>2021</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>Dear 3rd Reviewer Leslie Mabon, we worked-out your comments in our revised paper, according to your three&#x00a0;most notable comments: 
+                    <list list-type="order">
+                        <list-item>
+                            <p>We added a new chapter (1) to introduce the research question and the research methodology, and we split the analysis chapter in analysis (4) and conclusions (5) to make the comparison of both cities more clear, as you suggested. The research as we did has&#x00a0;taken place within the confines of the EU H2020&#x00a0;'SOS Climate Waterfront' project and therefore does not extend to other comparable places. We explained that in the paper now. We added&#x00a0;in the paper though parallel studies in and outside the EU, because its true the research in deltas gets growing attention.</p>
+                        </list-item>
+                        <list-item>
+                            <p>The conceptual model for the analysis we have worked-out further and the presentation of the comparison is given attention, to make the differences of the comparison more clear.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Examples of the use of the Hackathon methodology are added, to make clear the growing potential of this approach, as you suggested. We think all your suggestions, the small ones and the more notable ones, all have helped by working-out our paper better. Your remarks stimulated us by addressing&#x00a0;that comparisons like we did will help other coastal deltas to&#x00a0;consider climate-change adaptation measures better.</p>
+                        </list-item>
+                    </list> Thank you for reflecting our work.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report27000">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.14195.r27000</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Nones</surname>
+                        <given-names>Michael</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27000a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-4395-2637</uri>
+                </contrib>
+                <aff id="r27000a1">
+                    <label>1</label>Institute of Geophysics, Polish Academy of Sciences, Warsaw, Poland</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>1</day>
+                <month>6</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Nones M</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27000"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13125.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>
+                <bold>General comment</bold>: even if the study goals can be derived from the last section, I suggest adding a few more details at the very beginning of the article, to better pinpoint what is the scope of the research, and how your work combines with the existing literature.&#x00a0;</p>
+            <p> </p>
+            <p> 
+                <bold>Abstract: </bold>please add the country of Gdansk (as done for Haarlem).</p>
+            <p> </p>
+            <p> 
+                <bold>Figure 1</bold>: please add a graphical scale and the coordinates, to better place the study area. (same for Fig. 5)</p>
+            <p> </p>
+            <p> 
+                <bold>Figure 2</bold>: what is the scope of presenting these photos? What is the added value of this figure? (same comments for Figs. 3 and 4)</p>
+            <p> </p>
+            <p> 
+                <bold>Language</bold>: even if I am not a native English speaker, I would like to advise you that a double-checking of the language is needed</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Partly</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>No</p>
+            <p>Reviewer Expertise:</p>
+            <p>River morphodynamics.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <sub-article article-type="response" id="comment3201-27000">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Sanders</surname>
+                            <given-names>Fred</given-names>
+                        </name>
+                        <aff>CPONH NGO, The Netherlands</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>6</day>
+                    <month>10</month>
+               <year>2021</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>Dear 2nd Reviewer Michael Nones, we worked-out your comments in our revised paper, according to your three most notable comments: 
+                    <list list-type="order">
+                        <list-item>
+                            <p>We rewrote the abstract to mention more clearly that the comparison concerns the cities of Gdansk and Rotterdam and not Haarlem, we skipped Haarlem.</p>
+                        </list-item>
+                        <list-item>
+                            <p>We added&#x00a0;the&#x00a0;graphical scale of&#x00a0;the maps in&#x00a0;text of the explanation at the concerning&#x00a0;three figures.</p>
+                        </list-item>
+                        <list-item>
+                            <p>We removed the pictures because these we not that essential. They came from&#x00a0;the&#x00a0;case-study presentation at the 2019 Gdansk conference, from which we worked-out further this paper for publishing.</p>
+                        </list-item>
+                    </list> Thank you for reflecting our work.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report26652">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.14195.r26652</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>van der Schoor</surname>
+                        <given-names>Tineke</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r26652a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2829-3808</uri>
+                </contrib>
+                <aff id="r26652a1">
+                    <label>1</label>Research Centre for Built Environment NoorderRuimte, Hanze University of Applied Sciences, Groningen, The Netherlands</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>4</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 van der Schoor T</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport26652"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13125.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This article compares the approaches of the cities Gdansk and Rotterdam to the protection for future consequences of climate change. The authors argue that there are many similarities between the situation of these two cities, and that they could profit from exchanging knowledge and experiences. The article starts out with a description of the local and regional situation of the two cities in their surrounding environment, the current water management measures as well as the planned climate change measures for long term protection. For the situation in Poland, much can be learned from comparisons with other Baltic sea cities and regions. On the other hand, the situation in the Netherlands is seen as more isolated. A few remarks on this article are the following. Firstly, the method and research design should be included in the article. What research methods are used, what is cross-over analysis and how is it performed. Secondly, the section on analysis and conclusions is rather short. It could be useful to divide this in two sections and take more room to compare the different approaches. For example, the monetary and ecological costs of approaches are only briefly mentioned, these could be further discussed. Third, the situation in the Netherlands is not as isolated as argued, for example the new &#x2018;Deltaplan&#x2019; would entail cooperation with all countries bordering the North Sea. Furthermore, there are comparable situations in other North Sea countries, for example in Germany (Hamburg) and Denmark. Such examples from farther afield could be added to or referred to in the article.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>NA</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <sub-article article-type="response" id="comment3200-26652">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Sanders</surname>
+                            <given-names>Fred</given-names>
+                        </name>
+                        <aff>CPONH NGO, The Netherlands</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>6</day>
+                    <month>10</month>
+               <year>2021</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>Dear 1st Reviewer Tineke van de Schoor, we worked-out your comments in our&#x00a0;revised paper, according yo your three most notable comments: 
+                    <list list-type="order">
+                        <list-item>
+                            <p>We added a new chapter (1) to introduce the research question and the research methodology.</p>
+                        </list-item>
+                        <list-item>
+                            <p>We divided the chapter with conclusions in the two chapters (4) and (5) analysis and conclusions to give, as you advised, that analysis more body and explanation.</p>
+                        </list-item>
+                        <list-item>
+                            <p>We explained why we focused on the northern EU deltas at Gdansk and Rotterdam in the new introduction chapter (10)&#x00a0;and gave some examples of research on other places at the Baltic Sea and in the world, to better position the research as you suggested.</p>
+                        </list-item>
+                    </list> Thank you for reflecting our work.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+</article>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.w3.org/1998/Math/MathML" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <xs:import schemaLocation="out.xsd"/>
+  <xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="xlink.xsd"/>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:element name="math">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element ref="mml:mi"/>
+        <xs:element ref="mml:mn"/>
+        <xs:element ref="mml:mo"/>
+        <xs:element ref="mml:mrow"/>
+        <xs:element ref="mml:mspace"/>
+        <xs:element ref="mml:mstyle"/>
+        <xs:element ref="mml:msub"/>
+        <xs:element ref="mml:msup"/>
+      </xs:choice>
+      <xs:attribute name="display" use="required" type="xs:NCName"/>
+      <xs:attribute name="id" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mspace">
+    <xs:complexType>
+      <xs:attribute name="width" use="required" type="xs:NMTOKEN"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mstyle">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="mml:msubsup"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="mml:mrow"/>
+          <xs:element ref="mml:msub"/>
+          <xs:element ref="mml:munderover"/>
+        </xs:choice>
+      </xs:sequence>
+      <xs:attribute name="displaystyle" use="required" type="xs:boolean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="munderover">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="mml:mo"/>
+        <xs:element ref="mml:mrow"/>
+        <xs:element ref="mml:mi"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mo">
+    <xs:complexType mixed="true">
+      <xs:attribute name="stretchy" type="xs:boolean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mn" type="xs:decimal"/>
+  <xs:element name="msub">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:choice minOccurs="0">
+          <xs:element ref="mml:mo"/>
+          <xs:element ref="mml:mover"/>
+        </xs:choice>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="mml:mi"/>
+          <xs:element ref="mml:mrow"/>
+          <xs:element ref="mml:mtext"/>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="mml:mn"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="msup">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="mml:mtext"/>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element ref="mml:mi"/>
+          <xs:element ref="mml:mn"/>
+          <xs:element ref="mml:mrow"/>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="mml:mo"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mi" type="xs:NCName"/>
+  <xs:element name="mrow">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="mml:mi"/>
+        <xs:element ref="mml:mn"/>
+        <xs:element ref="mml:mo"/>
+        <xs:element ref="mml:mover"/>
+        <xs:element ref="mml:mrow"/>
+        <xs:element ref="mml:mspace"/>
+        <xs:element ref="mml:mstyle"/>
+        <xs:element ref="mml:msub"/>
+        <xs:element ref="mml:msubsup"/>
+        <xs:element ref="mml:msup"/>
+        <xs:element ref="mml:mtext"/>
+        <xs:element ref="mml:mfrac"/>
+        <xs:element ref="mml:msqrt"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mfrac">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="mml:mi"/>
+        <xs:element ref="mml:mrow"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="msqrt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="mml:mrow"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="msubsup">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="mml:mo"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="mml:mi"/>
+          <xs:element ref="mml:mrow"/>
+        </xs:choice>
+        <xs:choice>
+          <xs:element ref="mml:mn"/>
+          <xs:element minOccurs="0" maxOccurs="unbounded" ref="mml:mtext"/>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mover">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="mml:mi"/>
+        <xs:element ref="mml:mo"/>
+      </xs:sequence>
+      <xs:attribute name="accent" use="required" type="xs:boolean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mtext" type="xs:string"/>
+</xs:schema>

@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.14471.2</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>A data-driven global observatory addressing worldwide challenges through text mining and complex data visualisation</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 2; peer review: 1 approved, 1 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Costa</surname>
+                        <given-names>Joao</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Software</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-5745-1302</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Massri</surname>
+                        <given-names>M. Besher</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Software</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Grobelnik</surname>
+                        <given-names>Marko</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Casals del Busto</surname>
+                        <given-names>Ignacio</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Weston</surname>
+                        <given-names>Dale</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Quintelligence, Ljubljana, Slovenia</aff>
+                <aff id="a2">
+                    <label>2</label>UNESCO International Research Institute on AI - IRCAI, Ljubljana, Slovenia</aff>
+                <aff id="a3">
+                    <label>3</label>Institute Jozef Stefan, Ljubljana, Slovenia</aff>
+                <aff id="a4">
+                    <label>4</label>Aguas del Alicante, Alicante, Spain</aff>
+                <aff id="a5">
+                    <label>5</label>Public Health England, Salisbury, UK</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:joao.pitacosta@quintelligence.com">joao.pitacosta@quintelligence.com</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>7</day>
+                <month>12</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2022</year>
+            </pub-date>
+         <volume>2</volume>
+            <elocation-id>68</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>4</day>
+                    <month>12</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Costa J et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/2-68/pdf"/>
+            <abstract>
+                <p>Observing the world on a global scale can help us understand better the context of problems that engage us all. In this paper, we propose a data-driven global observatory methodology that puts together the different perspectives of media, science, statistics and sensing over heterogeneous data sources and text mining algorithms. We also discuss the implementation of this global observatory in the context of epidemic intelligence, monitoring the impact of the COVID-19 pandemic, and in the context of climate change, with a specific focus on water resource management. Moreover, we discuss the value of this global solution in local contexts and priorities, based on the exchange with stakeholders in municipalities, utilities and governmental institutions.</p>
+            </abstract>
+            <abstract abstract-type="plain-language-summary">
+                <title>Plain language summary</title>
+                <p>In this research paper we lay the foundations for a data-driven perspective on how to appropriately use open data to build business intelligence, with proven usefulness in applications to public health and water resource management and with potential applications to other priority areas.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Big Data</kwd>
+                <kwd>Semantic Technologies</kwd>
+                <kwd>Public Health</kwd>
+                <kwd>Water Management</kwd>
+                <kwd>Text Mining</kwd>
+                <kwd>MeSH Headings</kwd>
+                <kwd>MEDLINE</kwd>
+                <kwd>multilingual news</kwd>
+                <kwd>Social media</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>727721</award-id>
+                    <award-id>820985</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreements No 727721, A holistic water ecosystem for digitisation of urban water sector (NAIADES) and No 820985, Meaningful Integration of Data, Analytics and Services (MIDAS).</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+        <notes>
+            <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 1</title>
+                <p>After a useful peer review, we have improved the content taking into consideration the comments that mostly regarded the context to related work. We have improved the readability of this paper adding new references to this work, and updated the context in which it was presented when first submitted.</p>
+            </sec>
+        </notes>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>II. Introduction</title>
+            <p>The world&#x2019;s globalization phenomena unveiled awareness of worldwide problems, such as the climate crisis, but also to common efforts to find solutions to those problems, as was the case of the several COVID-19 collaborative actions. There are many obstacles still today on such global strategies to which innovative technology and data-driven solutions can help. In this paper we propose the concept of a global observatory based on text mining algorithms that is able to answer the wide range questions that are core to global solutions, using machine learning and Big Data analytic methods over the layered information it is ingesting often in real-time. The main perspectives of this global observatory fall on: (i) the monitoring and exploration of news articles and social media feeds; (ii) the analysis of combinations of indicators through time and what stories can they tell; and (iii) the exploration of published scientific knowledge. All of these perspectives can be combined to provide complementary answers to main topics from health to engineering. In this paper we discuss the results obtained based on two implementations of these observatory approach: (a) the Coronavirus Watch portal released in 
+                <xref ref-type="bibr" rid="ref-1">1</xref> addressing the worldwide spread of COVID-19
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>; and (b) the NAIADES Water Observatory
+                <sup>
+                    <xref ref-type="bibr" rid="ref-3">3</xref>
+                </sup>, focusing on best practices to build water sustainability.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>III. Methods</title>
+            <p>Taking into account the schema in 
+                <xref ref-type="fig" rid="f1">Figure 1</xref>, we consider the construction of the Global Water Observatory into phases, going from lower to higher complexity. A similar observatory, dedicated to monitor COVID-19
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>, was made available with less functionality but also including a diversity of perspectives for which the interoperability is a core topic of discussion in this paper. We start by putting together data sources that are meaningful to a range of stakeholders targeted within engaged citizens to decision makers and that can leverage the information provided to established evidence-based policies.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>The approach used leading from data sensing to the digital twin and its approximation to local priorities.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/18280/d68ee2a3-0d99-41af-8ed4-f094183a27a4_figure1.gif"/>
+            </fig>
+            <p>At the data collection phase, we are concerned with addressing properly the challenges in the heterogeneous nature of the data, their different frequency and size, as well as the levels of access to it established by data providers. These parameters to take into consideration ensure the appropriate data ingestion into the system. The selection of data sources and features to be ingested is done manually, but the ingestion itself is automated when the frequency requires so. The frequency of update depends solely of the data provider. At this first stage we are collecting data from many different data sources (such as, 
+                <italic toggle="yes">e.g.</italic>, the Worldwide news, the Microsoft Academic Graph, the Word Bank, the United Nations Sustainable Development Goals), according to their relation to the focus topics and priorities.</p>
+            <p>A forthcoming stage is in the data cleaning, data processing and data integration prior ingestion. This step is highly important to allow for the data quality that is needed in order to obtain useful insights from it. In this step we include the data curation, where the most meaningful datasets are selected and parsed. We also include the exploratory data analysis and some data visualisation for the purpose of prototyping what is then available at the Water Observatory.</p>
+            <p>The Observatory phase is then possible when the curated data streams of a selection of dynamic data sources are live in the system and can be used to obtain insight on particular topics of interest, monitor Key Performance Indicators associated with business priorities, and allow for a global and local perspective on related topics. These include interactive data visualisations of indicators and statistical data, the dynamic view of the news sources over priorities, or the user query over a scientific research topic. This allows for insight on topics in analysis (such as water topics like, 
+                <italic toggle="yes">e.g.</italic>, water scarcity and water quality, and public health topics like, 
+                <italic toggle="yes">e.g.</italic>, ebola or the new coronavirus) that will be put into the context of local data when sourced from the shared interest of users.</p>
+            <p>The path ahead is a novel concept of a meaningful Digital Twin (
+                <italic toggle="yes">i.e.</italic>, a dynamical model which, given a current state of an observed system, is capable of a digital partial reconstruction of such a system) that builds over the Global Water Observatory to rise above data complexity towards data interoperability. This is usually difficult to achieve in full due to the heterogeneity of the data, the different characteristics of the data sourced (frequency, data types, 
+                <italic toggle="yes">etc.</italic>) and the domain knowledge needed to identify new challenges covering a wide range of business intelligence priorities. Nevertheless, useful aspects of it can be achieved, some of which are already evident from the implementations discussed in this paper. An example of this is to track a topic in the news, its impact in the social media, and explore the range of the problem in the published scientific research, as well as extract good practices to deal with this problem.</p>
+            <p>We add a final stage to this diagram that is usually forgotten in a theoretical framework, which is the adaptation of the system to the needs and priorities in the user side. Here we consider the ingestion of local data, the customization of news streams, the availability of exploratory dashboards, the shareable instances for policy makers, and the APIs for 3rd party integration.</p>
+            <p>The system that is able to access the data sources that relate to the items above, is also able to track the term throughout the several phases of popularization. It is also able to show the current status of a particular topic of interest, and optimally alert for potentially trendy topics in the future. In that particular context, the interactive data visualisation is a key factor to improve the usefulness of the tool and should express visual narratives that comprehend the relevant aspects of the problem. Good examples of such can be consulted for the case of epidemic intelligence in 
+                <xref ref-type="bibr" rid="ref-4">4</xref> and water intelligence in 
+                <xref ref-type="bibr" rid="ref-5">5</xref>, and will be discussed in the implementations described and explored for the purpose of this study. </p>
+        </sec>
+        <sec>
+            <title>IV. On The Coronaviruswatch Observatory</title>
+            <p>When the World Health Organization (WHO) announced the global COVID-19 pandemic on March 11th 2020
+                <sup>
+                    <xref ref-type="bibr" rid="ref-6">6</xref>
+                </sup>, following the rising incidence of the SARS-CoV-2 in Europe, the world started reading and talking about the new Coronavirus. The arrival of the epidemic to Europe scaled out the news published about the topic, while public health institutions and governmental agencies had to look for existing reliable solutions that could help them plan their actions and the consequences of these.</p>
+            <p>Technological companies and scientific communities invested efforts in making available tools (
+                <italic toggle="yes">e.g.</italic> the GIS
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>
+                </sup> later adopted by WHO), challenges (
+                <italic toggle="yes">e.g.</italic> the Kaggle COVID-19 competition
+                <sup>
+                    <xref ref-type="bibr" rid="ref-8">8</xref>
+                </sup>), and scientific reports and data (
+                <italic toggle="yes">e.g.</italic> the repositories medRxiv
+                <sup>
+                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                </sup> and Zenodo
+                <sup>
+                    <xref ref-type="bibr" rid="ref-10">10</xref>
+                </sup>).</p>
+            <p>In March 2020 we have released the first implementation of this global observatory as the Coronavirus Watch portal
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>
+                </sup>, aiming to contribute to a multinational response to the global crisis. It was made available by the UNESCO AI Research Institute (IRCAI), comprehending several data exploration dashboards related to the SARS-CoV-2 worldwide pandemic. This platform aimed to expose the different perspectives on the data generated and trigger actions that can contribute to a better understanding of the behavior of the disease (see 
+                <xref ref-type="fig" rid="f2">Figure 2</xref>).</p>
+            <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                <label>Figure 2. </label>
+                <caption>
+                    <title>The IRCAI observatory for the COVID-19 pandemic.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/18280/d68ee2a3-0d99-41af-8ed4-f094183a27a4_figure2.gif"/>
+            </fig>
+            <p>The portal includes a real-time news monitoring system that can be focused at European and national level, side-by-side with the data on the progress of the pandemics made available by the Worldometer
+                <sup>
+                    <xref ref-type="bibr" rid="ref-11">11</xref>
+                </sup> and the Center for Disease Control
+                <sup>
+                    <xref ref-type="bibr" rid="ref-12">12</xref>
+                </sup>. The visual representation of the details of those indicators were made available over animations showcasing the live comparisons in 5D (as in 
+                <xref ref-type="fig" rid="f2">Figure 2</xref>), the trajectories of the most affected countries, and the details of the progression of the disease. It also included perspectives on the mobility, sourced on the Google Community mobility data
+                <sup>
+                    <xref ref-type="bibr" rid="ref-13">13</xref>
+                </sup>, a social distancing simulator, and exploration tools based on the published biomedical research (see 
+                <xref ref-type="bibr" rid="ref-2">2</xref>).</p>
+            <p>To improve the resolution of these results and to optimise their relevance for European public health agencies, we have developed a set of COVID-19 focused tools on the MIDAS platform
+                <sup>
+                    <xref ref-type="bibr" rid="ref-14">14</xref>
+                </sup>. This system was designed for evidence-based decision-making in public health. This approach allows us to validate the usability of the global observatory on a cross-EU level within the COVID-19 context, integrating both health news and biomedical research exploration (see 
+                <xref ref-type="fig" rid="f3">Figure 3</xref>).</p>
+            <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                <label>Figure 3. </label>
+                <caption>
+                    <title>Exploring scientific research through complex data visualisation.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/18280/d68ee2a3-0d99-41af-8ed4-f094183a27a4_figure3.gif"/>
+            </fig>
+        </sec>
+        <sec>
+            <title>V. On The Water Observatory</title>
+            <p>Climate change is a global problem that in the recent years has been in the focus of European and Worldwide strategies. The priorities in European Union are rapidly changing towards sustainability and environmental efficiency, transversely to most domains of action. The European Commission&#x2019;s Green Deal aiming for a climate neutral Europe in 2050, and boosting economy through green technology
+                <sup>
+                    <xref ref-type="bibr" rid="ref-15">15</xref>
+                </sup> provides a new framework to understand and position water resource management in the context of the challenges of tomorrow
+                <sup>
+                    <xref ref-type="bibr" rid="ref-16">16</xref>
+                </sup>. In this context, the NAIADES project
+                <sup>
+                    <xref ref-type="bibr" rid="ref-17">17</xref>
+                </sup> aims to improve the water resource management in a global context, including European regions where water scarcity is predicted, also dealing with concerns as, 
+                <italic toggle="yes">e.g.</italic>, saline intrusion and groundwater contamination. To contribute to this cause, we deployed a Global Water Observatory
+                <sup>
+                    <xref ref-type="bibr" rid="ref-3">3</xref>
+                </sup> that is focusing on water-related aspects allowing the user to explore the several layers of information it is providing, from news and social media to published science, weather models and indicators. The NAIADES Global Water Observatory does not only contribute to the improvement of European sustainability in water-related matters, but also provides the local actors on the water resource management an active role in that taking into consideration the national and international open data available on water resource management-related topics and priorities (see 
+                <xref ref-type="bibr" rid="ref-18">18</xref> for more details).</p>
+            <p>Water is fundamental to all human activity and ecosystem health, and is a topic of rising awareness in the context of the recent discussions on climate change. Water resource management is central to those concerns, with the industry accounting for over 19% of global water withdrawal, and agricultural supply chains are responsible for 70% of water stress
+                <sup>
+                    <xref ref-type="bibr" rid="ref-19">19</xref>
+                </sup>. In 2015 the UN established &#x201d;clean water and sanitation for all&#x201d; as one of the 17 Sustainable Development Goals, aiming for eight targets to be achieved by 2030
+                <sup>
+                    <xref ref-type="bibr" rid="ref-20">20</xref>
+                </sup>. The UN secretary-general points out in April 2020 that SDG 6 is &#x201d;badly off track&#x201d; compromising the progress on the 2030 Agenda
+                <sup>
+                    <xref ref-type="bibr" rid="ref-21">21</xref>
+                </sup>. As noted by the Organisation for Economic Cooperation and Development (OECD), the &#x2018;water crisis&#x2019; has often proven to be a crisis of governance
+                <sup>
+                    <xref ref-type="bibr" rid="ref-22">22</xref>
+                </sup>, where water scarcity is largely caused by mismanagement of resources, leading to a global prioritisation
+                <sup>
+                    <xref ref-type="bibr" rid="ref-23">23</xref>
+                </sup>.</p>
+            <p>The intention to globally monitor water resources is not new, and already in the late 1960s
+                <sup>
+                    <xref ref-type="bibr" rid="ref-24">24</xref>
+                </sup> the first spatially-distributed water resources model appeared, with first operational uses of satellite observations in water resources developed in the early 1980s
+                <sup>
+                    <xref ref-type="bibr" rid="ref-25">25</xref>
+                </sup>. The reliable management of water resources is only possible under condition of availability of adequate qualitative and quantitative information about state of the water body at any moment of time. Taking advantage of the recent technological progress enabling much innovation that was unthinkable a few years ago, the concept of the Digital Twin is increasingly entering the water sector as an innovation driver. Due to the rapidly growing awareness of the sustainability challenges that we are facing in Europe and worldwide in the context of the water resource management, there has been much work done to develop systems that are able to collect information about the available water and even simulate and forecast that in the near future. These are usually geolocation-based systems ingesting water-related data to enable real-time monitoring of resources and usage
+                <sup>
+                    <xref ref-type="bibr" rid="ref-26">26</xref>
+                </sup>. The other typical approach is the systems focused on workflows in the water sector, including the management of water distribution networks, hydraulic efficiency or leak/fraud detection, better suited to those companies that already have their infrastructure in place and know well what do they want to monitor
+                <sup>
+                    <xref ref-type="bibr" rid="ref-27">27</xref>
+                </sup>.</p>
+            <p>The approach we proposed in this paper is novel in many ways. The news monitoring perspective is monitoring water scarcity and water quality in worldwide and, in particular, in the surrounding regions of the water resource management agencies is is mainly addressing, together with their audiences. This is also including a Twitter observatory that adds to the already implemented measure of impact of the monitored news in Facebook, a social media component to the observatory. The global indicators that are already available for visualisation, sourced over the UN Open Data Portal, the water-focused Sustainable Development Goal 6, and the World Bank Data Portal, can help us understand water-related aspects of the climate crisis.</p>
+            <p>The important role of scientific research in this context, and the best practices that can be extracted from this data, is explored with a complex data visualisation technology that allows the user to powerful Lucene-based queries over the article&#x2019;s metadata aiming to refine search by moving a pointer over clusters of related topics (see 
+                <xref ref-type="fig" rid="f3">Figure 3</xref>). We will also be including other data analytics technologies to analyse simultaneously multiple time-series providing interactive exploration tools to understand trends in the weather and water-related impacts to it.</p>
+            <p>The localisation of this global system entails the customisation of its functionality in news monitoring, ingestion of local indicators and exploration of scientific research on observed problems in, 
+                <italic toggle="yes">e.g.</italic>, groundwater contamination. In that, the observatory is synchronising with the priorities of regional water providers. These agencies (
+                <italic toggle="yes">e.g.</italic> Aguas de Alicante) are collecting data on their water resource management services to improve the customer satisfaction and optimise their system.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>VI. Conclusions and future work</title>
+            <p id="S6">The results discussed in this paper show the potential impact of the proposed data-driven global observatory in contexts like public health and climate change preparedness. This integrated system is capable to monitor in real-time the worldwide news and social media, statistics, published science, weather and many other data streams that are identified as useful and can be provide complementary value to those considered already. We will be deploying this system in the context of other global problems where there is enough data to provide useful and meaningful contribution, either in other aspects of the climate crisis to better plan response, in addressing other epidemiological concerns to serve as early warning, or in addressing a new focus in the context of data science for social good.</p>
+            <p>We are now working on extending this system to integrate the information retrieved by the topics searched over the internet provided by Google Trends, regarding issues related to the context in focus. The user will be able to explore a wide range of indicators and compare trends in a global and local level throughout a meaningful timeline. We will also be reusing EC-funded open datasets and initiatives in order to ingest this information as European-level indicators to complement the analysis. Furthermore, we will be further investigating the validity of the localization of this Global Water Observatory, integrating some of the local data that can be provided by the user, and customizing news sources to their own priorities, as well as making available data exploration dashboards that allow for further insight and evidence-based policy.</p>
+        </sec>
+        <sec>
+            <title>VIII. Ethics and consent</title>
+            <p>Ethical approval and consent were not required</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>VII. Data availability</title>
+            <p id="S7">For this paper, we used only open data. In particular, we have used the MEDLINE dataset
+                <sup>
+                    <xref ref-type="bibr" rid="ref-28">28</xref>
+                </sup> and the worldwide news are being collected by 
+                <xref ref-type="bibr" rid="ref-29">29</xref>, freely available online, but which the dataset we do not have permission to share.</p>
+        </sec>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="web">
+                    <collab>IRCAI</collab>:
+                    <article-title>Coronavirus Watch portal</article-title>.<year>2020</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://coronaviruswatch.ircai.org/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Massri</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Costa</surname>
+                            <given-names>JP</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>A global COVID-19 observatory, monitoring the pandemics throughtext mining and visualization</article-title>.
+                    <italic toggle="yes">Informatica</italic>, Slovenian Society Informatika,<year>2021</year>;<volume>46</volume>(<issue>1</issue>).</mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="web">
+                    <article-title>NAIADES Water Observatory</article-title>.<year>2020</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://naiades.ijs.si/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Leung</surname>
+                            <given-names>CK</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Chen</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hoi</surname>
+                            <given-names>CSH</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Big data visualization and visual analytics of COVID-19 data.</article-title>In:
+                    <italic toggle="yes">2020 24th International Conference Information Visualisation (IV).</italic>IEEE,<year>2020</year>;<fpage>415</fpage>&#x2013;<lpage>420</lpage>.
+                    <pub-id pub-id-type="doi">10.1109/IV51561.2020.00073</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Xu</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Berres</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Liu</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>An overview of visualization and visual analytics applications in water resources management.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Environ Model Softw.</italic>
+               </source>
+               <year>2022</year>;<volume>153</volume>:
+                    <elocation-id>105396</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1016/j.envsoft.2022.105396</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="web">
+                    <collab>World Health Organization</collab>:
+                    <article-title>WHO Director-General&#x2019;s opening remarks at the media briefing on COVID-19 -11 March 2020</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="web">
+                    <collab>ArcGIS</collab>:
+                    <article-title>WHO COVID-19 Dashboard</article-title>.<year>2020</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://covid19.who.int/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="web">
+                    <collab>Kaggle</collab>:
+                    <article-title>COVID-19 Open Research Dataset Challenge</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <label>9</label>
+                <mixed-citation publication-type="web">
+                    <collab>medRxiv</collab>:
+                    <article-title>COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv</article-title>.<year>2020</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://connect.medrxiv.org/relate/content/181">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <label>10</label>
+                <mixed-citation publication-type="web">
+                    <article-title>Zenodo Coronavirus Disease Research Community</article-title>.<year>2020</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://zenodo.org/communities/covid-19/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <label>11</label>
+                <mixed-citation publication-type="web">
+                    <article-title>WorldoMeters</article-title>.<year>2020</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.worldometers.info/coronavirus/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <label>12</label>
+                <mixed-citation publication-type="web">
+                    <article-title>Center for Disease Control and Prevention</article-title>.<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <label>13</label>
+                <mixed-citation publication-type="web">
+                    <collab>Google</collab>:
+                    <article-title>COVID-19 Community Mobility Report</article-title>.<year>2020</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.google.com/covid19/mobility/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <label>14</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pita Costa</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Grobelnik</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fuart</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Meaningful Big Data Integration For a Global COVID-19 Strategy.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Computer Intelligence Magazine.</italic>
+               </source>IEEE,<year>2020</year>;<volume>15</volume>(<issue>4</issue>):<fpage>51</fpage>&#x2013;<lpage>61</lpage>.
+                    <pub-id pub-id-type="doi">10.1109/MCI.2020.3019898</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <label>15</label>
+                <mixed-citation publication-type="web">
+                    <collab>European Commission</collab>:
+                    <article-title>European Green Deal</article-title>.<year>2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <label>16</label>
+                <mixed-citation publication-type="web">
+                    <collab>European Commission</collab>:
+                    <article-title>Water Scarcity and Droughts in the European Union</article-title>.<year>2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/environment/water/quantity/scarcity_en.htm">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <label>17</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Costa</surname>
+                            <given-names>JP</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Massri</surname>
+                            <given-names>MB</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Novalija</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Observing Water-Related Events for Evidence-Based Decision-Making.</article-title>In:
+                    <italic toggle="yes">The Porceedings of the 2021 Slovenian KDD Conference.</italic>Institute Jozef Stefan.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ailab.ijs.si/dunja/SiKDD2021/Papers/PitaCostaetal.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <label>18</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Varady</surname>
+                            <given-names>RG</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Albrecht</surname>
+                            <given-names>TR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gerlak</surname>
+                            <given-names>AK</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Global water initiatives redux: A fresh look at the world of water.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Water.</italic>
+               </source>
+               <year>2022</year>;<volume>14</volume>(<issue>19</issue>):
+                    <elocation-id>3093</elocation-id>.
+                    <pub-id pub-id-type="doi">10.3390/w14193093</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <label>19</label>
+                <mixed-citation publication-type="web">
+                    <collab>Our World in Data</collab>:
+                    <article-title>Water Use Stress</article-title>.<year>2020</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://ourworldindata.org/water-use-stress">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <label>20</label>
+                <mixed-citation publication-type="web">
+                    <collab>United Nations Development Programme</collab>:
+                    <article-title>Goal6 -clean water and sanitation</article-title>.<fpage>2020</fpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://wmo.int/goal-6-clean-water-and-sanitation">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <label>21</label>
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Blazhevska</surname>
+                            <given-names>V</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>United Nations launches framework to speed up progress on water and sanitation goal.</article-title>United Nations Sustainable Development,<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.un.org/press/en/2020/envdev2037.doc.htm">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <label>22</label>
+                <mixed-citation publication-type="web">
+                    <collab>OECD</collab>:
+                    <article-title>Water governance in OECD countries: A multi-level approach</article-title>. OECD,<year>2011</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.oecd.org/cfe/regionaldevelopment/watergovernanceinoecdcountriesamulti-levelapproach.htm">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <label>23</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Akhmouch</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Clavreul</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Glas</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Introducing the OECD principles on water governance.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Water International.</italic>
+               </source>
+               <year>2018</year>;<volume>43</volume>(<issue>1</issue>):<fpage>5</fpage>&#x2013;<lpage>12</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/02508060.2017.1407561</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <label>24</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Freeze</surname>
+                            <given-names>RA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Harlan</surname>
+                            <given-names>RL</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Blueprint for a physically-based, digitally-simulated hydrologic response model.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Hydrol.</italic>
+               </source>
+               <year>1969</year>;<volume>9</volume>(<issue>3</issue>):<fpage>237</fpage>&#x2013;<lpage>258</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/0022-1694(69)90020-1</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <label>25</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ramamoorthi</surname>
+                            <given-names>AS</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Snow-melt run-offstudies using remote sensing data.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sadhana.</italic>
+               </source>
+               <year>1983</year>;<volume>6</volume>(<issue>3</issue>):<fpage>279</fpage>&#x2013;<lpage>286</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ias.ac.in/article/fulltext/sadh/006/03/0279-0286">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <label>26</label>
+                <mixed-citation publication-type="web">
+                    <collab>Idrica</collab>:
+                    <article-title>Blue Dot Observatory</article-title>.<year>2018</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.blue-dot-observatory.com/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <label>27</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Alperen</surname>
+                            <given-names>CI</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Artigue</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kurtulus</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>A hydrological digital twin by Artificial Neural Networks for flood simulation in Gardon de Sainte-Croix basin, France.</article-title>In:
+                    <source>
+
+                        <italic toggle="yes">IOP Conf Ser.: Earth Environ Sci.</italic>
+               </source>IOP Publishing,<year>2021</year>;<volume>906</volume>(<issue>1</issue>):
+                    <elocation-id>012112</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1088/1755-1315/906/1/012112</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <label>28</label>
+                <mixed-citation publication-type="web">
+                    <collab>North American National Library of Medicine</collab>:
+                    <article-title>MEDLINE: Description of the Database</article-title>.<year>2022</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nlm.nih.gov/medline/medline_overview.html">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <label>29</label>
+                <mixed-citation publication-type="web">
+                    <collab>Institute Jozef Stefan</collab>:
+                    <article-title>IJS Newsfeed: a clean, continuous, real-time aggregated stream of semantically enriched news articles from RSS- enabled sites across the world</article-title>.<year>2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://newsfeed.ijs.si/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report36649">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.18280.r36649</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Leung</surname>
+                        <given-names>Carson</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r36649a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-7541-9127</uri>
+                </contrib>
+                <aff id="r36649a1">
+                    <label>1</label>University of Manitoba, Manitoba, Canada</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>2</day>
+                <month>1</month>
+            <year>2024</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2024 Leung C</copyright-statement>
+                <copyright-year>2024</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport36649"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14471.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>Costa et al. made some revisions based on previous peer review reports. They&#x00a0;described in this 7-page revised submission a data-driven global observatory addressing two worldwide challenges (namely, public health and water) through text mining and complex data visualisation. They focused on using open data appropriately to monitor news articles and social media feeds related to COVID-19 and water shortage. They would collect, clean, process, integrate and ingest data by making use of key performance indicators (KPI) and digital twin. The presented idea is interesting.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Partly</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Partly</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Big data, public health, COVID-19, text mining, social media, data visualisation, data science</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report32818">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15624.r32818</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Leung</surname>
+                        <given-names>Carson</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r32818a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-7541-9127</uri>
+                </contrib>
+                <aff id="r32818a1">
+                    <label>1</label>University of Manitoba, Manitoba, Canada</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>10</day>
+                <month>7</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Leung C</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport32818"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14471.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>Costa et al. described in this 8-page submission a data-driven global observatory addressing two worldwide challenges (namely, public health and water) through text mining and complex data visualisation. They focused on using open data appropriately to monitor news articles and social media feeds related to COVID-19 and water shortage. They would collect, clean, process, integrate and ingest data by making use of KPI and digital twin.</p>
+            <p> </p>
+            <p> The presented idea is interesting. It would be nice if the authors could consider presenting the work more clearly and providing more details, especially for the corona virus watch observatory. For instance, the authors briefly described how to monitor&#x00a0;news articles and social media feeds related to water shortage and quality. However, shorter descriptions were provided for COVID-19.</p>
+            <p> </p>
+            <p> It would also be nice if the authors could consider&#x00a0;providing more details of methods and analysis to allow replication by others. For instance, it is unclear what text mining techniques or what complex data visualisation was used.</p>
+            <p> </p>
+            <p> Out of the list 26 references, only 5 were from journals. It would be nice if the authors could consider citing some more current formal literature.</p>
+            <p> </p>
+            <p> It would be nice if the authors could consider further proofreading. For instance, the authors may want to replace the typo "nnd" by "and".</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Partly</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Partly</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Big data, public health, COVID-19, text mining, social media, data visualisation, data science</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <sub-article article-type="response" id="comment3786-32818">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Costa</surname>
+                            <given-names>Joao</given-names>
+                        </name>
+                        <aff>UNESCO IRCAI &amp; Jozef Stefan Institute, Slovenia</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>28</day>
+                    <month>11</month>
+               <year>2023</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>We again thank the useful review provided, leading us to improve the content of this paper both in regards to the citations to the related-work and to the details of the study. The time passed between the first submission and this new version also changes the relevance and novelty of the results described, but having in consideration that this is more of a position paper, the content remains useful now that it is better referenced.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report32819">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15624.r32819</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Xu</surname>
+                        <given-names>Haowen</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r32819a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r32819a1">
+                    <label>1</label>Oak Ridge National Laboratory, Bethel Valley Road, USA</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>29</day>
+                <month>6</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Xu H</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport32819"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14471.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>
+                <bold>Overall Comments:&#x00a0;</bold>
+            </p>
+            <p> </p>
+            <p> This manuscript provides a comprehensive review of big data-driven methods for addressing public health and water resources management problems using text mining and complex data visualization. The contributions of this manuscript include some visions and perspectives of media, science, statistics, and sensing over heterogeneous data sources and text mining algorithms, as well as some discussion regarding the implementation of data-driven methods through real-world examples. At the higher level, the methodology and concepts presented in the manuscript align well with the initiative and trend for building smart cities and urban digital twins. The topic is interesting and covers popular research areas in urban informatics. However, this manuscript covers a very wide spectrum of areas (e.g., global water observatory and COVID-19). I recommend the authors refine their scopes and focus. Even within the areas of global water observatory, there are too many perspectives (e.g., hydroinformatics, collaborative watershed management, urban water systems, public engagement, citizen science, and voluntary geographic information). There are also many different types of water resource management (e.g., surface water, groundwater, watershed planning, urban water supply and distribution system, flood and water hazards resilience/vulnerability, river management, and ecohydrology). The "Global Water Observatory" topic is too generic and broad and needs further refinement.</p>
+            <p> </p>
+            <p> The authors could make this manuscript a review paper or an opinion paper that focuses on an urban data-driven digital twin approach to support urban management and use global water observatories and public health as case studies.&#x00a0;</p>
+            <p> </p>
+            <p> 
+                <bold>Detailed Comments:</bold>
+            </p>
+            <p> </p>
+            <p> 
+                <bold>Comment 1:</bold>
+            </p>
+            <p> I think the manuscript only partially cited a portion of current literature. As an example, there are many public data sources for water resources data. I came from an urban computational science and hydroinformatics background in the U.S., where the government has open water data initiatives. Many real-time and historical government sensor data, such as the USGS streamflow, USEPA STORET water quality data, and FEMA Hazus flood data, are open to the public. University consortiums, such as CUAHSI and UCAR, provide online data-sharing and model-sharing platforms (e.g., CUAHSI Hydroshare) to share water resources data and simulations produced in academic research. The authors could include a more comprehensive review of the open data sources for both water resources and COVID data. Is there any government open water data initiatives or University consortiums data initiatives within the EU?&#x00a0;</p>
+            <p> </p>
+            <p> 
+                <bold>Comment 2:</bold>
+            </p>
+            <p> I would suggest the authors provide a quantitative measure of the trend of different technologies and research areas using Elsevier Scorpous or Google Scholar. These research platforms could provide you with statistics on the literature of a specific research area or contain specific keywords over a few years. A quantified bibliometric analysis is recommended.</p>
+            <p> </p>
+            <p> 
+                <bold>Comment 3:</bold>
+            </p>
+            <p> The visualization perspective of the topic is very weak in the current manuscript. There are many review articles that talk about visual computing approaches (information visualization, scientific visualization, and visual analytics) for COVID analysis and water resource management. Please see the example below: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Leung, C. K., Chen, Y., Hoi, C. S., Shang, S., Wen, Y., &amp; Cuzzocrea, A. (2020, September). Big data visualization and visual analytics of COVID-19 data. In&#x00a0;
+                            <italic>2020 24th International Conference Information Visualisation (IV)</italic>&#x00a0;(pp. 415-420). IEEE.
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-32819-1">1</xref>
+                            </sup>
+                        </p>
+                    </list-item>
+                    <list-item>
+                        <p>Xu, H., Berres, A., Liu, Y., Allen-Dumas, M. R., &amp; Sanyal, J. (2022). An overview of visualization and visual analytics applications in water resources management.&#x00a0;
+                            <italic>Environmental Modelling &amp; Software</italic>, 105396.
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-32819-2">2</xref>
+                            </sup>
+                        </p>
+                    </list-item>
+                </list> 
+                <bold>Comment 4:</bold>
+            </p>
+            <p> In Figure 1, the authors mentioned the concept of digital twins. However, an important perspective on digital twins' features is missing from the discussion in the current manuscript. It is the "predictive analytics" capability, which differs from an urban digital twin from previous urban or hydrologic information systems (or decision support systems).</p>
+            <p> </p>
+            <p> 
+                <bold>Comment 5:</bold>
+            </p>
+            <p> Section V should provide more examples of digital twins in the water resources management sectors. More cases and real-world implementations should be discussed here. Below is an example; more examples/instances should be reviewed and discussed here. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Alperen, C. I., Artigue, G., Kurtulus, B., Pistre, S., &amp; Johannes, A. (2021, November). A hydrological digital twin by Artificial Neural Networks for flood simulation in Gardon de Sainte-Croix basin, France. In&#x00a0;
+                            <italic>IOP Conference Series: Earth and Environmental Science</italic>&#x00a0;(Vol. 906, No. 1, p. 012112). IOP Publishing
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-32819-3">3</xref>
+                            </sup>.</p>
+                    </list-item>
+                </list> 
+                <bold>Comment 6:</bold>
+            </p>
+            <p> The conclusion should also include some technical challenges and aspects of developing urban digital twins for the EU. As an example, what are potential big data or computing challenges from the cyber-infrastructure or HPC, respectively? Are there any data privacy or data residency concerns across EU countries?&#x00a0;</p>
+            <p> </p>
+            <p> I would recommend a minor revision for this manuscript. Overall the manuscript is in good shape and is well organized.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Partly</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Partly</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Urban Digital Twins, Visual Analytics, Information Visualization, Hydroinformatics, Urban Science, Cyber Physical Systems, Watershed Management (with focus on soil erosion and in-stream sediment transport), Intelligent Transportation System, 3D City Modeling</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-32819-1">
+                    <label>1</label>
+                    <mixed-citation>
+                        <person-group person-group-type="author"/>:
+                        <article-title>Big Data Visualization and Visual Analytics of COVID-19 Data</article-title>.
+                        <source>
+                            <italic>2020 24th International Conference Information Visualisation (IV), Melbourne, Australia</italic>
+                        </source>.<year>2020</year>;
+                        <elocation-id>10.1109/IV51561.2020.00073</elocation-id>
+                  <fpage>415</fpage>-<lpage>420</lpage>
+                        <pub-id pub-id-type="doi">10.1109/IV51561.2020.00073</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-32819-2">
+                    <label>2</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>An overview of visualization and visual analytics applications in water resources management</article-title>.
+                        <source>
+                            <italic>Environmental Modelling &amp; Software</italic>
+                        </source>.<year>2022</year>;<volume>153</volume>:
+                        <elocation-id>10.1016/j.envsoft.2022.105396</elocation-id>
+                        <pub-id pub-id-type="doi">10.1016/j.envsoft.2022.105396</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-32819-3">
+                    <label>3</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>A Hydrological Digital Twin by Artificial Neural Networks for Flood Simulation in Gardon de Sainte-Croix Basin, France</article-title>.
+                        <source>
+                            <italic>IOP Conference Series: Earth and Environmental Science</italic>
+                        </source>.<year>2021</year>;<volume>906</volume>(<issue>1</issue>) :
+                        <elocation-id>10.1088/1755-1315/906/1/012112</elocation-id>
+                        <pub-id pub-id-type="doi">10.1088/1755-1315/906/1/012112</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+        <sub-article article-type="response" id="comment3785-32819">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Costa</surname>
+                            <given-names>Joao</given-names>
+                        </name>
+                        <aff>UNESCO IRCAI &amp; Jozef Stefan Institute, Slovenia</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>28</day>
+                    <month>11</month>
+               <year>2023</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>We thank the thorough and useful review. We have added the suggested and other citations, and when possible we have exchanged web articles by research papers. Moreover, in the new submitted version of this paper, we have provided some more content regarding open data and visualisations. We have also improved the readability of the paper.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+</article>

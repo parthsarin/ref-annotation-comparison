@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="other"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.16116.3</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Study Protocol</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Assessing the potential of Other Effective area-based Conservation Measures (OECMs) for contributing to conservation targets: A global scoping review protocol</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 3; peer review: 1 approved, 2 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Petza</surname>
+                        <given-names>Dimitra</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-0910-8125</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Amorim</surname>
+                        <given-names>Eva</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-3098-7251</uri>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Ben Lamine</surname>
+                        <given-names>Emma</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Colloca</surname>
+                        <given-names>Francesco</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Dominguez Cris&#x00f3;stomo</surname>
+                        <given-names>Esther</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0009-0007-5147-9727</uri>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                    <xref ref-type="aff" rid="a6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Fabbrizzi</surname>
+                        <given-names>Erika</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-0753-1803</uri>
+                    <xref ref-type="aff" rid="a6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Fraschetti</surname>
+                        <given-names>Simonetta</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Galparsoro</surname>
+                        <given-names>Ibon</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-5031-525X</uri>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Giakoumi</surname>
+                        <given-names>Sylvaine</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a8">8</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Kruse</surname>
+                        <given-names>Maren</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-1540-3649</uri>
+                    <xref ref-type="aff" rid="a9">9</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Stelzenm&#x00fc;ller</surname>
+                        <given-names>Vanessa</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a9">9</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Katsanevakis</surname>
+                        <given-names>Stelios</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Department of Marine Sciences, University of the Aegean, Mytilene, Lesvos, Greece</aff>
+                <aff id="a2">
+                    <label>2</label>International Estuarine &amp; Coastal Specialists (IECS) Ltd, Leven, UK</aff>
+                <aff id="a3">
+                    <label>3</label>Centre National de la Recherche Scientifique (CNRS), Universit&#x00e9; C&#x00f4;te d&#x2019;Azur, Nice, France</aff>
+                <aff id="a4">
+                    <label>4</label>Integrative Marine Ecology Department, Stazione Zoologica Anton Dohrn, Rome, Italy</aff>
+                <aff id="a5">
+                    <label>5</label>Department of Biology, University of Algarve, Faro, Portugal</aff>
+                <aff id="a6">
+                    <label>6</label>Department of Biology, University of Naples Federico II, Naples, Italy</aff>
+                <aff id="a7">
+                    <label>7</label>Marine Research Division, AZTI, Pasaia, Spain</aff>
+                <aff id="a8">
+                    <label>8</label>Sicily Marine Centre, Stazione Zoologica Anton Dohrn, Palermo, Italy</aff>
+                <aff id="a9">
+                    <label>9</label>Th&#x00fc;nen Institute of Sea Fisheries, Bremerhaven, Germany</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:d.petza@marine.aegean.gr">d.petza@marine.aegean.gr</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>10</day>
+                <month>1</month>
+            <year>2024</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>118</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>8</day>
+                    <month>1</month>
+               <year>2024</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2024 Petza D et al.</copyright-statement>
+                <copyright-year>2024</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-118/pdf"/>
+            <abstract>
+                <p>This scoping review (ScR) protocol aims to establish the methodological approach for identifying and mapping the evidence regarding the actual contribution of Other Effective area-based Conservation Measures (OECMs) to spatial conservation targets. Emphasis will be placed on examining the research conducted, including the methodologies applied. OECMs, introduced by the Convention on Biological Diversity (CBD) in 2010, refer to areas outside of protected areas, such as fisheries restricted areas, archaeological sites, and military areas, that effectively conserve biodiversity in-situ over the long term. OECMs are recognized rather than designated. Many countries currently endeavor to identify, recognize and report OECMs to the CBD for formal acceptance to support the implementation of spatial conservation targets. Studies that assess the contribution of OECMs to spatial conservation targets will be considered. Potential OECMs with primary, secondary or ancillary conservation objectives established by all sectors in the terrestrial, freshwater and marine realm worldwide will be considered. Peer-reviewed and grey literature will be considered without imposing limitations based on publication year, stage, subject area and source type. Both experimental and observational studies in English, French, German, Greek, Italian, and Spanish will be reviewed. The ScR will follow the Joanna Briggs Institute (JBI) methodology. The protocol will be guided by the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) extension for scoping reviews. The search will encompass bibliographic databases such as Scopus, Web of Science and Google Scholar. Grey literature sources will include databases, pre-print archives and organizational websites. The Covidence platform will be utilized for data management and extraction.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Other Effective area-based Conservation Measures</kwd>
+                <kwd>conservation targets</kwd>
+                <kwd>scoping review</kwd>
+                <kwd>JBI methodology</kwd>
+                <kwd>PRISMA statement</kwd>
+                <kwd>Kunming-Montreal Global Biodiversity Framework</kwd>
+                <kwd>biodiversity conservation</kwd>
+                <kwd>EU Biodiversity Strategy</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100018693">
+                    <funding-source>Horizon Europe Framework Programme</funding-source>
+                    <award-id>101059407</award-id>
+                </award-group>
+                <award-group id="fund-2">
+                    <funding-source>UK Research and Innovation (UKRI) under the UK government&#x2019;s Horizon Europe funding guarantee</funding-source>
+                    <award-id>10050537</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon Europe research and innovation programme under grant agreement No 101059407 (Improved transdisciplinary science for effective ecosystem-based maritime spatial planning and conservation in European Seas [MarinePlan]). &#xD;
+&#xD;
+Eva Amorim was supported by UK Research and Innovation (UKRI) under the UK government&#x2019;s Horizon Europe funding guarantee grant no 10050537.</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+        <notes>
+            <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 2</title>
+                <p>The revised version of the manuscript has one minor change following the Reviewer&#x2019;s 3 comments. Specifically, the only difference between version 2 (revision 1) and version 3 (revision 2) of the manuscript is the following: Review question: the following 5
+                    <sup>th</sup> review sub-question has been added. 5.&#x00a0;&#x201c;
+                    <italic>What are the main outcomes of the studies that have assessed potential OECMs regarding key findings, effectiveness of potential OECMs, gaps of knowledge and policy recommendations?&#x201d;</italic>
+                </p>
+            </sec>
+        </notes>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>Other Effective area-based Conservation Measures (OECMs) were introduced in 2010 by the Convention on Biological Diversity (CBD) as areas that achieve long-term and effective 
+                <italic toggle="yes">in-situ</italic> biodiversity conservation outside of protected areas (
+                <xref ref-type="bibr" rid="ref-2">CBD, 2010</xref>). Consequently, OECMs represent a novel conservation approach where conservation outcomes are incidental to existing spatial management practices. In other words, OECMs are identified and recognized rather than specifically designated. The definition, guiding principles, common characteristics and criteria for identifying OECMs were agreed upon by CBD parties in 2018 (
+                <xref ref-type="bibr" rid="ref-3">CBD, 2018</xref>). According to CBD Decision 14/8 (
+                <xref ref-type="bibr" rid="ref-3">CBD, 2018</xref>), key criteria for an area to be identified as an OECM include geographic definition, governance and management, achieving positive and sustained long-term outcomes for biodiversity conservation, including associated ecosystem functions, services and locally relevant values such as cultural, spiritual, and socioeconomic aspects where applicable. Subsequently, additional guidance has been developed by the International Union for the Conservation of Nature (IUCN), the Food and Agriculture Organisation (FAO) and other global organizations to facilitate the identification, recognition and reporting of OECMs
+                <sup>
+                    <xref ref-type="other" rid="FN1">1</xref>
+                </sup> (
+                <xref ref-type="bibr" rid="ref-6">FAO, 2019</xref>; 
+                <xref ref-type="bibr" rid="ref-6">FAO, 2022</xref>; 
+                <xref ref-type="bibr" rid="ref-7">Garcia 
+                    <italic toggle="yes">et al.</italic>, 2021</xref>; 
+                <xref ref-type="bibr" rid="ref-9">ICES, 2021</xref>; 
+                <xref ref-type="bibr" rid="ref-10">IUCN-WCPA, 2019</xref>) to contribute to the attainment of Target 14.5 of the 2030 Agenda for Sustainable Development of the United Nations (
+                <xref ref-type="bibr" rid="ref-15">UN, 2015</xref>) and Action Target 3 of the Kunming-Montreal Global Biodiversity Framework (
+                <xref ref-type="bibr" rid="ref-2">CBD, 2010</xref>; 
+                <xref ref-type="bibr" rid="ref-4">CBD, 2022</xref>). The latter emphasizes the need to conserve at least 30% of terrestrial and marine areas globally by 2030 through ecologically representative, effectively and equitably managed, and well-connected networks of protected areas and OECMs (
+                <xref ref-type="bibr" rid="ref-4">CBD, 2022</xref>).</p>
+            <p>In recent years there has been increasing research and policy interest in OECMs and numerous countries worldwide have made significant efforts to identify and recognize OECMs to support the implementation of spatially-explicit conservation targets. According to the most recent update of the World Database on Protected Areas (May 2023; 
+                <xref ref-type="bibr" rid="ref-16">WDPA, 2023</xref>), 671 OECMs have been recognized by only nine countries worldwide (none in Europe).</p>
+            <p>This protocol aims to establish the methodological approach for a Scoping Review (ScR) with the following   objectives:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>identify and map the available evidence on assessing the potential of OECMs to contribute to spatial conservation targets,</p>
+                </list-item>
+                <list-item>
+                    <p>examine the methodologies employed in research on assessing potential OECMs,</p>
+                </list-item>
+                <list-item>
+                    <p>identify the actual spatial contribution of potential OECMs to conservation targets,</p>
+                </list-item>
+                <list-item>
+                    <p>provide insights into the evidence-based knowledge about OECMs and information on how potential OECMs contribute to the spatial targets set by CBD.</p>
+                </list-item>
+            </list>
+        </sec>
+        <sec>
+            <title>Review question</title>
+            <p>The overall research question that will guide the ScR is: What is the current knowledge regarding the contribution of OECMs to biodiversity conservation targets? The ScR will aim to address the following sub-questions:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>1. </label>
+                    <p>What is the geographical distribution of studies that have assessed potential OECMs and their contribution to biodiversity conservation?</p>
+                </list-item>
+                <list-item>
+                    <label>2. </label>
+                    <p>What are the characteristics of the potential OECMs studied in terms of governance type, sector, realm, conservation objectives, and rationale?</p>
+                </list-item>
+                <list-item>
+                    <label>3. </label>
+                    <p>What methodologies have been employed to assess the potential of OECMs in contributing to biodiversity conservation?</p>
+                </list-item>
+                <list-item>
+                    <label>4. </label>
+                    <p>What is the spatial contribution (percentage of area covered) of the potential OECMs?</p>
+                </list-item>
+                <list-item>
+                    <label>5. </label>
+                    <p>What are the main outcomes of the studies that have assessed potential OECMs regarding key findings, effectiveness of potential OECMs, gaps of knowledge and policy recommendations?</p>
+                </list-item>
+            </list>
+        </sec>
+        <sec>
+            <title>Inclusion/exclusion criteria</title>
+            <p>The inclusion criteria of the ScR, which serve as the basis for determining the sources to be considered for inclusion in the review, will be developed in accordance with the "Participants, Concept and Context (PCC)" mnemonic (
+                <xref ref-type="table" rid="T1">Table 1</xref>).</p>
+            <table-wrap id="T1" orientation="portrait" position="anchor">
+                <label>Table 1. </label>
+                <caption>
+                    <title>Inclusion and exclusion criteria for the Scoping Review in correspondence with the "Participants, Concept and Context, PCC" mnemonic and evidence types and sources.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1" valign="top"/>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Inclusion criteria</th>
+                            <th align="left" colspan="1" rowspan="1" valign="top">Exclusion 
+                                <break/>criteria</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>P
+                                    <sc>articipants</sc>
+                                </bold>
+                                <break/>
+                                <bold>
+                                    <italic toggle="yes">Potential other effective</italic>
+                                </bold>
+                                <break/>
+                                <bold>
+                                    <italic toggle="yes"> area-based conservation</italic>
+                                </bold>
+                                <break/>
+                                <bold>
+                                    <italic toggle="yes"> measures (OECMs)</italic>
+                                </bold>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Potential OECMs governed under a range of governance types i.e., by
+                                <break/> governments (at various levels), private individuals, organizations or 
+                                <break/>companies, indigenous peoples and local communities and shared
+                                <break/> governance (i.e., governance by various rights holders and stakeholders 
+                                <break/>together).
+                                <break/>Potential OECMs established by all sectors (e.g., transport, offshore 
+                                <break/>energy, fisheries, aquaculture, maritime, tourism, defence, archaeological 
+                                <break/>heritages, etc.).
+                                <break/>Potential OECMs with primary, secondary or ancillary conservation
+                                <break/> objectives.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">---</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>C
+                                    <sc>oncept</sc>
+                                </bold>
+                                <break/>
+                                <bold>
+                                    <italic toggle="yes">Assessing potential OECMs</italic>
+                                </bold> 
+                     </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">All studies that assess potential OECMs.
+                                <break/>All types of methodologies and metrics applied to assess the effectiveness 
+                                <break/>of potential OECMs to deliver biodiversity conservation outcomes and
+                                <break/> contribute to spatial conservation targets.</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">---</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>C
+                                    <sc>ontext</sc>
+                                </bold>
+                                <break/>
+                                <bold>
+                                    <italic toggle="yes">Global terrestrial,</italic>
+                                </bold>
+                                <break/>
+                                <bold>
+                                    <italic toggle="yes"> freshwater and marine</italic>
+                                </bold>
+                                <break/>
+                                <bold>
+                                    <italic toggle="yes"> realm</italic>
+                                </bold>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Studies in:
+                                <break/>&#x00a0;&#x00a0;-&#x00a0;&#x00a0;terrestrial, freshwater and marine realms,
+                                <break/>&#x00a0;&#x00a0;-&#x00a0;&#x00a0;globally</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">---</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">
+                                <bold>EVIDENCE TYPES &amp;</bold>
+                                <break/>
+                                <bold> SOURCES</bold>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">&#x00a0;&#x00a0;-&#x00a0;&#x00a0;peer-review literature
+                                <break/>&#x00a0;&#x00a0;-&#x00a0;&#x00a0;grey literature
+                                <break/>&#x00a0;&#x00a0;-&#x00a0;&#x00a0;all years of publication
+                                <break/>&#x00a0;&#x00a0;-&#x00a0;&#x00a0;all publication stages, subject areas, and source types
+                                <break/>&#x00a0;&#x00a0;-&#x00a0;&#x00a0;experimental and observational studies
+                                <break/>&#x00a0;&#x00a0;-&#x00a0;&#x00a0;studies published in languages competent to the researchers&#x2019; team
+                                <break/>(e.g., English, French, German, Greek, Italian, Spanish, etc.)</td>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Evidence
+                                <break/>synthesis such
+                                <break/>as systematic,
+                                <break/>scoping,
+                                <break/>rapid, and
+                                <break/>narrative
+                                <break/>reviews</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <sec sec-type="subjects">
+                <title>Participants</title>
+                <p>The ScR will consider potential &#x039f;ECMs, established by any sector, such as transport, offshore energy, fisheries, aquaculture, maritime, tourism, defense and archaeological heritages. These potential OECMs may have primary, secondary or ancillary conservation objectives and can be governed by different entities, including governments (at various levels), private individuals, organizations or companies, indigenous peoples and/or local communities, as well as shared governance involving multiple rights holders and stakeholders.</p>
+            </sec>
+            <sec>
+                <title>Concept</title>
+                <p>The ScR will focus on the assessment of potential OECMs and how their contribution to spatial conservation targets has been addressed in the existing scientific literature. All studies that assess potential OECMs, along with the various methodologies and metrics applied to evaluate their effectiveness in delivering biodiversity conservation outcomes and contributing to spatial conservation targets will be reviewed.</p>
+            </sec>
+            <sec>
+                <title>Context</title>
+                <p>The ScR will consider studies conducted in the terrestrial, freshwater, and marine realms worldwide.</p>
+            </sec>
+            <sec>
+                <title>Types of sources</title>
+                <p>This ScR will encompass both scientific (e.g., articles, book chapters, letters, editorials, books, data papers) and grey literature (e.g., non-published academic research, theses, policy papers, organizational papers and reports, conference abstracts and papers). Scientific literature will be sourced from online databases and grey literature from pre-print archives, organizational websites, and web-based search engines, and suggestions from topic experts. There will be no restrictions on publication year, publication stage (final or in press), subject area, or source type. All document types will be considered, except for evidence synthesis such as systematic, scoping, rapid, and narrative reviews. To align with language competence of the authors, only studies written in English, French, German, Greek, Italian, and Spanish will be included in the ScR.</p>
+            </sec>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methodology</title>
+            <p>The proposed ScR will follow the methodology outlined by 
+                <xref ref-type="bibr" rid="ref-1">Arksey and O'Malley (2005)</xref>, as further developed by 
+                <xref ref-type="bibr" rid="ref-11">Levac 
+                    <italic toggle="yes">et al.</italic> (2010)</xref> and the Joanna Briggs Institute (JBI) methodology (
+                <xref ref-type="bibr" rid="ref-12">Peters 
+                    <italic toggle="yes">et al.,</italic> 2020</xref>). The ScR encompass the following nine stages, as recommended by the JBI methodology: 1. Defining and aligning the objectives and questions; 2. Developing and aligning the inclusion criteria with the objectives and questions; 3. Describing the planned approach for evidence searching, selection, data extraction and presentation of the evidence; 4. Conducting the evidence search; 5. Selecting the relevant evidence; 6. Extracting the evidence; 7. Analyzing the evidence; 8. Presenting the results; 9. Summarizing the evidence, drawing conclusions and identifying any implications of the findings (
+                <xref ref-type="bibr" rid="ref-12">Peters 
+                    <italic toggle="yes">et al.,</italic> 2020</xref>).</p>
+            <p>The ScR protocol and final review paper will adhere to the Preferred Reporting for Systematic Reviews and Meta-Analyses extension for scoping reviews (PRISMA-ScR) developed by 
+                <xref ref-type="bibr" rid="ref-14">Tricco 
+                    <italic toggle="yes">et al.</italic> (2018)</xref>. The SUMARI Protocol Template for Scoping Reviews in Word format (
+                <ext-link ext-link-type="uri" xlink:href="https://sumari.jbi.global/">https://sumari.jbi.global/</ext-link>) was used to guide the development of this ScR protocol.</p>
+            <sec>
+                <title>Search strategy</title>
+                <p>The bibliographic search will be conducted in three databases/ platforms, namely: (a) 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.scopus.com/home.uri">Scopus</ext-link>, (b) 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.webofscience.com/wos/woscc/basic-search">Web of Science</ext-link> &#x2013; Core Collection, and (c) 
+                    <ext-link ext-link-type="uri" xlink:href="https://scholar.google.com/">Google Scholar</ext-link>. A combination of keywords will be used in the search, adapted to meet the specific search specifications of each database. The search will be conducted within the title, abstract and keywords of the documents (
+                    <xref ref-type="table" rid="T2">Table 2</xref>). For the Scopus and Web of Science databases, all documents retrieved from the search will be considered for eligibility. In the case of the web-based search using the Google Scholar database, only the first 100 hits will be considered (
+                    <xref ref-type="bibr" rid="ref-8">Haddaway 
+                        <italic toggle="yes">et al.</italic>, 2015</xref>). Eligible documents will also be sought in other sources such as organizational libraries and websites, preprint archives, documents repositories, reference lists of the included documents from the databases search and documents suggested by topic experts and stakeholders.</p>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Details of Scoping Review search strategy per database, i.e., name of the database, date of search, search query, and results (as the number of documents returned by the search).</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Database 1:</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Scopus</bold>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Date of 
+                                    <break/>search:</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">March 19, 2023</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Query:</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">TITLE-ABS-KEY ("other effective area-based conservation measure*"  OR  "other effective area based
+                                    <break/> conservation measure*"  OR  "other conservation measure*"  OR  "OECM*"  OR  "OEABCM*")</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Results:</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">351 documents</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Database 2:</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Web of Science &#x2013; Core Collection</bold>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Date of 
+                                    <break/>search:</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">March 19, 2023</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Query:</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">TS=("other effective area-based conservation measure*"  OR  "other effective area based conservation 
+                                    <break/>measure*"  OR  "other conservation measure*"  OR  "OECM*"  OR  "OEABCM*")</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Results 1:</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">229 documents</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Database 3</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Scholar Google</bold>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Date of
+                                    <break/> search:</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">March 19, 2023</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Query</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">conservation ("other effective area-based conservation measure*"  OR  "other effective area based
+                                    <break/> conservation measure*"  OR  "other conservation measure*"  OR  "OECM*"  OR  "OEABCM*")</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Results:</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">996 documents (only the first 100 hits were considered)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec>
+                <title>Study/source of evidence selection</title>
+                <p>Following the search, all identified citations will be uploaded to 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.covidence.org/">Covidence</ext-link>, a web-based collaboration software platform designed to streamline the production of systematic and other literature reviews. Any duplicate citations will be removed during this stage. The document selection process will be conducted using a team approach, as recommended by 
+                    <xref ref-type="bibr" rid="ref-11">Levac 
+                        <italic toggle="yes">et al.</italic> (2010)</xref>. Twelve independent reviewers will be involved in the selection process. Two reviewers will initially screen each title and abstract of the identified papers against the predefined inclusion criteria (
+                    <xref ref-type="table" rid="T1">Table 1</xref>). Papers that meet the inclusion criteria will proceed to the next stage. The full text of the initially selected documents will be carefully assessed by the reviewers against the inclusion criteria. Any sources that do not meet the inclusion criteria will be excluded from the review. Detailed records will be kept of the reasons for excluding specific sources, and this information will be reported in the final ScR paper. In case of any disagreements between the reviewers during any stage of the selection process, a third independent reviewer will be consulted to resolve the conflicts. The results of the search and the document selection process will be reported comprehensively in the final ScR paper. A flow diagram following the Preferred Reporting Items for Systematic Reviews and Meta-analyses extension for scoping review (PRISMA-ScR) guidelines (
+                    <xref ref-type="bibr" rid="ref-14">Tricco 
+                        <italic toggle="yes">et al.</italic>, 2018</xref>) will be presented to illustrate the search and selection process.</p>
+            </sec>
+            <sec>
+                <title>Data extraction</title>
+                <p>Data extraction from the documents included in the ScR will be carried out by two independent reviewers using a data extraction tool, i.e., a charting table aligned to the objective and the questions of the ScR (see Extended data (
+                    <xref ref-type="bibr" rid="ref-13">Petza 
+                        <italic toggle="yes">et al.,</italic> 2023</xref>)). The data extracted will include specific details related to the participants, concept, context, study methods and key findings relevant to the review objective. To ensure consistency and facilitate collaboration and interaction among reviewers, the data extraction tool will be integrated into the Covidence systematic review management software. This software will help maintain consistency in the extraction process, allow for seamless cooperation between the reviewers, and ensure that the extracted data is consistent and aligned with the objectives and questions of the ScR.</p>
+            </sec>
+            <sec>
+                <title>Data analysis and presentation</title>
+                <p>The evidence synthesized through the ScR will be presented in alignment with the review objective and specific questions at the final review paper. The full set of the raw data that will be collected by this ScR will be available open-access as a supplementary to the final review paper. The data collected will be analyzed by applying descriptive statistics methods. The summarized data will be presented using a combination of graphical and tabular formats, utilizing appropriate software packages and tools (e.g., Miscosoft Excel, Flourish Studio, Datawrapper Plotly etc.). Graphical representations, such as bar charts, line graphs, donut charts, sankey, chord and network diagrams, choropleth maps, word clouds etc., will be used to visually display relevant information and trends identified in the included studies. These visuals can help convey patterns, relationships, and key findings effectively. For example, the number of documents included in the ScR by year of publication will be presented using bar charts. Choropleth maps will be used to present the geographical distribution of the various case studies reviewed. The different types of OECMs will be depicted using word clouds. Sankey diagrams will be constructed to visualize the flow of information between multiple entities (e.g., conservation objective, realm and sector), while network and chord diagrams will be used to depict the connections between the different methodologies applied for the assessment of potential OECMs. In addition to the graphical and tabular presentations, a narrative summary will be included. This summary will provide a coherent and comprehensive description of the findings, explaining how the results align with the review's objective and specific questions. It will offer a synthesis of the key themes, trends, and patterns identified in the included studies.</p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>No data is associated with this article.</p>
+            </sec>
+            <sec>
+                <title>Extended data</title>
+                <p>Open Science Framework (OSF): Assessing the potential of other effective area-based conservation measures for contributing to conservation targets: a global scoping review protocol &#x2013; PRISMA-ScR Checklist and Data Extraction Tool. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17605/OSF.IO/3WK5H">https://doi.org/10.17605/OSF.IO/3WK5H</ext-link> (
+                    <xref ref-type="bibr" rid="ref-13">Petza 
+                        <italic toggle="yes">et al.</italic>, 2023</xref>).</p>
+                <p>This project contains the following extended data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>- </label>
+                        <p>Data Extraction Tool.pdf (Data extraction tool of the Scoping Review (ScR))	</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Reporting guidelines</title>
+                <p>Open Science Framework (OSF): PRISMA-ScR checklist for &#x2018;Assessing the potential of Other Effective area-based Conservation Measures for contributing to conservation targets: A global scoping review protocol&#x2019;. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17605/OSF.IO/3WK5H">https://doi.org/10.17605/OSF.IO/3WK5H</ext-link> (
+                    <xref ref-type="bibr" rid="ref-13">Petza 
+                        <italic toggle="yes">et al.</italic>, 2023</xref>).</p>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero &#x201c;No rights reserved&#x201d; data waiver</ext-link> (CC0 1.0 Public domain dedication).</p>
+            </sec>
+        </sec>
+        <fn-group>
+            <fn>
+                <p id="FN1">
+                    <sup>1</sup> According to the guidance provided by the IUCN and the FAO (
+                    <xref ref-type="bibr" rid="ref-6">FAO, 2022</xref>; 
+                    <xref ref-type="bibr" rid="ref-10">IUCN, 2019</xref>) for the implementation of the CBD Decision 14/8 (
+                    <xref ref-type="bibr" rid="ref-3">CBD, 2018</xref>) the terms identifying, recognizing and reporting OECMs are defined as follows: 
+                    <italic toggle="yes">Identifying OECMs</italic> is the selection process of areas potentially qualifying as OECMs. These areas are further evaluated on a case-by-case basis to determine whether they meet the CBD OECMs criteria. 
+                    <italic toggle="yes">Recognizing OECMs</italic> is when the governing body of the area formally approves the OECM identification and evaluation outcomes. 
+                    <italic toggle="yes">Reporting OECM</italic> is the process of sending the OECMs data to national or international databases (e.g., the databases held by the CBD Secretariat and the WD-OECM).</p>
+            </fn>
+        </fn-group>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Arksey</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>O'Malley</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Scoping studies: towards a methodological framework.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Soc Res Methodol.</italic>
+               </source>
+               <year>2005</year>;<volume>8</volume>(<issue>1</issue>):<fpage>19</fpage>&#x2013;<lpage>32</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/1364557032000119616</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="web">
+                    <collab>CBD</collab>:
+                    <article-title>The Strategic Plan for Biodiversity 2011-2020 and the Aichi Biodiversity Targets.</article-title>UNEP/CBD/COP/DEC/X/2. Convention on Biological Diversity,<year>2010</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cbd.int/doc/decisions/cop-10/cop-10-dec-02-en.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="web">
+                    <collab>CBD</collab>:
+                    <article-title>Protected areas and other effective area-based conservation measures.</article-title>CBD/COP/DEC/14/8. Convention on Biological Diversity,<year>2018</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cbd.int/doc/decisions/cop-14/cop-14-dec-08-en.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="web">
+                    <collab>CBD</collab>:
+                    <article-title>Kunming-Montreal Global biodiversity framework.</article-title>Decision CBD/COP/15/L.25.<year>2022</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cbd.int/doc/c/e6d3/cd1d/daf663719a03902a9b116c34/cop-15-l-25-en.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="report">
+                    <collab>FAO</collab>:
+                    <article-title>Expert Meeting on Other Effective Area-Based Conservation Measures in the marine capture fishery sector.</article-title>FAO Fisheries and Aquaculture Report &#x039d;&#x03bf; 1301, Rome,<year>2019</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://archimer.ifremer.fr/doc/00593/70547/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="report">
+                    <collab>FAO</collab>:
+                    <article-title>A handbook for identifying, evaluating and reporting other effective area-based conservation measures in marine fisheries.</article-title>Rome,<year>2022</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.fao.org/documents/card/ru/c/cc3307en/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="regulation">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Garcia</surname>
+                            <given-names>SM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rice</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Charles</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>OECMs in marine capture fisheries Systematic approach to identification, use and performance assessment in marine capture fisheries (Version 2).</article-title>Fisheries Expert Group of the IUCN Commission on Ecosystem Management, Gland, Switzerland. European Bureau of Conservation and Development, Brussels, Belgium,<year>2021</year>;<fpage>87</fpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://ebcd.org/feg/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Haddaway</surname>
+                            <given-names>NR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Collins</surname>
+                            <given-names>AM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Coughlin</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The Role of Google Scholar in Evidence Reviews and Its Applicability to Grey Literature Searching.</article-title>
+                    <source>
+
+                        <italic toggle="yes">PLoS One.</italic>
+               </source>
+               <year>2015</year>;<volume>10</volume>(<issue>9</issue>):
+                    <elocation-id>e0138237</elocation-id>.
+                    <pub-id pub-id-type="pmid">26379270</pub-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0138237</pub-id>
+                    <pub-id pub-id-type="pmcid">4574933</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <collab>ICES</collab>:
+                    <article-title>ICES/IUCN-CEM FEG Workshop on Testing OECM Practices and Strategies (WKTOPS).</article-title>
+                    <source>
+
+                        <italic toggle="yes">ICES Scientific Reports.</italic>
+               </source>
+               <year>2021</year>;<volume>3</volume>(<issue>42</issue>):<fpage>195</fpage>.
+                    <pub-id pub-id-type="doi">10.17895/ices.pub.8135</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="report">
+                    <collab>IUCN-WCPA</collab>:
+                    <article-title>Recognising and reporting other effective area-based conservation measures.</article-title>World Commission on Protected Areas Task Force on OECMs,<year>2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://portals.iucn.org/library/sites/library/files/documents/PATRS-003-En.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Levac</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Colquhoun</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>O'Brien</surname>
+                            <given-names>KK</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Scoping studies: Advancing the methodology.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Implement Sci.</italic>
+               </source>
+               <year>2010</year>;<volume>5</volume>(<issue>1</issue>): 69.
+                    <pub-id pub-id-type="pmid">20854677</pub-id>
+                    <pub-id pub-id-type="doi">10.1186/1748-5908-5-69</pub-id>
+                    <pub-id pub-id-type="pmcid">2954944</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Peters</surname>
+                            <given-names>MDJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Godfrey</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>McInerney</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Chapter 11: Scoping Reviews.</article-title>In: Aromataris E, Munn Z (Eds)
+                    <source>
+
+                        <italic toggle="yes">JBI Manual for Evidence Synthesis.</italic>
+               </source>JBI,<year>2020</year>.
+                    <pub-id pub-id-type="doi">10.46658/JBIMES-20-12</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Petza</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Amorim</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ben Lamine</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <data-title>Assessing the Potential of Other Effective Area-based Conservation Measures for Contributing to Conservation Targets: A Global Scoping Review Protocol - Prisma-scr Checklist and Data Extraction Tool.</data-title>[Dataset],
+                    <source>
+                        <italic toggle="yes">OSF</italic>
+                    </source>.<year>2023</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.17605/OSF.IO/3WK5H">http://www.doi.org/10.17605/OSF.IO/3WK5H</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tricco</surname>
+                            <given-names>AC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lillie</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Zarin</surname>
+                            <given-names>W</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation.</article-title>
+                    <source>
+
+                        <italic toggle="yes"> Ann Intern Med.</italic>
+               </source>
+               <year>2018</year>;<volume>169</volume>(<issue>7</issue>):<fpage>467</fpage>&#x2013;<lpage>473</lpage>.
+                    <pub-id pub-id-type="pmid">30178033</pub-id>
+                    <pub-id pub-id-type="doi">10.7326/M18-0850</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="web">
+                    <collab>UN</collab>:
+                    <article-title>Transforming our world: the 2030 Agenda for Sustainable Development.</article-title>United Nations General Assembly A/RES/70/1.<year>2015</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://sdgs.un.org/2030agenda">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="web">
+                    <collab>WDPA</collab>:
+                    <article-title>The World Database on Protected Areas</article-title>.<year>2023</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.protectedplanet.net/en/resources/may-2023-update-of-the-wdpa-and-wd-oecm">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report36633">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.18290.r36633</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>He</surname>
+                        <given-names>Siyuan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r36633a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-5859-1005</uri>
+                </contrib>
+                <aff id="r36633a1">
+                    <label>1</label>Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences Beijing, Beijing, China</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>1</month>
+            <year>2024</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2024 He S</copyright-statement>
+                <copyright-year>2024</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport36633"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16116.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>Since the goal of assessing the potential of OECMs to achieve "conservation targets" is confined to "spatial conservation" in this review protocol, my first and second concerns do not matter anymore. My third comment was replied by deleting question 5 about good practice and failure. It seems the entire review protocol focused more on the "outcome", but some information on factors that deliver these outcomes can be extracted from Asking Question Five differently. As I think exploring the extent of evidence and mapping it is important for a scoping review, I was wondering if there can be such kind of question.</p>
+            <p>Is the study design appropriate for the research question?</p>
+            <p>Yes</p>
+            <p>Is the rationale for, and objectives of, the study clearly described?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of the methods provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Not applicable</p>
+            <p>Reviewer Expertise:</p>
+            <p>My area of expertise is community-based conservation and sustainable livelihoods in protected areas. One concern is the potential contribution of traditional agrosystems to the protected area management.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report34909">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17399.r34909</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>He</surname>
+                        <given-names>Siyuan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r34909a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-5859-1005</uri>
+                </contrib>
+                <aff id="r34909a1">
+                    <label>1</label>Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences Beijing, Beijing, China</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 He S</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport34909"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16116.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The authors provided a protocol for a scoping review to assess the actual contribution of Other Effective Area-based Conservation Measures (OECMs) to spatial conservation targets. Although introduced as early as 2010, this novel conservation approach was detailed much later in 2018 and is now gaining increasing attention as the spatial conservation target (the so-called 3030 target) urges new actions for effective conservation management. There is now growing discussion on the possibility of identifying OECMs, as the criteria include multiple aspects from clear governance to various conservation outcomes. Meanwhile, countries such as Canada and Japan, have commenced recognising OECMs and integrating them into the protected area networks. As there is differentiated conservation responsibility among countries due to biodiversity values, socioeconomic conditions, etc., it is necessary to map the contribution of OECMs globally and provide implications for conservation practice, notably in Europe where none OECMs were registered. This proposed protocol is thus helpful to facilitate evidenced-based spatially-explicit conservation practices in future.</p>
+            <p> </p>
+            <p> The protocol is generally well-written and easy to follow. The overall question about the contribution of OECMs to biodiversity conservation targets is further divided into five dimensions that should be addressed during the scoping review. The review procedure is comprehensive and robust following the agreed methodology. I would like to comment on a few points for further consideration: 
+                <list list-type="order">
+                    <list-item>
+                        <p>As question three focuses on mapping the methodological approaches that assess the potential outcomes of OECMs, I was wondering if the contributions here include not only spatial extension and connectivity but also ecological functions and other relevant values.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Following the first comment, it may be more comprehensive to address multiple conservation outcomes besides the percentage of area covered in Question Four.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Question 5 addresses &#x201c;good practices and failures&#x201d;, however, I am not sure whether we are talking about the good or bad methods to assess potential OECMs or about the efficiency of OECM management to deliver conservation outcomes. In addition, defining &#x201c;good&#x201d; or &#x201c;bad&#x201d; according only to the authors of literature seems no practical effect. Addressing antecedents to the success or failures may be more useful.</p>
+                    </list-item>
+                    <list-item>
+                        <p>I understand that there was no scanning done after the initial presentation of the database (Table 2) based on the search query, but I was wondering if the current Search Strategy, especially the keywords used, can deliver both comprehensive and targeted databases.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate for the research question?</p>
+            <p>Yes</p>
+            <p>Is the rationale for, and objectives of, the study clearly described?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of the methods provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Not applicable</p>
+            <p>Reviewer Expertise:</p>
+            <p>My area of expertise is community-based conservation and sustainable livelihoods in protected areas. One concern is the potential contribution of traditional agrosystems to the protected area management.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report34908">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17399.r34908</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Grainger</surname>
+                        <given-names>Matthew James</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r34908a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-8426-6495</uri>
+                </contrib>
+                <aff id="r34908a1">
+                    <label>1</label>Norwegian Institute for Nature Research, Trondheim, Norway</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>7</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Grainger MJ</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport34908"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16116.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article is a protocol for a "global scoping review" addressing the primary question - "What is the current knowledge regarding the contribution of 'Other Effective area-based Conservation Measures to biodiversity targets" with 5 sub-questions - namely:</p>
+            <p> "1.&#x00a0;What is the geographical distribution of studies that have assessed potential OECMs and their contribution to biodiversity conservation?"</p>
+            <p> "2.&#x00a0;What are the characteristics of the potential OECMs studied in terms of governance type, sector, realm, conservation objectives, and rationale?"</p>
+            <p> "3.&#x00a0;What methodologies have been employed to assess the potential of OECMs in contributing to biodiversity conservation?"</p>
+            <p> "4.&#x00a0;What is the spatial contribution (percentage of area covered) by potential OECMs?"</p>
+            <p> "5.&#x00a0;What are the good practices and failures acknowledged in the literature?"</p>
+            <p> </p>
+            <p> In general, this is a well written protocol which appears to be robust and follows current guidance for Systematic Evidence Synthesis in environmental fields (although I recommend referring to the CEE guidelines (systematic map guidelines are closest to a scoping review)).&#x00a0;</p>
+            <p> </p>
+            <p> Given that this is a Scoping Review I do not understand how the authors intend to achieve objective 5 - "What are the good practices and failures acknowledged in the literature?". There is no critical appraisal of the studies included proposed and therefore it would be difficult to assess (beyond what the individual study authors suggest in each included paper) what is "good practice" (or "bad practice").&#x00a0;</p>
+            <p> </p>
+            <p> I find the structure of the protocol a bit odd - I would expect to read about the search strategy first and then read about inclusion criteria - but perhaps this is a set template.</p>
+            <p> Again there are some subheadings that appear a little redundant which might be due to a template being used - for example "Types of sources" doesn't include the actual databases (but talks about databases) and it is only when you get to the search strategy that this is mentioned. There is considerable scope for streamlining the document. Another example: "Language limitations will be applied during the literature search process to align with language competence of the authors. Consequently, studies published in languages other than English, French, German, Greek, Italian, and Spanish will be excluded from the ScR." Why not: "To align with language competence of the authors only studies written in&#x00a0; English, French, German, Greek, Italian, and Spanish will be included".</p>
+            <p> </p>
+            <p> Study/source of evidence selection - if the authors plan to do forward and backward citation chasing then I recommend using&#x00a0;
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.eshackathon.org/software/citationchaser.html">citationchaser | Evidence Synthesis Hackathon (eshackathon.org)</ext-link>
+            </p>
+            <p> </p>
+            <p> What is the data extraction tool? Do the authors have an example (even if not complete)? I see that the tool is linked in the data availability - but I would like to see this in the protocol explicitly.&#x00a0;</p>
+            <p> </p>
+            <p> There are some vague statements in the Data analysis section - for example "The data will be presented using a combination of graphical and tabular formats, utilizing appropriate software packages and tools. Graphical representations, such as charts, graphs, or diagrams, will be used to visually display relevant information and trends identified in the included studies. These visuals can help convey patterns, relationships, and key findings effectively."</p>
+            <p> </p>
+            <p> How will data be presented using what tools and to what aims? I know there needs to be some uncertainty here but the authors can provide more specific details here as at the moment the text is generic and uninformative.&#x00a0;</p>
+            <p> </p>
+            <p>Is the study design appropriate for the research question?</p>
+            <p>Partly</p>
+            <p>Is the rationale for, and objectives of, the study clearly described?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of the methods provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Not applicable</p>
+            <p>Reviewer Expertise:</p>
+            <p>Evidence synthesis with a focus on the environment and conservation</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report34545">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17399.r34545</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Smith</surname>
+                        <given-names>Jansen</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r34545a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3771-2039</uri>
+                </contrib>
+                <aff id="r34545a1">
+                    <label>1</label>Earth and Environmental Sciences, University of Minnesota Duluth, Duluth, MN, USA</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>7</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Smith J</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport34545"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16116.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>Petza 
+                <italic>et al. </italic>detail a study protocol for a future Scoping Review to evaluate Other Effective area-based Conservation Measures (OECMs). OECMs represent a potentially large contribution to conserving biodiversity, especially with respect to targets related to spatial coverage and connectivity. OECMs are an intriguing and somewhat non-traditional component to conservation as they tend to be in land-use areas that are not designated for conservation but nonetheless function to conserve various aspects of biodiversity. A scoping review on OECMs is timely, as the reality of the biodiversity crisis necessitates creative and outside-the-box solutions.&#x00a0;The assembled, multi-national and multi-lingual team has put forth a sound protocol that is well aligned with their research objectives and questions.&#x00a0;The proposed review should provide a strong basis for integrating OECMs into ongoing and future conservation strategies, and may serve to facilitate the recognition of OECMS in Europe where none are currently recognized.</p>
+            <p> </p>
+            <p> A few additional comments for the authors to consider: 
+                <list list-type="order">
+                    <list-item>
+                        <p>The main text includes German as a search language but the abstract does not. Given the inclusion of an author with a German affiliation, I assume this language should be included in the abstract.&#x00a0;</p>
+                    </list-item>
+                    <list-item>
+                        <p>There are no data in this Study Protocol, which is logical given the article type. Still, it may be worth including a brief description of how the data collected in the Scoping Review will be shared, if at all. The "Data analysis and presentation" section mentions the presentation of data in a variety of formats, including "tabular formats" but it is not clear if this would be the raw data or summarized data. A clearer statement on the future data availability would be well aligned with this publication venue.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The authors may wish to provide more detail in the "Data analysis and presentation" section, in general. Whereas I appreciate that data visualization will be shaped by the data that are collected, the current description is vague to the point that it is not particularly worthwhile (e.g., "Graphical representations, such as charts, graphs, or diagrams, will be used..."). Perhaps the authors could point to some good examples from other published works that represent their intended outputs? This is a very minor issue but would provide more clarity to a future reader.</p>
+                    </list-item>
+                    <list-item>
+                        <p>I greatly appreciated the "Data Extraction Tool." This provided concrete, detailed information that would make this protocol reproducible.</p>
+                    </list-item>
+                    <list-item>
+                        <p>In Table 1, it seemed somewhat unnecessary to include the column "Exclusion criteria," as it was entirely empty. Will this be filled during the course of the review? It would seem that an exclusion for the Concept row was included in the text: "...except for evidence synthesis such as systematic, scoping, rapid, and narrative reviews."</p>
+                    </list-item>
+                </list> 
+         </p>
+            <p> This will be a large and valuable undertaking and I look forward to seeing the finished product when it is available.</p>
+            <p>Is the study design appropriate for the research question?</p>
+            <p>Yes</p>
+            <p>Is the rationale for, and objectives of, the study clearly described?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of the methods provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Not applicable</p>
+            <p>Reviewer Expertise:</p>
+            <p>My main area of expertise is in a subfield of conservation science called conservation paleobiology. Through research in this area, and through projects in related areas of study in biological sciences, I have conducted scoping reviews, including using similar methods to those described herein.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

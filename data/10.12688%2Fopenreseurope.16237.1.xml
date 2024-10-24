@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="data-paper"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.16237.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Data Note</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Addressing disparities in European Social Sciences &amp; Humanities research on climate, energy and mobility: insights from a Call for Evidence survey and analysis workshops on the challenges and opportunities of working in Southern and Central &amp; Eastern Europe</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 3 approved, 1 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Foulds</surname>
+                        <given-names>Chris</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-1054-5904</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Crowther</surname>
+                        <given-names>Ami</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-9600-2243</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Sorman</surname>
+                        <given-names>Alevgul H.</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Cabello</surname>
+                        <given-names>Violeta</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>B&#x00e1;lint</surname>
+                        <given-names>D&#x00f3;ra</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Tagai</surname>
+                        <given-names>Gergely</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-4556-4355</uri>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Varj&#x00fa;</surname>
+                        <given-names>Viktor</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3954-4518</uri>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Robison</surname>
+                        <given-names>Rosie</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>S&#x00e1;nchez</surname>
+                        <given-names>Ester Galende</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-8558-038X</uri>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Zindulkov&#x00e1;</surname>
+                        <given-names>Kristina</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Global Sustainability Institute, Anglia Ruskin University, Cambridge, England, CB1 1PT, UK</aff>
+                <aff id="a2">
+                    <label>2</label>Basque Center for Climate Change, Bilbao, Basque Country, 48940, Spain</aff>
+                <aff id="a3">
+                    <label>3</label>Ikerbasque, Bilbao, Basque Country, 48009, Spain</aff>
+                <aff id="a4">
+                    <label>4</label>Institute for Regional Studies, Centre for Economic and Regional Studies, P&#x00e9;cs, 7621, Hungary</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:chris.foulds@aru.ac.uk">chris.foulds@aru.ac.uk</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>18</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>150</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>25</day>
+                    <month>7</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Foulds C et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-150/pdf"/>
+            <abstract>
+                <p>Despite the efforts of the EU, disparities remain in terms of the participation of Social Sciences and Humanities (SSH) researchers from both Southern and Central &amp; Eastern Europe in research collaborations, as compared to Northern and Western European scholars. To better understand these disparities, the EU Horizon Europe SSH CENTRE project ran a Call for Evidence over December 2022 to March 2023. Specifically, respondents were asked about the challenges they faced in conducting SSH research on climate, energy and/or mobility, as well as the ways in which these challenges could be addressed. The Call&#x2019;s online survey was focused on maximising diversity, and it gathered views and experiences of 137 Southern and Central &amp; Eastern European SSH researchers. The sample was balanced across genders (71 men, 66 women) and the three main themes (82 energy, 88 climate, 53 mobility), and included at least one respondent from each of the 27 target countries. The highest numbers of respondents were from Hungary (19) and Spain (21).</p>
+                <p>To ensure that interpretation and analysis of the data was grounded in regional contexts, we ran two parallel analysis workshops hosted in a hybrid format (combining online and in-person participants): one in P&#x00e9;cs for Central &amp; Eastern European SSH researchers (34 participants); and one in Bilbao for Southern European SSH researchers (26 participants). These workshops focused on discussing the relationship between SSH-STEM disciplines, analysing the institutional contexts, and discussing the implications for domestic and EU research funding relations. During the workshops, data collected through the survey were collectively analysed and the most important reflections were gathered into a common structure of &#x2018;Challenges&#x2019; and &#x2018;Ways forward&#x2019;. Key messages from the workshop are being distilled into a Position Statement that focuses on the common elements while also emphasising possible differences between Southern and Central &amp; Eastern Europe.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Research geographies</kwd>
+                <kwd>Fragmentation</kwd>
+                <kwd>Research and innovation policy</kwd>
+                <kwd>Universities</kwd>
+                <kwd>Career pathways</kwd>
+                <kwd>Funding</kwd>
+                <kwd>Mixed methods.</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100018693">
+                    <funding-source>Horizon Europe Framework Programme</funding-source>
+                    <award-id>101069529</award-id>
+                </award-group>
+                <award-group id="fund-2">
+                    <funding-source>UK Research and Innovation (UKRI) under the UK government&#x2019;s Horizon Europe funding guarantee</funding-source>
+                    <award-id>GrantNo.10038991</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon Europe research and innovation programme under the grant agreement No 101069529 (Social Sciences and Humanities for Climate, Energy and Transport Research Excellence [SSH CENTRE]) and by UK Research and Innovation (UKRI) under the UK government&#x2019;s Horizon Europe funding guarantee [grant No 10038991].</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>Research on people and society (i.e. the Social Sciences and Humanities [SSH]) is essential if policymakers and practitioners are to deliver the changes that are urgently needed to address sustainability challenges. Yet, in comparison to the Technical and Natural Sciences (Science, Technology, Engineering, and Mathematics [STEM] disciplines) there are fewer opportunities for SSH research to contribute towards solutions. We would argue that this imbalance is exacerbated within Southern and also Central &amp; Eastern European geographies, which have too often been in the shadow of the more dominant Northern and Western European geographies. For example, it has been shown that most of the funding, project consortia, policy advice, etc. opportunities (and thus prestige) are often associated with Northern and Western universities, or at least those that are closer to the Brussels policy bubble.</p>
+            <p>The &#x2018;Social Sciences and Humanities for Climate, Energy aNd Transport Research Excellence&#x2019; (SSH CENTRE) project undertook a Call for Evidence to obtain the views and experiences of SSH researchers in Southern and Central &amp; Eastern Europe. Insights from the Call for Evidence survey are being developed into a Position Statement that will be submitted to the European Commission with recommendations for how the geographical imbalance mentioned previously can best be addressed within SSH research and innovation policy making. This Data Note details the Call for Evidence&#x2019;s online survey approach, including what questions were asked, why we asked them, and who responded. We also present our analytical approach which involved using these survey data as a prompt for two regional workshop discussions (involving participation of regional researchers only), which further deepened our understanding of the steps necessary to tackling these challenges.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>It is increasingly acknowledged that Social Sciences and Humanities (SSH) research insights and evidence are essential if societies are to better understand the implications of, as well as influences behind, sustainability challenges (
+                <xref ref-type="bibr" rid="ref-4">Foulds &amp; Robison, 2018</xref>; 
+                <xref ref-type="bibr" rid="ref-5">Ingeborgrud 
+                    <italic toggle="yes">et al</italic>., 2020</xref>; 
+                <xref ref-type="bibr" rid="ref-11">Sovacool 
+                    <italic toggle="yes">et al</italic>., 2015</xref>). It is in these contexts that dialogue has begun between research and innovation policy actors and SSH researchers, on how institutions need to evolve to help fulfil SSH&#x2019;s unfulfilled potential (
+                <italic toggle="yes">e.g.</italic> 
+                <xref ref-type="bibr" rid="ref-3">Foulds 
+                    <italic toggle="yes">et al</italic>., 2022</xref>; 
+                <xref ref-type="bibr" rid="ref-6">Krupnik 
+                    <italic toggle="yes">et al</italic>., 2022</xref>; 
+                <xref ref-type="bibr" rid="ref-7">Ryghaug 
+                    <italic toggle="yes">et al</italic>., 2023</xref>; 
+                <xref ref-type="bibr" rid="ref-9">Robison &amp; Foulds, 2021</xref>).</p>
+            <p>It is certainly a positive sign that SSH is being taken more seriously and that key institutions (
+                <italic toggle="yes">e.g.</italic> European Commission) are starting to do more to establish and deliver upon SSH commitments in research and innovation programmes. However, evidence shows that the experiences of such programmes vary, and thus the expectations and distributional effects are not equal (
+                <xref ref-type="bibr" rid="ref-8">Royston &amp; Foulds, 2021</xref>; 
+                <xref ref-type="bibr" rid="ref-10">Silvast &amp; Foulds, 2022</xref>). This Note focuses on a particular issue in this respect, namely: current SSH research environments (on 
+                <italic toggle="yes">e.g.</italic> climate, energy and mobility) are dominated by scholars and institutions situated in Northern (N) and Western (W) Europe, with researchers from Southern and Central &amp; Eastern Europe being less represented. There is thus a need to better balance research opportunities and participation across these different regions of Europe.</p>
+            <p>Reflecting calls to address such fragmentation issues, the Horizon Europe &#x2018;Social Sciences and Humanities for Climate, Energy aNd Transport Research Excellence&#x2019; (SSH CENTRE) project
+                <sup>
+                    <xref ref-type="other" rid="FN1">1</xref>
+                </sup> is writing a Position Statement that will be shared with the European Commission (Directorate-General for Research &amp; Innovation). The Position Statement will focus on how SSH in Southern and Central &amp; Eastern Europe can be better supported, with particular focus placed on supporting research focused on EU climate, energy and mobility policy.</p>
+            <p>The Position Statement will draw upon insights obtained through: (1) an online survey that focused on the experience of researchers within Southern and Central &amp; Eastern Europe; and (2) two evaluation workshops (one in Bilbao, Spain; one in P&#x00e9;cs, Hungary) which supported the analysis and validation of the survey, as participants discussed challenges and ways forward for SSH within their respective geographies. This Data Note documents these data collection and analysis processes.</p>
+            <p>This Data Note is structured as follows: first, we outline and justify the methods that were used to collect insights on challenges, institutional contexts and funding relations. We then briefly set out the analysis undertaken and the process through which the survey data informed workshop discussions and the subsequent write-up of a Position Statement. The Data Note ends with a reflection on ethical considerations.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <sec>
+                <title>Research instrument selection</title>
+                <p>Responses to the Call for Evidence were collected through a web-based survey, using the Limesurvey software
+                    <sup>
+                        <xref ref-type="other" rid="FN2">2</xref>
+                    </sup>. The focus of the survey was on breadth and thus exposure to a variety of perspectives; in-depth insight was not the purpose of this survey. The use of online surveys, rather than other in-person methods, was fundamental in enabling access to the wide range of Southern and Central &amp; Eastern European SSH communities, helping to capture a diversity of views, experiences and perspectives (
+                    <xref ref-type="bibr" rid="ref-13">Wyatt, 2000</xref>).</p>
+            </sec>
+            <sec>
+                <title>Research instrument design</title>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Country selection.</italic>
+                    </bold> As the Call for Evidence is part of a Horizon Europe project that develops understandings of how to better incorporate SSH insights into EU policy decisions, our starting point for countries to consider was: the 27 EU Member States; 16 non-EU Member States that are associated with Horizon Europe
+                    <sup>
+                        <xref ref-type="other" rid="FN3">3</xref>
+                    </sup>; plus the UK, which is seeking association post-Brexit and is currently participating in Horizon Europe 
+                    <italic toggle="yes">via</italic> its UKRI guarantee. We also excluded countries that have recently had their EU research and innovation partnerships revoked (
+                    <italic toggle="yes">e.g.</italic> Russia, Belarus).</p>
+                <p>Next, given our Call for Evidence&#x2019;s focus on researchers with experience working (or who have received research training) in Southern or Central &amp; Eastern Europe, we sought to establish which of these countries would be included within the scope of our survey. However, as there is no universally accepted framework for the regional grouping of European countries (
+                    <italic toggle="yes">i.e.</italic> which are Southern or Central &amp; Eastern), we developed our own categorisation system. Our final categorisation is available at 
+                    <xref ref-type="bibr" rid="ref-12">Varj&#x00fa; 
+                        <italic toggle="yes">et al</italic>. (2023)</xref>, with 27 countries deemed to be eligible; 14 in Southern and 13 in Central &amp; Eastern Europe.</p>
+                <p>In developing our regional categorisations, we studied existing categorisations for Southern and Central &amp; Eastern Europe countries (
+                    <italic toggle="yes">e.g.</italic> Central Intelligence Agency factbook
+                    <sup>
+                        <xref ref-type="other" rid="FN4">4</xref>
+                    </sup>, United Nations
+                    <sup>
+                        <xref ref-type="other" rid="FN5">5</xref>
+                    </sup>, University of Central Florida libraries
+                    <sup>
+                        <xref ref-type="other" rid="FN6">6</xref>
+                    </sup>) to identify commonalities in how different countries were treated. The variation across these existing categorisations highlighted the difficulty of developing these categories. For example, some countries can be considered as either Southern or Central &amp; Eastern depending on the categorisation used (
+                    <italic toggle="yes">e.g.</italic> Slovenia, Bulgaria). Furthermore, in some cases, we also observed that, for example, the category Central Europe did not exist, only Eastern Europe.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">The survey sample.</italic>
+                    </bold> The target group to complete the Call for Evidence survey was SSH researchers, although researchers with a STEM background were also able to respond. Recruitment occurred predominantly through a snowball sampling approach as the survey was shared through the SSH CENTRE consortium partners&#x2019; research networks. The aim was to obtain insights and perspectives from researchers across Southern and Central &amp; Eastern Europe with a diverse range of characteristics (
+                    <italic toggle="yes">e.g.</italic> gender, career stage, and SSH disciplines), rather than aim to achieve a statistically representative sample. As such, the snowball sampling approach was complemented by using publicly available databases of researchers (
+                    <italic toggle="yes">e.g.</italic> Researchgate) and authors in relevant SSH journals (
+                    <italic toggle="yes">e.g.</italic> Journal of Transport Geography, Sociology) to help identify individuals, which could plug gaps in our sample (
+                    <italic toggle="yes">e.g.</italic> countries that at one time we had no responses for).</p>
+                <p>A total of 137 survey responses were collected between 16 December 2022 and 28 March 2023. A summary of the respondents&#x2019; main characteristics is available in 
+                    <xref ref-type="table" rid="T1">Table 1</xref>.</p>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                    <label>Table 1. </label>
+                    <caption>
+                        <title>Main characteristics of Call for Evidence survey respondents.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th colspan="1" rowspan="1"/>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Southern European
+                                    <break/> respondents (n=68)</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Central &amp; Eastern
+                                    <break/> European respondents (n=69)</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">All respondents (n=137)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Country breakdown
+                                    <xref ref-type="other" rid="TFN1">*</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Spain (21)
+                                    <break/>Italy (13)
+                                    <break/>Portugal (6)
+                                    <break/>Greece (5)
+                                    <break/>Israel (5)
+                                    <break/>Turkey (4)
+                                    <break/>North Macedonia (3)
+                                    <break/>Albania (2)
+                                    <break/>Cyprus (2)
+                                    <break/>Malta (2)
+                                    <break/>Serbia (2)
+                                    <break/>Bosnia and Herzegovina (1)
+                                    <break/>Kosovo (1)
+                                    <break/>Montenegro (1)
+                                    <italic toggle="yes"/>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Hungary (19)
+                                    <break/>Slovenia (9)
+                                    <break/>Poland (8)
+                                    <break/>Czechia (7)
+                                    <break/>Estonia (6)
+                                    <break/>Romania (6)
+                                    <break/>Ukraine (3)
+                                    <break/>Bulgaria (2)
+                                    <break/>Croatia (2)
+                                    <break/>Latvia (2)
+                                    <break/>Republic of Moldova (2)
+                                    <break/>Slovakia (2)
+                                    <break/>Lithuania (1)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Spain (21)
+                                    <break/>Hungary (19)
+                                    <break/>Italy (13)
+                                    <break/>Slovenia (9)
+                                    <break/>Poland (8)
+                                    <break/>Czechia (7)
+                                    <break/>Estonia (6)
+                                    <break/>Portugal (6)
+                                    <break/>Romania (6)
+                                    <break/>Greece (5)
+                                    <break/>Israel (5)
+                                    <break/>Turkey (4)
+                                    <break/>North Macedonia (3)
+                                    <break/>Ukraine (3)
+                                    <break/>Albania (2)
+                                    <break/>Bulgaria (2)
+                                    <break/>Croatia (2)
+                                    <break/>Cyprus (2)
+                                    <break/>Latvia (2)
+                                    <break/>Malta (2)
+                                    <break/>Republic of Moldova (2)
+                                    <break/>Serbia (2)
+                                    <break/>Slovakia (2)
+                                    <break/>Bosnia and Herzegovina (1)
+                                    <break/>Kosovo (1)
+                                    <break/>Lithuania (1)
+                                    <break/>Montenegro (1)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Broad disciplinary research field</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">SSH (51)
+                                    <break/>STEM (4)
+                                    <break/>SSH-STEM interface (13) </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">SSH (53)
+                                    <break/>STEM (4)
+                                    <break/>SSH-STEM interface (12) </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">SSH (104)
+                                    <break/>STEM (8)
+                                    <break/>SSH-STEM interface (25) </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Social Sciences and Humanities
+                                    <break/> (SSH) discipline(s)
+                                    <xref ref-type="other" rid="TFN2">**</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Economics (9)
+                                    <break/>Human Geography (5)
+                                    <break/>Environmental Social Science (7)
+                                    <break/>Politics (5)
+                                    <break/>Sociology (6)
+                                    <break/>Psychology (5)
+                                    <break/>Business (2)
+                                    <break/>Planning (2)
+                                    <break/>History (1)
+                                    <break/>Science and Tech Studies (2)
+                                    <break/>Social Policy (1)
+                                    <break/>Communication Studies (2)
+                                    <break/>Development (1)
+                                    <break/>Education (2)
+                                    <break/>Law (2)
+                                    <break/>Social Anthropology (2)
+                                    <break/>Philosophy (1)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Economics (11)
+                                    <break/>Human Geography (11)
+                                    <break/>Environmental Social Science (7)
+                                    <break/>Politics (7)
+                                    <break/>Sociology (2)
+                                    <break/>Psychology (1)
+                                    <break/>Business (2)
+                                    <break/>Planning (2)
+                                    <break/>History (3)
+                                    <break/>Science and Tech Studies (1)
+                                    <break/>Social Policy (2)
+                                    <break/>Development (1)
+                                    <break/>Education (2)
+                                    <break/>Law (2)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Economics (20)
+                                    <break/>Human Geography (16)
+                                    <break/>Environmental Social Science (14)
+                                    <break/>Politics (12)
+                                    <break/>Sociology (8)
+                                    <break/>Psychology (6)
+                                    <break/>Business (4)
+                                    <break/>Planning (4)
+                                    <break/>History (4)
+                                    <break/>Science and Tech Studies (3)
+                                    <break/>Social Policy (3)
+                                    <break/>Communication Studies (2)
+                                    <break/>Development (2)
+                                    <break/>Education (2)
+                                    <break/>Law (4)
+                                    <break/>Social Anthropology (2)
+                                    <break/>Philosophy (1)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Sustainability research area(s)
+                                    <xref ref-type="other" rid="TFN2">**</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Climate (41)
+                                    <break/>Energy (42)
+                                    <break/>Mobility (30)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Climate (47)
+                                    <break/>Energy (39)
+                                    <break/>Mobility (23)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Climate (88)
+                                    <break/>Energy (82)
+                                    <break/>Mobility (53)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Gender
+                                    <xref ref-type="other" rid="TFN3">***</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Man (37)
+                                    <break/>Woman (31)
+                                    <break/>Prefer to self-describe (0)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Man (34)
+                                    <break/>Woman (35)
+                                    <break/>Prefer to self-describe (0)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Man (71)
+                                    <break/>Woman (66)
+                                    <break/>Prefer to self-describe (0)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Career stage</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Current postgraduate student (2)
+                                    <break/>Current postgraduate 
+                                    <break/>researcher (4)
+                                    <break/>Early Career Researcher (14)
+                                    <break/>Established Researcher (17)
+                                    <break/>Senior Researcher (31)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Current postgraduate student (2)
+                                    <break/>Current postgraduate
+                                    <break/> researcher (5)
+                                    <break/>Early Career Researcher (16)
+                                    <break/>Established Researcher (24)
+                                    <break/>Senior Researcher (22)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Current postgraduate student (4)
+                                    <break/>Current postgraduate researcher
+                                    <break/> (9)
+                                    <break/>Early Career Researcher (30)
+                                    <break/>Established Researcher (41)
+                                    <break/>Senior Researcher (53)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table-wrap-foot>
+                        <fn>
+                            <p id="TFN1">* Based on the answer to the following survey question: &#x201c;I am answering these questions in relation to the following country&#x201d; (
+                                <italic toggle="yes">i.e.</italic> it was not based on their nationality or where they were currently living).</p>
+                            <p id="TFN2">** Respondents could tick more than one answer.</p>
+                            <p id="TFN3">*** Their gender was not assumed. A survey question asked the respondents to explicitly self-assign their genders.</p>
+                        </fn>
+                    </table-wrap-foot>
+                </table-wrap>
+                <p>The number of responses is well-balanced between Southern (68 responses) and Central &amp; Eastern (69) Europe countries. Importantly, we received at least one response from every one of the 27 eligible countries. The highest number of respondents were from Spain (21) and Hungary (19), where the two analysis and validation workshops on the survey responses took place. Responses were also fairly balanced in terms of gender representation (71 men, 66 women).</p>
+                <p>The majority of respondents held PhD degrees, with responses from senior researchers (54), established researchers (31) and early career researchers (30) dominating the responses. Among Southern European respondents, there was a higher share of those who identified themselves as senior researchers (31 out of 69), while in the case of Central &amp; Eastern Europe a similar number of respondents represented senior (22) and established researchers (24).</p>
+                <p>The research domain of respondents was predominantly SSH (104 out of 137), although 25 respondents identified as interdisciplinary researchers (i.e. spanning both SSH and STEM to various extents). The number of responses from purely STEM researchers was low (8). Across the Southern and Central &amp; Eastern European respondents, there were similar levels of responses from SSH, STEM and interdisciplinary researchers. Considering the disciplines covered in the survey, the most represented SSH disciplines were Economics (20), Human Geography (16), Environmental Social Science (14), and Politics (12). At least one response was also submitted from each of the disciplines of Communication Studies, Development, Education, Law, Social Anthropology, and Philosophy.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Constructing survey questions.</italic>
+                    </bold> The Call for Evidence survey was structured around four sections: (1) the nature of collaboration between SSH and STEM; (2) the position of SSH in the countries&#x2019; institutional systems (compared to STEM); (3) the position of SSH in funding opportunities; and (4) ease or difficulties in joining EU research projects/funding. The survey included both qualitative and quantitative questions, with the combination of these questions enabling insights that both provided an overall picture of respondents and their characteristics (including 
+                    <italic toggle="yes">e.g.</italic> age, gender, career stage), as well as richer detail related to their views and experiences (
+                    <xref ref-type="bibr" rid="ref-2">Esturo 
+                        <italic toggle="yes">et al</italic>., 2023</xref>). The survey questions provided respondents with the opportunity to reflect on how they could be supported during collaborative research with STEM, in institutional settings, and also in terms of funding opportunities. The full set of survey questions are available at 
+                    <xref ref-type="bibr" rid="ref-12">Varj&#x00fa; 
+                        <italic toggle="yes">et al</italic>. (2023)</xref>.</p>
+                <p>The questions were developed through an iterative process. The survey was initially piloted (16 November &#x2013; 13 December 2022) with selected SSH CENTRE consortium members based in Southern and Central &amp; Eastern geographies, particularly with a focus on completion duration and comprehension of survey questions. Several rounds of iterations helped improve question styles, unique country identifiers, as well as how to cater for a range of disciplinary fields.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Survey analysis, workshop validation procedures and identification of recommendations</title>
+            <p>The survey responses were discussed and validated during two regional hybrid workshops, en route to recommendations being produced for submission to the European Commission (in the form of a Position Statement with 12 recommendations). The three data analysis and validation steps are now detailed.</p>
+            <sec>
+                <title>Step 1 - Interpreting survey responses</title>
+                <p>Step 1 of analysing and validating the gathered 137 survey responses involved two analyses. First, a thematic analysis was conducted on the qualitative survey data, particularly focusing on the open questions (
+                    <italic toggle="yes">i.e.</italic> related to experiences and perspectives). Second, basic descriptive statistics were performed on the quantitative data, primarily concerning the demographic information of the survey respondents.</p>
+                <p>Both of these analyses aimed to identify common issues across the responses from Southern and Central &amp; Eastern Europe, as well as within each region individually.</p>
+                <p>The outcomes of these analyses yielded two main results. Firstly, several priority discussion themes inductively emerged, supported by relevant quotations, which served as focal points for Step 2. For Southern Europe, three priority themes were identified: (i) SSH visibility and SSH-STEM relations; (ii) institutional support; and (iii) funding. For Central &amp; Eastern Europe, a similar three were also identified: (i) roles and position of SSH in Central &amp; Eastern European countries in energy, climate and mobility; (ii) funding; and (iii) solutions. Secondly, information about the respondents' sample and background was provided, offering valuable context for understanding the identified priority themes and quotations.</p>
+            </sec>
+            <sec>
+                <title>Step 2 - Collective data analysis and discussion via workshops</title>
+                <p>Two hybrid analysis workshops were held consecutively: one in Southern Europe in Bilbao
+                    <sup>
+                        <xref ref-type="other" rid="FN7">7</xref>
+                    </sup>, and one in Central &amp; Eastern Europe in P&#x00e9;cs
+                    <sup>
+                        <xref ref-type="other" rid="FN8">8</xref>
+                    </sup>. Participation in the workshop was by invitation, to help ensure diverse geographical and disciplinary representation, as well as a gender balance. Each workshop participant had experience of undertaking research within Southern or Central &amp; Eastern Europe. They also either identified as an SSH researcher or were supportive of engaging with SSH research. Before the workshop, all participants needed to have completed the Call for Evidence survey too.</p>
+                <p>The majority of the workshops&#x2019; 60 participants
+                    <sup>
+                        <xref ref-type="other" rid="FN9">9</xref>
+                    </sup> were identified through SSH CENTRE consortium contacts or searches of relevant research institutions in Southern and Central &amp; Eastern Europe. When wanting to address particular gaps in either geography or discipline, relevant survey respondents (who consented to being contacted about the workshop) were invited. Collectively, the participants of the workshops had experience working in at least 18 SSH research disciplines, as well as research environments in 23 different Southern and Central &amp; Eastern European countries.</p>
+                <p>Inspired by previous experiences on participatory analysis of mixed quantitative and qualitative data (
+                    <italic toggle="yes">e.g.</italic> 
+                    <xref ref-type="bibr" rid="ref-1">Di Felice 
+                        <italic toggle="yes">et al</italic>., 2021</xref>), the workshops were a means of situating the Call for Evidence and collectively analysing and interpreting answers with a wider invited audience of Southern or Central &amp; Eastern European researchers. Participants of both workshops therefore were also invited to be co-authors of the Position Statement, as the conclusions and recommendations were co-designed (see &#x2018;Step 3&#x2019; section below). Co-hosting the workshops with partners beyond the project&#x2019;s consortium also helped provide the means to situate the debate with researchers from across the region, thereby bringing in diverse perspectives from research/action spaces on-the-ground.</p>
+                <p>Both workshops followed a similar structure: following a presentation of the survey respondent sample descriptive statistics, we interrogated and began with the primary themes identified in Step 1. We presented the themes in-depth - including 
+                    <italic toggle="yes">e.g.</italic> challenges, tensions, opportunities, perceptions, unanswered questions, 
+                    <italic toggle="yes">etc.</italic> - and evidenced these with a range of quotations that were sourced from respondents in their region (
+                    <italic toggle="yes">i.e.</italic> either Southern or Central &amp; Eastern Europe). It was important that the workshop&#x2019;s analysis and validation discussion remained at the regional level, thereby ensuring that local contexts could be better accounted for.</p>
+                <p>Then, smaller breakout groups (of five-eight people) were formed to provide the space for participants to reflect (via facilitated negotiation) on the themes presented. These reflections were summarised in writing by facilitators. Regrouping at plenary sessions then enabled knowledge exchange from the breakout groups as well as provided a space for collective deliberation and aligning priorities.</p>
+                <p>The outcomes of Step 2 were thus in-depth, detailed facilitator notes that synthesised and validated priority issues, to better support SSH in Southern or Central &amp; Eastern Europe. The personal nature of these in-depth discussions (relating to 
+                    <italic toggle="yes">e.g.</italic> career experiences) meant that these data could not be meaningfully anonymised and thus were not publicly shared.</p>
+            </sec>
+            <sec>
+                <title>Step 3 - Identifying recommendations in the form of a Position Statement</title>
+                <p>During Step 2, in the plenary sessions, there was an emphasis on (i) noting points of divergence and convergence across the workshop participants, and (ii) discussing overarching key messages and ways in which recommendation statements could potentially be narrated. The two sets of written outputs (together with the original survey response and analysis) then informed the development of a draft Position Statement that captured challenges experienced by SSH researchers in Southern and Central &amp; Eastern Europe, as well as suggested actions that funders and research institutions in particular can take, through 12 recommendations. This draft Position Statement was circulated to workshop participants for feedback and final refinement in May 2023. The Position Statement will be shared with the European Commission (Directorate-General for Research &amp; Innovation).</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>The survey, and its analysis method, was approved by the School Research Ethics Panel located within Anglia Ruskin University&#x2019;s Global Sustainability Institute (reference number of ETH2223-0756; approval date of 11 November 2022). This process ensured that the questions asked and data collected: complied with the university&#x2019;s ethical requirements; ensured written informed consent; and was compliant with the EU General Data Protection Regulation (GDPR).</p>
+            <p>The front matter of the survey outlined (1) the purpose of the survey; (2) the type of data that would be collected (
+                <italic toggle="yes">e.g.</italic> Name/Contact Details, Age, Gender, Experiences); (3) how this data would be used; and (4) who would have access to the data. In order to proceed to the survey itself, survey respondents were required to tick boxes related to consent statements, with this ensuring informed consent was obtained. These statements included agreeing to participate in the survey, understanding who would be able to access the data (complying with GDPR), and understanding that the data would be anonymised. The survey was designed to only include questions that provided relevant and required data, thus adhering to the principle of data minimisation too.</p>
+            <p>The anonymisation of the data occurred in two phases. The first phase included going through the qualitative responses to open-ended questions and removing all references to places, projects and organisations that could be used to identify an individual respondent. The second phase of anonymisation involved separating the demographic data collected (
+                <italic toggle="yes">e.g.</italic> age, gender, career stage) from the other survey responses that focused on respondent experiences. The demographic data was then randomised, so that there would be no cross-referencing (
+                <italic toggle="yes">i.e.</italic> between the respondent demographic and the respondent experiences questions), thus reducing the likelihood of individual respondents being identifiable.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <p>All data and materials are available on Zenodo. </p>
+            <sec>
+                <title>Underlying data</title>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>DOI: 
+                            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.8033610">https://doi.org/10.5281/zenodo.8033610</ext-link> 
+                            <bold>SSH CENTRE: T1.3.1 Call for evidence survey data file</bold>:</p>
+                    </list-item>
+                </list>
+                <p>This project contains the following data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label/>
+                        <p>&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x25cb;&#x00a0;&#x00a0;The full, anonymised version of the survey export file (xlsx) from Limesurvey, including consent statements and all participant responses.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Extended data</title>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>DOI: 
+                            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.8080979">https://doi.org/10.5281/zenodo.8080979</ext-link> 
+                            <bold>SSH CENTRE T1.3.1 Call for Evidence survey extended data</bold>:</p>
+                    </list-item>
+                </list>
+                <p>This project contains the following data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label/>
+                        <p>&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x25cb;&#x00a0;&#x00a0;The contents of the survey (
+                            <italic toggle="yes">i.e.</italic> survey front matter and all survey questions), as well as the list of selected countries that were classified as Southern European or Central &amp; Eastern European for the purposes of this research project.</p>
+                    </list-item>
+                </list>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>DOI: 
+                            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.8033576">https://doi.org/10.5281/zenodo.8033576</ext-link> 
+                            <bold>SSH CENTRE: T1.3.2 SE, CEE Workshop information</bold>:</p>
+                    </list-item>
+                </list>
+                <p>This project contains the following data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label/>
+                        <p>&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x25cb;&#x00a0;&#x00a0;The agendas and consent form used in the two hybrid workshops, as part of collectively analysing the Call for Evidence survey data/findings and distilling relevant recommendations.</p>
+                    </list-item>
+                </list>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International licence</ext-link> (CC-BY 4.0).</p>
+            </sec>
+        </sec>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We thank all the survey respondents for sharing their experiences and views, as well as the participants of our two analysis workshops for their insights and deliberations. We also thank Wikitoki and the Central European Initiative for kindly co-hosting the workshops. Finally, we are grateful to our SSH CENTRE partner colleagues for their input at consortium meetings and for their assistance in disseminating the survey.</p>
+        </ack>
+        <fn-group>
+            <fn>
+                <p id="FN1">
+                    <sup>1</sup> 
+                    <ext-link ext-link-type="uri" xlink:href="http://www.sshcentre.eu/">www.sshcentre.eu</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN2">
+                    <sup>2</sup> 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.limesurvey.org/">https://www.limesurvey.org/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN3">
+                    <sup>3</sup> 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/updates-association-third-countries-horizon-europe-2021-12-21_en">https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/updates-association-third-countries-horizon-europe-2021-12-21_en</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN4">
+                    <sup>4</sup> 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cia.gov/the-world-factbook/references/guide-to-country-profiles/">https://www.cia.gov/the-world-factbook/references/guide-to-country-profiles/</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN5">
+                    <sup>5</sup> 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://esa.un.org/MigFlows/Definition%20of%20regions.pdf">https://esa.un.org/MigFlows/Definition%20of%20regions.pdf</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN6">
+                    <sup>6</sup> 
+                    <ext-link ext-link-type="uri" xlink:href="https://guides.ucf.edu/countries/easterneurope">https://guides.ucf.edu/countries/easterneurope</ext-link>
+                </p>
+            </fn>
+            <fn>
+                <p id="FN7">
+                    <sup>7</sup> Co-hosted by the Basque Centre for Climate Change and Wikitoki on 17 March 2023. 26 participants attended the workshop, with a gender breakdown of 16 women and 10 men.</p>
+            </fn>
+            <fn>
+                <p id="FN8">
+                    <sup>8</sup> Co-hosted by the Institute for Regional Studies and the Central European Initiative on 28 March 2023. 34 participants attended the workshop, with a gender breakdown of 19 women and 15 men.</p>
+            </fn>
+            <fn>
+                <p id="FN9">
+                    <sup>9</sup> Note that the sum listed here may not correspond to the names of the authors in the Position Statement, as several workshop participants abstained from authorship.</p>
+            </fn>
+        </fn-group>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Di Felice</surname>
+                            <given-names>LJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cabello</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Madrid-Lopez</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Quantitative Storytelling: Science, Narratives, and Uncertainty in Nexus Innovations.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sci Technol Human Values.</italic>
+               </source>
+               <year>2021</year>;<volume>48</volume>(<issue>4</issue>):<fpage>861</fpage>&#x2013;<lpage>887</lpage>.
+                    <pub-id pub-id-type="doi">10.1177/01622439211053819</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Esturo</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lizundia</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>S&#x00e1;ez de C&#x00e1;mara</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Fruit Juice Industry&#x2019;s Transition Towards Sustainability from the Viewpoint of the Producers.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sustainability.</italic>
+               </source>
+               <year>2023</year>;<volume>15</volume>(<issue>4</issue>):
+                    <elocation-id>3066</elocation-id>.
+                    <pub-id pub-id-type="doi">10.3390/su15043066</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Foulds</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Robison</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Mobilising the energy-related social sciences and humanities.</article-title>In: Foulds, C., Robison, R. (Eds.)
+                    <italic toggle="yes">Advancing Energy Policy: Lessons on the integration of Social Sciences and Humanities.</italic>Cham: Palgrave Macmillan.<year>2018</year>;<fpage>1</fpage>&#x2013;<lpage>11</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-319-99097-2_1</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Foulds</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Royston</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Berker</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>An agenda for future interdisciplinary Social Sciences and Humanities research on energy efficiency: 100 priority research questions.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Humanit Soc Sci Commun.</italic>
+               </source>
+               <year>2022</year>;<volume>9</volume>(<issue>1</issue>): 223.
+                    <pub-id pub-id-type="pmid">35791377</pub-id>
+                    <pub-id pub-id-type="doi">10.1057/s41599-022-01243-z</pub-id>
+                    <pub-id pub-id-type="pmcid">9245879</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ingeborgrud</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Heidenreich</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ryghaug</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Expanding the scope and implications of energy research: a guide to key themes and concepts from the Social Sciences and Humanities.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Energy Res Soc Sci.</italic>
+               </source>
+               <year>2020</year>;<volume>63</volume>:
+                    <elocation-id>101398</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1016/j.erss.2019.101398</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Krupnik</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wagner</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Vincent</surname>
+                            <given-names>O</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Beyond technology: A research agenda for social sciences and humanities research on renewable energy in Europe.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Energy Res Soc Sci.</italic>
+               </source>
+               <year>2022</year>;<volume>89</volume>:
+                    <elocation-id>102536</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1016/j.erss.2022.102536</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Robison</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Foulds</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Social Sciences and Humanities for the European Green Deal. 10 recommendations from the EU Energy SSH Innovation Forum.</article-title>Cambridge: Energy-SHIFTS,<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://energy-shifts.eu/recommendations-eu-energy-green-deal/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Royston</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Foulds</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The making of energy evidence: How exclusions of Social Sciences and Humanities are reproduced (and what researchers can do about it).</article-title>
+                    <source>
+
+                        <italic toggle="yes">Energy Res Soc Sci.</italic>
+               </source>
+               <year>2021</year>;<volume>77</volume>:
+                    <elocation-id>102084</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1016/j.erss.2021.102084</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ryghaug</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Suboti&#x010d;ki</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Smeds</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>A Social Sciences and Humanities research agenda for transport and mobility in Europe: key themes and 100 research questions.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Transport Reviews.</italic>
+               </source>
+               <year>2023</year>;<volume>43</volume>(<issue>4</issue>):<fpage>755</fpage>&#x2013;<lpage>779</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/01441647.2023.2167887</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Silvast</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Foulds</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sociology of interdisciplinarity: dynamics of energy research.</article-title>Cham: Palgrave Macmillan,<year>2022</year>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-030-88455-0</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sovacool</surname>
+                            <given-names>BK</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ryan</surname>
+                            <given-names>SE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Stern</surname>
+                            <given-names>PC</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Integrating social science in energy research.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Energy Res Soc Sci.</italic>
+               </source>
+               <year>2015</year>;<volume>6</volume>:<fpage>95</fpage>&#x2013;<lpage>99</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.erss.2014.12.005</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Varj&#x00fa;</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>B&#x00e1;lint</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cabello</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>SSH CENTRE: T1.3.1 Call for evidence survey extended data.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Zenodo.</italic>
+               </source>
+               <year> 2023</year>.
+                    <pub-id pub-id-type="doi">10.5281/zenodo.8080979</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wyatt</surname>
+                            <given-names>JC</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>When to Use Web-based Surveys.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Am Med Inform Assoc.</italic>
+               </source>
+               <year>2000</year>;<volume>7</volume>(<issue>4</issue>):<fpage>426</fpage>&#x2013;<lpage>430</lpage>.
+                    <pub-id pub-id-type="doi">10.1136/jamia.2000.0070426</pub-id>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report36051">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17531.r36051</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Rotondo</surname>
+                        <given-names>Federica</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r36051a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3129-522X</uri>
+                </contrib>
+                <aff id="r36051a1">
+                    <label>1</label>Politecnico di Milano, Milan, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>14</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Rotondo F</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport36051"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16237.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>
+                <bold>Summary:</bold>
+            </p>
+            <p> The &#x201c;data note&#x201d; focuses on the disparities in terms of research opportunities and participation for SSH and STEM researchers to contribute to projects addressing sustainability challenges. Particular attention is given to the imbalance between Southern and Central &amp; Eastern European countries (less represented) and Northern and Western European countries (highly predominant).</p>
+            <p> </p>
+            <p> The work develops a three steps approach. At first an on-line survey is elaborated and diffused to better understand the experience of researchers in Southern and Central &amp; Eastern European countries. After that, two hybrid workshops are organised to discuss the survey results and to outline possibile ways forward for SSH researchers based in different locations. Finally insights of the activities lead towards the elaboration of a Position Statement that will be shared with the European Commission, including some recommendation to address the geographical imbalance of SSH research and to support SSH researchers of central/eastern/southern European countries</p>
+            <p> </p>
+            <p> 
+                <bold>General comments and specific issues:</bold>
+            </p>
+            <p> Overall, the contribution is well structured and presents original features. Some improvements can be made in the direction of better specifying methods and materials at different steps of your work. Moreover the anonymous version of the survey outcomes is not accesible to the author of this review. Below are some useful points for the implementation of the paper. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>About the sentence &#x201c;it has been shown that most of the funding, project consortia, policy advice, etc. opportunities (and thus prestige) are often associated with Northern and Western universities, or at least those that are CLOSER to the Brussels policy bubble&#x201d;.&#x00a0; Do you mean geographically closer? Or, for example, politically closer? You should either detail or reframe the sentence.</p>
+                    </list-item>
+                    <list-item>
+                        <p>About the country selection: to better clarify your categorisation of countries you could specify the criteria you adopted to categorise a country as part of southern/central/Eastern Europe. For example: by looking at the pdf "country groups_3" (https://zenodo.org/records/8080979) it seems that you included Czech Republic, Slovakia, Hungary and Slovenia but not Austria. The reason is not fully clear.</p>
+                    </list-item>
+                    <list-item>
+                        <p>On the survey sample: to better understand the snowball sampling phase it would be helpful to explicit what are the disciplines of researchers involved in the SSH CENTRE consortium partners and to report what are the disciplines of the 137 respondents.</p>
+                    </list-item>
+                    <list-item>
+                        <p>On step 1: the priority themes that emerged from the interpretation of survey responses could be expanded. I would like to better understand what the respondents refer to by mentioning "SSH visibility" or "SSH-STEM relation" or what is the different claims about "funding" in Southern European and in Central &amp; Eastern Europe.</p>
+                    </list-item>
+                    <list-item>
+                        <p>On step 2: you could specify, in a table or graph, what are the 18 SSH research disciplines and the 23 Southern and Central &amp; Eastern European countries of the participants of the workshops. Since you pointed out that the discussion remained at the regional level, I think you should better explain what you mean by regional level.</p>
+                    </list-item>
+                    <list-item>
+                        <p>About step 2 outcomes: you could better specify how the discussions lead to the synthesis and validation of priority issues. After the discussion how the priority issues eventually change? Based on which criteria? Could you also better specify the role of facilitator?</p>
+                    </list-item>
+                    <list-item>
+                        <p>About step 3: it would be useful to understand the general structure of the draft position statements that circulated to workshop participants for feedback. How did you take into account the regional specificities?</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Are sufficient details of methods and materials provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Is the rationale for creating the dataset(s) clearly described?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Partly</p>
+            <p>Are the protocols appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Urban planning, urban policy and design</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report35497">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17531.r35497</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Sonetti</surname>
+                        <given-names>Giulia</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35497a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r35497a1">
+                    <label>1</label>CENSE &#x2013; Center for Environmental and Sustainability Research &amp; CHANGE - Global Change and Sustainability Institute, NOVA School of Science and Technology, NOVA University Lisbon, Caparica, Portugal</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>14</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Sonetti G</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35497"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16237.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article provides a comprehensive overview of a survey conducted to understand the dynamics of SSH and STEM collaborations in Southern and Central &amp; Eastern Europe. The rationale for creating the dataset is well-articulated, focusing on exploring the nature of collaboration, institutional positioning, funding opportunities, and ease of joining EU research projects.</p>
+            <p> </p>
+            <p> The methods employed for data collection and analysis are robust, involving a mixed-methods approach with qualitative and quantitative elements. The iterative development of survey questions and pilot testing adds to the credibility of the process. However, for replication purposes, the authors could provide more detailed information on the specific methodologies for thematic analysis and statistical analysis.</p>
+            <p> </p>
+            <p> While the dataset's composition is described in terms of the type of responses collected, information on the format and accessibility of the dataset for public use is somewhat lacking. To enhance the utility of this research, the authors should consider providing clear details on how the dataset is formatted and where it can be accessed.</p>
+            <p> </p>
+            <p> Overall, the study is well-conducted and provides valuable insights into SSH and STEM collaborations in the European context. To enhance its scientific soundness and replicability, minor improvements in detailing the analytical methods and clarifying the dataset's presentation are recommended.</p>
+            <p>Are sufficient details of methods and materials provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Is the rationale for creating the dataset(s) clearly described?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Yes</p>
+            <p>Are the protocols appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Transdisciplinarity, Sustainability Science</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report36049">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17531.r36049</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Berker</surname>
+                        <given-names>Thomas</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r36049a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r36049a1">
+                    <label>1</label>Department of Interdisciplinary Studies of Culture, Norwegian University of Science and Technology, Trondheim, Norway</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>14</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Berker T</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport36049"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16237.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>Thank you for the opportunity to try out this open peer review process, which was a new experience for me. That the review is openly accessible together with the article allows me to comment without forcing the authors to respond or alter their text. This is why I divide the following remarks between "methodological reflections" that may or may not be useful for the authors and the reader and recommendations for minor changes that in my view would improve the text.</p>
+            <p> </p>
+            <p> 
+                <underline>Short summary:</underline>
+            </p>
+            <p> </p>
+            <p> This data note describes and justifies the methodological choices made in a research project on the challenges and opportunities of working in Southern and Central/Eastern European SSH research on climate, energy and mobility. The empirical work consisted of an online survey (N=137) and two hybrid workshops (N=60).</p>
+            <p> </p>
+            <p> 
+                <underline>Recommendations:</underline> 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The sampling strategy was nonprobabilistic and based on self-selection and snowball sampling. Both are pragmatic and effective but snowball sampling has the effect that networks of the people selected initially will dominate the sample. Effects of this should be discussed in the data note.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Is it possible that in addition to snowball sampling, elements of purposive sampling and maybe also a weak form of quota sampling were employed? The latter is hinted at when the goal 'to achieve a diverse range of characteristics' (gender, career stage, disciplines) is mentioned (p.4). Did you do active work to fill specific quotas (e.g., of women) or am I misunderstanding this remark?</p>
+                    </list-item>
+                    <list-item>
+                        <p>Probably to broaden participation, a weak criterion for being able to talk about/for Southern/Eastern/Central European SSH was used: "some time studying at postgraduate level or working as a researcher". Question 19 [Q_2a]a asks whether respondents currently live in the country they are answering for, while the following questions are open for respondents that may only have had short stays there, potentially many years ago. What is the reason for including both types of questions? It does make a difference whether one is answering after having left the country or not, but was this difference used in the analysis? More information in the data note on these questions of definition would be useful.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Why did you include STEM researchers in the sample? Surely not to compare experiences between STEM and SSH respondents (the STEM group is too tiny for this)?</p>
+                    </list-item>
+                    <list-item>
+                        <p>The relation between workshops and the survey remains somewhat unclear. First you did a thematic analysis of the survey results which produced quotes that could be used as 'focal points' for the workshops. Additionally, very broad priority themes (e.g., 'funding', 'visibility', 'STEM-SSH-relations') were identified that were discussed at the workshops. But the terms 'collective data analysis' and 'validation' hint at a stronger relation. The outcome here, 'in-depth, detailed facilitator notes' (that cannot be published) seems like a weak outcome of the 'collaborative analysis' and 'validation'. It might be advisable to avoid these terms or to define better what they mean in the context in which they are used here.</p>
+                    </list-item>
+                </list> 
+         </p>
+            <p> 
+                <underline>Methodological reflections:</underline>
+            </p>
+            <p> </p>
+            <p> In any empirical study, how the object of inquiry is constructed should be carefully justified. The danger to create a method artifact, i.e. to construct objects that say more about the methodological choices than about anything else, is always real. The assumption that SSH researchers from Southern and from Central/Eastern Europe experience a set of common problems compared to their Western and Northern European colleagues makes only sense if one accepts the premise that they are a group - or maybe two groups - with common features and working under similar conditions. The authors acknowledge that Eastern, Central and Southern European are categories that are understood differently and may entail unclear boundaries and overlaps. The chosen solution - a catalogue of countries based on pragmatic, institutional and political reasoning - is good enough. However, what may be more problematic is that these broad categories include very different countries with widely different research landscapes, histories, economic contexts, etc. And then there are obviously disparities within countries and also within institutions and between different SSH disciplines. In this context it may be particularly problematic that the snowball sampling for the survey started with consortium members, i.e. researchers that are engaged in an ongoing collaboration with powerful European research nodes that - not accidentally - reside in Western Europe.</p>
+            <p> </p>
+            <p> Moreover, large parts of European SSH research were excluded from the empirical inquiry through the assumption that the English language is the lingua franca in all academic contexts, which is particularly untrue in SSH. The authors were aware of the danger that they may end up creating a research object, which may or may not say anything about SSH research in Southern and Central/Eastern Europe. The workshops in Hungary and Spain were explicitly framed as a way to validate and situate the debate in a specific region, e.g. by including local researchers that were not part of the consortium. Ideally, these workshops would have allowed to shed light on disparities in European SSH in their specific, multi-dimensional form (within institutions, between disciplines, between institutions, between regions, etc.). However, situated accounts like this would not be able to become position statements and generate input suitable for the European Commission. But they would avoid the temptation to 'see like a (transnational) state', which constructs its objects according to its priorities. The objects Southern and Central/Eastern Europe make a lot of sense in the context of European economic integration. Whether they are good objects for an empirical investigation of inequality in European research is another question - a question which is not answered by this data note.</p>
+            <p>Are sufficient details of methods and materials provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Is the rationale for creating the dataset(s) clearly described?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Yes</p>
+            <p>Are the protocols appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Science and technology studies, sociology</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report35499">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17531.r35499</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Arrobbio</surname>
+                        <given-names>Osman</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35499a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r35499a1">
+                    <label>1</label>Department of Humanities, Social Sciences and Cultural Industries, University of Parma, Parma, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Arrobbio O</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35499"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16237.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The EU Horizon Europe SSH CENTRE project aimed to understand and address disparities in the participation of Social Sciences and Humanities (SSH) researchers from different European regions in climate, energy, and mobility research. More precisely, this research project addresses the underrepresentation of SSH researchers from Southern and Central &amp; Eastern Europe.</p>
+            <p> </p>
+            <p> The authors collected 137 responses from Southern and Central &amp; Eastern Europe SSH researchers, conducted two regional workshops, and are preparing a Position Statement with recommendations for the European Commission to address these disparities.</p>
+            <p> </p>
+            <p> A web-based survey was used to collect responses from SSH researchers in Southern and Central &amp; Eastern Europe.</p>
+            <p> </p>
+            <p> The survey and its analysis were approved by an ethics panel. Informed consent was obtained through a clear explanation of the survey's purpose and data handling, with active agreement from respondents. Data minimization principles were followed to collect only necessary data.</p>
+            <p> </p>
+            <p> Snowball sampling and publicly available databases were used for recruitment.</p>
+            <p> </p>
+            <p> The survey questions covered collaboration, institutional support, funding, and participation in EU projects.</p>
+            <p> </p>
+            <p> Data analysis and validation were done in three steps: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Step 1 involved thematic analysis and descriptive statistics.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Step 2 consisted of two regional workshops in Southern and Central &amp; Eastern Europe to discuss the survey data.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Step 3 focused on identifying recommendations for a Position Statement.</p>
+                    </list-item>
+                </list> The workshops involved participants from various disciplines (mainly SSH) and countries from the investigated European regions, and the findings informed the development of the Position Statement.</p>
+            <p> </p>
+            <p> The author can find below some comments and suggestions (neither listed in order of importance nor appearance): 
+                <list list-type="order">
+                    <list-item>
+                        <p>On the use of &#x201c;European&#x201d; or &#x201c;Europe&#x201d; (for example, in sentences like &#x201c;[&#x2026;] it gathered views and experiences of 137 Southern and Central &amp; Eastern European SSH researchers&#x201d;). Please consider that I am not a native English speaker, but I wonder whether the use of &#x201c;Europe&#x201d; would make clearer to the reader that those SSH researchers are from S and C&amp;E Europe and may thus not necessarily have a S or C&amp;E European nationality.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Through which channel(s) were people invited to participate to the survey? E.g. through personal contacts, through communications on websites?</p>
+                    </list-item>
+                    <list-item>
+                        <p>&#x201c;[&#x2026;] those who identified themselves as senior researchers (31 out of 69) [&#x2026;]&#x201d; Maybe it is 31 out of 68?</p>
+                    </list-item>
+                    <list-item>
+                        <p>&#x201c;[&#x2026;] while in the case of Central &amp; Eastern Europe a similar number of respondents represented senior (22) and established researchers (24).&#x201d; Add &#x201c;out of 69&#x201d;?</p>
+                    </list-item>
+                    <list-item>
+                        <p>&#x201c;The research domain of respondents was predominantly SSH (104 out of 137)&#x201d;. What about making clear that the research domain was 
+                            <underline>self-reported</underline> by respondents?</p>
+                    </list-item>
+                    <list-item>
+                        <p>I would make clear that the survey was in English.</p>
+                    </list-item>
+                    <list-item>
+                        <p>&#x201c;The highest number of respondents were from Spain (21) and Hungary (19) [&#x2026;]&#x201d;. This does not completely correspond to what is written in one of the notes to Table 1, where it says that &#x201c;Based on the answer to the following survey question: &#x2018;I am answering these questions in relation to the following country&#x2019; (i.e. it was not based on their nationality or where they were currently living).&#x201d; I suggest rephrasing it like this (or any other more elegant form): &#x201c;The highest number of responses were related to Spain (21) and Hungary (19)&#x201d;.</p>
+                    </list-item>
+                    <list-item>
+                        <p>&#x201c;At least one response was also submitted from each of the disciplines of Communication Studies, Development, Education, Law, Social Anthropology, and Philosophy&#x201d;. If I have well understood, this list contains the least represented disciplines. However, from what I see in Table 1 there are some disciplines (Science and Tech Studies; Social Policy) that are less represented than Law. Please, check those figures in Table 1 and modify the list (in the reported sentence and/or the ordering of disciplines in Table 1).</p>
+                    </list-item>
+                    <list-item>
+                        <p>Table 1. Section &#x2018;Social Sciences and Humanities (SSH) discipline(s)&#x2019;. Please, specify whether this question was posed only to those who self-defined as SSH researchers?</p>
+                    </list-item>
+                    <list-item>
+                        <p>Table 1. Section &#x2018;Sustainability Research Areas&#x2019;. Please check the figures related to Energy.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Table 1. I wonder if you could also add the age of respondents.</p>
+                    </list-item>
+                    <list-item>
+                        <p>You listed the three priority themes for both regions. Are these priorities listed by importance? In case I would specify it.</p>
+                    </list-item>
+                    <list-item>
+                        <p>&#x201c;The majority of the workshops&#x2019; 60 participants were identified through SSH CENTRE consortium contacts [&#x2026;]&#x201d;. Would it be possible to include the composition of the SSH CENTRE consortium (e.g., among the supplementary materials)?</p>
+                    </list-item>
+                    <list-item>
+                        <p>Not an expert on this, but please consider if it is necessary/useful to remove some data (e.g. from open-ended answers) from the supplementary material. I mean, in order to decrease even more the possibility for respondents to be identifiable.</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the paragraph where you describe the workshops structure, I suggest you to say that the agendas can be found among the supplementary materials.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Workshops were held in a hybrid (online and in person) format. Did this create difficulties? If yes, how did you manage them?</p>
+                    </list-item>
+                    <list-item>
+                        <p>Among the supplementary materials, I suggest you clean up the xlsx file a little bit to make it more quickly usable. For example, some respondents used &#x201c;Czeck Republik&#x201d; and others &#x201c;Czekia&#x201d;. Maybe you could decide on just one formulation. Also, some countries have two &#x201c;versions&#x201d; depending on whether respondents add or not a space after the name of the country. (e.g. the cases of Israel and Greece).</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Are sufficient details of methods and materials provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Is the rationale for creating the dataset(s) clearly described?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Partly</p>
+            <p>Are the protocols appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Sociology of the environment. Sociology of energy.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+</article>

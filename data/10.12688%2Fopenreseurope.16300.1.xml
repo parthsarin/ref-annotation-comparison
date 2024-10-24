@@ -1,0 +1,2178 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="other"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.16300.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Study Protocol</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Current practices in marine systematic conservation planning: protocol for a global scoping review</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 1 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Fabbrizzi</surname>
+                        <given-names>Erika</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-0753-1803</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Giakoumi</surname>
+                        <given-names>Sylvaine</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Petza</surname>
+                        <given-names>Dimitra</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-0910-8125</uri>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Katsanevakis</surname>
+                        <given-names>Stelios</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Dom&#x00ed;nguez Cris&#x00f3;stomo</surname>
+                        <given-names>Esther</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0009-0007-5147-9727</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Colloca</surname>
+                        <given-names>Francesco</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Elliot</surname>
+                        <given-names>Michael</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Flannery</surname>
+                        <given-names>Wesley</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Galparsoro</surname>
+                        <given-names>Ibon</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-5031-525X</uri>
+                    <xref ref-type="aff" rid="a8">8</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Kruse</surname>
+                        <given-names>Maren</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-1540-3649</uri>
+                    <xref ref-type="aff" rid="a9">9</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Ben Lamine</surname>
+                        <given-names>Emna</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a10">10</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>McAteer</surname>
+                        <given-names>Ben</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-8989-8141</uri>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Stelzenm&#x00fc;ller</surname>
+                        <given-names>Vanessa</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a9">9</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Fraschetti</surname>
+                        <given-names>Simonetta</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Department of Biology, University of Naples Federico II, Naples, Campania, Italy</aff>
+                <aff id="a2">
+                    <label>2</label>Sicily Marine Centre, Stazione Zoologica Anton Dohrn, Palermo, Sicily, 90149, Italy</aff>
+                <aff id="a3">
+                    <label>3</label>Department of Marine Sciences, The University of the Aegean, Mytilene, 81100, Greece</aff>
+                <aff id="a4">
+                    <label>4</label>Department of Biology, University of Algarve, Faro, Faro District, Portugal</aff>
+                <aff id="a5">
+                    <label>5</label>Integrative Marine Ecology Department, Stazione Zoologica Anton Dohrn, Rome, 00198, Italy</aff>
+                <aff id="a6">
+                    <label>6</label>Institute for Estuarine and Coastal Studies, University of Hull, Hull, England, UK</aff>
+                <aff id="a7">
+                    <label>7</label>Queen's University Belfast, Belfast, Northern Ireland, UK</aff>
+                <aff id="a8">
+                    <label>8</label>Marine Research Division, AZTI Foundation, Pasaia, Euskadi, 20110, Spain</aff>
+                <aff id="a9">
+                    <label>9</label>Th&#x00fc;nen Institute of Sea Fisheries, Bremerhaven, 27572, Germany</aff>
+                <aff id="a10">
+                    <label>10</label>Universite Cote d'Azur, Nice, Provence-Alpes-C&#x00f4;te d'Azur, France</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:erika.fabbrizzi@unina.it">erika.fabbrizzi@unina.it</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>5</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>136</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>21</day>
+                    <month>7</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Fabbrizzi E et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-136/pdf"/>
+            <abstract>
+                <p>
+                    <bold>Background</bold>: Systematic Conservation Planning (SCP) involves a series of steps to identify conservation areas and develop management strategies, incorporating feedbacks, revisions, and iterations at any stage. It is a valuable tool in facilitating the effective implementation of Ecosystem-Based Marine Spatial Planning (EB-MSP). However, few efforts have been carried out to summarize information on methods, trends, and progress in SCP in the designation of Marine Protected Areas (MPAs). The present work aims at providing the protocol to perform a scoping review (ScR) to assess the contribution of SCP to the design of effective MPA networks, identifying both the development of good practices and the presence of gaps of knowledge in terms of criteria for their implementation.</p>
+                <p>
+                    <bold>Protocol</bold>: The ScR will follow the Joanna Briggs Institute (JBI) methodology. The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) extension for ScRs supported the definition of this protocol. The three databases Web of Science, Scopus, and Google Scholar will be used for the bibliographic search. Inclusion criteria will be as follows: studies applying SCP in the marine realms worldwide, assessing its contribution to the design of MPA networks. Both peer-reviewed and grey literature will be considered for eligibility. No search limitations will be applied regarding publications&#x2019; year, stage, subject area and source type. Studies in English, French, German, Greek, Italian, and Spanish will be reviewed. Grey literature will be sourced from pre-print archives, institutional websites and other web-based search engines. The Covidence software will be used for the process of documents selection and data extraction. The findings of the ScR will be presented through tables, graphs, and maps, accompanied by a narrative summary of the outcomes.</p>
+                <p>
+                    <bold>Conclusions</bold>: This comprehensive approach will provide a visual representation of the data, enhancing the understanding and interpretation of the results.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Systematic Conservation Planning</kwd>
+                <kwd>Marine Protected Area networks</kwd>
+                <kwd>Ecosystem-Based Marine Spatial Management</kwd>
+                <kwd>climate change</kwd>
+                <kwd>connectivity</kwd>
+                <kwd>restoration</kwd>
+                <kwd>trade-offs analysis</kwd>
+                <kwd>conservation targets</kwd>
+                <kwd>scoping review protocol</kwd>
+                <kwd>JBI methodology</kwd>
+                <kwd>PRISMA statement</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100018693">
+                    <funding-source>Horizon Europe Framework Programme</funding-source>
+                    <award-id>101059407</award-id>
+                </award-group>
+                <award-group id="fund-2" xlink:href="http://dx.doi.org/10.13039/100014013">
+                    <funding-source>UK Research and Innovation</funding-source>
+                    <award-id>10038951</award-id>
+                    <award-id>10050537</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon Europe research and innovation programme under grant agreement No [101059407](Improved transdisciplinary science for effective ecosystem-based maritime spatial planning and conservation in European Seas [MarinePlan]) and UK Research and Innovation (UKRI) under the UK government&#x2019;s Horizon Europe funding guarantee grant Nos [10038951 and 10050537].</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>Systematic Conservation Planning (SCP) is an approach involving a series of steps to identify conservation areas and develop management strategies, incorporating feedbacks, revisions, and iterations at any stage (
+                <xref ref-type="bibr" rid="ref-8">Kukkala &amp; Moilanen, 2013</xref>). Previous experiences in terrestrial and coastal regions have shown that adopting a systematic approach to conservation planning and management can contribute to the preservation of ecosystem health and productivity (
+                <xref ref-type="bibr" rid="ref-3">Ban 
+                    <italic toggle="yes">et al.</italic>, 2014</xref>). SCP enables effective and equitable management, aligning with various regional and global agreements focused on sustainable marine environment usage (
+                <italic toggle="yes">e.g.</italic>, CBD Aichi Target 11, SDGs, EU Biodiversity Strategy). There are several distinctive features associated with SCP. It requires a clear definition of the conservation target, including the selection of ecological features to protect or use as proxies for overall biodiversity within the planning process. It is built upon explicit operational objectives and assessing the progress made towards conservation goals through existing Marine Protected Areas (MPAs). SCP employs explicit methods for locating and designing new MPAs that complement existing ones to achieve the predefined goals, employing specific criteria for implementing conservation actions. Another important aspect of SCP is the principle of efficiency, 
+                <italic toggle="yes">i.e.</italic>, the explicit consideration of socioeconomic variables to minimize conflicts between conservation and existing (or planned) socioeconomic activities. Lastly, SCP adopts explicit objectives and mechanisms for maintaining conditions within MPAs that support the persistence of vital natural features, while also including monitoring these features for an adaptive management (
+                <xref ref-type="bibr" rid="ref-11">Margules &amp; Pressey, 2000</xref>).</p>
+            <p>SCP can serve as a valuable tool in facilitating the effective implementation of Ecosystem-Based Marine Spatial Planning (EB-MSP). This management approach takes into account the complex interactions among ecosystem components and human activities at various spatial scales, rather than isolating individual sectors, species, or ecosystem services (
+                <xref ref-type="bibr" rid="ref-5">Halpern 
+                    <italic toggle="yes">et al.</italic>, 2008</xref>; 
+                <xref ref-type="bibr" rid="ref-9"> Leslie &amp; McLeod, 2007</xref>). However, in this context, the designation of MPA networks is often based on structural characteristics of habitats and iconic species, rarely including the consideration of the ecological processes, thus disregarding the key SCP principles: connectivity, adequacy, representativeness, and efficiency. To address these issues, 
+                <xref ref-type="bibr" rid="ref-7">Katsanevakis 
+                    <italic toggle="yes">et al.</italic> (2020)</xref> recommended SCP principles to ensure that MSP initiatives meet conservation requirements, establishing ecologically coherent networks of MPAs, and simultaneously address socioeconomic objectives (
+                <italic toggle="yes">e.g.</italic>, sustainable fisheries). Yet, only limited efforts have been made to consolidate information on methods, trends, and progress in SCP (
+                <xref ref-type="bibr" rid="ref-1">&#x00c1;lvarez-Romero 
+                    <italic toggle="yes">et al.</italic>, 2018</xref>).</p>
+            <p>Here, we present a scoping review (ScR) protocol, aiming at assessing the contribution of SCP for designing MPA networks, providing an indication of the existence of successfully implemented marine plans, their impact on protecting biodiversity and identifying knowledge gaps.</p>
+            <p>The objectives of the ScR are as follows:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Identify and critically evaluate the various methods and tools proposed for addressing key issues, such as (i) creating MPA networks resilient to climate change; (ii) securing marine functional connectivity; (iii) integrating terrestrial-freshwater-marine planning; (iv) embedding cumulative effects assessments in the planning process; (iv) assessing the potential Other Effective Conservation Measures (OECMs) for contributing to conservation targets; (v) including prioritization of habitats/species/areas for restoration, (vi) assessing synergies and trade-offs between passive and active restoration; (vii) addressing biological invasions; (viii) balancing conservation, socio-economic, and cultural objectives, and analysing trade-offs of planning options.</p>
+                </list-item>
+                <list-item>
+                    <p>Identify the gaps in current practices of SCPs for addressing these topics.</p>
+                </list-item>
+                <list-item>
+                    <p>Explore existing guidelines for improved conservation planning.</p>
+                </list-item>
+            </list>
+            <sec>
+                <title>Review question</title>
+                <p>The overall research question that will guide this ScR is: What is the current knowledge about Marine Systematic Conservation Planning approaches at a global scale? The ScR will attempt to answer the following sub-questions:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>1.</label>
+                        <p>What is the geographical distribution of the case studies adopting SCPs?</p>
+                    </list-item>
+                    <list-item>
+                        <label>2.</label>
+                        <p>Which are the criteria/methodologies/tools for implementing SCP, in particular, to address climatic resilience, functional connectivity, integrated land-freshwater-sea planning, cumulative effects, the contribution of OECMs, restoration site prioritization and actions, biological invasions, ecological-socioeconomic trade-offs?</p>
+                    </list-item>
+                    <list-item>
+                        <label>3.</label>
+                        <p>What is the spatial contribution (% of the area covered) by case studies implementing SCP?</p>
+                    </list-item>
+                    <list-item>
+                        <label>4.</label>
+                        <p>What are the limits in the adoption of good practices in SCP?</p>
+                    </list-item>
+                    <list-item>
+                        <label>5.</label>
+                        <p>What are the success stories and failures acknowledged by the literature?</p>
+                    </list-item>
+                    <list-item>
+                        <label>6.</label>
+                        <p>Which are the gaps of knowledge and policy recommendations provided by case studies implementing SCP?</p>
+                    </list-item>
+                    <list-item>
+                        <label>7.</label>
+                        <p>What is the actual stage of implementation of SCPs?</p>
+                    </list-item>
+                </list>
+            </sec>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methodology</title>
+            <p>The ScR will follow the methodology outlined by 
+                <xref ref-type="bibr" rid="ref-2">Arksey and O'Malley (2005)</xref>, as further developed by 
+                <xref ref-type="bibr" rid="ref-10">Levac 
+                    <italic toggle="yes">et al.</italic> (2010)</xref> and enhanced by the Joanna Briggs Institute (JBI). In particular, the methodology as defined 
+                <xref ref-type="bibr" rid="ref-12">Peters 
+                    <italic toggle="yes">et al.</italic> (2020)</xref> for scoping reviews will be adopted.</p>
+            <p>The Preferred Reporting for Systematic Reviews and Meta-Analyses extension for scoping reviews, PRISMA-ScR (
+                <xref ref-type="bibr" rid="ref-13">Tricco 
+                    <italic toggle="yes">et al.</italic>, 2018</xref>) supported the definition of this ScR protocol and will guide the final review paper. The PRISMA-ScR checklist, for a better understanding of relevant terminology, core concepts, and key items for scoping reviews, is available in the Open Science Framework repository at osf.io/e8h64.</p>
+            <p>The SUMARI Protocol Template for Scoping Reviews in Word format (
+                <xref ref-type="bibr" rid="ref-6">JBI SUMARI, 2021</xref>) has been used for the reporting of this ScR protocol.</p>
+            <sec>
+                <title>Inclusion/exclusion criteria</title>
+                <p>The development of the inclusion criteria for the ScR determining which sources will be considered for inclusion in the ScR, will be aligned with the mnemonic "Participants, Concept, and Context (PCC)" (
+                    <xref ref-type="table" rid="T1">Table 1</xref>).</p>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                    <label>Table 1. </label>
+                    <caption>
+                        <title>Inclusion and exclusion criteria for the scoping review in correspondence with the "Participants, Concept and Context, PCC" mnemonic and evidence types and sources.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">PCC and evidence 
+                                    <break/>types and sources</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Inclusion criteria</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Exclusion criteria</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>P
+                                        <sc>articipants</sc>
+                                    </bold>
+                                    <break/>
+                                    <italic toggle="yes">Systematic conservation </italic>
+                                    <break/>
+                                    <italic toggle="yes">Planning (SCPs)</italic> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Studies applying SCP (documenting specific
+                                    <break/> implementation case studies or prioritization
+                                    <break/> approaches/criteria/tools or including guidelines for 
+                                    <break/>SCP implementation or informing SCP approaches by
+                                    <break/> providing software, scripts, and algorithms)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Studies that do not apply systematic 
+                                    <break/>conservation planning but other non-
+                                    <break/>systematic approaches for selection of 
+                                    <break/>sites for protection</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>C
+                                        <sc>oncept</sc>
+                                    </bold>
+                                    <break/>
+                                    <bold>
+                                        <italic toggle="yes">Methods and tools </italic>
+                                    </bold>
+                                    <break/>
+                                    <bold>
+                                        <italic toggle="yes">used for SCP</italic>
+                                    </bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">All studies using SCP for designing Marine Protected
+                                    <break/> Areas (MPAs), clearly describing the applied methods/
+                                    <break/>tools.</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Studies that do not provide sufficient 
+                                    <break/>methodological details but simply
+                                    <break/> mention the use of a specific SCP tool, 
+                                    <break/>
+                                    <italic toggle="yes">e.g.</italic>, MARXAN.</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>C
+                                        <sc>ontext</sc>
+                                    </bold>
+                                    <break/>
+                                    <italic toggle="yes">Global, marine realm</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Studies in:
+                                    <break/>&#x00a0;&#x00a0;&#x00a0;&#x00a0;-&#x00a0;&#x00a0;Marine realm
+                                    <break/>&#x00a0;&#x00a0;&#x00a0;&#x00a0;-&#x00a0;&#x00a0;Globally</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Studies where the marine component
+                                    <break/> includes only transitional systems.
+                                    <break/>Studies without a marine component 
+                                    <break/>(primarily terrestrial or freshwater)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Evidence types &amp;</bold>
+                                    <break/>
+                                    <bold> sources</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">-&#x00a0;&#x00a0;Peer-review literature
+                                    <break/>-&#x00a0;&#x00a0;Grey literature
+                                    <break/>-&#x00a0;&#x00a0;All years of publication
+                                    <break/>-&#x00a0;&#x00a0;All publication stages, subject areas, and source types
+                                    <break/>-&#x00a0;&#x00a0;Experimental and observational studies
+                                    <break/>-&#x00a0;&#x00a0;Case studies, reviews, framework/synthesis
+                                    <break/>-&#x00a0;&#x00a0;Studies published in languages competent to the
+                                    <break/> researchers&#x2019; team (
+                                    <italic toggle="yes">e.g.</italic>, English, French, German, Greek,
+                                    <break/> Italian, Spanish according to the team's language
+                                    <break/> competency)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">---</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Participants</italic>
+                    </bold>. The ScR will consider all studies applying SCP (documenting specific implementation case studies or prioritization approaches/criteria/tools or including guidelines for SCP implementation or informing SCP approaches by providing software, scripts, and algorithms). Studies applying other non-systematic approaches for the selection of sites for protection or restoration will not be taken into account.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Concept</italic>
+                    </bold>. The concept adopted by the ScR will be the assessment of how the contribution of SCP to the design of MPAs has been addressed, so far in the scientific literature. Studies that do not provide sufficient methodological details but simply mention the use of a specific SCP tool, 
+                    <italic toggle="yes">e.g.</italic>, Marxan, will not be taken into account.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Context</italic>
+                    </bold>. Spatially explicit case studies in the marine realms worldwide will be considered by the ScR. Studies without a marine component (primarily terrestrial or freshwater) or where the marine component includes only transitional systems will not be taken into account.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Types of sources</italic>
+                    </bold>. This ScR will encompass peer-reviewed literature (such as research articles, reviews, book chapters, letters, editorials, books, and data papers) obtained from ISI (International Scientific Indexing) journal databases. Additionally, grey literature (including unpublished academic research, theses, policy papers and reports, conference abstracts and papers) will be sourced from pre-print archives, institutional websites and other web-based search engines. References suggested from topic experts and NGOs will also be taken into account. There will be no restrictions imposed regarding the publication year (the only cut-off will be set according to the date in which the literature searching is performed, see 
+                    <xref ref-type="table" rid="T2">Table 2</xref>), publication stage (final or in press), subject area, or source type. All document types will be considered. Language restrictions will be implemented to reflect the language proficiency of the authors, including in the ScR only studies published in English, French, German, Greek, Italian, and Spanish.</p>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Details of scoping review search strategy per database, 
+                            <italic toggle="yes">i.e.</italic>, name of database, date of search, search query, and results (as the number of documents returned by the search).</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Database 1</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Web of Science</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Date of </bold>
+                                    <break/>
+                                    <bold>search:</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">January 26, 2023</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Query:</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">TS - "Systematic Conservation Plan*" 
+                                    <bold>OR</bold> "Marine Spatial Plan*" 
+                                    <bold>OR</bold> "Marine Zon*" 
+                                    <bold>OR</bold> Zoning 
+                                    <bold>OR</bold> "Marine Protected
+                                    <break/> Area*" 
+                                    <bold>OR</bold> "Marine Reserve*" 
+                                    <bold>OR</bold> "Marine priorit*" 
+                                    <bold>OR</bold> "Marine planning" 
+                                    <bold>OR</bold> "Conservation priorit*" 
+                                    <bold>OR</bold> "Spatial optim*" 
+                                    <break/>
+                                    <bold>OR</bold> "structured decision making" 
+                                    <bold>OR</bold> "Multi Criteria Decision Analysis" 
+                                    <bold>OR</bold> "multi criteria method" 
+                                    <bold>OR</bold> "cost effective* 
+                                    <break/>prioritization" 
+                                    <bold>OR</bold>"cost effective* prioritisation" 
+                                    <bold>OR</bold> "cost effective* analysis" 
+                                    <bold>OR</bold> "Spatial analysis"
+                                    <break/>
+                                    <underline>
+                                        <bold>AND</bold> 
+                           </underline>
+                                    <break/>Marxan* 
+                                    <bold>OR</bold> MarCon* 
+                                    <bold>OR</bold> MarZone 
+                                    <bold>OR</bold> Spexan 
+                                    <bold>OR</bold> Spot 
+                                    <bold>OR</bold> Sites 
+                                    <bold>OR</bold> Zonation 
+                                    <bold>OR</bold> C-Plan 
+                                    <bold>OR</bold> CPLAN 
+                                    <bold>OR</bold> ResNet 
+                                    <bold>OR</bold>
+                                    <break/> BioRap 
+                                    <bold>OR</bold> CREDOS 
+                                    <bold>OR</bold> MultCSync 
+                                    <bold>OR</bold> TARGET 
+                                    <bold>OR</bold> TRADER 
+                                    <bold>OR</bold> WorldMap 
+                                    <bold>OR</bold> prioritizR 
+                                    <bold>OR</bold> "Maritime Use Conflicts
+                                    <break/> (MUC) Analysis" 
+                                    <bold>OR</bold> "Maritime Use Conflicts Analysis" 
+                                    <bold>OR</bold> "MarineMap" 
+                                    <bold>OR</bold> OceanMap 
+                                    <bold>OR</bold> CCRES 
+                                    <bold>OR</bold> CLUZ 
+                                    <bold>OR</bold> MinPatch 
+                                    <break/>
+                                    <bold>OR</bold> "Zonae Cogito" 
+                                    <bold>OR</bold> "NatureServe Vista" 
+                                    <bold>OR</bold> PANDA 
+                                    <bold>OR</bold> SeaSketch 
+                                    <bold>OR</bold> PPGIS 
+                                    <bold>OR</bold> "Public Participation GIS" 
+                                    <bold>OR</bold>
+                                    <break/> "Participatory GIS" 
+                                    <bold>OR</bold> PGIS 
+                                    <bold>OR</bold> GAMS 
+                                    <bold>OR</bold> CPLEX 
+                                    <bold>OR</bold> Gurobi 
+                                    <bold>OR</bold> "Integer Linear Program*" 
+                                    <bold>OR</bold> "integer programming" 
+                                    <break/>
+                                    <bold>OR</bold> "multi-criteria" 
+                                    <bold>OR</bold> "multi-action" 
+                                    <bold>OR</bold> portfolio* 
+                                    <bold>OR</bold> "Decision Support System" 
+                                    <bold>OR</bold> DSS 
+                                    <bold>OR</bold> "decision support tools" 
+                                    <break/>
+                                    <bold>OR</bold> DST
+                                    <break/>
+                                    <underline>
+                                        <bold>AND</bold> 
+                           </underline>
+                                    <break/>"Protected area" 
+                                    <bold>OR</bold> "marine protected area" 
+                                    <bold>OR</bold> MPA 
+                                    <bold>OR</bold> "priority area" 
+                                    <bold>OR</bold> "area-based conservation" 
+                                    <bold>OR</bold> "conservation
+                                    <break/> priorit*" 
+                                    <bold>OR</bold> "Management Area" 
+                                    <bold>OR</bold> "Nature Reserve" 
+                                    <bold>OR</bold> "Marine reserve" 
+                                    <bold>OR</bold> "National Park" 
+                                    <bold>OR</bold> Sanctuary 
+                                    <bold>OR</bold> "Marine
+                                    <break/> Park"
+                                    <break/>
+                                    <underline>
+                                        <bold>AND</bold> 
+                           </underline>
+                                    <break/>"Planning Unit*" 
+                                    <bold>OR</bold> "Analysis Unit*" 
+                                    <bold>OR</bold> cell 
+                                    <bold>OR</bold> hexagon* 
+                                    <bold>OR</bold> grid 
+                                    <bold>OR</bold> square* 
+                                    <bold>OR</bold> subcatchment* 
+                                    <bold>OR</bold> micro-
+                                    <break/>catchment* 
+                                    <bold>OR</bold> "line segments" 
+                                    <bold>OR</bold> "linear segments" 
+                                    <bold>OR</bold> "linear units"
+                                    <break/>
+                                    <bold>
+                                        <underline>AND</underline>
+                                    </bold> 
+                                    <break/>marine 
+                                    <bold>OR</bold> sea* 
+                                    <bold>OR</bold> ocean* 
+                                    <bold>OR</bold> bay 
+                                    <bold>OR</bold> gulf 
+                                    <bold>OR</bold> coastal</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Results:</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>134</bold> documents</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Database 2</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Scopus</bold> 
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Date of</bold>
+                                    <break/>
+                                    <bold> search:</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">January 26, 2023</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Query:</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">TITLE-ABS-KEY - "Systematic Conservation Plan*" 
+                                    <bold>OR</bold> "Marine Spatial Plan*" 
+                                    <bold>OR</bold> "Marine Zon*" 
+                                    <bold>OR</bold> Zoning 
+                                    <bold>OR</bold> "Marine
+                                    <break/> Protected Area*" 
+                                    <bold>OR</bold> "Marine Reserve*" 
+                                    <bold>OR</bold> "Marine priorit*" 
+                                    <bold>OR</bold> "Marine planning" 
+                                    <bold>OR</bold> "Conservation priorit*" 
+                                    <bold>OR</bold>
+                                    <break/> "Spatial optim*" 
+                                    <bold>OR</bold> "structured decision making" 
+                                    <bold>OR</bold> "Multi Criteria Decision Analysis" 
+                                    <bold>OR</bold> "multi criteria method" 
+                                    <bold>OR</bold> 
+                                    <break/>"cost effective* prioritization" 
+                                    <bold>OR</bold> "cost effective* prioritisation" 
+                                    <bold>OR</bold>"cost effective* analysis" 
+                                    <bold>OR</bold> "Spatial analysis"
+                                    <break/>
+                                    <bold>
+                                        <underline>AND</underline>
+                                    </bold> 
+                                    <break/>Marxan* 
+                                    <bold>OR</bold> MarCon* 
+                                    <bold>OR</bold> MarZone 
+                                    <bold>OR</bold> Spexan 
+                                    <bold>OR</bold> Spot 
+                                    <bold>OR</bold> Sites 
+                                    <bold>OR</bold> Zonation 
+                                    <bold>OR</bold> C-Plan 
+                                    <bold>OR</bold> CPLAN 
+                                    <bold>OR</bold> ResNet 
+                                    <bold>OR</bold> 
+                                    <break/>BioRap 
+                                    <bold>OR</bold> CREDOS 
+                                    <bold>OR</bold> MultCSync 
+                                    <bold>OR</bold> TARGET 
+                                    <bold>OR</bold> TRADER 
+                                    <bold>OR</bold> WorldMap 
+                                    <bold>OR</bold> prioritizR 
+                                    <bold>OR</bold> "Maritime Use Conflicts
+                                    <break/> (MUC) Analysis" 
+                                    <bold>OR</bold> "Maritime Use Conflicts Analysis" 
+                                    <bold>OR</bold> "MarineMap" 
+                                    <bold>OR</bold> OceanMap 
+                                    <bold>OR</bold> CCRES 
+                                    <bold>OR</bold> CLUZ 
+                                    <bold>OR</bold> MinPatch 
+                                    <break/>
+                                    <bold>OR</bold> "Zonae Cogito" 
+                                    <bold>OR</bold> "NatureServe Vista" 
+                                    <bold>OR</bold> PANDA 
+                                    <bold>OR</bold> SeaSketch 
+                                    <bold>OR</bold> PPGIS 
+                                    <bold>OR</bold> "Public Participation GIS" 
+                                    <bold>OR</bold> 
+                                    <break/>"Participatory GIS" 
+                                    <bold>OR</bold> PGIS 
+                                    <bold>OR</bold> GAMS 
+                                    <bold>OR</bold> CPLEX 
+                                    <bold>OR</bold> Gurobi 
+                                    <bold>OR</bold> "Integer Linear Program*" 
+                                    <bold>OR</bold> "integer programming" 
+                                    <break/>
+                                    <bold>OR</bold> "multi-criteria" 
+                                    <bold>OR</bold> "multi-action" 
+                                    <bold>OR</bold> portfolio* 
+                                    <bold>OR</bold> "Decision Support System" 
+                                    <bold>OR</bold> DSS 
+                                    <bold>OR</bold> "decision support tools" 
+                                    <break/>
+                                    <bold>OR</bold> DST
+                                    <break/>
+                                    <underline>
+                                        <bold>AND</bold> 
+                           </underline>
+                                    <break/>"Protected area" 
+                                    <bold>OR</bold> "marine protected area" 
+                                    <bold>OR</bold> MPA 
+                                    <bold>OR</bold> "priority area" 
+                                    <bold>OR</bold> "area-based conservation" 
+                                    <bold>OR</bold> "conservation 
+                                    <break/>priorit*" 
+                                    <bold>OR</bold> "Management Area" 
+                                    <bold>OR</bold> "Nature Reserve" 
+                                    <bold>OR</bold> "Marine reserve" 
+                                    <bold>OR</bold> "National Park" 
+                                    <bold>OR</bold> Sanctuary 
+                                    <bold>OR</bold> "Marine 
+                                    <break/>Park"
+                                    <break/>
+                                    <underline>
+                                        <bold>AND</bold> 
+                           </underline>
+                                    <break/>"Planning Unit*" 
+                                    <bold>OR</bold> "Analysis Unit*" 
+                                    <bold>OR</bold> cell 
+                                    <bold>OR</bold> hexagon* 
+                                    <bold>OR</bold> grid 
+                                    <bold>OR</bold> square* 
+                                    <bold>OR</bold> subcatchment* 
+                                    <bold>OR</bold> micro-
+                                    <break/>catchment* 
+                                    <bold>OR</bold> "line segments" 
+                                    <bold>OR</bold> "linear segments" 
+                                    <bold>OR</bold> "linear units"
+                                    <break/>
+                                    <underline>
+                                        <bold>AND</bold> 
+                           </underline>
+                                    <break/>marine 
+                                    <bold>OR</bold> sea* 
+                                    <bold>OR</bold> ocean* 
+                                    <bold>OR</bold> bay 
+                                    <bold>OR</bold> gulf 
+                                    <bold>OR</bold> coastal</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Results:</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">142 documents</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Database 3</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Scholar google</bold> 
+                        </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Date of</bold>
+                                    <break/>
+                                    <bold> search:</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">January 26, 2023</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Query:</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">"systematic conservation plan*" (marine OR sea* OR ocean* OR bay OR gulf)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>Results:</bold> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">8000 results (only the first 200 will be included)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec>
+                <title>Search strategy</title>
+                <p>The search strategy will apply a combination of keywords within documents&#x2019; title, abstract, and keywords using three different databases: The bibliographic search will be performed in three databases/ platforms, 
+                    <italic toggle="yes">i.e.</italic>, 1) Web of Science &#x2013; Core Collection, 2) Scopus and 3) Google Scholar (see 
+                    <xref ref-type="table" rid="T2">Table 2</xref> for the detailed combination used for each database). The total of the documents resulted from the search in Web of Science and Scopus will be considered for eligibility. Regarding Google Scholar database, only the first 200 hits will be considered (
+                    <xref ref-type="bibr" rid="ref-4">Haddaway 
+                        <italic toggle="yes">et al.</italic>, 2015</xref>).</p>
+            </sec>
+            <sec>
+                <title>Study/source of evidence selection</title>
+                <p>Following the search, all identified citations will be collated, uploaded to the software 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.covidence.org/">Covidence</ext-link> and duplicates removed. Covidence is an online collaboration software platform designed to facilitate the process underpinning systematic and other literature reviews. Following the "team approach" recommended by 
+                    <xref ref-type="bibr" rid="ref-10">Levac 
+                        <italic toggle="yes">et al.</italic> (2010)</xref>, titles and abstracts of each document will be initially screened by two independent reviewers for assessment against the inclusion criteria reported in the 
+                    <xref ref-type="table" rid="T1">Table 1</xref>. Potentially relevant sources selected will be subsequently retrieved and uploaded in full. Thus, two independent reviewers will assess against the inclusion criteria the full-text of each document. Reasons for exclusion of sources at full-text that do not meet the inclusion criteria will be explicitly stated and reported in the ScR. Any disagreements that arise between the reviewers at each stage of the selection process will be resolved through the intervention of a third reviewer. The overall process with results about the excluded/included documents will be reported in the final ScR paper and presented using the PRISMA-ScR flow diagram (
+                    <xref ref-type="bibr" rid="ref-13">Tricco 
+                        <italic toggle="yes">et al.</italic>, 2018</xref>).</p>
+                <p>
+                    <ext-link ext-link-type="uri" xlink:href="https://www.covidence.org/">Covidence</ext-link> is a web-based collaboration software platform that streamlines the production of systematic and other literature reviews.</p>
+                <p>Studies already present in the systematic review by 
+                    <xref ref-type="bibr" rid="ref-1">&#x00c1;lvarez-Romero 
+                        <italic toggle="yes">et al.</italic> (2018)</xref> will be directly included and considered for the data extraction since it shares the same inclusion criteria with the present ScR.</p>
+            </sec>
+            <sec>
+                <title>Data extraction</title>
+                <p>Two independent reviewers will extract data from the documents included in the ScR using a data extraction tool provided by Covidence and modified accordingly to the specific objectives of the ScR. 
+                    <xref ref-type="table" rid="T3">Table 3</xref> shows fields and information that have to be extracted from each paper. Any disagreements that arise between the reviewers will be resolved through the intervention of a third reviewer. If necessary, authors of papers will be contacted to request missing or additional data.</p>
+                <table-wrap id="T3" orientation="portrait" position="anchor">
+                    <label>Table 3. </label>
+                    <caption>
+                        <title>Data extraction tool of the scoping review (ScR).</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Field</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Title</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Answer</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Question</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Remarks/ guidance
+                                    <break/> to reviewers (format,
+                                    <break/> definitions, examples, etc.)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F1</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Author(s)</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Who are the authors of the</italic>
+                                    <break/>
+                                    <italic toggle="yes"> document?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Last name, first name</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F2</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Title</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the title of the document?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Full title</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F3</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Year of publication</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the year of publication of</italic>
+                                    <break/>
+                                    <italic toggle="yes"> the document?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">YYYY (4 digits) e.g., 2021</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F4</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Journal</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the title of the journal?</italic> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Full-title (not abbreviated)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F5</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Keywords</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which are the keywords of the</italic>
+                                    <break/>
+                                    <italic toggle="yes"> document?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F6</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>DOI</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the DOI of the document (if</italic>
+                                    <break/>
+                                    <italic toggle="yes"> available)?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Add DOI in the cases of peer-
+                                    <break/>reviewed articles.  E.g. 
+                                    <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.11124/JBISRIR-D-19-00434">10.11124/</ext-link>
+                                    <break/>
+                                    <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.11124/JBISRIR-D-19-00434">JBISRIR-D-19-00434</ext-link>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F7</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>URL</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the URL of the document (if </italic>
+                                    <break/>
+                                    <italic toggle="yes">available)?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Add URL in the cases of grey
+                                    <break/> literature retrieved via the
+                                    <break/> internet (mandatory when DOI
+                                    <break/> is not available).</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F8</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Literature category</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">peer-reviewed literature; 
+                                    <break/>grey literature</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the literature category of</italic>
+                                    <break/>
+                                    <italic toggle="yes"> the document?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F9</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Literature type</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">article; conference paper; 
+                                    <break/>organizational paper; report </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the literature type of </italic>
+                                    <break/>
+                                    <italic toggle="yes">document?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F10</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Literature source</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Scopus &amp; Web of Science; 
+                                    <break/>Google Scholar; other</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the source of literature?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">If the source of literature is
+                                    <break/> not included in the predefined
+                                    <break/> answers add &#x201c;other&#x201d;. </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F11</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Language</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">English; Spanish; German;
+                                    <break/> Italian; Greek; French </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the language of the</italic>
+                                    <break/>
+                                    <italic toggle="yes"> document?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F12</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Continent</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Africa; Antarctica; Asia; 
+                                    <break/>Europe; North America;
+                                    <break/> Oceania/Australia; South 
+                                    <break/>America; more than one 
+                                    <break/>continent; global</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the continent where the </italic>
+                                    <break/>
+                                    <italic toggle="yes">study takes place?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F13</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Marine realm (sensu </bold>
+                                    <break/>
+                                    <bold>
+                                        <xref ref-type="bibr" rid="ref-15">Spalding 
+                                            <italic toggle="yes">et al.</italic>, 2007</xref>)</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Arctic; temperate northern
+                                    <break/> Atlantic; temperate 
+                                    <break/>northern Pacific; tropical
+                                    <break/> Atlantic; western Indo-
+                                    <break/>Pacific; central Indo-Pacific;
+                                    <break/> eastern Indo-Pacific; tropical
+                                    <break/> eastern Pacific; temperate
+                                    <break/> South America; temperate
+                                    <break/>southern Africa; temperate 
+                                    <break/>Australasia; southern Ocean; 
+                                    <break/>more than one realm; global</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the marine realm where the </italic>
+                                    <break/>
+                                    <italic toggle="yes">study takes place?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F14</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Scale</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Global, Multi-national, 
+                                    <break/>National, Sub-national</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the scale where the study</italic>
+                                    <break/>
+                                    <italic toggle="yes"> takes place?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F15</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Country</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Afghanistan, Albania, Algeria, 
+                                    <break/>Andorra, Angola, Antigua
+                                    <break/> and Barbuda, Argentina,
+                                    <break/> Armenia, Australia, Austria,
+                                    <break/> Azerbaijan, Bahamas, 
+                                    <break/>Bahrain, Bangladesh, &#x2026;</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the country where the study</italic>
+                                    <break/>
+                                    <italic toggle="yes"> is located?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="8" valign="middle">F16</td>
+                                <td align="left" colspan="1" rowspan="8" valign="middle">
+                                    <bold>Rationale</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Arbitrary</td>
+                                <td align="left" colspan="1" rowspan="8" valign="middle">
+                                    <italic toggle="yes">Which is the rationale for the</italic>
+                                    <break/>
+                                    <italic toggle="yes"> Systematic Conservation Planning</italic>
+                                    <break/>
+                                    <italic toggle="yes"> implementation?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="8" valign="middle">Mention (copy-paste from
+                                    <break/> the manuscript) the specific
+                                    <break/> rationale for the SCP
+                                    <break/> implementation.</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Expert advice</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Ecological requirements</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Socioeconomic
+                                    <break/> considerations</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Legal mandate</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">National/international goals</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Previous plan/study</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Other (specify)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F17</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Systematic </bold>
+                                    <break/>
+                                    <bold>Conservation Planning</bold>
+                                    <break/>
+                                    <bold> (SCP) extent</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text (number)</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the area of the potential</italic>
+                                    <break/>
+                                    <italic toggle="yes"> SCP (in km
+                                        <sup>2</sup>)?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Provide the area (in km
+                                    <sup>2</sup>) of the
+                                    <break/> SCP</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F18</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>SCP contribution</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">percentage</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">What is the % contribution of the</italic>
+                                    <break/>
+                                    <italic toggle="yes"> SCP in the country/study area</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Provide the % contribution that 
+                                    <break/>counts for the attainment of
+                                    <break/> spatial targets</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F19</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Methodology 1</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">optimization algorithm;
+                                    <break/> multi-criteria analysis; 
+                                    <break/>ranking; cost-benefit 
+                                    <break/>analysis; consensus; other</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the DST used by the study?</italic>
+                                    <break/>
+                                    <italic toggle="yes"> If other is selected it should be</italic>
+                                    <break/>
+                                    <italic toggle="yes"> specified in the &#x2018;comments&#x2019; field</italic> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F20</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Methodology 2</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">optimization algorithm;
+                                    <break/> multi-criteria analysis;
+                                    <break/> ranking; cost-benefit 
+                                    <break/>analysis; consensus; other</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the DST used by the study?</italic>
+                                    <break/>
+                                    <italic toggle="yes"> If other is selected it should be</italic>
+                                    <break/>
+                                    <italic toggle="yes"> specified in the &#x2018;comments&#x2019; field (if</italic>
+                                    <break/>
+                                    <italic toggle="yes"> more than one DST was used)</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F21</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Optimization </bold>
+                                    <break/>
+                                    <bold>algorithm</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Marxan; Marxan with Zones;
+                                    <break/> Marxan Connect (or Marxan 
+                                    <break/>with Connectivity); Zonation;
+                                    <break/> C-Plan; Multi-Link; Prioritize-
+                                    <break/>R; other; none</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which is the optimisation algorithm </italic>
+                                    <break/>
+                                    <italic toggle="yes">applied?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F22</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Climate Change (CC) </bold>
+                                    <break/>
+                                    <bold>resilience</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Does the study aim to create MPA</italic>
+                                    <break/>
+                                    <italic toggle="yes"> networks resilient to CC?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F23</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>CC refugia</bold>
+                                    <break/>
+                                    <bold> identification</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Were climatic refugia identified?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F24</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>CC refugia method</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle"/>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">If yes, how were CC refugia</italic>
+                                    <break/>
+                                    <italic toggle="yes"> identified?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="7" valign="middle">F25</td>
+                                <td align="left" colspan="1" rowspan="7" valign="middle">
+                                    <bold>CC in Decision Support </bold>
+                                    <break/>
+                                    <bold>Tool (DST)</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">None (climate change was 
+                                    <break/>not incorporated)</td>
+                                <td align="left" colspan="1" rowspan="7" valign="middle">
+                                    <italic toggle="yes">How was CC incorporated into the</italic>
+                                    <break/>
+                                    <italic toggle="yes"> DST?</italic> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="7" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Design /size, spacing and
+                                    <break/> replication)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Location (include/exclude
+                                    <break/> sites)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Representation (adjusted)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Analyses of dynamics</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Adaptive management </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Other (please specify)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="2" valign="middle">F26</td>
+                                <td align="left" colspan="1" rowspan="2" valign="middle">
+                                    <bold>Habitat types</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Habitat types (Benthic)</td>
+                                <td align="left" colspan="1" rowspan="2" valign="middle">
+                                    <italic toggle="yes">Which marine species / habitats </italic>
+                                    <break/>
+                                    <italic toggle="yes">were targeted in the SCP?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="2" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Habitat types (Pelagic)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F27</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Connectivity of sp./</bold>
+                                    <break/>
+                                    <bold>habitats</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Was connectivity of species (sp.) or</italic>
+                                    <break/>
+                                    <italic toggle="yes"> habitats accounted for?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="9" valign="middle">F28</td>
+                                <td align="left" colspan="1" rowspan="9" valign="middle">
+                                    <bold>Type of connectivity</bold>
+                                    <break/>
+                                    <bold> for sp./habitats</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Behaviour - adults</td>
+                                <td align="left" colspan="1" rowspan="9" valign="middle">
+                                    <italic toggle="yes">What type of connectivity for </italic>
+                                    <break/>
+                                    <italic toggle="yes">species/habitats was included in the</italic>
+                                    <break/>
+                                    <italic toggle="yes"> analysis?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="9" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Behaviour - larvae</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Dispersal - adults</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Dispersal - larvae</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Genetics</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Habitat quality</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Ocean currents</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Network topology</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Other (please specify) </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F29</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Threats included</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Were any type of threats included in</italic>
+                                    <break/>
+                                    <italic toggle="yes"> the analysis (e.g., fishing pressure, </italic>
+                                    <break/>
+                                    <italic toggle="yes">human footprint)?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F30</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Connectivity of threats</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Was connectivity of threats </italic>
+                                    <break/>
+                                    <italic toggle="yes">accounted for?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F31</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Type of connectivity</bold>
+                                    <break/>
+                                    <bold> for threats</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Structural; ONLY basic lateral</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">What type of connectivity for threats </italic>
+                                    <break/>
+                                    <italic toggle="yes">was included in the analysis?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F32</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Land-sea planning</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Was this case study an integration of</italic>
+                                    <break/>
+                                    <italic toggle="yes"> land-freshwater-marine planning?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Marine-freshwater OR marine-
+                                    <break/>terrestrial OR all three realms</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F33</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Inter-realm</bold>
+                                    <break/>
+                                    <bold> connectivity</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Was inter-realm connectivity</italic>
+                                    <break/>
+                                    <italic toggle="yes"> accounted for?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F34</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Cumulative Effects </bold>
+                                    <break/>
+                                    <bold>Assessments (CEA)</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Were CEA accounted for in the </italic>
+                                    <break/>
+                                    <italic toggle="yes">analysis?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F35</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>CEA method</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle"/>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">If yes, what method was used to </italic>
+                                    <break/>
+                                    <italic toggle="yes">account for CEA in SCP?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F36</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Other Effective</bold>
+                                    <break/>
+                                    <bold> Conservation Measures</bold>
+                                    <break/>
+                                    <bold> (OECMs)</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Were OECMs included in the</italic>
+                                    <break/>
+                                    <italic toggle="yes"> planning?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F37</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Type of OECMs</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle"/>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">If yes, what types of OECMs were</italic>
+                                    <break/>
+                                    <italic toggle="yes"> accounted for?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">e.g., FRAs, archaeological sites</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F38</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>OECMs method</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle"/>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">What method was used to include </italic>
+                                    <break/>
+                                    <italic toggle="yes">OECMs in SCP?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F39</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Restoration </bold>
+                                    <break/>
+                                    <bold>prioritization</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Were sites for restoration (besides</italic>
+                                    <break/>
+                                    <italic toggle="yes"> protection) prioritized?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F40</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Restoration method</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle"/>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">What method was used to prioritize</italic>
+                                    <break/>
+                                    <italic toggle="yes"> restoration sites?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F41</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Invasive Alien Species</bold>
+                                    <break/>
+                                    <bold> (IAS) of concern</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Were IAS considered?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F42</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>IAS in planning</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Ignore/do not care; avoid;
+                                    <break/> protect</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which approach for IAS in planning</italic>
+                                    <break/>
+                                    <italic toggle="yes"> was applied?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F43</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>IAS planning method</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">If avoid or protect, what specific</italic>
+                                    <break/>
+                                    <italic toggle="yes"> method was used to include them </italic>
+                                    <break/>
+                                    <italic toggle="yes">in SCP?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F44</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Socioeconomic and </bold>
+                                    <break/>
+                                    <bold>cultural objectives</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Were socioeconomic or cultural </italic>
+                                    <break/>
+                                    <italic toggle="yes">objectives included in SCP?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F45</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Socioeconomic and</bold>
+                                    <break/>
+                                    <bold> cultural objectives </bold>
+                                    <break/>
+                                    <bold>- methods</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">How were socioeconomic and </italic>
+                                    <break/>
+                                    <italic toggle="yes">cultural objectives included in SCP?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F46</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Tradeoffs</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Yes/no</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Were ecological and socioeconomic/</italic>
+                                    <break/>
+                                    <italic toggle="yes">cultural tradeoffs accounted for?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F47</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Tradeoffs methods</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">What methods were applied</italic>
+                                    <break/>
+                                    <italic toggle="yes"> to account for ecological and</italic>
+                                    <break/>
+                                    <italic toggle="yes"> socioeconomic/cultural tradeoffs?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">-</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F48</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Gaps of knowledge</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which are the gaps of knowledge</italic>
+                                    <break/>
+                                    <italic toggle="yes"> identified by the study (if any)?</italic> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Briefly describe the gaps of 
+                                    <break/> knowledge identified by the 
+                                    <break/> study.</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F49</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Policy</bold>
+                                    <break/>
+                                    <bold> recommendations</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">free text</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">Which are the policy</italic>
+                                    <break/>
+                                    <italic toggle="yes"> recommendations proposed by the</italic>
+                                    <break/>
+                                    <italic toggle="yes"> study (if any)?</italic> 
+                        </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Briefly describe the policy 
+                                    <break/>recommendations proposed by
+                                    <break/> the study.</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">F50</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <bold>Stage of SCP</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">proposed, committed,
+                                    <break/> designated, implemented,
+                                    <break/> target reached</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <italic toggle="yes">At which stage the SCP is?</italic>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle"/>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec>
+                <title>Data analysis and presentation</title>
+                <p>The evidence synthesised by the ScR will address all the review objectives and questions. Data will be presented graphically and in a diagrammatic/tabular form. A narrative summary will accompany the tabulated and charted results and will describe how the results relate to the review&#x2019;s objective and questions. In particular, the following outputs, based on a quantitative synthesis of the data, will be presented: i) A global map showing the amount of case studies for each country; ii) plots showing the criteria used in performing SCP across all the case studies; iii) meta-analyses to assess the correlation between the criteria used and the SCP outcomes/implementation stage across case studies; iv) meta-analyses to assess the correlation between the SCP spatial contribution and the SCP outcomes/implementation stage across case studies; and v) mapping of network for keywords, data gaps, policy recommendations, and good practices across case studies.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Study status</title>
+            <p>The study is currently at the end of the data extraction step. The next stages will be as follows: i) the integration of data with those coming from the dataset published by 
+                <xref ref-type="bibr" rid="ref-1">&#x00c1;lvarez-Romero 
+                    <italic toggle="yes">et al.</italic> (2018)</xref>; ii) data analysis and presentation; and iii) ScR preparation and submission for publication.</p>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>Ethical approval and consent were not required.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <p>No data are associated with this article.</p>
+        </sec>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect those of the authors&#x2019; affiliated institutions or the European Union. Neither the European Union nor the granting authority can be held responsible for them.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>&#x00c1;lvarez-Romero</surname>
+                            <given-names>JG</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mills</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Adams</surname>
+                            <given-names>VM</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Research advances and gaps in marine planning: towards a global database in systematic conservation planning.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Biol Conserv.</italic>
+               </source>
+               <year>2018</year>;<volume>227</volume>:<fpage>369</fpage>&#x2013;<lpage>382</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.biocon.2018.06.027</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Arksey</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>O&#x2019;Malley</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Scoping studies: towards a methodological framework.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Soc Res Methodol.</italic>
+               </source>
+               <year>2005</year>;<volume>8</volume>(<issue>1</issue>):<fpage>19</fpage>&#x2013;<lpage>32</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/1364557032000119616</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ban</surname>
+                            <given-names>NC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bax</surname>
+                            <given-names>NJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gjerde</surname>
+                            <given-names>KM</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Systematic conservation planning: A better recipe for managing the high seas for biodiversity conservation and sustainable use.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Conserv Lett.</italic>
+               </source>
+               <year>2014</year>;<volume>7</volume>(<issue>1</issue>):<fpage>41</fpage>&#x2013;<lpage>54</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/conl.12010</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Haddaway</surname>
+                            <given-names>NR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Collins</surname>
+                            <given-names>AM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Coughlin</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The role of Google Scholar in evidence reviews and its applicability to grey literature searching.</article-title>
+                    <source>
+
+                        <italic toggle="yes">PLoS One.</italic>
+               </source>
+               <year>2015</year>;<volume>10</volume>(<issue>9</issue>):
+                    <elocation-id>e0138237</elocation-id>.
+                    <pub-id pub-id-type="pmid">26379270</pub-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0138237</pub-id>
+                    <pub-id pub-id-type="pmcid">4574933</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Halpern</surname>
+                            <given-names>BS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Walbridge</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Selkoe</surname>
+                            <given-names>KA</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>A global map of human impact on marine ecosystems.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Science.</italic>
+               </source>
+               <year>2008</year>;<volume>319</volume>(<issue>5865</issue>):<fpage>948</fpage>&#x2013;<lpage>52</lpage>.
+                    <pub-id pub-id-type="pmid">18276889</pub-id>
+                    <pub-id pub-id-type="doi">10.1126/science.1149345</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="web">
+                    <collab>JBI SUMARI</collab>:
+                    <article-title>JBI SUMARI Scoping Reviews Protocol Template.</article-title>
+               <year> 2021</year>; Accessed on: 2021-4-25.
+                    <ext-link ext-link-type="uri" xlink:href="https://sumari.jbi.global/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Katsanevakis</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Coll</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fraschetti</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Twelve recommendations for advancing marine conservation in European and contiguous seas.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Front Mar Sci.</italic>
+               </source>
+               <year>2020</year>;<volume>7</volume>:<fpage>879</fpage>.
+                    <pub-id pub-id-type="doi">10.3389/fmars.2020.565968</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kukkala</surname>
+                            <given-names>AS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Moilanen</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Core concepts of spatial prioritisation in systematic conservation planning.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Biol Rev Camb Philos Soc.</italic>
+               </source>
+               <year>2013</year>;<volume>88</volume>(<issue>2</issue>):<fpage>443</fpage>&#x2013;<lpage>464</lpage>.
+                    <pub-id pub-id-type="pmid">23279291</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/brv.12008</pub-id>
+                    <pub-id pub-id-type="pmcid">3654170</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Leslie</surname>
+                            <given-names>HM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>McLeod</surname>
+                            <given-names>KL</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Confronting the challenges of implementing marine ecosystem-based management.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Front Ecol Environ.</italic>
+               </source>
+               <year>2007</year>;<volume>5</volume>(<issue>10</issue>):<fpage>540</fpage>&#x2013;<lpage>548</lpage>.
+                    <pub-id pub-id-type="doi">10.1890/1540-9295(2007)5[540:CTCOIM]2.0.CO;2</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Levac</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Colquhoun</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>O&#x2019;Brien</surname>
+                            <given-names>KK</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Scoping studies: Advancing the methodology.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Implement Sci.</italic>
+               </source>
+               <year>2010</year>;<volume>5</volume>(<issue>1</issue>): 69.
+                    <pub-id pub-id-type="pmid">20854677</pub-id>
+                    <pub-id pub-id-type="doi">10.1186/1748-5908-5-69</pub-id>
+                    <pub-id pub-id-type="pmcid">2954944</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Margules</surname>
+                            <given-names>CR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pressey</surname>
+                            <given-names>RL</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Systematic conservation planning.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Nature.</italic>
+               </source>
+               <year>2000</year>;<volume>405</volume>(<issue>6783</issue>):<fpage>243</fpage>&#x2013;<lpage>253</lpage>.
+                    <pub-id pub-id-type="doi">10.1038/35012251</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Peters</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Godfrey</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>McInerney</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Chapter 11: Scoping Reviews.</article-title>In: Aromataris E, Munn Z (Eds)
+                    <italic toggle="yes">JBI Manual for Evidence Synthesis.</italic>JBI,<year> 2020</year>.
+                    <pub-id pub-id-type="doi">10.46658/JBIMES-20-12</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Spalding</surname>
+                            <given-names>MD</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fox</surname>
+                            <given-names>HE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Allen</surname>
+                            <given-names>GR</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Marine ecoregions of the world: a bioregionalization of coastal and shelf areas.</article-title>
+                    <source>
+
+                        <italic toggle="yes">BioScience.</italic>
+               </source>
+               <year>2007</year>;<volume>57</volume>(<issue>7</issue>):<fpage>573</fpage>&#x2013;<lpage>583</lpage>.
+                    <pub-id pub-id-type="doi">10.1641/B570707</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tricco</surname>
+                            <given-names>AC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lillie</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Zarin</surname>
+                            <given-names>W</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ann Intern Med.</italic>
+               </source>
+               <year>2018</year>;<volume>169</volume>(<issue>7</issue>):<fpage>467</fpage>&#x2013;<lpage>473</lpage>.
+                    <pub-id pub-id-type="pmid">30178033</pub-id>
+                    <pub-id pub-id-type="doi">10.7326/M18-0850</pub-id>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report35477">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17597.r35477</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Goh</surname>
+                        <given-names>Hong Ching</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35477a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-9250-2205</uri>
+                </contrib>
+                <aff id="r35477a1">
+                    <label>1</label>Department of Urban and Regional Planning, Faculty of Built Environment, University of Malaya, Kuala Lumpur, Malaysia</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>27</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Goh HC</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35477"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16300.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This is an easy reading piece, and the manuscript has been arranged with straightforward points in logical sequence and easy to follow. I recognize that this is an ambitious attempt and is possibly embedded within a larger research program and the exercise will be very much dependent on the resources made available. Couples of suggestions/comments that I have for this manuscript are as follows. Although some suggestions refer to specific tables, it is meant to draw a larger attention to the overall consideration of the protocol. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>In Table 2 which spell out the details of scoping review search strategy per database,&#x00a0;
+                            <italic>i.e.</italic>, name of database, date of search, search query, and results (as the number of documents returned by the search), in the category of Marine Park, Marine Management Plan, whether transboundary MPA are considered. If applicable, suggest including the term transboundary conservation.&#x00a0;&#x00a0;</p>
+                    </list-item>
+                    <list-item>
+                        <p>In Table 3 Data extraction tool of the scoping review (ScR), I would like to suggest the authors to include Southeast Asia as a separate (sub)category considering its geographical uniqueness (and the diversities) especially the oceans, the length of coastlines and the number of islands that this region covers.</p>
+                    </list-item>
+                    <list-item>
+                        <p>As one of the outputs will be &#x2018;A global map showing the amount of case studies for each country',&#x00a0;one concern I have is the language barrier for countries such as China and Indonesia, where policy documents and &#x2018;blue papers&#x2019; might be available only in the national language, which could lead to exclusion from this scoping.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The consideration of having cultural and/or intangible values either within the context of ecosystem services or beyond, can be more explicitly mentioned in the review question #2 since cultural objective is highlighted.</p>
+                    </list-item>
+                    <list-item>
+                        <p>It is also worth considering whether SCPs include provisions for monitoring, evaluation and potential revision to existing planning.</p>
+                    </list-item>
+                    <list-item>
+                        <p>A reference that may be deemed useful is 
+                            <ext-link ext-link-type="uri"
+                               xlink:href="https://www.plymouth.ac.uk/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkdXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bf8aca0c688feaf4943d5100158f2d2d40bd9251/PolicyBrief1_EvidenceMap.pdf">linked</ext-link>.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate for the research question?</p>
+            <p>Yes</p>
+            <p>Is the rationale for, and objectives of, the study clearly described?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of the methods provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Coastal planning with social science perspective focusing on human-environment interaction</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

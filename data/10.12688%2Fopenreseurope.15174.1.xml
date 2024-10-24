@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15174.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Collaborative design approach to identify research and innovation needs within the European smart building community</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 1 approved, 1 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>COUJARD</surname>
+                        <given-names>Cl&#x00e9;mentine</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-7873-3288</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Laffont Eloire</surname>
+                        <given-names>Karine</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>DOWEL Innovation, Sophia Antipolis, France, 06901, France</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:clementine.coujard@dowel.eu">clementine.coujard@dowel.eu</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>2</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>36</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>9</day>
+                    <month>1</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 COUJARD C and Laffont Eloire K</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-36/pdf"/>
+            <abstract>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Background</italic>
+                    </bold>&#x00a0;</p>
+                <p>Upgrading the level of smartness in buildings can significantly contribute to improve our quality and sustainability of living, through increased energy efficiency, optimised resource management, and improved air quality and comfort. However, the fragmented nature of the sector makes it challenging to identify what is technically, socially and economically achieved today in Europe in terms of building smartness, and what should be developed and financially supported tomorrow to accelerate the roll-out of smart and energy efficient buildings.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Methods</italic>
+                    </bold>&#x00a0;</p>
+                <p>This paper introduces the collaborative process developed to involve a large community of experts in detecting and formalising research and innovation gaps related to smart buildings. This process is composed of four successive steps: 1) a communication phase to invite volunteer experts to join the proposed task forces; 2) The organisation and facilitation of online brainstorming workshops to identify research &amp; innovation (R&amp;I) gaps; 3) the collective drafting of a white paper synthesising the brainstorming outcomes; and 4) an open consultation to collect additional external feedback before finalising the white paper.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Results</italic>
+                    </bold>&#x00a0;</p>
+                <p>The collaborative process developed was tested over 18 months and implemented on 12 different topics relying on 27 brainstorming workshops. Building on the collective knowledge of 135 participants, it enabled identification a significant series of R&amp;I gaps related to smart buildings.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Conclusions</italic>
+                    </bold>&#x00a0;</p>
+                <p>The collective sessions as well as the open consultation phases showed overall some clear convergence on the gaps identified. It can therefore be concluded the outcome of the collaborative process reached a consensus among the targeted innovation community. The feedback collected on the process, shows that the frequency, duration and attendance of the brainstorming workshops proposed were very relevant, while the selection of online participatory tools could still be improved. This process could be replicated in other frameworks where research and innovation gaps are sought for.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>smart buildings</kwd>
+                <kwd>collaborative design</kwd>
+                <kwd>participative design</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>956936</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No [956936]( The EU Smart Building Innovation Platform [SMARTBUILT 4EU]). </funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>The deployment of smart building solutions throughout Europe faces some barriers and challenges, and the related innovation efforts need to be supported by the public authorities.</p>
+            <p>This paper describes a collaborative design process implemented in 2021&#x2013;2022 to involve the European smart building community in identifying what type of research and innovation activities should be funded in the next years.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>The built environment impacts our lives in many ways: it influences our living, occupational or mobility behaviours, but also triggers significant environmental impacts, which in turn affect our health and wellbeing (
+                <xref ref-type="bibr" rid="ref-15">Altomonte 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>).</p>
+            <p>Upgrading the level of smartness in existing and future buildings can significantly contribute to improve our quality of lives and sustainability of consumption behaviours, through increased energy efficiency, optimised resource management, improved air quality and comfort (
+                <xref ref-type="bibr" rid="ref-16">Hoy 
+                    <italic toggle="yes">et al.</italic>, 2016</xref>).</p>
+            <p>Numerous developments are underway to upgrade the intelligence of buildings
+                <sup>
+                    <xref ref-type="other" rid="FN1">1</xref>
+                </sup>, from new technological solutions relying on information and communication technology (ICT), sensing and automation, to performance assessment schemes such as the Smart Readiness Indicator. However, those ongoing efforts are very dispersed along the European construction value chain, due to the sector&#x2019;s fragmented structure, and diversity of trades involved in implementing and operating smart solutions in buildings
+                <sup>
+                    <xref ref-type="other" rid="FN2">2</xref>
+                </sup>. This context makes it challenging to get an overview of what is achieved today in Europe, and what should be developed and financially supported tomorrow to accelerate the roll-out of smart and energy efficient buildings.</p>
+            <p>The SmartBuilt4EU project aims to consolidate the European innovation community in smart buildings in view of sharing good practices and formalising recommendations for further research and innovation. This paper introduces the collaborative process designed and implemented to involve a large community of experts in the elaboration of White Papers identifying research and innovation gaps related to smart buildings.</p>
+            <sec>
+                <title>Definition of smart building</title>
+                <p>Building&#x2019;s smartness refers to the ability of a building or its systems to sense, interpret, communicate and actively respond in an efficient manner to changing conditions in relation the operation of technical building systems or the external environment and to demands from building occupants (
+                    <xref ref-type="bibr" rid="ref-15">Al Dakheel 
+                        <italic toggle="yes">et al.</italic>, 2020</xref>). The potential of smart technologies in the building sector was heavily emphasised in the 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/energy-performance-buildings-directive_en#directive-amendments">2018 revision of the European Energy Performance of Buildings Directive (EPBD)</ext-link>.</p>
+            </sec>
+            <sec>
+                <title>The SmartBuilt4EU project</title>
+                <p>The SmartBuilt4EU project is an EC-funded project led by ECTP, the European Construction, built environment and energy efficient building Technology Platform. SmartBuilt4EU aims to foster collaboration between stakeholders of the smart building ecosystem, promote their innovations, and identify research and development (R&amp;D) gaps to support the further uptake of smart buildings. Two major outputs of the project are a strategic research and innovation agenda (SRIA) and a set of policy recommendations to foster the further deployment of smart solutions in the built environment. Those documents, to be published in March 2023, are elaborated based on a collaborative process enabling to gather inputs from diverse members of the smart building innovation community (SBIC), detailed hereafter.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Research method</title>
+            <sec>
+                <title>Objective and overall structure of the collaborative design process</title>
+                <p>The objective of the collaborative design process developed within SmartBuilt4EU was to gather and formalise inputs from the smart building innovation community on the research and innovation needs that should be supported and financed by European public authorities in the coming years.</p>
+                <p>The needs considered were organised in two categories in view of structuring the discussions with the community: &#x201c;R&amp;D gaps&#x201d; that include research, development, and demonstration activities; and &#x201c;go-to-market gaps&#x201d; covering standardisation, certification, industrialisation and upskilling needs, as well as regulatory evolutions.</p>
+                <p>The participatory approach developed relies on two key components: the setup of four voluntary task forces, and a harmonised workflow for each task force to elaborate successive white papers during a limited time span (six months). Setting up four task forces enables to address four different dimensions of the smart buildings&#x2019; domain and gather participants around specific topics matching their own interest and expertise. The elaboration of white papers enables the authors to formalise the brainstorming outputs into a format that is directly exploitable for the construction of the final SRIA. Framing each white paper&#x2019;s work into a six-month period enables us to keep participants involved and motivated towards a short-term goal. The next sections introduce the four task forces and the different steps towards the white papers&#x2019; elaboration.</p>
+            </sec>
+            <sec>
+                <title>The four task forces</title>
+                <p>The participation to task forces is open to any stakeholder and on a voluntary basis. The four task forces respectively address distinct but complementary themes related to smart buildings. Their objective is to investigate three specific topics and produce a related white paper highlighting research and innovation gaps (R&amp;I gaps). This is performed in a sequential manner along three semesters. The respective themes of task forces were defined as follows:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>-</label>
+                        <p>Task Force 1 addresses the interactions between the smart building and its users (occupants, operators): it covers the issues of end-user acceptance and attractiveness of smart solutions; enhanced quality of life for occupants; and operational feedback to the end-user towards behavioural change.</p>
+                    </list-item>
+                    <list-item>
+                        <label>-</label>
+                        <p>Task force 2 addresses the optimal integration and use of smart solutions to allow an efficient building operation: it covers interoperability; optimisation of building costs; and smartness to reduce building&#x2019;s environmental impacts.</p>
+                    </list-item>
+                    <list-item>
+                        <label>-</label>
+                        <p>Task force 3 addresses the interactions between the smart building and its external environment: it covers the provision of power flexibility to the grid, new energy practices and communities, and data-driven indicators for smart buildings.</p>
+                    </list-item>
+                    <list-item>
+                        <label>-</label>
+                        <p>Task Force 4 addresses crosscutting issues, with specific focus on business models and financing; data governance and cybersecurity; and education &amp; upskilling.</p>
+                    </list-item>
+                </list>
+                <p>Those themes were designed to cover a wide range of aspects related to smart buildings, from social and societal dimensions to technical and technological questions as well as business and financial ones
+                    <sup>
+                        <xref ref-type="other" rid="FN3">3</xref>
+                    </sup>.</p>
+                <p>Each six-month topic is co-chaired by two members of the community: one from the SmartBuilt4EU consortium, and the other from the expert board that was set up at the project start
+                    <sup>
+                        <xref ref-type="other" rid="FN4">4</xref>
+                    </sup>. The co-chairs are involved in the definition of the task force topic, the preparation and facilitation of the brainstorming workshops, and drafting of the white paper. A &#x2018;task force secretariat&#x2019; is ensured by DOWEL Innovation to plan, organise and facilitate the overall workflow.</p>
+            </sec>
+            <sec>
+                <title>The collaborative workflow</title>
+                <p>The collaborative process implemented by each task force relies on four main components:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>1.</label>
+                        <p>communicate on the launch of a topic and the possibility to join the task forces, so as to gather a maximum of stakeholders</p>
+                    </list-item>
+                    <list-item>
+                        <label>2.</label>
+                        <p>organise and facilitate three online brainstorming workshops to progress towards the identification of R&amp;I gaps</p>
+                    </list-item>
+                    <list-item>
+                        <label>3.</label>
+                        <p>collectively draft a white paper, which then undergoes an internal review process</p>
+                    </list-item>
+                    <list-item>
+                        <label>4.</label>
+                        <p>conduct an open consultation to collect additional external feedback before finalising the white paper</p>
+                    </list-item>
+                </list>
+                <p>Step 1 on communication exploits all dissemination channels enabled by the SmartBuilt4EU project (emailing to the community, social media posts, news on website, promotion during conferences and events).</p>
+                <p>Step 2 is the critical phase to collect valuable material for the white papers. The online workshops are organised using a visio-conference tool (Microsoft Teams) and an online brainstorming tool (
+                    <ext-link ext-link-type="uri" xlink:href="https://conceptboard.com/">ConceptBoard</ext-link>
+                    <sup>
+                        <xref ref-type="other" rid="FN5">5</xref>
+                    </sup>) (a free open-source alternatives with similar features can be found at 
+                    <ext-link ext-link-type="uri" xlink:href="https://openboard.ch/index.en.html">OPENBOARD</ext-link>) enabling to collect written contributions from all participants. The three successive workshops follow a progressive approach towards the identification of R&amp;I gaps:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>-</label>
+                        <p>workshop 1 focuses on scoping the exact topic investigated and discussing state of the art</p>
+                    </list-item>
+                    <list-item>
+                        <label>-</label>
+                        <p>workshop 2 investigates the barriers and drivers related to the defined topic</p>
+                    </list-item>
+                    <list-item>
+                        <label>-</label>
+                        <p>based on this analysis, workshop 3 focuses on identifying the related R&amp;I gaps.</p>
+                    </list-item>
+                </list>
+                <p>Each workshop has a duration of approximately 90 minutes. To structure the discussions and outputs, the brainstorming sessions are broken down into short successive time slots. For instance, barriers and drivers are categorised into &#x2018;value chain&#x2019;, &#x2018;social&#x2019;, &#x2018;technical&#x2019;, &#x2018;economic and financial&#x2019;, and &#x2018;legal and regulatory&#x2019;: a dedicated 5&#x2013;10 minute brainstorming timeslot is allocated to each category.</p>
+                <p>In an equivalent process, the brainstorming about R&amp;I gaps is broken down into &#x2018;R&amp;D&#x2019;, &#x2018;demonstration&#x2019;, &#x2018;scaling up and industrialisation&#x2019;, &#x2018;standardisation/certification&#x2019;, and &#x2018;regulation&#x2019; categories, with successive timeslots. Once all categories are addressed, the facilitator proposes to cluster the different inputs provided into key ideas, that are submitted to a vote. This enables to highlight which gaps are considered as priorities by participants.</p>
+                <p>The ConceptBoard, the online participatory tool to collect written contributions from participants, was structured according to the categories listed above.
+                    <xref ref-type="fig" rid="f1"> Figure 1</xref> shows a concept board used to identify research &amp; innovation gaps for topic 1A. The orange and green tables on the left side (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>) are respective reminders of the barriers and drivers identified during the previous brainstorming. The five columns in the blue frame reflect the 5 categories of R&amp;I gaps listed above. The colour notes are the inputs from participants. The blue rectangles cluster some inputs into common ideas. The small icons (thumb, heart, etc) represent the vote of participants of the ideas proposed.</p>
+                <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                    <label>Figure 1. </label>
+                    <caption>
+                        <title>Screenshot of a ConceptBoard page to facilitate the session on identifying and prioritising R&amp;I gaps on topic 1A.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16413/6c6e6308-c073-4da2-9dbb-104460a81c43_figure1.gif"/>
+                </fig>
+                <p>In step 3, the secretariat of each task force initiates a draft white paper formalising the brainstorming outputs. The document is then shared with task force members to collect additional feedback and inputs, in particular regarding lessons learnt from EU-funded projects. An internal review of all four white papers is finally performed by project partner VITO to check the coherence between white papers.</p>
+                <p>In step 4, the draft white papers are released online and disseminated, together with an online questionnaire to collect feedback from stakeholders not directly involved in the task forces. Their feedback is then processed towards the finalisation of white papers.</p>
+            </sec>
+            <sec>
+                <title>Additional knowledge sharing through webinars and workshops</title>
+                <p>In addition to the collaborative workflow described above, a total of 33 EU-funded projects were invited to present their results, lessons learnt and good practices through webinars and workshops. Three webinars were co-hosted with Build Up from February 2021 to April 2022, one workshop was organised within the Sustainable Places 2022 conference in September 2022. These presentations, which were structured to encourage the exchange of real-life feedback from EU-funded projects, provided valuable inputs to the &#x201c;Lessons learnt&#x201d; sections in the white papers.</p>
+            </sec>
+        </sec>
+        <sec sec-type="results">
+            <title>Results and analysis</title>
+            <p>The collaborative process developed by SmartBuilt4EU started at the end of February 2021 with an online workshop officially launching the task forces and attended by close to 50 participants from both industry and research. The first round of white papers was elaborated from February to September 2021, the second round from September 2021 to March 2022, and the third and final one from April to October 2022.</p>
+            <sec sec-type="subjects">
+                <title>Participants</title>
+                <p>In total, 135 persons contributed to the twelve white papers produced, covering 23 European countries. Task force members feature a diversity of profiles: 45% come from public and private research organisations, 39% from business companies, 13% represent associations (European sector associations, national or regional associations or clusters) and 3% are certification or standardisation bodies. Many of them are involved in EU-funded projects (31 participating projects were referenced).</p>
+                <p>An analysis of the participants of topic A of task force 1 (topic &#x2018;End user acceptance and attractiveness&#x2019;) showed that 64% were male and 36% female.</p>
+                <p>With regard to the brainstorming workshops, the average level of participation was of 21 persons. For each topic, the first workshop (out of three) attracted the most people (28 in average), which can be explained by the fact that these &#x2018;topic launch&#x2019; workshops were more promoted than the following ones. The average participations in workshops 2 and 3 were respectively 19 and 18 attendees, showing a persistent interest from members. Participation was also relatively well spread between task forces, with averages ranging from 13 to 19 participants.</p>
+                <p>Considering the open consultation process (step 4) very low feedback was observed, despite the significant communication actions undertaken. Seven answers were obtained on the first batch of white papers (topic A), two on the second batch and five on the third batch . Though it is difficult to explain the reasons of such low feedback, it can at least be concluded that engaging people was more efficient through online workshops than through an online questionnaire, no matter how brief and concise it was.</p>
+            </sec>
+            <sec>
+                <title>Topics covered and white papers produced</title>
+                <p>
+                    <xref ref-type="table" rid="T1">Table 1</xref> lists the twelve topics investigated by the task forces. Topics A were the first round of topics, topics C the last round.</p>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                    <label>Table 1. </label>
+                    <caption>
+                        <title>Topics covered by the task forces.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="middle"/>
+                                <th align="left" colspan="1" rowspan="1" valign="middle">Task Force 1:
+                                    <break/>Interactions with users</th>
+                                <th align="left" colspan="1" rowspan="1" valign="middle">Task Force 2:
+                                    <break/>Efficient building operation</th>
+                                <th align="left" colspan="1" rowspan="1" valign="middle">Task Force 3: 
+                                    <break/>Interactions with the external environment</th>
+                                <th align="left" colspan="1" rowspan="1" valign="middle">Task Force 4: 
+                                    <break/>Crosscutting issues</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Topic A</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-1">End user acceptance and attractiveness</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-6">Interoperability</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-9">Providing flexibility to power grids</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-12">Financing and business models</xref>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Topic B</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-4">Occupant-centric building for improved quality of life</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-7">Optimised building costs</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-10">Smart building as enabler of new energy practices and communities</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-13">Data governance, security and privacy</xref>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">Topic C</td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-5">Responsive end-user</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-8">Smartness to reduce building&#x2019;s environmental impacts</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-11">Data-driven indicators for smart buildings</xref>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="middle">
+                                    <xref ref-type="bibr" rid="ref-14">Education and upskilling</xref>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>The structure of each white paper produced reflects the sequence of brainstorming workshops: 1) scope of the paper and state of the art; 2) barriers and drivers, 3) R&amp;I gaps. 
+                    <xref ref-type="fig" rid="f2">Figure 2</xref>, 
+                    <xref ref-type="table" rid="T2">Table 2</xref> and 
+                    <xref ref-type="table" rid="T3">Table 3</xref> gives an abstract view on how those elements were synthetised in a visual format suitable for dissemination, with the example of topic 1C (&#x2018;responsive end user&#x2019;).</p>
+                <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                    <label>Figure 2. </label>
+                    <caption>
+                        <title>State of the art: mapping performed by the white papers authors about the identified EU-funded projects related to topic 1C: responsive end user.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16413/6c6e6308-c073-4da2-9dbb-104460a81c43_figure2.gif"/>
+                </fig>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Synthesis of the barriers identified with task force members during an online brainstorming session for topic 1C: responsive end user.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Category</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Barriers</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="3" valign="top">Technical</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Difficulty to establish the exact relation between data collected, data retrieved to user, and impact of user response to
+                                    <break/>this information</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Lack of mechanisms/ platforms and related governance models to consolidate data into actionable intelligence</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Existing legacy systems not compliant with standards</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="2" valign="top">Economic</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Data has become strategic and sharing it is seen as a risk or loss of opportunity</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">High cost of data-driven solutions and lock of financial incentives</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="3" valign="top">Social</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Data privacy issues: lack of knowledge by occupants about data privacy procedures in smart buildings (who will do what
+                                    <break/>with my data?)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Lack of digital skills that can help occupants to use smart building technologies</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Limited data and feedback on/from vulnerable users (occupants with disability, the elderly)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="3" valign="top">Value chain</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Data ownership and governance issues: who owns the data and capture its value?</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Lack of application by the industry of existing standards (ISO, CEN) related to interoperability, data models, product
+                                    <break/>catalogues</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Lack of standardisation of Occupant Behaviour modelling &#x2013; accounting for user diversities</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="2" valign="top">Regulation</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Discrepancies between local and national regulations and legislations</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Lack of normative and technical regulations to support the mitigation of the energy performance gap between design
+                                    <break/>and operation phases</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <table-wrap id="T3" orientation="portrait" position="anchor">
+                    <label>Table 3. </label>
+                    <caption>
+                        <title>Synthesis of the R&amp;D gaps identified with task force members during an online brainstorming session for topic 1C: responsive end user.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Category</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">Research and development gaps</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="4" valign="top">Research and
+                                    <break/>development</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Implement participatory methods involving end-users, to:
+                                    <break/>-&#x00a0;Understand the conditions of adoption of smart solutions
+                                    <break/>-&#x00a0;Understand and identify the data/information needs of different building users (occumpants, owners, facility
+                                    <break/>managers, etc), for different building types (residential/ tertiary, with different levels of smartness)
+                                    <break/>-&#x00a0;Identify occupants&#x2019; behaviours that can be modified and those that cannot
+                                    <break/>-&#x00a0;Design solutions providing pertinent and actionable information to users in line with their energy practices</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Clarify data ownership, usage and rights when data is aggregated and user in integrated services (platforms)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Define how to share openly and harmonise the data: how to collect data from multiple sources? How to harmonise
+                                    <break/>the data from different nature?</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Apply artificial intelligence, modelling, to help fill the quality gap on real data collected</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="3" valign="top">Demonstration</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Deploy living labs (permanent pilots) giving open access to real data on building&#x2019;s monitoring and user perspectives</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Implement large scale demonstrators with emphasis on the active participation of end users, from the design
+                                    <break/>phase. This implies engagement strategies relying on social science and humanities, and the use of techniques
+                                    <break/>such as gamification</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Systematically integration in demonstration the monitoring of occupancy and weather data together with building
+                                    <break/>parameters to ensures data quality</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec>
+                <title>Feedback from participants on the participatory process implemented</title>
+                <p>On June 4th 2021, after the first series of workshops was conducted on topics A, an online questionnaire (Cl&#x00e9;mentine Coujard, 2022b) was proposed to participants during the last online session of task force 1 to collect feedback on the collaborative process implemented. The questionnaire was designed so that 1) it could be filled-in &#x2018;live&#x2019; in less than five minutes by participants; 2) participants would evaluate some specific aspects of the proposed workflow through multiple choice questions (about the frequency, duration and audience of the sessions, and the tools used); and 3) participants could add a free comment on how to improve the collaborative process.</p>
+                <p>19 answers were collected (
+                    <xref ref-type="bibr" rid="ref-2">Coujard, 2022</xref>): this number cannot be considered as representative of the overall task force members, but it still gives some hints on how the approach was considered by the most active (and reactive) members. All respondents considered that the frequency of meetings was adequate (
+                    <italic toggle="yes">i.e.</italic> &#x201c;just the right number of meetings&#x201d;). 18 respondents assessed the duration of meetings (1h30) as &#x201c;just the right duration&#x201d;, and one person considered it too short.</p>
+                <p>
+                    <xref ref-type="fig" rid="f3">Figure 3</xref> and 
+                    <xref ref-type="fig" rid="f4">Figure 4</xref> show the answers regarding the size and profile of the workshop audience, and the collaborative tools used. The audience size was deemed adequate by almost all participants. A majority of respondents estimated that the audience profile and expertise was suited to the topic investigated.</p>
+                <p>Regarding the tools used, a large majority of answers approved the use of the ConceptBoard and Sharepoint software used to brainstorm online and share the draft white paper document.</p>
+                <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                    <label>Figure 3. </label>
+                    <caption>
+                        <title>Participant feedback on the size and profile of the workshop&#x2019;s audience.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16413/6c6e6308-c073-4da2-9dbb-104460a81c43_figure3.gif"/>
+                </fig>
+                <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                    <label>Figure 4. </label>
+                    <caption>
+                        <title>Participants&#x2019; feedback on the use of the concept board and share point.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16413/6c6e6308-c073-4da2-9dbb-104460a81c43_figure4.gif"/>
+                </fig>
+                <p>The final and open question in the questionnaire was formulated as follows: &#x201c;How could we improve the recruitment/selection of participants, the interactivity of sessions, and the written contributions of participants?&#x201d;. Most answers dealt with the recruitment of participants and suggested to increase the communication efforts using social media, emailing, European clusters and platforms, and a project of publication as a motivational driver. Regarding the selection of experts, one respondent suggested to first draft the key ideas of each topic, as a driver to select adequate experts. We shall however recall that experts joined on a volunteer basis, according to their interest and knowledge on the topic, and willingness to invest a bit of time in this collaborative adventure &#x2013; therefore there was no &#x2018;selection&#x2019; 
+                    <italic toggle="yes">per se</italic>. However, specifying each topic more precisely at the beginning of the process could indeed help experts better assess whether their expertise matches the topic.</p>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>The collaborative process developed was tested over 18 months and implemented on 12 different topics relying on 27 brainstorming workshops. Building on the collective knowledge and experience of 135 participants and at least 31 EU-funded projects, it enabled to identify a significant series of research &amp; innovation gaps related to smart buildings, that will next feed a strategic research and innovation agenda.</p>
+            <p>One limitation can be observed in the process: as it relied on volunteering, there was no selection or evaluation of the participants&#x2019; expertise to contribute. However, the collective sessions showed overall some clear convergence on the gaps identified. The feedback from the open consultation phase, though limited, led to some additions in research and innovation gaps but did not question the ones proposed by the task force members. It can therefore be carefully concluded that the gaps identified reach a consensus among the targeted innovation community.</p>
+            <p>The feedback collected on the process itself shows that the frequency, duration and attendance of the brainstorming workshops proposed were very relevant, while the selection of online participatory tools could still be improved.</p>
+            <p>This process could be replicated in other frameworks where research and innovation gaps are sought for, such as EC-funded Coordination and Support Actions, as well as sectoral roadmaps.</p>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>After completion of the Horizon Europe proposal ethics self-assessment, no ethics issues were identified, therefore ethics approval are not required. With regard to the anonymous online poll mentioned in section 3.3, consent for use of this data was implied by completion of the online survey.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>Zenodo: Feedback from task force members on the format, frequency and duration of workshop. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.7418966">https://doi.org/10.5281/zenodo.7418966</ext-link> (
+                    <xref ref-type="bibr" rid="ref-2">Coujard, 2022</xref>)</p>
+                <p>This project contains the following underlying data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>-</label>
+                        <p>Feedback.xlsx</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Extended data</title>
+                <p>Zenodo: Online live questionnaire to task force members on the workshop format and collaborative tools used. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.7458116">https://doi.org/10.5281/zenodo.7458116</ext-link> (
+                    <xref ref-type="bibr" rid="ref-3">Coujard, 2022b</xref>)</p>
+                <p>This project contains the following extended data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>-</label>
+                        <p>Questionnaire.xlsx</p>
+                    </list-item>
+                </list>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</ext-link> (CC-BY 4.0).</p>
+                <fn-group>
+                    <fn>
+                        <p id="FN1">
+                            <sup>1</sup> See the twelve SmartBuilt4EU white papers that provide a state of the art: 
+                            <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/publications/">https://smartbuilt4eu.eu/publications/</ext-link>
+                        </p>
+                    </fn>
+                    <fn>
+                        <p id="FN2">
+                            <sup>2</sup> See for instance the synthetic diagram proposed in page 
+                            <ext-link ext-link-type="uri"
+                               xlink:href="https://www.cleantech.com/smart-buildings-and-space-utilization-value-chain/">https://www.cleantech.com/smart-buildings-and-space-utilization-value-chain/</ext-link>
+                        </p>
+                    </fn>
+                    <fn>
+                        <p id="FN3">
+                            <sup>3</sup> Details are provided on the related web pages of the SmartBuilt4EU website: 
+                            <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/task-forces/">https://smartbuilt4eu.eu/task-forces/</ext-link>
+                        </p>
+                    </fn>
+                    <fn>
+                        <p id="FN4">
+                            <sup>4</sup> The Expert Board gathered a dozen of experts from various fields connected to smart buildings, who committed to contribute the SmartBuilt4EU project, through commitment letters signed at project proposal stage. The Expert Board met online approximately every 6 months to discuss the project activities, including the chairing of the various task force topics. Co-chair are listed in the respective SmartBuilt4EU White Papers (see footnote 
+                            <xref ref-type="other" rid="FN3">3</xref>)</p>
+                    </fn>
+                    <fn>
+                        <p id="FN5">
+                            <sup>5</sup> DOWEL bought a license to this tool, enabling then any task force members to freely connect and use the tool, through a login as &#x201c;invited member&#x201d;</p>
+                    </fn>
+                </fn-group>
+            </sec>
+        </sec>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <article-title>Acceptance and attractiveness of smart building solutions to the end-users.</article-title>White Paper of SmartBuilt4EU Task Force 1: Interactions with users (Topic A),<year> 2021</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/?jet_download=3128">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Altomonte</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Allen</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bluyssen</surname>
+                            <given-names>PM</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Ten questions concerning well-being in the built environment.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Build Environ.</italic>
+               </source>
+               <year>2020</year>;<volume>180</volume>:<fpage>106949</fpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.buildenv.2020.106949</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Coujard</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>Feedback from task force members on the format, frequency and duration of workshop</data-title>. [Data set].
+                    <source>Zenodo</source>.<year>2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.7418966">http://www.doi.org/10.5281/zenodo.7418966</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Coujard</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>Online live questionnaire to task force members on the workshop format and collaborative tools used.</data-title>[Data set].
+                    <source>Zenodo</source>.<year>2022b</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.7458116">http://www.doi.org/10.5281/zenodo.7458116</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <article-title>Data driven indicators for smart buildings.</article-title>White Paper of SmartBuilt4EU Task Force 3: Interactions with the external environment (Topic C),<year> 2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/?jet_download=3453">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <article-title>Data governance.</article-title>White Paper of SmartBuilt4EU Task Force 4: Cross-cutting issues: Business &amp; Finance, data, education &amp; upskilling (Topic B),<year> 2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/?jet_download=3333">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <article-title>Education and upskilling.</article-title>White Paper of SmartBuilt4EU Task Force 4: Cross-cutting issues: Business &amp; Finance, data, education &amp; upskilling (Topic C),<year> 2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/?jet_download=3425">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <article-title>Financing and business models.</article-title>White Paper of SmartBuilt4EU Task Force 4: Cross-cutting issues: Business &amp; Finance, data, education &amp; upskilling (Topic A),<year> 2021</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/?jet_download=3131">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hoy</surname>
+                            <given-names>MB</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Smart Buildings: An Introduction to the Library of the Future.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Med Ref Serv Q.</italic>
+               </source>
+               <year>2016</year>;<volume>35</volume>(<issue>3</issue>):<fpage>326</fpage>&#x2013;<lpage>331</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/02763869.2016.1189787</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <article-title>Interoperability.</article-title>White Paper of SmartBuilt4EU Task Force 2: Efficient Building Operation (Topic A),<year> 2021</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/?jet_download=3129">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <article-title>New energy practices and communities.</article-title>White Paper of SmartBuilt4EU Task Force 3: Interactions with the external environment (Topic B),<year> 2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/?jet_download=3332">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <article-title>Occupant centric building.</article-title>White Paper of SmartBuilt4EU Task Force 1: Interactions with users (Topic B),<year> 2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/?jet_download=3330">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <article-title>Optimised building costs.</article-title>White Paper of SmartBuilt4EU Task Force 2: Efficient Building Operation (Topic B),<year> 2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/?jet_download=3334">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <article-title>Responsive end user</article-title>. White Paper of SmartBuilt4EU Task Force 1: Interactions with users (Topic C),<year> 2022</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <article-title>Smartness to reduce building&#x2019;s environmental impacts.</article-title>White Paper of SmartBuilt4EU Task Force 2: Efficient Building Operation (Topic C),<year> 2022</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://smartbuilt4eu.eu/?jet_download=3452">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <article-title>Smart buildings as flexibility providers to the electricity grids.</article-title>White Paper of SmartBuilt4EU Task Force 3: Interactions with the external environment (Topic A),<year> 2021</year>.</mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report30921">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16413.r30921</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Decorme</surname>
+                        <given-names>Regis</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30921a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Maktabifard</surname>
+                        <given-names>Mojtaba</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30921a1">1</xref>
+                    <role>Co-referee</role>
+                </contrib>
+                <aff id="r30921a1">
+                    <label>1</label>R2M Solution, Roquefort-les-Pins, France</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>3</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Maktabifard M and Decorme R</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport30921"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15174.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The manuscript titled &#x201c;Collaborative design approach to identify research and innovation needs within the European smart building community&#x201d;, identifies research and innovation gaps related to smart buildings. The article deals with an increasingly important issue of enhancing sustainability of buildings through different criteria such as energy efficiency and optimization of resource management.</p>
+            <p> </p>
+            <p> The authors begin with emphasizing that, although several ongoing developments are dedicated to upgrading the intelligence of the buildings, however, the ongoing efforts are dispersed. This paper adds value to the literature by sharing an overview of what is achieved today in Europe and highlighting research and innovation gaps which should be dealt with in future. The authors applied a collaborative design approach, comprising gathering maximum stake-holders, 3 brainstorming workshops, drafting white papers and collecting feedbacks on them. 12 different topics were implemented in frame of workshops and 135 people participated who were mostly experienced with EU-funded projects. I would recommend the authors to enhance the quality of Figure 1 to better demonstrate the details of the applied methodology. Nevertheless, the paper well presents the statistical analysis derived from the feedbacks of participants. The work is an outcome of SmartBuilts4EU project and would be interesting for the addresees of Open Research Europe publications.</p>
+            <p> </p>
+            <p> Here are my minor editorial recommendations for the authors to increase the quality of the paper: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Page 3: I would use the term &#x201c;to change&#x201d; instead of &#x201c;to changing&#x201d;.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Page 5: Please enhance the quality of Figure 1.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Page 5: Add the term stakeholders &#x201c;who were&#x201d; not directly involved.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Page 5: Workshops were &#x201c;more&#x201d; promoted; change to workshops were &#x201c;better&#x201d; promoted.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Page 5: &#x201c;one workshop was organized within the Sustainable Places 2022 conference in September 2022.&#x201d;</p>
+                    </list-item>
+                </list> Could you provide any reference/link to the aforementioned conference? 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Page 5: Use &#x201c;topic A&#x201d; instead of plural form.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Page 5: I would recommend using &#x201c;featured&#x201d; (past tense) in the sentence.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Yes</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Environmental Engineering</p>
+            <p>We confirm that we have read this submission and believe that we have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however we have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report30924">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16413.r30924</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Kazi</surname>
+                        <given-names>Abdul Samad</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30924a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r30924a1">
+                    <label>1</label>VTT Technical Research Centre of Finland, Espoo, Finland</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>27</day>
+                <month>2</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Kazi AS</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport30924"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15174.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This is a very well-written article that uses a collaborative design approach (many interactive workshops) to identify current R&amp;D gaps and innovation needs to support the acceleration of smart and energy-efficient buildings in Europe (in particular) from a user centric perspective.</p>
+            <p> It clearly defines key barriers, challenges, and uses an interactive approach to overcome these.&#x00a0;</p>
+            <p> The results and findings are based on 12 white papers prepared through the active participation and discussion of 135 participants across 23 European countries. Results and findings of 30+ relevant EU projects&#x00a0;were also considered.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Yes</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>smart cities, innovation ecosystems, construction ICT</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

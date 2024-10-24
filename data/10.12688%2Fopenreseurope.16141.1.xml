@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="data-paper"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.16141.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Data Note</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Euclide, the crow, the wolf and the pedestrian: distance metrics for linguistic typology</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 3 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Guzm&#x00e1;n Naranjo</surname>
+                        <given-names>Mat&#x00ed;as</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Software</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-1136-6836</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>J&#x00e4;ger</surname>
+                        <given-names>Gerhard</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Software</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-9642-9359</uri>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Linguistics, Albert-Ludwigs-Universitat Freiburg, Freiburg, Baden-W&#x00fc;rttemberg, 79085, Germany</aff>
+                <aff id="a2">
+                    <label>2</label>Seminar f&#x00fc;r Sprachwissenschaft, Eberhard Karls Universitat Tubingen, T&#x00fc;bingen, Baden-W&#x00fc;rttemberg, 72074, Germany</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:mguzmann89@gmail.com">mguzmann89@gmail.com</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>6</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>104</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>8</day>
+                    <month>6</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Guzm&#x00e1;n Naranjo M and J&#x00e4;ger G</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-104/pdf"/>
+            <abstract>
+                <p>It is common for people working on linguistic geography, language contact and typology to make use of some type of distance metric between lects. However, most work so far has either used Euclidean distances, or geodesic distance, both of which do not represent the real separation between communities very accurately. This paper presents two datasets: one on walking distances and one on topographic distances between over 8700 lects across all macro-areas. We calculated walking distances using Open Street Maps data, and topographic distances using digital elevation data. We evaluate these distances. We evaluate these distance metrics on three case studies and show that topographic distance tends to outperform the other distance metrics, but geodesic distances can be used as an adequate approximation in some cases.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Typology</kwd>
+                <kwd>distance metrics</kwd>
+                <kwd>topographic distance</kwd>
+                <kwd>walking distance</kwd>
+                <kwd>linguistic geography</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100018693">
+                    <funding-source>Horizon Europe Framework Programme</funding-source>
+                    <award-id>834050</award-id>
+                </award-group>
+                <award-group id="fund-2" xlink:href="http://dx.doi.org/10.13039/501100001659">
+                    <funding-source>Deutsche Forschungsgemeinschaft</funding-source>
+                    <award-id>504155622</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under grant agreement No [834050](Cross-Linguistic statistical inference using hierarchical Bayesian models [CrossLingference]). , assigned to Gerhard J&#x00e4;ger; and the Emmy Noether project 'Bayesian modelling of spatial typology', Grant number: (project number 504155622), assigned to Mat&#x00ed;as Guzm&#x00e1;n Naranjo.</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>5.1 Introduction</title>
+            <p>Studying language contact, spatial diffusion, and typology (among others) requires having reliable distances measurements between linguistic communities. However, most work so far has used either Euclidean or geodesic distances (see 
+                <xref ref-type="bibr" rid="ref-6">Guzm&#x00e1;n Naranjo &amp; Becker, 2021</xref>; 
+                <xref ref-type="bibr" rid="ref-17">Murawaki &amp; Yamauchi, 2018</xref>; 
+                <xref ref-type="bibr" rid="ref-21">Ranacher 
+                    <italic toggle="yes">et al.,</italic> 2021</xref>, for an example). Both these approaches, however, make some relatively simplified and unrealistic assumptions about the spatial separation of human populations. Euclidean distances assume that the earth is flat, and geodesic distances assume that the surface of the earth is a smooth sphere. While these assumptions can be warranted in some situations (e.g. communities which are very close together, or in individual islands), using these metrics leads to bias estimates of the separation of speech communities.</p>
+            <p>As a way of addressing these issues, a method for calculating approximate walking distances was recently proposed by 
+                <xref ref-type="bibr" rid="ref-26">Wichmann &amp; Hammarstr&#x00f6;m (2020)</xref>, who propose a computationally efficient technique. This method, however, is not exact because it does not attempt to actually follow known walking pathways, but rather, uses population centres to route the paths. Another recent alternative for a computationally efficient approximation is proposed by 
+                <xref ref-type="bibr" rid="ref-9">Kaiping (2021)</xref>, who calculates exact walking distances between the centre of geographic nodes (hexagons). Each node has an area of roughly 78 square km. Distances between languages are then calculated as the distance between the centres of these hexagons. While impressive, this method is also not exact, and we are not aware of evaluations of how good the resulting distances are for linguistic purposes.</p>
+            <p>In this paper we do several things. Our main aim is to provide a resource in the form of distance matrices, that can be used for typologists and linguists in general to study contact. Second, we explore the question of how different distance metrics compare to each other. While there are several conceptual problems with using Euclidean and geodesic distances, there has been no attempt at quantifying how much better more realistic distance metrics are.</p>
+            <p>The structure of this paper is as follows. 
+                <xref ref-type="other" rid="S5.2">Section 5.2</xref> gives a brief mathematical and computational description of the four distance metrics we will look at in this paper: Euclidean distances, geodesic distances, topographic distances and walking distances. 
+                <xref ref-type="other" rid="S5.4">Section 5.4</xref> describes a case study on modelling potential contact with the different datasets. Finally, 
+                <xref ref-type="other" rid="S5.7">Section 5.7</xref> concludes the paper.</p>
+        </sec>
+        <sec>
+            <title>5.2 Distance metrics</title>
+            <sec>
+                <title>5.2.1 Euclidean distance</title>
+                <p id="S5.2">The simplest type of distance metric we will discuss here are Euclidean distances. This is the distance of a straight line between two points in space. Given the points 
+                    <italic toggle="yes">a</italic> at the coordiantes (x
+                    <sub>1</sub>, y
+                    <sub>1</sub>) and 
+                    <italic toggle="yes">b</italic> at the coordinates (x
+                    <sub>2</sub>, y
+                    <sub>2</sub>), their distance is given by the formula:</p>
+                <disp-formula>
+                    <mml:math display="block" id="math1">
+                        <mml:mspace width="5em"/>
+                        <mml:mrow>
+                            <mml:msub>
+                                <mml:mi>d</mml:mi>
+                                <mml:mi>e</mml:mi>
+                            </mml:msub>
+                            <mml:mo stretchy="false">(</mml:mo>
+                            <mml:mi>a</mml:mi>
+                            <mml:mo>,</mml:mo>
+                            <mml:mi>b</mml:mi>
+                            <mml:mo stretchy="false">)</mml:mo>
+                            <mml:mo>=</mml:mo>
+                            <mml:msqrt>
+                                <mml:mrow>
+                                    <mml:msup>
+                                        <mml:mrow>
+                                            <mml:mo stretchy="false">(</mml:mo>
+                                            <mml:msub>
+                                                <mml:mi>x</mml:mi>
+                                                <mml:mn>1</mml:mn>
+                                            </mml:msub>
+                                            <mml:mo>&#x2212;</mml:mo>
+                                            <mml:msub>
+                                                <mml:mi>x</mml:mi>
+                                                <mml:mn>2</mml:mn>
+                                            </mml:msub>
+                                            <mml:mo stretchy="false">)</mml:mo>
+                                        </mml:mrow>
+                                        <mml:mn>2</mml:mn>
+                                    </mml:msup>
+                                    <mml:mo>+</mml:mo>
+                                    <mml:mo stretchy="false">(</mml:mo>
+                                    <mml:msub>
+                                        <mml:mi>y</mml:mi>
+                                        <mml:mn>1</mml:mn>
+                                    </mml:msub>
+                                    <mml:mo>&#x2212;</mml:mo>
+                                    <mml:msub>
+                                        <mml:mi>y</mml:mi>
+                                        <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                    <mml:mo stretchy="false">)</mml:mo>
+                                </mml:mrow>
+                            </mml:msqrt>
+                        </mml:mrow>
+                        <mml:mspace width="8em"/>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>1</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                    </mml:math> 
+            </disp-formula>
+                <p>This type of distance has been used explicitly (
+                    <xref ref-type="bibr" rid="ref-6">Guzm&#x00e1;n Naranjo &amp; Becker, 2021</xref>), but also implicitly, in the form of adding latitude or longitude to a statistical model (
+                    <xref ref-type="bibr" rid="ref-24">Verkerk &amp; Di Garbo, 2022</xref>). The main reason for its relatively widespread popularity is simple: it is the simplest and fasted distance metric we can calculate for two points, and it can be obtained from latitude and longitude information. In terms of modelling, this distance metric also presents some advantages, namely the fact that popular Bayesian software like STAN or INLA provide ready-made solutions that make very efficient use of Euclidean distances for spatial models.
+                    <sup>
+                        <xref ref-type="other" rid="FN1">1</xref>
+                    </sup>
+                </p>
+                <p>Despite these advantages, there are several potential downsides. This distance metric assumes that the points in question lie on a plane, but this is evidently not true for two populations on the earth. For relatively short distances, and distances on the Equator, this is mostly not a problem, especially because we do not expect high accuracy in the centres from which we measure the distances. However, for larger distances, and distance far away from the Equator, Euclidean distance can produce results which are very different from actual distances along the surface of the Earth.</p>
+            </sec>
+            <sec>
+                <title>5.2.2 Geodesic distance</title>
+                <p>The geodesic distance,
+                    <sup>
+                        <xref ref-type="other" rid="FN2">2</xref>
+                    </sup> or the distance as the crow flies, is the distance between two points on the surface of a sphere.
+                    <sup>
+                        <xref ref-type="other" rid="FN3">3</xref>
+                    </sup> Given that the geodesic distance takes into account the curvature of the earth, it is a likely better representation of the separation of two populations. Nonetheless, it also makes several simplified assumptions about the topography of the space between two points. Most importantly, the geodesic distance assumes a smooth surface, without hills, valleys or any other topographic barrier. While this assumption may be justified for cases like the steppe or island archipelagos, it is likely overly optimistic in places with very rugged terrains, mountain ranges, and similar geographic features.</p>
+                <p>Computationally, this distance is unproblematic, and we will not discuss the technical aspects any further. We calculated the geodesic distance between all lects in Glottolog with the 
+                    <monospace>geodist</monospace> package (
+                    <xref ref-type="bibr" rid="ref-20">Padgham &amp; Sumner, 2021</xref>) in R.
+                    <sup>
+                        <xref ref-type="other" rid="FN4">4</xref>
+                    </sup>
+                </p>
+            </sec>
+            <sec>
+                <title>5.2.3 Topographic distance</title>
+                <p>The topographic distance (or how the wolf runs) is the shortest distance between two points, but we include the elevation changes in between both points. This is the distance along an uneven, rugged surface. To calculate topographic distances we used the 
+                    <monospace>gdistance</monospace> package (
+                    <xref ref-type="bibr" rid="ref-22">van Etten, 2017</xref>) in R. Given its computational challenges, some words on the matter are necessary at this point.</p>
+                <p>Calculating topographic distances requires building an incidence matrix (a graph of connections between all points) with a digital elevation model (DEM) raster of the region containing the points of interest. Thus, the first step is to assemble a DEM for the region of interest, which, in our case, is the whole world. There are many sources for elevation data freely available, but not all datasets cover the whole planet (the northern most and southern most areas are often missing). For this we used the Global Multi-resolution Terrain Elevation Data 2010 (
+                    <xref ref-type="bibr" rid="ref-3">Danielson &amp; Gesch, 2011</xref>), which does cover the whole globe, and is available at different resolutions (30-, 15-, and 7.5-arc-seconds). While ideally one would use the highest resolution possible, this is not computationally feasible for large areas. We have access to a High Performance Computing server with about 800 GB of ram, but found this was not sufficient to build the incidence matrix for any macro area at the 7.5- or 15-arc-second resolution. For this reason, we used the 30-arc-second resolution of the data,
+                    <sup>
+                        <xref ref-type="other" rid="FN5">5</xref>
+                    </sup> which roughly corresponds to about 1 square km per pixel (i.e. we cannot consider elevation changes that cover less that 1 km).</p>
+                <p>Given a DEM, we can calculate the incidence matrix as the transitions between any two points in the map. The transition between two points is given by &#x221a;(
+                    <italic toggle="yes">h</italic>
+                    <sup>2</sup>+
+                    <italic toggle="yes">v</italic>
+                    <sup>2</sup>) where 
+                    <italic toggle="yes">h</italic> is the horizontal distance between two points, and 
+                    <italic toggle="yes">v</italic> the elevation difference. With the incidence matrix for the whole DEM, we can then calculate the shortest path between two points using Dijkstra algorithm, or any other similar algorithm to find the shortest path between two nodes in a graph (see 
+                    <xref ref-type="bibr" rid="ref-25">Wang, 2020</xref>, for a more in-depth explanation).</p>
+                <p>However, even at a relatively low resolution, calculating topographic distances is still very resource intensive. Given these computational challenges, we only calculated distances between languages within different macro-areas. Additionally, for North America and Eurasia, we were not able to compute the incidence matrix for the whole macro-area and had to divide these into four, partially overlapping quadrants, and calculate the distance between languages for each quadrant. After having the distances for all points within each quadrant, we propagated the distances across quadrants using points in the overlapping regions.</p>
+                <p>A recent paper worth mentioning here is 
+                    <xref ref-type="bibr" rid="ref-10">Koile 
+                        <italic toggle="yes">et al.</italic> (2022)</xref>, which makes use of travel-cost distances. The method used by the authors is similar to the one we present, but it attempts to calculate the travel time using a function to approximate hiking times, instead of taking the actual distance directly. In their study, the authors calculated the travel distances for 77 languages in the Americas, so it does not really represent the type of data we are trying to build in this study.</p>
+            </sec>
+            <sec>
+                <title>5.2.4 Walking distances</title>
+                <p>For the purposes of this paper, the walking distance between two points is the distance along mapped roads, walkways and paths that connect those two points. The idea is that road networks are a close representation of the spatial separation between populations because they are the actual pathways used for communication between communities.</p>
+                <p>For this paper we are using the Open Stree Maps dataset (
+                    <xref ref-type="bibr" rid="ref-19">OpenStreetMap contributors, 2017</xref>) which contains information on roads and other infrastructure for most of the world.
+                    <sup>
+                        <xref ref-type="other" rid="FN6">6</xref>
+                    </sup> For the routing we use the OSRM routing engine (
+                    <xref ref-type="bibr" rid="ref-15">Luxen &amp; Vetter, 2011</xref>).</p>
+                <p>There are, however, some pitfalls calculating walking distances with this approach. These difficulties come from lack of connectivity between points on the map. This lack of connectivity arises in the case of islands which are not joined to the mainland by ferry,
+                    <sup>
+                        <xref ref-type="other" rid="FN7">7</xref>
+                    </sup> and some locations without roads or other transitable pathways. The later situation was especially present for languages in the Amazon.</p>
+                <p>Currently, we do not have any good way to solve this issue. A workaround one can take is to fill in the gaps by using geodesic distances when there are no roads. This approach should provide reasonable results for islands (given that communication between islands and the mainland would have been mostly as direct routes on ship), but it is only a rough approximation for unconnected points in the jungle.</p>
+                <p>We provide two datasets for the walking distances. One dataset has missing connections for these cases, and the other dataset tries to fill in these missing connections with a simple algorithm which sequentially connects the whole network to the nearest (by geodesic distance) off-network point.</p>
+                <p>Regarding computational issues, two observations are important. First, OSRM cannot build a graph (the data structure needed for the routing) for the whole world, which meant we had to work on each macro-area individually. Second, in computational terms, we found that the preprocessing steps to prepare the Open Street Maps data took a couple of weeks, but having built the OSRM graphs, calculating the actual distances is extremely efficient. Generally speaking, walking distances are easier to calculate than topographic distances on a moderately powerful server.</p>
+            </sec>
+            <sec>
+                <title>5.2.5 Taking stock</title>
+                <p>So far we have discussed four possible ways of calculating the distance between two points. It is useful to compare what the actual paths look like for the different distance metrics. 
+                    <xref ref-type="fig" rid="f1">Figure 1</xref> provides an example of the paths between three points (the locations of three languages) in the Hindu-Kush area (see next section) for the four distance metrics. It is clear that the topographic, Euclidean and geodesic distances are relatively similar to each other, with the topographic path being less straight than the other two. However, the walking path is very different from the other three, and it takes a less straight route.</p>
+                <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                    <label>Figure 1. </label>
+                    <caption>
+                        <title>Three Hindu-Kush languages.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17425/f04e887c-c1b2-4899-8802-650368becc0c_figure1.gif"/>
+                </fig>
+                <p>In computational terms, the topographic distances are the most challenging to compute. They require a considerable amount of resources, and can take several weeks for a single macro-area. Both the Euclidean and geodesic distances are the most efficient, and the walking distances sit somewhere in the middle.</p>
+                <p>The next three sections present three case studies in which we use these distance metrics to predict grammatical features of languages. The idea of these studies is not to gain linguistic insight, but to evaluate the predictive performance of the different metrics discussed here. To keep the models as simple as possible we will not consider any covariates outside the spatial term.</p>
+            </sec>
+        </sec>
+        <sec sec-type="materials | methods">
+            <title>5.3 Evaluation: materials and methods</title>
+            <sec>
+                <title>5.3.1 Datasets</title>
+                <p>We evaluate the four distance approaches in three datasets: Hindu-Kush (
+                    <xref ref-type="bibr" rid="ref-14">Liljegren 
+                        <italic toggle="yes">et al.</italic>, 2021</xref>), South America (
+                    <xref ref-type="bibr" rid="ref-1">Carling 
+                        <italic toggle="yes">et al.</italic>, 2018</xref>) and Europe (
+                    <xref ref-type="bibr" rid="ref-16">Moran &amp; McCloy, 2019</xref>). The choice of dataset was partly opportunistic, and partly guided by theoretical considerations. Each case study presents a more detailed overview of each dataset, but in general terms each of these datasets comprises languages annotated for multiple binary features. This is important because in this study we limit ourselves to logistic regression to make all comparisons equal.
+                    <sup>
+                        <xref ref-type="other" rid="FN8">8</xref>
+                    </sup>. Second, we chose three areas for which there are both interesting topographic features, and at least some note in the literature about contact effects.</p>
+                <p>In terms of types of linguistic features, the Hindu-Kush data combines phonology, lexical and syntactic features; the South America data exclusively comprises word order features; and the European data is made up of phoneme inventories. It is not our aim with this paper to explore any of these areas or datasets in depth. Our aim is simply to demonstrate how different distance metrics can lead to very different results when modelling contact.</p>
+            </sec>
+            <sec>
+                <title>5.3.2 The model</title>
+                <p>There are many different alternatives to model spatial relations from estimating simple correlations (
+                    <xref ref-type="bibr" rid="ref-23">van Gijn 
+                        <italic toggle="yes">et al.</italic>, 2017</xref>) via autoregressive models (
+                    <xref ref-type="bibr" rid="ref-17">Murawaki &amp; Yamauchi, 2018</xref>) to Gaussian Processes (GP) (
+                    <xref ref-type="bibr" rid="ref-6">Guzm&#x00e1;n Naranjo &amp; Becker, 2021</xref>; 
+                    <xref ref-type="bibr" rid="ref-8">Guzm&#x00e1;n Naranjo &amp; Mertner, 2022</xref>). In this paper we use the latter for two reasons. First, GPs can be implemented fairly easily with Stan (
+                    <xref ref-type="bibr" rid="ref-2">Carpenter 
+                        <italic toggle="yes">et al.</italic>, 2017</xref>), and second, they can use a distance matrix directly.
+                    <sup>
+                        <xref ref-type="other" rid="FN9">9</xref>
+                    </sup> PGs are built around a kernel function which transforms the distance matrix into a covariance matrix. There are many alternatives for kernels, but we use a simple exponential kernel (see 
+                    <xref ref-type="bibr" rid="ref-4">Duvenaud, 2014</xref>, for an in-depth discussion of different kernels).</p>
+                <p>In this paper we will model each feature independently from the other features. That is, we will predict each feature 
+                    <italic toggle="yes">f
+                        <sub>i</sub>
+                    </italic> with a logistic regression with a GP as predictor.
+                    <sup>
+                        <xref ref-type="other" rid="FN10">10</xref>
+                    </sup> We predict each feature individually, but there are some possible alternatives to look at all features simultaneously which could be preferable under certain circumstances (see 
+                    <xref ref-type="bibr" rid="ref-8">Guzm&#x00e1;n Naranjo &amp; Mertner, 2022</xref>, for an example using Multiprobit models).</p>
+                <p>The model definition is as follows:</p>
+                <disp-formula>
+                    <mml:math display="block" id="math2">
+                        <mml:mrow>
+                            <mml:mspace width="5.6em"/>
+                            <mml:mi>Y</mml:mi>
+                            <mml:mspace width="3.5em"/>
+                            <mml:mi>B</mml:mi>
+                            <mml:mi>e</mml:mi>
+                            <mml:mi>r</mml:mi>
+                            <mml:mi>n</mml:mi>
+                            <mml:mi>o</mml:mi>
+                            <mml:mi>u</mml:mi>
+                            <mml:mi>l</mml:mi>
+                            <mml:mi>l</mml:mi>
+                            <mml:mi>i</mml:mi>
+                            <mml:mo stretchy="false">(</mml:mo>
+                            <mml:mi>i</mml:mi>
+                            <mml:mi>n</mml:mi>
+                            <mml:mi>v</mml:mi>
+                            <mml:mo>_</mml:mo>
+                            <mml:mi>l</mml:mi>
+                            <mml:mi>o</mml:mi>
+                            <mml:mi>g</mml:mi>
+                            <mml:mi>i</mml:mi>
+                            <mml:mi>t</mml:mi>
+                            <mml:mo stretchy="false">(</mml:mo>
+                            <mml:mi>&#x03bc;</mml:mi>
+                            <mml:mo stretchy="false">)</mml:mo>
+                            <mml:mo stretchy="false">)</mml:mo>
+                        </mml:mrow>
+                        <mml:mspace width="8em"/>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>2</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                    </mml:math> 
+            </disp-formula>
+                <disp-formula>
+                    <mml:math display="block" id="math3">
+                        <mml:mspace width="5.5em"/>
+                        <mml:mi>&#x03bc;</mml:mi>
+                        <mml:mo>=</mml:mo>
+                        <mml:mspace width="10.5em"/>
+                        <mml:mi>&#x03b1;</mml:mi>
+                        <mml:mo>+</mml:mo>
+                        <mml:mi>&#x03b7;</mml:mi>
+                        <mml:mspace width="8em"/>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>3</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                    </mml:math> 
+            </disp-formula>
+                <disp-formula>
+                    <mml:math display="block" id="math4">
+                        <mml:mspace width="5.9em"/>
+                        <mml:mi>&#x03b1;</mml:mi>
+                        <mml:mspace width="8.1em"/>
+                        <mml:mi>N</mml:mi>
+                        <mml:mi>o</mml:mi>
+                        <mml:mi>r</mml:mi>
+                        <mml:mi>m</mml:mi>
+                        <mml:mi>a</mml:mi>
+                        <mml:mi>l</mml:mi>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>0</mml:mn>
+                        <mml:mo>,</mml:mo>
+                        <mml:mn>1</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                        <mml:mspace width="8em"/>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>4</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                    </mml:math> 
+            </disp-formula>
+                <disp-formula>
+                    <mml:math display="block" id="math5">
+                        <mml:mspace width="5.7em"/>
+                        <mml:mi>&#x03b7;</mml:mi>
+                        <mml:mo>~</mml:mo>
+                        <mml:mspace width="3.2em"/>
+                        <mml:mi>M</mml:mi>
+                        <mml:mi>u</mml:mi>
+                        <mml:mi>l</mml:mi>
+                        <mml:mi>t</mml:mi>
+                        <mml:mi>i</mml:mi>
+                        <mml:mi>N</mml:mi>
+                        <mml:mi>o</mml:mi>
+                        <mml:mi>r</mml:mi>
+                        <mml:mi>m</mml:mi>
+                        <mml:mi>a</mml:mi>
+                        <mml:mi>l</mml:mi>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>0</mml:mn>
+                        <mml:mo>,</mml:mo>
+                        <mml:mstyle displaystyle="false">
+                            <mml:msub>
+                                <mml:mo>&#x2211;</mml:mo>
+                                <mml:mrow>
+                                    <mml:mi>G</mml:mi>
+                                    <mml:mi>P</mml:mi>
+                                </mml:mrow>
+                            </mml:msub>
+                        </mml:mstyle>
+                        <mml:mo stretchy="false">)</mml:mo>
+                        <mml:mspace width="8em"/>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>5</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                    </mml:math> 
+            </disp-formula>
+                <disp-formula>
+                    <mml:math display="block" id="math6">
+                        <mml:mspace width="4em"/>
+                        <mml:mstyle displaystyle="false">
+                            <mml:msub>
+                                <mml:mo>&#x2211;</mml:mo>
+                                <mml:mrow>
+                                    <mml:mi>G</mml:mi>
+                                    <mml:mi>P</mml:mi>
+                                </mml:mrow>
+                            </mml:msub>
+                        </mml:mstyle>
+                        <mml:mo>=</mml:mo>
+                        <mml:mspace width="7.5em"/>
+                        <mml:mi>K</mml:mi>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mi>x</mml:mi>
+                        <mml:mo>|</mml:mo>
+                        <mml:mi>&#x03bb;</mml:mi>
+                        <mml:mo>,</mml:mo>
+                        <mml:mi>&#x03b4;</mml:mi>
+                        <mml:mo>,</mml:mo>
+                        <mml:mi>D</mml:mi>
+                        <mml:mo stretchy="false">)</mml:mo>
+                        <mml:mspace width="8em"/>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>6</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                    </mml:math> 
+            </disp-formula>
+                <disp-formula>
+                    <mml:math display="block" id="math7">
+                        <mml:mspace width="6em"/>
+                        <mml:mi>&#x03bb;</mml:mi>
+                        <mml:mspace width="4.5em"/>
+                        <mml:mi>I</mml:mi>
+                        <mml:mi>n</mml:mi>
+                        <mml:mi>v</mml:mi>
+                        <mml:mi>e</mml:mi>
+                        <mml:mi>r</mml:mi>
+                        <mml:mi>s</mml:mi>
+                        <mml:mi>e</mml:mi>
+                        <mml:mo>_</mml:mo>
+                        <mml:mi>G</mml:mi>
+                        <mml:mi>a</mml:mi>
+                        <mml:mi>m</mml:mi>
+                        <mml:mi>m</mml:mi>
+                        <mml:mi>a</mml:mi>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>3</mml:mn>
+                        <mml:mo>,</mml:mo>
+                        <mml:mn>5</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                        <mml:mspace width="8em"/>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>7</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                    </mml:math> 
+            </disp-formula>
+                <disp-formula>
+                    <mml:math display="block" id="math8">
+                        <mml:mspace width="5.8em"/>
+                        <mml:mi>&#x03b4;</mml:mi>
+                        <mml:mspace width="8.4em"/>
+                        <mml:mi>N</mml:mi>
+                        <mml:mi>o</mml:mi>
+                        <mml:mi>r</mml:mi>
+                        <mml:mi>m</mml:mi>
+                        <mml:mi>a</mml:mi>
+                        <mml:mi>l</mml:mi>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>0</mml:mn>
+                        <mml:mo>,</mml:mo>
+                        <mml:mn>3</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                        <mml:mspace width="8em"/>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>8</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                    </mml:math> 
+            </disp-formula>
+                <disp-formula>
+                    <mml:math display="block" id="math9">
+                        <mml:mi>G</mml:mi>
+                        <mml:mi>P</mml:mi>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:msub>
+                            <mml:mo stretchy="false">)</mml:mo>
+                            <mml:mrow>
+                                <mml:mi>j</mml:mi>
+                                <mml:mo>,</mml:mo>
+                                <mml:mi>i</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mi>&#x03bb;</mml:mi>
+                        <mml:mo>,</mml:mo>
+                        <mml:mi>&#x03b4;</mml:mi>
+                        <mml:mo>,</mml:mo>
+                        <mml:mi>D</mml:mi>
+                        <mml:mo stretchy="false">)</mml:mo>
+                        <mml:mo>=</mml:mo>
+                        <mml:mspace width="4.5em"/>
+                        <mml:msup>
+                            <mml:mi>&#x03b4;</mml:mi>
+                            <mml:mn>2</mml:mn>
+                        </mml:msup>
+                        <mml:mi>e</mml:mi>
+                        <mml:mi>x</mml:mi>
+                        <mml:mi>p</mml:mi>
+                        <mml:mrow>
+                            <mml:mo>(</mml:mo>
+                            <mml:mrow>
+                                <mml:mo>&#x2212;</mml:mo>
+                                <mml:mfrac>
+                                    <mml:mrow>
+                                        <mml:msubsup>
+                                            <mml:mi>D</mml:mi>
+                                            <mml:mrow>
+                                                <mml:mi>j</mml:mi>
+                                                <mml:mo>,</mml:mo>
+                                                <mml:mi>i</mml:mi>
+                                            </mml:mrow>
+                                            <mml:mn>2</mml:mn>
+                                        </mml:msubsup>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mn>2</mml:mn>
+                                        <mml:msup>
+                                            <mml:mi>&#x03bb;</mml:mi>
+                                            <mml:mn>2</mml:mn>
+                                        </mml:msup>
+                                    </mml:mrow>
+                                </mml:mfrac>
+                            </mml:mrow>
+                            <mml:mo>)</mml:mo>
+                        </mml:mrow>
+                        <mml:mo>+</mml:mo>
+                        <mml:msup>
+                            <mml:mi>&#x03b4;</mml:mi>
+                            <mml:mn>2</mml:mn>
+                        </mml:msup>
+                        <mml:mspace width="8em"/>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>9</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                    </mml:math>
+                </disp-formula>
+                <p>&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;(10)</p>
+                <p>Where 
+                    <italic toggle="yes">&#x03b1;</italic> is the model intercept, 
+                    <italic toggle="yes">&#x03bb;</italic> is the length-scale of the GP, 
+                    <italic toggle="yes">&#x03b4;</italic> the standard deviation of the GP, and 
+                    <italic toggle="yes">D</italic> is the distance matrix. 
+                    <italic toggle="yes">K</italic> is the covariance function that transforms the distance matrix into a covariance matrix. The length-scale controls the distance at which two observations can influence each other significantly (a longer length-scale means a longer distance), and the standard deviation of the GP controls how strong the spatial variation can be.</p>
+                <p>To evaluate the model performance we use 10-fold cross-validation. We split the dataset into 10 groups, train the model using 9 of those groups, and predict the left out group. We then repeat this for all groups. Since we are dealing with binary features, we use balanced accuracy to measure the performance of the classifier. A balanced accuracy of 0.5 means that the classifier is performing at random chance, and thus we can conclude that there is effectively no spatial pattern to the feature in question. A balanced accuracy below 0.5, indicates an issue with the model or distance metric used. A balanced accuracy above 0.5, shows that the there is some spatial structure to the features in question, and that the model can pick up on it and use it to predict the values of the left-out observations.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>5.4 Case study: The Hindu-Kush</title>
+            <sec sec-type="materials">
+                <title>5.4.1 Materials</title>
+                <p id="S5.4">This section presents a case study with languages of the Hindu-Kush. We use a dataset by 
+                    <xref ref-type="bibr" rid="ref-14">Liljegren 
+                        <italic toggle="yes">et al.</italic> (2021)</xref> which contains 59 languages for the Hindu-Kush area. 
+                    <xref ref-type="fig" rid="f2">Figure 2</xref> shows the location of the languages in question.</p>
+                <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                    <label>Figure 2. </label>
+                    <caption>
+                        <title>European languages.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17425/f04e887c-c1b2-4899-8802-650368becc0c_figure2.gif"/>
+                </fig>
+                <p>The original dataset includes annotations for 80 binary features, from phonology to syntax. Since the values of many of these feature were identical for all or almost all languages, we removed features with fewer than 10 or more than 49 positive values. This left us with a total of 48 features.
+                    <sup>
+                        <xref ref-type="other" rid="FN11">11</xref>
+                    </sup> Some features have missing values for some languages. The model simply ignores those languages in the case of missing values.</p>
+                <p>Looking at the Hindu-Kush region is particularly interesting for two reasons. First, contact effects have been extensively documented for this area (
+                    <xref ref-type="bibr" rid="ref-11">Liljegren, 2019</xref>; 
+                    <xref ref-type="bibr" rid="ref-12">Liljegren, 2020</xref>; 
+                    <xref ref-type="bibr" rid="ref-13">Liljegren, 2022</xref>, and references therein),
+                    <sup>
+                        <xref ref-type="other" rid="FN12">12</xref>
+                    </sup> which leads us to expect positive results at least to a certain extent. Second, and perhaps more importantly, the region is extremely mountainous as can be seen in 
+                    <xref ref-type="fig" rid="f2">Figure 2</xref>, which means that simple Euclidean and geodesic distances are likely biased estimates of the actual separation between communities (see also 
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>).</p>
+            </sec>
+            <sec sec-type="results">
+                <title>5.4.2 Results</title>
+                <p>
+                    <xref ref-type="fig" rid="f3">Figure 3</xref> shows the balanced accuracy of each model for each grammatical feature. This metric is similar to accuracy, but it takes into account the imbalances in the feature values. A balanced accuracy of 0.5 means that the model is performing at random chance, independently of how skewed the distribution of the feature values is.</p>
+                <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                    <label>Figure 3. </label>
+                    <caption>
+                        <title>Balanced accuracy by feature and distance metric for the Hindu-Kush.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17425/f04e887c-c1b2-4899-8802-650368becc0c_figure3.gif"/>
+                </fig>
+                <p>These results are somewhat unexpected in that they show that there is no clear, systematic winner among the four distance metrics. Even the Euclidean distance, which we could expect to be the least accurate of the four, has the highest accuracy for some of the features like Possessive Suffixes and Oblique Object Word Order. Similarly, the topographic and walking distances perform rather poorly in features like Retroflex Fricatives and P Agreement (respectively). What this shows is that it is not instantly clear that one distance metric is better than the others in all cases.</p>
+                <p>
+                    <xref ref-type="table" rid="T1">Table 1</xref> shows the mean accuracy for each distance across all features, and the aggregate counts for how many features each distance produces at the highest accuracy.</p>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                    <label>Table 1. </label>
+                    <caption>
+                        <title>Aggregated accuracy by distance metric for the Hindu-Kush.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">distance</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">mean
+                                    <break/>accuracy</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">n. times best
+                                    <break/>accuracy</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">n.times
+                                    <break/>best acc
+                                    <break/>&gt; 0.5</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">topographic</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.66</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">16</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">10</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">euclidean</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.62</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">6</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">3</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">geodesic</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.67</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">15</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">10</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">walking</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.68</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">17</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">9</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>Going by these results, the walking distance outperforms the other distance metrics in 17 of the 48 features, followed by the topographic distance, then geodesic distance and finally Euclidean distance, which perform considerably worse. In terms of average balanced accuracy, the walking distances also seems to perform slightly better than the others.</p>
+                <p>We can visualise the differences in the models by plotting the conditional effects of a couple of these models. The conditional effects of a spatial model are predictions of a grid of points on the area in question (from 69 to 77.5 longitude, and from 33.2 to 38.5 latitude, with steps of 0.05, for a total of 18297 points). To build these predictions, we need to calculate the distance from each point in the grid to each of the languages in the dataset. Because walking distances are sensitive to there being an accessible road from the point in question, it is not possible to build the required matrix for the conditional effects of walking distances, at least not for this area of the world.
+                    <sup>
+                        <xref ref-type="other" rid="FN13">13</xref>
+                    </sup> For this reason, we only present the conditional effects of Euclidean, geodesic and topographic distances.</p>
+                <p>For illustration we select the 
+                    <monospace>Unique S Case</monospace> and 
+                    <monospace>Zero Copula for Predicate Adjectives</monospace>, since these two seem to show large differences in the predictive power of the Euclidean distances.</p>
+                <p>These are shown in 
+                    <xref ref-type="fig" rid="f4">Figure 4</xref> and 
+                    <xref ref-type="fig" rid="f5">Figure 5</xref>.</p>
+                <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                    <label>Figure 4. </label>
+                    <caption>
+                        <title>Conditional effects for 
+                            <monospace>Unique S Case</monospace> for the Hindu-Kush.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17425/f04e887c-c1b2-4899-8802-650368becc0c_figure4.gif"/>
+                </fig>
+                <fig fig-type="figure" id="f5" orientation="portrait" position="float">
+                    <label>Figure 5. </label>
+                    <caption>
+                        <title>Conditional effects for 
+                            <monospace>Zero Copula for Predicate Adjectives</monospace> for the Hindu-Kush.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17425/f04e887c-c1b2-4899-8802-650368becc0c_figure5.gif"/>
+                </fig>
+                <p>In both cases, the difference is that the Euclidean distance build a much stronger areal effect structure, with more extreme probabilities at the peaks. In contrast, both the areal patterns of the topographic and geodesic distances are smoother, and less extreme. This arises because Euclidean distances are overall shorter than either geodesic or topographic distances, which makes the model infer stronger spatial dependencies. However, in this case, inferring stronger spatial relations leads to overgeneralization and incorrect predictions.</p>
+                <p>One thing which this modelling approach fails to capture is the fact that a higher accuracy might not reflect the real contact situation. That is, the fact that in some cases the Euclidean distances produced better predictions, does not necessarily mean that the model reflects the actual contact scenario, and it is only finding spurious spatial correlations.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>5.5 Case study: European phoneme inventories</title>
+            <sec sec-type="materials">
+                <title>5.5.1 Materials</title>
+                <p>We now turn to European phoneme inventories. For this case study, we limit ourselves to languages found in the upper left quadrant for Eurasia, between -19.0212 and 82.3004 longitude, and 38.6147 and 68.8326 latitude. This area contains 118 languages in Phoible 2.0.
+                    <sup>
+                        <xref ref-type="other" rid="FN14">14</xref>,
+                        <xref ref-type="other" rid="FN15">15</xref>
+                    </sup> Because Phoible lists multiple phoneme inventories for various languages, we randomly chose only one phoneme inventory for each language. We then removed phonemes which were either too rare (present in fewer than 20 languages), or too common (present in more than 88 languages). This left us with a total of 55 phonemes.</p>
+                <p>
+                    <xref ref-type="fig" rid="f6">Figure 6</xref> shows the distribution of languages in our dataset together with the elevation.</p>
+                <fig fig-type="figure" id="f6" orientation="portrait" position="float">
+                    <label>Figure 6. </label>
+                    <caption>
+                        <title>European languages.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17425/f04e887c-c1b2-4899-8802-650368becc0c_figure6.gif"/>
+                </fig>
+            </sec>
+            <sec sec-type="results">
+                <title>5.5.2 Results</title>
+                <p>
+                    <xref ref-type="fig" rid="f7">Figure 7</xref> shows the balanced accuracy for each phoneme. 
+                    <xref ref-type="table" rid="T2">Table 2</xref> shows the mean balanced accuracy, and the number of times each distance metric achieved best accuracy, and best accuracy above 0.5. It is clear in this case that most features are hard to predict, and that they do not show real patterns. However, for those features that do show areal patterns, both the Euclidean and topographic distances outperform the geodesic and walking distance metrics.</p>
+                <fig fig-type="figure" id="f7" orientation="portrait" position="float">
+                    <label>Figure 7. </label>
+                    <caption>
+                        <title>Balanced accuracy by feature and distance metric for Europe.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17425/f04e887c-c1b2-4899-8802-650368becc0c_figure7.gif"/>
+                </fig>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                    <label>Table 2. </label>
+                    <caption>
+                        <title>Aggregated accuracy by distance metric for Europe.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">distance</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">mean
+                                    <break/>accuracy</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">n. times best
+                                    <break/>accuracy</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">n.times best
+                                    <break/>acc &gt; 0.5</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">topographic</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.54</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">20</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">2</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">euclidean</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.54</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">18</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">1</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">geodesic</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.57</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">34</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">7</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">walking</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.53</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">18</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">1</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec>
+            <title>5.6 Case study: South American features</title>
+            <sec sec-type="materials">
+                <title>5.6.1 Materials</title>
+                <p>We are using the data for South American languages provided in DIACL (
+                    <xref ref-type="bibr" rid="ref-1">Carling 
+                        <italic toggle="yes">et al.</italic>, 2018</xref>). This dataset contains data for 70 languages, across 18 binarized word-order features like whether the languages are A(gent)VO or not. As before, we removed features which were either too common (appear in 55 or more languages), or too rare (appear in 15 or fewer languages). The final dataset contains 10 features.
+                    <sup>
+                        <xref ref-type="other" rid="FN16">16</xref>
+                    </sup> 
+                    <xref ref-type="fig" rid="f8">Figure 8</xref> shows the spatial distribution of the languages in our sample.</p>
+                <fig fig-type="figure" id="f8" orientation="portrait" position="float">
+                    <label>Figure 8. </label>
+                    <caption>
+                        <title>South American languages.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17425/f04e887c-c1b2-4899-8802-650368becc0c_figure8.gif"/>
+                </fig>
+            </sec>
+            <sec sec-type="results">
+                <title>5.6.2 Results</title>
+                <p>
+                    <xref ref-type="fig" rid="f9">Figure 9</xref> shows the balanced accuracy for each grammatical feature and 
+                    <xref ref-type="table" rid="T3">Table 3</xref> the mean balanced accuracy, and the number of times each distance metric achieved best accuracy, and best accuracy above 0.5. For this dataset we only find evidence of areal patterns for three of the features: VSa, So=Sa and the order AOV. Interestingly, for all three cases, the walking distances had either an at chance performance, or worse than chance. It appears that walking distances for South America are not reliable, or at least not for these data.</p>
+                <fig fig-type="figure" id="f9" orientation="portrait" position="float">
+                    <label>Figure 9. </label>
+                    <caption>
+                        <title>Balanced accuracy by feature and distance metric for South America.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17425/f04e887c-c1b2-4899-8802-650368becc0c_figure9.gif"/>
+                </fig>
+                <table-wrap id="T3" orientation="portrait" position="anchor">
+                    <label>Table 3. </label>
+                    <caption>
+                        <title>Aggregated accuracy by distance metric for South America.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="left" colspan="1" rowspan="1" valign="top">distance</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">mean
+                                    <break/>accuracy</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">n. times best
+                                    <break/>accuracy</th>
+                                <th align="left" colspan="1" rowspan="1" valign="top">n.times best
+                                    <break/>acc &gt; 0.5</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">topographic</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.55</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">7</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">2</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">euclidean</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.54</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">4</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">geodesic</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.54</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">5</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">1</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">walking</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0.48</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">4</td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">0</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>5.7 Concluding remarks</title>
+            <p id="S5.7">We have presented an overview of four distance metrics for typological research, two of which had not been computed before in a large scale. We show that it is in fact possible to compute topographic and walking distances for the worlds languages.</p>
+            <p>The results in terms of predictive performance are less clear, however. For the Hindu-Kush dataset, the walking distances showed a clear advantage over the other distance metrics, and the topographic distance performed more or less at the same level as the geodesic distance, and the Euclidean distance performed worse of the four. However, for the European dataset, these results are reversed. Both the topographic and Euclidean distances performed considerably better than the walking distance and geodesic distance. Given the fact that the mapping system for Europe in OSM is more developed than for the Hindu-Kush area, we expected the results to be the other way around.</p>
+            <p>One possible explanation for our results is that walking distances are not very accurate representations of the spatial separation of populations very far apart. Additionally, the Hindu-Kush data has relatively good point accuracy of the location of the languages in questions, while the European data uses very rough approximations. These two factors could be causing the walking distances to perform poorly.</p>
+            <p>For the South American dataset the results are somewhat more difficult to interpret. It is possible that modern roads and paths are a poor representation of migration paths and trade routes for the languages of the continent. Alternatively, it might just be that our route information for the region is suboptimal.</p>
+            <p>Overall, we can say for certain that the choice of distance metric can have a very large impact on the models. For some features, we saw upwards of 10% difference between the best and worse distance metric (e.g. Zero Copula for Predicate Nominals in the Hindu-Kush dataset). However, we cannot know a-priori which distance metric will better capture spatial patterns in any one case. From the four distances, the topographic and geodesic distances showed the most consistent performance across datasets, and would be likely to be reasonable first choices. At the same time, in most cases, the Euclidean distances were not much worse than the other distances, and might be a good enough approximation in cases for which performance is critical, or the dataset cover very large areas, and the point-location information is not very precise.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>6 Data and Software availability</title>
+            <p>All distance matrices for both walking and topographic distances are freely available and archived with Zenodo under CC-BY license: 
+                <ext-link ext-link-type="uri" xlink:href="https://dx.doi.org/10.5281/zenodo.7973820">10.5281/zenodo.7973820</ext-link>. The code for building the topographic distances is also available, as well as the code for running the test cases. We also include an environment file which should facilitate replication. See 
+                <xref ref-type="bibr" rid="ref-7">Guzm&#x00e1;n Naranjo and J&#x00e4;ger (2023)</xref>.</p>
+            <p>All Open Street Maps data used for the walking distances calculations can be downloaded from: 
+                <ext-link ext-link-type="uri" xlink:href="https://download.geofabrik.de/">https://download.geofabrik.de/</ext-link>. We used the versions as of 22.02.2022.</p>
+        </sec>
+        <sec>
+            <title>7 Author contributions</title>
+            <p>Mat&#x00ed;as Guzm&#x00e1;n Naranjo: Conceptualization, Methodology, Software, Validation, Visualization, Writing &#x2013; Original Draft Preparation</p>
+            <p>Gerhard J&#x00e4;ger: Conceptualization, Methodology, Software, Funding Acquisition, Writing &#x2013; Review &amp; Editing</p>
+        </sec>
+        <ack>
+            <title>8 Acknowledgments</title>
+            <p>We thank all members of the CrossLingference project for their helpful comments and suggestions.</p>
+        </ack>
+        <fn-group>
+            <fn id="FN1">
+                <p>
+                    <sup>1</sup>Particularly in the STAN ecosystem, BRMS provides ready-made functions to compute Gaussian Processes from latitude and longitude information using Euclidean distances, and there are multiple built in covariance functions that use Euclidean distances in the STAN language.</p>
+            </fn>
+            <fn id="FN2">
+                <p>
+                    <sup>2</sup>Also referred to as the great-circle distance.</p>
+            </fn>
+            <fn id="FN3">
+                <p>
+                    <sup>3</sup>The exact formula for computing the geodesic distance is rather convoluted, and we will not discuss it here.</p>
+            </fn>
+            <fn id="FN4">
+                <p>
+                    <sup>4</sup>A middle way between Euclidean and geodesic distances is to use a UTM projection for the data. Using a UTM projection ensures that calculating Euclidean distances on the coordinates produces near correct distances. We will not explore this approach in this paper.</p>
+            </fn>
+            <fn id="FN5">
+                <p>
+                    <sup>5</sup>We used the breakline emphasis compression. This approach tries to maintain better sharp changes in terrain elevation (
+                    <xref ref-type="bibr" rid="ref-5">Gesch, 1999</xref>).</p>
+            </fn>
+            <fn id="FN6">
+                <p>
+                    <sup>6</sup>We use the data dumps from 
+                    <ext-link ext-link-type="uri" xlink:href="https://download.geofabrik.de/">https://download.geofabrik.de/</ext-link> downloaded on the 22.02.2022.</p>
+            </fn>
+            <fn id="FN7">
+                <p>
+                    <sup>7</sup>While OSM contains ferry information for many places, it is unclear how much information is missing.</p>
+            </fn>
+            <fn id="FN8">
+                <p>
+                    <sup>8</sup>This does not mean that either the distances we propose, or the method we describe in the next section only work in logistic regression. In fact, any type of likelihood would work.</p>
+            </fn>
+            <fn id="FN9">
+                <p>
+                    <sup>9</sup>With models like those proposed by 
+                    <xref ref-type="bibr" rid="ref-17">Murawaki and Yamauchi (2018)</xref>, one first has to decide on how to build an incidence matrix of neighbours from the distance matrix. This process is not completely straightforward. However, the distance matrices we provide could also be used in those types of models.</p>
+            </fn>
+            <fn id="FN10">
+                <p>
+                    <sup>10</sup>There is an important caveat to our modelling. Because of how the routing works, the walking distances do not necessarily satisfy the triangle inequality (in most cases by a couple of meters). The consequence of this is that the estimation of the parameters in the models is biased. Since for this paper we are only looking at predictive performance, this does not matter for our results. However, a researcher interested in understanding the actual spatial structures in the data should take extra care in fixing the distances.</p>
+            </fn>
+            <fn id="FN11">
+                <p>
+                    <sup>11</sup>See the supplementary materials.</p>
+            </fn>
+            <fn id="FN12">
+                <p>
+                    <sup>12</sup>See also the &#x201c;Language contact and relatedness in the Hindu-Kush region&#x201d; project: 
+                    <ext-link ext-link-type="uri" xlink:href="https://hindukush.ling.su.se/">https://hindukush.ling.su.se/</ext-link>.</p>
+            </fn>
+            <fn id="FN13">
+                <p>
+                    <sup>13</sup>A (computationally very costly) alternative would be to mix topographic and walking distances, faulting to topographic distances for cases in which there are no available roads for the walking distances. It is however not obvious how we could go about doing this, and we leave this question open for future research.</p>
+            </fn>
+            <fn id="FN14">
+                <p>
+                    <sup>14</sup>
+                    <ext-link ext-link-type="uri" xlink:href="https://zenodo.org/badge/latestdoi/19120525">https://zenodo.org/badge/latestdoi/19120525</ext-link> (
+                    <xref ref-type="bibr" rid="ref-16">Moran &amp; McCloy, 2019</xref>)</p>
+            </fn>
+            <fn id="FN15">
+                <p>
+                    <sup>15</sup>An alternative database one could look at is 
+                    <xref ref-type="bibr" rid="ref-18">Nikolaev (2018)</xref>, but we chose Phoibl because it seems to be more popular among typologists.</p>
+            </fn>
+            <fn id="FN16">
+                <p>
+                    <sup>16</sup>Unlike the other datasets in this paper, DIACL contains some missing values for some features for some languages. In cases of missing data we simply omitted the languages with missing values for any given feature.</p>
+            </fn>
+        </fn-group>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Carling</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Larsson</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cathcart</surname>
+                            <given-names>CA</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Diachronic Atlas of Comparative Linguistics (DiACL)&#x2014;A Database for Ancient Language Typology.</article-title>
+                    <source>
+
+                        <italic toggle="yes">PLoS One.</italic>
+               </source>
+               <year>2018</year>;<volume>13</volume>(<issue>10</issue>):<fpage>e0205313</fpage>.
+                    <pub-id pub-id-type="pmid">30307985</pub-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0205313</pub-id>
+                    <pub-id pub-id-type="pmcid">6181559</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Carpenter</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gelman</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hoffman</surname>
+                            <given-names>MD</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Stan: A Probabilistic Programming Language.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Stat Softw.</italic>
+               </source>
+               <year>2017</year>;<volume>76</volume>(<issue>1</issue>):<fpage>1</fpage>.
+                    <pub-id pub-id-type="pmid">36568334</pub-id>
+                    <pub-id pub-id-type="doi">10.18637/jss.v076.i01</pub-id>
+                    <pub-id pub-id-type="pmcid">9788645</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Danielson</surname>
+                            <given-names>JJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gesch</surname>
+                            <given-names>DB</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Global Multi-Resolution Terrain Elevation Data 2010 (GMTED2010).</article-title>US Department of the Interior, US Geological Survey Washington, DC, USA,<year>2011</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/264159030_Global_Multi-resolution_Terrain_Elevation_Data_2010_GMTED2010">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Duvenaud</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Automatic model construction with Gaussian processes.</article-title>PhD thesis. University of Cambridge,<year>2014</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cs.toronto.edu/~duvenaud/thesis.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gesch</surname>
+                            <given-names>DB</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Effects of DEM Generalization Methods on Derived Hydrologic Features.</article-title>In:
+                    <source>
+
+                        <italic toggle="yes">Spatial Accuracy Assessment: Land Information Uncertainty in Natural Resources.</italic>
+               </source>Ed. by Kim Lowell and Annick Jaton. New York: Routledge,<year>1999</year>;<fpage>255</fpage>&#x2013;<lpage>261</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/264158988_The_effects_of_DEM_generalization_methods_on_derived_hydrologic_features">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Guzm&#x00e1;n Naranjo</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Becker</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Statistical Bias Control in Typology.</article-title>In:
+                    <italic toggle="yes">Linguistic Typology</italic>.<year> 2021</year>.
+                    <pub-id pub-id-type="doi">10.1515/lingty-2021-0002</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Guzm&#x00e1;n Naranjo</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>J&#x00e4;ger</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>Euclide, the crow, the wolf and the pedestrian: distance metrics for linguistic typology - Dataset.</data-title>Version 1. Also supported by the Emmy Noether project &#x2019;Bayesian modelling of spatial typology&#x2019;, Grant number: (project number 504155622).
+                    <source>
+                        <italic toggle="yes">Zenodo.</italic>
+                    </source>
+               <year> 2023</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.7973820">http://www.doi.org/10.5281/zenodo.7973820</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Guzm&#x00e1;n Naranjo</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mertner</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Estimating areal effects in typology: A case study of African phoneme inventories.</article-title>In:
+                    <italic toggle="yes">Linguistic Typology</italic>ahead of press.<year> 2022</year>.
+                    <pub-id pub-id-type="doi">10.1515/lingty-2022-0037</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kaiping</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A network for simulating pre-colonial migration in the Americas.</article-title>In:
+                    <italic toggle="yes">Santa Barbara: UC Santa Barbara: Center for Spatial Studies</italic>.<year> 2021</year>.
+                    <pub-id pub-id-type="doi">10.25436/E21598</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Koile</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Chechuro</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Moroz</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Geography and language divergence: The case of Andic languages.</article-title>
+                    <source>
+
+                        <italic toggle="yes">PLoS One.</italic>
+               </source>
+               <year> 2022</year>;<volume>17</volume>(<issue>5</issue>):<fpage>e0265460</fpage>.
+                    <pub-id pub-id-type="pmid">35617249</pub-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0265460</pub-id>
+                    <pub-id pub-id-type="pmcid">9135239</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Liljegren</surname>
+                            <given-names>H</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Gender Typology and Gender (in) Stability in Hindu Kush Indo-Aryan Languages</article-title>. In:
+                    <italic toggle="yes">Grammatical Gender and Linguistic Complexity</italic>. Ed. by Francesca Di Garbo, Bruno Olsson, and Bernhard W&#x00e4;lchli. Vol. 1 General issues and specific studies. Studies in Diversity Linguistics 26. Berlin: Language Science Press,<year>2019</year>;<volume>1</volume>:<fpage>279</fpage>&#x2013;<lpage>328</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.semanticscholar.org/paper/Gender-typology-and-gender-(in)stability-in-Hindu-Liljegren/799c5d6615a87bfce86122b7232f550c001b5ee1">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Liljegren</surname>
+                            <given-names>H</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Hindu Kush-Karakorum and Linguistic Areality.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Journal of South Asian Languages and Linguistics.</italic>
+               </source>
+               <year>2020</year>;<volume>7</volume>(<issue>2</issue>):<fpage>187</fpage>&#x2013;<lpage>233</lpage>.
+                    <pub-id pub-id-type="doi">10.1515/jsall-2021-2027</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Liljegren</surname>
+                            <given-names>H</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Kinship Terminologies Reveal Ancient Contact Zone in the Hindu Kush.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Linguist Typology.</italic>
+               </source>
+               <year>2022</year>;<volume>26</volume>(<issue>2</issue>):<fpage>211</fpage>&#x2013;<lpage>245</lpage>.
+                    <pub-id pub-id-type="doi">10.1515/lingty-2021-2080</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Liljegren</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Forkel</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Knobloch</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <data-title>Hindu Kush Areal Typology. Version v1.0 [Data set]</data-title>.
+                    <source>Zenodo</source>.<year>2021</year>.
+                    <pub-id pub-id-type="doi">10.5281/zenodo.4534221</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Luxen</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Vetter</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Real-time routing with OpenStreetMap data.</article-title>In:
+                    <italic toggle="yes">Proceedings of the 19th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. GIS &#x2019; 11</italic>. Chicago, Illinois: ACM.<year>2011</year>;<fpage>513</fpage>&#x2013;<lpage>516</lpage>.
+                    <pub-id pub-id-type="doi">10.1145/2093973.2094062</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Moran</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>McCloy</surname>
+                            <given-names>D, eds.</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>PHOIBLE 2.0</article-title>. Jena: Max Planck Institute for the Science of Human History.<year>2019</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://phoible.org/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Murawaki</surname>
+                            <given-names>Y</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Yamauchi</surname>
+                            <given-names>K</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A Statistical Model for the Joint Inference of Vertical Stability and Horizontal Diffusibility of Typological Features.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Lang Evol.</italic>
+               </source>
+               <year>2018</year>;<volume>3</volume>(<issue>1</issue>):<fpage>13</fpage>&#x2013;<lpage>25</lpage>.
+                    <pub-id pub-id-type="doi">10.1093/jole/lzx022</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Nikolaev</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Database of Eurasian Phonological Inventories: a research tool for distributional phonological typology.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Linguistics Vanguard.</italic>
+               </source>
+               <year>2018</year>;<volume>4</volume>(<issue>1</issue>).
+                    <pub-id pub-id-type="doi">10.1515/lingvan-2017-0050</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <mixed-citation publication-type="journal">
+                    <collab>OpenStreetMap contributors</collab>:
+                    <article-title>Planet dump retrieved from 
+                        <ext-link ext-link-type="uri" xlink:href="https://planet.osm.org">https://planet.osm.org</ext-link>
+                    </article-title>.<year>2017</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.openstreetmap.org.">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Padgham</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sumner</surname>
+                            <given-names>MD</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>geodist: Fast, Dependency-Free Geodesic Distance Calculations. R package version 0.0.7</article-title>.<year>2021</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.scinapse.io/papers/3090285708">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ranacher</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Neureiter</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>van Gijn</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Contact-Tracing in Cultural Evolution: A Bayesian Mixture Model to Detect Geographic Areas of Language Contact.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J R Soc Interface.</italic>
+               </source>
+               <year>2021</year>;<volume>18</volume>(<issue>181</issue>):<fpage>20201031</fpage>.
+                    <pub-id pub-id-type="pmid">34376092</pub-id>
+                    <pub-id pub-id-type="doi">10.1098/rsif.2020.1031</pub-id>
+                    <pub-id pub-id-type="pmcid">8355670</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>van Etten</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>R Package gdistance: Distances and Routes on Geographical Grids.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Stat Softw.</italic>
+               </source>
+               <year>2017</year>;<volume>76</volume>(<issue>13</issue>):<fpage>21</fpage>.
+                    <pub-id pub-id-type="doi">10.18637/jss.v076.i13</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Van Gijn</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hammarstr&#x00f6;m</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>van de Kerke</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Linguistic Areas, Linguistic Convergence and River Systems in South America</article-title>. In:
+                    <italic toggle="yes">The Cambridge Handbook of Areal Linguistics</italic>. Ed. by Raymond Hickey. Cambridge Handbooks in Language and Linguistics. Cambride: Cambridge University Press,<year>2017</year>;<fpage>964</fpage>&#x2013;<lpage>996</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://pure.mpg.de/rest/items/item_2354747_6/component/file_2508807/content">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Verkerk</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Di Garbo</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sociogeographic Correlates of Typological Variation in Northwestern Bantu Gender Systems.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Language Dynamics and Change.</italic>
+               </source>
+               <year>2022</year>;<volume>12</volume>:<fpage>155</fpage>&#x2013;<lpage>223</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://brill.com/view/journals/ldc/12/2/article-p155_1.xml">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wang</surname>
+                            <given-names>IJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Topographic path analysis for modelling dispersal and functional connectivity: calculating topographic distances using the topoDistance r package.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Methods Ecol Evol.</italic>
+               </source>
+               <year>2020</year>;<volume>11</volume>(<issue>2</issue>):<fpage>265</fpage>&#x2013;<lpage>272</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/2041-210X.13317</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wichmann</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hammarstr&#x00f6;m</surname>
+                            <given-names>H</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Methods for Calculating Walking Distances.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Phys A Stat Mech Appl.</italic>
+               </source>
+               <year>2020</year>;<volume>540</volume>:<fpage>122890</fpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.physa.2019.122890</pub-id>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report33111">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17425.r33111</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Koile</surname>
+                        <given-names>Ezequiel</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33111a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-9387-971X</uri>
+                </contrib>
+                <aff id="r33111a1">
+                    <label>1</label>Department of Linguistic and Cultural Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>5</day>
+                <month>10</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Koile E</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33111"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16141.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This paper explores different methods measuring geographic distances, calculates these distances for all pairs of languages at a global scale, and tests their correlation with linguistic features. It provides a valuable resource for the researchers in linguistic and cultural evolution, and discusses which of these definitions are more suitable for studying different geographic areas and linguistic features.</p>
+            <p> </p>
+            <p> I think this is an interesting study which should be indexed after considering the following comments.</p>
+            <p> </p>
+            <p> 
+                <bold>Major comments</bold>
+            </p>
+            <p> </p>
+            <p> 
+                <underline>1 - Euclidean distance</underline>
+            </p>
+            <p> </p>
+            <p> I do not understand why Euclidean distance is considered here, at least with the current definition. I would understand Euclidean distance as a rectangular distance on a plane, where both coordinates (x,y) are defined in the same units. On a spherical surface, the closest equivalent to Euclidean would be geodesic/great-circle distance. Calculating distances like in Eq. (1), just as the squared sum of latitude and longitude in degrees, treating them as distances, is simply wrong. I understand that this calculation is computationally non-intensive, but so is geodesic distance, and much more exact.&#x00a0;</p>
+            <p> </p>
+            <p> Euclidean distance as defined here can be useful at relatively short scales, especially near the equator (and it is used in this way inside each area studied in the present paper, except for Northern Europe), but there should be at least some approximation such as the haversine formula, or UTM projection, as mentioned in Footnote 4.</p>
+            <p> </p>
+            <p> I disagree with the first statement in the sentence &#x201c;Euclidean distances assume that the earth is flat, and geodesic distances assume that the surface of the earth is a smooth sphere.&#x201d; for Euclidean distance as defined in Eq. (1) does not (only?) assume a flat surface of the earth, but a deformed one, where the E-W extension of Greenland at its maximum, from Etah at (long = -72&#x00b0;, lat = +78&#x00b0; ) to Danmarkshavn (long = -18&#x00b0;, lat = +77&#x00b0;) is larger than the maximal E-W extension of South America, from Piura in Peru (long = -80&#x00b0;, lat = -5&#x00b0;) to Natal in Brazil &#x00a0;(long = -35&#x00b0;, lat = -5&#x00b0;), while the first is 1,300km (54&#x00b0;) and the second one 5,000km (45&#x00b0;).</p>
+            <p> </p>
+            <p> The authors acknowledge this fact&#x02d0; &#x201c;However, for larger distances, and distance far away from the Equator, Euclidean distance can produce results which are very different from actual distances along the surface of the Earth.&#x201d;, but still use these metrics.</p>
+            <p> </p>
+            <p> The authors mention 4 references, two using either Euclidean or geodesic distances, and then two more using Euclidean distances either explicitly or implicitly. The first two do not use Euclidean distance as far as I understand. Murawaki and Yamauchi (2018) mentions&#x02d0;</p>
+            <p> </p>
+            <p> 
+                <italic>&#x201c;Languages were found to be associated with single-point geographical coordinates (longitude and latitude), as shown in Fig. 1. We constructed a spatial neighbor graph by linking all language pairs that were located within a distance of R km.&#x201d; &#x00a0;</italic>
+            </p>
+            <p> </p>
+            <p> Which I understand as geodesic distances, since these are measured in km.</p>
+            <p> </p>
+            <p> In Ranacher et al (2021):</p>
+            <p> </p>
+            <p> 
+                <italic>&#x201c;Distance is modelled as a cost function C, which assigns a non-negative value ci,j to each pair of locations i and j. Costs can be expressed by the Euclidean distance, great-circle distance, hiking effort, travel times, or any other meaningful property quantifying the effort to traverse geographical space.&#x201d;</italic>
+            </p>
+            <p> </p>
+            <p> It is not clear to me what they mean by Euclidean distance here, but could not find this used as in Eq.(1) in the further calculation of costs.</p>
+            <p> </p>
+            <p> As for the other references, it is true that Guzm&#x00e1;n Naranjo and Becker (2021) use it, although pointing out that this is a simplification:</p>
+            <p> </p>
+            <p> 
+                <italic>&#x201c;For simplicity, we use Euclidean distances between languages. This is, of course, a simplification. It would be fairly easy to use other distance metrics with a GP, e.g. geodesic distances or walking distances (Wichmann and Hammarstr&#x00f6;m 2020).&#x201d;</italic>
+            </p>
+            <p> </p>
+            <p> Finally, in Verkerk and Di Garbo (2022), I do not see this so clearly. Latitude and longitude are used as independent predictors (one would expect that latitude is more determinant for it is more directly related with temperature differences), e.g.&#x02d0;</p>
+            <p> </p>
+            <p> 
+                <italic>&#x201c;The languages with the four different types of gender system differ in their mapping onto these four nonlinguistic variables, with the differences between types being larger for longitude and current forest overlap, and smaller for number of L1 speakers and latitude.&#x201d;</italic>
+            </p>
+            <p> </p>
+            <p> In addition, these measures are used in the African continent, which is relatively close to the equator.</p>
+            <p> </p>
+            <p> 2 - Cross-comparison of case-studies</p>
+            <p> </p>
+            <p> I understand that the data available is not completely homogeneous for different areas, but I find it confusing that different linguistic measures are used in the different geographic areas&#x02d0;</p>
+            <p> </p>
+            <p> 
+                <italic>&#x201c;In terms of types of linguistic features, the Hindu-Kush data combines phonology, lexical and syntactic features; the South America data exclusively comprises word order features; and the European data is made up of phoneme inventories.&#x201d;&#x00a0;</italic>
+            </p>
+            <p> </p>
+            <p> I do not see why these different features would be expected to behave in the same way. If there are divergences from the expected correlations with geographic distance, is this because of the topography of the region or because the features studied are affected to a greater/lesser extent by language contact? It would be interesting to test at least one group of features in all 3 geographic scenarios, or split the features in a comparable way (e.g. those in the Hindu-Kush into phonological, lexical and syntactic, to check which ones are more affected by contact).</p>
+            <p> </p>
+            <p> More generally, the use of vocabulary like &#x201c;...topographic distance tends to 
+                <italic>outperform</italic>&#x00a0;the other distance metrics&#x2026;&#x201d; gives the idea of one distance being &#x201c;better&#x201d; than others in general. It should be clear in the writing that this outperformance is always a correlation with linguistic features, assuming that shorter geographic distances (in any of its flavors) is responsible for higher similarity among these features among languages.</p>
+            <p> </p>
+            <p> 3 - Report of main results</p>
+            <p> </p>
+            <p> I do not agree with statements such as (Abstract)&#x02d0;</p>
+            <p> 
+                <italic>&#x201c;We evaluate these distance metrics on three case studies and show that topographic distance tends to outperform the other distance metrics, but geodesic distances can be used as an adequate approximation in some cases.&#x201d;</italic>
+            </p>
+            <p> </p>
+            <p> Or, more specific outputs for each case study such as&#x02d0;</p>
+            <p> </p>
+            <p> 
+                <italic>&#x201c;For the Hindu-Kush dataset, the walking distances showed a clear advantage over the other distance metrics&#x2026;&#x201d;&#x00a0;</italic>
+            </p>
+            <p> </p>
+            <p> This is not so clear to me from Table 1. It seems to have performed as well as topographic and geodesic distances.</p>
+            <p> </p>
+            <p> 
+                <italic>&#x201c;However, for the European dataset, these results are reversed. Both the topographic and Euclidean distances performed considerably better than the walking distance and geodesic distance.&#x201d;&#x00a0;</italic>
+            </p>
+            <p> </p>
+            <p> This is also not clear from Table 2. Geodesic distances perform clearly better than the other 3, which perform approximately equally in all 3 metrics.</p>
+            <p> </p>
+            <p> </p>
+            <p> 
+                <bold>Minor comments</bold>
+            </p>
+            <p> </p>
+            <p> General:</p>
+            <p> </p>
+            <p> Numbering of sections: this is a little confusing along the paper. All sections start with the number 5: 5.1, 5.2,... Unless this is the fifth chapter of a collection, please correct. At the end of the paper, Sections 6-8 appear for Data and Software availability, Author contributions, and Acknowledgments respectively.</p>
+            <p> </p>
+            <p> As for the subsections (sections after the 5.), it seems that some of them are incorrectly labeled. For example, at the end of the Introduction, Sections 5.2, 5.4, and 5.7 are mentioned only, while all should be referred: 5.3 is Materials and methods, and I believe 5.4-5.6 should be sub-sections of the same section (Case studies 1, 2, and 3).</p>
+            <p> </p>
+            <p> Abstract:&#x00a0;</p>
+            <p> </p>
+            <p> Delete the first instance of &#x201c;We evaluate these distances.&#x201d; and its corresponding line break.</p>
+            <p> </p>
+            <p> Page 3, left column (in the following, P3L):</p>
+            <p> </p>
+            <p> Last paragraph Introduction: Rephrase according to new numeration (see above).</p>
+            <p> </p>
+            <p> First paragraph Section 5.2:</p>
+            <p> </p>
+            <p> (x1,y1) and (x2,y2) : replace 1 &#x2192; a, 2 &#x2192; b for consistency with Eq. (1)</p>
+            <p> </p>
+            <p> Eq.(1): missing exponent 2 in the second term on the right hand side</p>
+            <p> </p>
+            <p> P3R:</p>
+            <p> Footnote 3: why is the formula for computing the geodesic distance convoluted? Clarify and add a reference to its definition.</p>
+            <p> </p>
+            <p> Last line: &#x201c;but we include&#x201d; &#x2192; &#x201c;considering&#x201d;</p>
+            <p> </p>
+            <p> P4L:</p>
+            <p> </p>
+            <p> First paragraph:</p>
+            <p> </p>
+            <p> &#x201c;northern most&#x201d; &#x2192; &#x201c;northernmost&#x201d; (same for southernmost)</p>
+            <p> </p>
+            <p> &#x201c;ram&#x201d; &#x2192; &#x201c;RAM&#x201d;</p>
+            <p> </p>
+            <p> Second paragraph:&#x00a0;</p>
+            <p> </p>
+            <p> Is this formula correct, symmetric for horizontal and vertical distances? It would be more realistic to add a factor, v &#x2192; a.v (a &gt;1), and probably test the case studies with different values of a, compared to a = 1?</p>
+            <p> </p>
+            <p> Complete the symbol for square root inline (if typographically possible).</p>
+            <p> </p>
+            <p> Last paragraph:&#x00a0;</p>
+            <p> </p>
+            <p> &#x201c;... but it attempts to calculate the travel time using a function to approximate hiking times, instead of taking the actual distance directly&#x201d;. Related to the previous comment, there is only a dimensional factor between time and distance, the latter weighted by a higher cost of moving vertically.</p>
+            <p> </p>
+            <p> &#x201c;77 languages in the Americas&#x201d; &#x2192; &#x201c;languages spoken in 77 villages in the Caucasus&#x201d;</p>
+            <p> </p>
+            <p> P4R:</p>
+            <p> </p>
+            <p> 1st paragraph:</p>
+            <p> </p>
+            <p> &#x201c;For the purposes of this paper, the walking distance between two points is the distance along mapped roads, walkways and paths that connect those two points. The idea is that road networks are a close representation of the spatial separation between populations because they are the actual pathways used for communication between communities.&#x201d;</p>
+            <p> </p>
+            <p> This might be reasonable for current language contacts, but be aware that in any study involving historic changes, even recent ones, these mapped pathways can differ to a great extent</p>
+            <p> </p>
+            <p> 2nd paragraph:</p>
+            <p> </p>
+            <p> Open Stree Maps &#x2192; Open Street Maps</p>
+            <p> </p>
+            <p> OSRM = Open Street Routing Machine. Define this when first introduced.</p>
+            <p> </p>
+            <p> Footnote 4&#x02d0; Explain the meaning of UTM.</p>
+            <p> </p>
+            <p> P5:</p>
+            <p> </p>
+            <p> Figure 1:</p>
+            <p> </p>
+            <p> It should have a different caption, such as &#x201c;Example of distances&#x2019; comparison for three Hindu-Kush languages&#x201d;</p>
+            <p> </p>
+            <p> Figure 2&#x02d0;</p>
+            <p> </p>
+            <p> The caption should be &#x201c;Hindu-Kush languages&#x201d;.</p>
+            <p> </p>
+            <p> Figures 1 and 2 (and probably 4 and 5):&#x00a0;</p>
+            <p> </p>
+            <p> Add an inset map, it is not very clear what part of the world we are considering beyond the lat and long values.</p>
+            <p> </p>
+            <p> Add units for elevation (meters?)</p>
+            <p> </p>
+            <p> P5L:</p>
+            <p> </p>
+            <p> Last paragraph: &#x201c;The choice of dataset was&#x2026;&#x201d;: dataset &#x2192; datasets</p>
+            <p> </p>
+            <p> P6L:</p>
+            <p> </p>
+            <p> First paragraph:</p>
+            <p> </p>
+            <p> &#x201c;...a logistic regression with a GP as predictor.&#x201d; &#x2192; as a/the predictor ?</p>
+            <p> </p>
+            <p> Footnote 10:</p>
+            <p> </p>
+            <p> &#x201c;...the walking distances do not necessarily satisfy the triangle inequality.&#x201d;</p>
+            <p> </p>
+            <p> Could you please expand on this? If d(A,C) &lt; d(A,B) + d(B,C), why not move from A to C through B instead, reducing the magnitude of &#x00a0;d(A,C) and satisfying the triangle inequality always?</p>
+            <p> </p>
+            <p> P6R:</p>
+            <p> </p>
+            <p> &#x201c;from phonology to syntax&#x201d; &#x2192; &#x201c;from phonology and syntax&#x201d;.</p>
+            <p> </p>
+            <p> P7L:</p>
+            <p> </p>
+            <p> Top: feature &#x2192; features</p>
+            <p> </p>
+            <p> Figures 3, 7, and 9:</p>
+            <p> </p>
+            <p> Add a dashed vertical line at balanced accuracy = 0.5 (all figures have different x-axis scale, so this would help comparability as well).</p>
+            <p> </p>
+            <p> Rename the x axis as &#x201c;balanced accuracy&#x201d;.</p>
+            <p> </p>
+            <p> The coloured dots are not easily readable in the current format. Even in Fig 9, where there are few features in the y-axis, the jittering applied does not help to understand which dot belongs to each feature. I suggest trying a different visualization, e.g. horizontal lines matching all 4 dots for each feature, and different icon shapes for these 4 dots (the colors can be kept besides the shapes). Also, reordering the y-axis by their value in the x-axis (see next item) can help in cases such as Fig 7, with a great proportion of dots on the x=0.5 line.</p>
+            <p> </p>
+            <p> Features in each case are ordered in (inverse) alphabetical order. It might be easier to read if they were ordered differently, either by (average? minimum?) value of accuracy, or by some meaningful grouping (e.g. phoneme types in Fig 7).</p>
+            <p> </p>
+            <p> Tables 1-3:</p>
+            <p> </p>
+            <p> The row order seems arbitrary. Reorder either from simpler to more complex (euclidean, geodesic, topographic, walking) or by some of the values featured, e.g. &#x201c;n. Times best accuracy&#x201d;).</p>
+            <p> </p>
+            <p> P8L:</p>
+            <p> </p>
+            <p> Last paragraph:&#x00a0;</p>
+            <p> </p>
+            <p> &#x201c;from 69 to 77.5 longitude&#x2026;&#x201d; add &#x201c;degrees&#x201d; or the degrees symbol.</p>
+            <p> </p>
+            <p> &#x201c;Because walking distances are sensitive to there being an accessible road from the point in question,&#x201d; &#x2192; &#x201c;Because walking distances are sensitive to the existence of an accessible road from the point in question,&#x201d;</p>
+            <p> </p>
+            <p> P8R:</p>
+            <p> </p>
+            <p> &#x201c;These are shown in Figure 4 and Figure 5&#x201d;: I think this sentence belongs to the previous paragraph.</p>
+            <p> </p>
+            <p> &#x201c;...Euclidean distance build&#x2026;&#x201d; &#x2192; &#x201c;...Euclidean distances build &#x2026;&#x201d;</p>
+            <p> </p>
+            <p> Figures 4 and 5:</p>
+            <p> </p>
+            <p> It is not very straightforward to understand these figures. Why would conditional effects give predictions on presence or absence of a feature? Shouldn&#x2019;t they only predict similarity among closer locations? If they are based on the distances to each language, isn&#x2019;t it circular?</p>
+            <p> </p>
+            <p> Also, why is the value &#x201c;Indeterminate&#x201d; present in Fig 5 but not in Fig 4? If it means NA, it should be included in Fig 4 as well (unless there are no NA&#x2019;s in this variable). If this is a third category, is this not a binary feature? Also, please be consistent in the choice of symbols (the triangle means present in Fig 4 and indeterminate in Fig 5).</p>
+            <p> </p>
+            <p> P8R:</p>
+            <p> </p>
+            <p> &#x201c;...in the upper left quadrant for Eurasia&#x2026;&#x201d; Do you mean in the Northwestern quadrant of Eurasia? If so, according to Fig 6, this looks more like Western Eurasia (= Europe mostly).</p>
+            <p> </p>
+            <p> Footnote 15: Phoibl &#x2192; Phoible</p>
+            <p> </p>
+            <p> &#x201c;It is clear in this case that most features are hard to predict, and that they do not show real patterns.&#x201d; Do you mean areal patterns?</p>
+            <p> </p>
+            <p> P9R:</p>
+            <p> </p>
+            <p> &#x201c;...for the worlds languages.&#x201d; &#x2192; world&#x2019;s.</p>
+            <p>Are sufficient details of methods and materials provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Is the rationale for creating the dataset(s) clearly described?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Yes</p>
+            <p>Are the protocols appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Linguistic diversity, quantitative methods.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report33110">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17425.r33110</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Di Garbo</surname>
+                        <given-names>Francesca</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33110a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r33110a1">
+                    <label>1</label>Department of Language Sciences; CNRS Laboratory Parole et Langage (UMR 7309), University of Aix-Marseille, Aix-en-Provence, France</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>2</day>
+                <month>10</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Di Garbo F</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33110"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16141.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>
+                <bold>Summary and general comments</bold>
+            </p>
+            <p> </p>
+            <p> This paper introduces two novel techniques for computing distances between languages. The two distance metrics created through these techniques are a measure of topographic distance and one of walking distance between language communities. The paper illustrates the technical implementation of the two measures and shows how they can be used to study linguistic areality and contact effects from a typological perspective. The accuracy of the two metrics is compared against two distance metrics previously used in typological studies of language contact: Euclidean distance and geodesic distance. The four metrics are applied to three existing typological databases, each focusing on linguistic features of three established linguistic areas: the Hindu-Kush, Europe, and South America. The studies show that the choice of distance metric can significantly affect the type of generalizations that be drawn from a model, and that it is hard to establish a priori which measure would work best to capture areality effects in a given dataset. The results presented in the paper suggest that, in general, topographic and geodesic distance perform most consistently across the three datasets.</p>
+            <p> </p>
+            <p> The paper makes an important methodological contribution to the study of spatial effects on the distribution of linguistic diversity. Firstly, because it enriches the range of methods typologists can use to control for areal biases in the distribution of structural properties of languages. Secondly, because the method offers a promising new way to account for areality bottom-up. This is especially crucial not only for the purpose of bias control, but also for detecting linguistic areas and/or areality effects in an exploratory fashion, for instance by testing hypotheses about the areal spread of given linguistic phenomena independently of pre-established areal groupings.</p>
+            <p> </p>
+            <p> I would encourage the authors to develop a bit more on this second point, which does not emerge so neatly from the current version of the text, but, which, I believe, is of great potential for linguistic typology. Have the authors thought, for instance, about applying their new measures to the newly published 
+                <ext-link ext-link-type="uri" xlink:href="https://grambank.clld.org/">Grambank dataset</ext-link>?&#x00a0;This newly released database, the largest worldwide typological database to date, could offer an important test ground to further test the validity of the two distance metrics and, more generally, to detect areality effects bottom-up.</p>
+            <p> </p>
+            <p> In addition to the above-mentioned suggestion, I have a number of more minor comments and suggestions of revision, which are highlighted below.</p>
+            <p> </p>
+            <p> 
+                <bold>Minor comments and suggestions </bold>
+            </p>
+            <p> </p>
+            <p> 
+                <bold>Abstract</bold>
+            </p>
+            <p> </p>
+            <p> 
+                <italic>"We evaluate these distance metrics on three case studies and show&#x00a0;</italic>
+                <italic>that topographic distance tends to outperform the other distance&#x00a0;</italic>
+                <italic>metrics, but geodesic distances can be used as an adequate a</italic>
+                <italic>pproximation in some cases."</italic>
+            </p>
+            <p> </p>
+            <p> This passage can be a bit misleading (when compared to the rest of the paper). It seems to imply that topographic distance is consistently better than the other three measures, while, in fact, depending on the model and the phenomena at stake, things can vary. I would suggest the authors to rephrase this passage by framing things in line with what stated in the concluding section (cf. 
+                <italic>From the four distances, the&#x00a0;</italic>
+                <italic>topographic and geodesic distances showed the most consistent&#x00a0;</italic>
+                <italic>performance across datasets, and would be likely to&#x00a0;</italic>
+                <italic>be reasonable first choices. At the same time, in most cases,&#x00a0;</italic>
+                <italic>the Euclidean distances were not much worse than the other distances, and might be a good enough approximation in cases&#x00a0;</italic>
+                <italic>for which performance is critical, or the dataset cover very&#x00a0;</italic>
+                <italic>large areas, and the point-location information is not very&#x00a0;</italic>
+                <italic>precise.</italic>)</p>
+            <p> </p>
+            <p> 
+                <bold>Page 3</bold>
+            </p>
+            <p> </p>
+            <p> 
+                <italic>"Section 5.4 </italic>
+                <italic>describes a case study on</italic>
+            </p>
+            <p> 
+                <italic>modelling potential contact with the different datasets."</italic>
+            </p>
+            <p> </p>
+            <p> In the abstract, and in the rest of the paper, the modelling study is presented as a series of three independent case studies. Please rephrase in order to make things consistent.</p>
+            <p> </p>
+            <p> 
+                <bold>Page 6</bold>
+            </p>
+            <p> </p>
+            <p> Figure 2. European languages &gt; Hindu-Kush languages</p>
+            <p> </p>
+            <p> </p>
+            <p> 
+                <bold>Page 8, about the interpretation of Table 2 and of the European case study</bold>
+            </p>
+            <p> </p>
+            <p> 
+                <italic>"However, for those features that do show areal&#x00a0;</italic>
+                <italic>patterns, both the Euclidean and topographic distances outperform&#x00a0;</italic>
+                <italic>the geodesic and walking distance metrics."</italic>
+            </p>
+            <p> </p>
+            <p> Is this really the case? Unless I interpret things wrongly, judging from Table 2, it seems that it is the topographic and geodesic distances that outperform the other distance measures in this case. Could you please clarify?</p>
+            <p>Are sufficient details of methods and materials provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Is the rationale for creating the dataset(s) clearly described?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Yes</p>
+            <p>Are the protocols appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Linguistic diversity, linguistic typology, language contact</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report33113">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17425.r33113</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Dediu</surname>
+                        <given-names>Dan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33113a1">1</xref>
+                    <xref ref-type="aff" rid="r33113a2">2</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-0704-6365</uri>
+                </contrib>
+                <aff id="r33113a1">
+                    <label>1</label>Department of Catalan Philology and General Linguistics, University of Barcelona, Barcelona, Catalonia, Spain</aff>
+                <aff id="r33113a2">
+                    <label>2</label>Catalan Institute for Research and Advanced Studies (ICREA), Barcelona, Spain</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>29</day>
+                <month>6</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Dediu D</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33113"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16141.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This paper introduces two new ways of computing between-languages distances and provides directly usable datasets for these (plus two &#x201c;older&#x201d; methods). Given the general importance of ways of quantifying space in many cross-linguistic (and, more generally, cross-cultural) studies, I think this is an important addition to the literature, especially given the massive computational resources needed to compute one of these new distances, resources that are now readily available to the &#x201c;average&#x201d; language scientist.</p>
+            <p> </p>
+            <p> However, I do have a few suggestions and questions that might help improve the paper. In their (approximate) order of appearance in the paper:</p>
+            <p> </p>
+            <p> Abstract: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Remove 1
+                            <sup>st</sup> &#x201c;We evaluate these distances.&#x201d; (and, in general, the papers seems to in need of a careful reading).</p>
+                    </list-item>
+                    <list-item>
+                        <p>After having read the paper, I think the last sentence is a bit misleading, in that it is far from clear to me (and to the authors themselves, in fact) that &#x201c;topographic distance tends to outperform the other[s]&#x201d; in a meaningful and general way &#x2013; I think this should be toned down as the paper is not about results but about the method and the distance matrices IMHO.</p>
+                    </list-item>
+                </list> English language: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Please check prepositions, spelling, plural, etc in: "warranted in some situations"; "leads to bias estimates"; "used for typologists and linguists";&#x00a0;"simplest and fasted distance metric";&#x00a0;"Open Stree Maps"; "show real patterns"; "but we chose Phoibl"; "before in a large scale"; "for the worlds languages";&#x00a0;"The simplest type of distance metric we will discuss here are Euclidean distances" -&gt; &#x201c;is&#x201d;?;&#x00a0;"the northern most and southern most areas" -&gt; write connected (&#x201c;northernmost&#x201d;)?; "distances, faulting to topographic" -&gt; defaulting?; "Euclidean distance build" -&gt; &#x201c;distances build&#x201d; or &#x201c;distance builds&#x201d;</p>
+                    </list-item>
+                </list> P3: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>missing ^2 after (y1-y2) in d_e formula.</p>
+                    </list-item>
+                </list> P4: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Para &#x201c;Given a DEM&#x2026;&#x201d; -&gt; please reformulate to make understanding this process easier the first time one reads this. My suggestion would be to 1
+                            <sup>st</sup> clarify that you compute the graph between all points in the DEM and then you use these to compute the minimum distance between the points one is actually interested in.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Same para: please justify why sqrt{h^2 + v^2} as it is not immediately obvious why the h and v dimensions should be treated (a) separately and (b) have equal weight. Naively I would have expected something more like sqrt(x^2 + y^2 + w*v^2} where w is an (empirical) weight qualifying the relative &#x201c;costs&#x201d; of vertical vs horizontal displacements?</p>
+                    </list-item>
+                    <list-item>
+                        <p>Para &#x201c;However, even at a &#x2026;&#x201c; -&gt; I was wondering if this would not work as a general solution in that maybe one can consider overlapping neighborhoods of the points of interest, but of course defining these neighborhoods brings in assumptions about the relative costs of vertical vs horizontal displacements (see above), but I guess it would be something worth discussing in the paper (if not testing)?</p>
+                    </list-item>
+                </list> P5: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>&#x201c;PGs are built&#x201d; -&gt; GPs?</p>
+                    </list-item>
+                </list> 
+         </p>
+            <p> Figure 1 (and figures in general): 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The color palette is atrocious for people with abnormal color perception! It is impossible the distinguish the first 3 distances on the map. Please try to use something like viridis or equivalent.</p>
+                    </list-item>
+                </list> Footnote 10: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Please explain why the triangle inequality is important for the GP and how bad their violation is (to footnote hints but I think this needs a better development).</p>
+                    </list-item>
+                </list> Eq 9: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The &#x201c;()&#x201d; after &#x201c;GP&#x201d; are meaningful?</p>
+                    </list-item>
+                </list> Figure 2: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>That dark red (I guess) for the dots is very hard to see (for me) against the grayscale of the elevation.</p>
+                    </list-item>
+                    <list-item>
+                        <p>&#x201c;European&#x201d; -&gt; &#x201c;Hindu-Kush&#x201d;.</p>
+                    </list-item>
+                </list> P7 (and elsewhere): 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>please justify these cut-off points (here, &lt;10 and &gt;49 &#x2013; especially 49 seems a bit weird).</p>
+                    </list-item>
+                    <list-item>
+                        <p>2
+                            <sup>nd</sup> sentence and following of 1
+                            <sup>st</sup> para of section 5.4.2 &#x201c;This metric&#x2026;&#x201d; -&gt; this is partially repeating stuff that was already mentioned -&gt; please move above.</p>
+                    </list-item>
+                </list> Figure 3: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>could you also use symbols as well as colors? Highlight the 0.5 vertical line. Order the features in a meaningful way? Connect the same-color points by lines as well (resulting in an easier-to-follow &#x201c;profile&#x201d; but make it clear this does not imply any &#x201c;linkage&#x201d; between features). For the vertical jitter, either use the same jitter for all features and/or draw alternating colored bands by feature to make it clear which point belongs to each feature (now it is pretty hard to see, especially combined with the color scheme).</p>
+                    </list-item>
+                </list> P8 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>&#x201c;What this shows is that it is not instantly clear that one distance metric is better than the others in all cases.&#x201d; -&gt; I think the message is less optimistic here, namely that it really seems to depend on the feature considered, which is interesting in itself.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Table 1 (and the others): the mean accuracy is hard to judge without some measure of variation (IQR, stddev&#x2026;) &#x2013; maybe better show the actual distribution (histogram/density)? (also, they look very similar to my eye &#x2013; some statistical tsting would be useful?) Also n.times best accuracy is not very informative without knowing by what margin these were &#x201c;best&#x201d;.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Para &#x201c;One thing which&#x2026;&#x201d; I think this is *very* important and should be discussed in the Discussion, together with the idea that languages are not points.</p>
+                    </list-item>
+                    <list-item>
+                        <p>&#x201c;languages, we randomly chose only one phoneme inventory for each language.&#x201d; -&gt; I know this is sometimes done, but it does not mean it is a good idea: sometimes, depending on the question, different inventories for the same language in PHOIBLE give very different answers&#x2026;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Again, justify the cut-off points, but here this might be even more important because, as argued for SegBo (see, e.g. Eisen, E. (2019)
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-33113-1">1</xref>
+                            </sup>)&#x00a0;when looking at segment borrowing it is the segments with around 50% frequency that might carry the best signal.</p>
+                    </list-item>
+                </list> Footnote 16: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>I am confused as I think you mention that for H-K languages there was also some missing data?</p>
+                    </list-item>
+                </list> P9: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>&#x201c;For the Hindu-Kush dataset, the walking distances showed a clear advantage over the other distance metrics&#x201d; -&gt; I am not sure this is the message I got from the results&#x2026;</p>
+                    </list-item>
+                </list> Figure 6: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>add elevation legend (also make it clear that the legend&#x2019;s values are *global*).</p>
+                    </list-item>
+                </list> Finally, two general comments: 
+                <list list-type="order">
+                    <list-item>
+                        <p>Language are not points: I clearly agree with the authors&#x2019; take in the paper (I do the same myself) but I think this point should at least be discussed and maybe ways of addressing it wrt the two new distances mentioned (if any)?</p>
+                    </list-item>
+                    <list-item>
+                        <p>The right benchmark for these distances: I agree with the authors that this is not the point of this paper, but still choosing the right benchmark might make the difference between these two new distances being actively embraced by the community or lingering in the literature&#x2026; Given that *most* actual uses of distances is to *control for* (i.e., remove) contact, maybe this would be a more appropriate benchmark? Also, (balanced) accuracy might not be the best (or, at least, the only) quantification of success here, but instead some sort of formal model comparison as well? And, finally, looking at known linguistic areas (e.g., the Balkans, which has non-trivial topography) might help? These are just ideas (and half-digested at that), of course, but I think the authors might want to at least discuss them given the amount of work (and computational power) already expended on this project?</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Are sufficient details of methods and materials provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Is the rationale for creating the dataset(s) clearly described?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Yes</p>
+            <p>Are the protocols appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Linguistic diversity, cross-linguistic studies, statistics</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-33113-1">
+                    <label>1</label>
+                    <mixed-citation>
+                        <person-group person-group-type="author"/>:
+                        <article-title>The Typology of Phonological Segment Borrowing</article-title>.
+                        <source>
+                            <italic>Thesis for: MA in linguistics. Hebrew University of Jerusalem</italic>
+                        </source>.<year>2019</year>;
+                        <elocation-id>10.13140/RG.2.2.36245.55529</elocation-id>
+                        <pub-id pub-id-type="doi">10.13140/RG.2.2.36245.55529</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+    </sub-article>
+</article>

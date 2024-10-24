@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="other"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.13138.2</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Essay</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Building a safety buffer for European food security: the role of small-scale food production and local ecological and gastronomic knowledge in light of COVID-19</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 2; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>S&#x00f5;ukand</surname>
+                        <given-names>Renata</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-0413-8723</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Kalle</surname>
+                        <given-names>Raivo</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2175-8617</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Fontefrancesco</surname>
+                        <given-names>Michele Filippo</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Pieroni</surname>
+                        <given-names>Andrea</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2302-6380</uri>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>DAIS, Ca&#x2019; Foscari University of Venice, Mestre, 30172, Italy</aff>
+                <aff id="a2">
+                    <label>2</label>University of Gastronomic Sciences, Pollenzo, 12042, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:raivo.kalle@mail.ee">raivo.kalle@mail.ee</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>10</month>
+            <year>2021</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2021</year>
+            </pub-date>
+         <volume>1</volume>
+            <elocation-id>10</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>18</day>
+                    <month>10</month>
+               <year>2021</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 S&#x00f5;ukand R et al.</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/1-10/pdf"/>
+            <abstract>
+                <p>The lockdown caused by the coronavirus 2019 disease (COVID-19) has created a situation in which food availability is affected not only by the availability of money but also by the availability of food itself. On the basis of five pillars, including 1) supporting community-based farming, 2) defending small firms, 3) developing narratives on the high value of local food, 4) encouraging subsistence gardening and foraging in the wild, and 5) promoting local ecological and gastronomic knowledge, the essay points a way forward to attain greater sustainability and resilience of safe food chains that starts with reassessing the relevance of local food systems.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>food security</kwd>
+                <kwd>traditional ecological knowledge</kwd>
+                <kwd>Europe</kwd>
+                <kwd>COVID-19</kwd>
+                <kwd>local production</kwd>
+                <kwd>foraging</kwd>
+                <kwd>education</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>714874</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Research Council (ERC) under the European Union&#x2019;s Horizon 2020 research and innovation programme (grant agreement No [714874]), Ethnobotany of divided generations in the context of centralization (DiGe).</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+        <notes>
+            <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 1</title>
+                <p>This version of the essay contains some major additions in the section on wild foraging (demonstrating that it is an activity well integrated into socio-ecological systems and therefore needs to be fostered on different levels) and some smaller additions on gardening and organic farming aspects. We have incorporated a majority of the references suggested by the reviewers and have also introduced some newer research on the economic aspect of organic farming. We also stressed that we propose a way to strengthen the flexibility of existing food systems in case of sudden need and therefore are not addressing the food-inequality problem which is an issue of its own and would enlarge the essay beyond the intended limits.</p>
+            </sec>
+        </notes>
+    </front>
+    <body>
+        <sec>
+            <title>Restarting from the local level</title>
+            <p>Coronavirus disease 2019 (COVID-19) has pointed out a crucial weakness of European food security. Since their early implementation, European agricultural policies have dealt with issues of food security. However, they have focused mainly on achieving food security on an international level, within the European community, while overlooking the importance of local and regional levels; indeed, in case of a food shortage in a specific region, everything could be procured within the broader space of the European market. This strategy has deeply affected the organization of agricultural practices on farms, pushing agriculture toward production intensification and specialization (
+                <xref ref-type="bibr" rid="ref-6">Emery 
+                    <italic toggle="yes">et al.,</italic> 2017</xref>; 
+                <xref ref-type="bibr" rid="ref-14">Stock 
+                    <italic toggle="yes">et al.,</italic> 2014</xref>). It has also changed the role of traditional food practices. In particular, locally foraged food has been turning into haute-cuisine (
+                <xref ref-type="bibr" rid="ref-8">&#x0141;uczaj 
+                    <italic toggle="yes">et al.,</italic> 2012</xref>) and small-scale production or subsistence gardening into a niche activity accessible to the few enthusiasts &#x2013; visible, yet marginal. The lockdown caused by COVID-19 has created a situation unprecedented since WWII, in which food availability is affected not only by the availability of money but also by the availability of food itself.</p>
+            <p>Closed borders have caused delays in food supplies coming from remote regions, and also the inability to produce locally grown food in systems based on a foreign workforce (see also 
+                <xref ref-type="bibr" rid="ref-9">Nori &amp; Farinella, 2020</xref>). In the worldwide media, there have been numerous reports on failures to collect vegetables from cultivated fields in spring 2020 (e.g., asparagus in Germany, or tomatoes in Italy). At the same time, other springtime tasks, such as land preparation and planting, were restricted due to the shortage of field workers,  of whom a significant proportion are not local. In Italy, for example, farmer associations pointed out the scarcity of farm laborers that were required for the completion of the harvest, while in Estonia, dairy farm owners complained that Ukrainian workers, who were not able to return from spring vacation, are irreplaceable, as they have the requisite skills and will work for considerably lower wages compared to locals.</p>
+            <p>The circumstances we are experiencing call for a reimagining of agricultural policies. In this process, that necessitates the contribution of professionals, policymakers, researchers and civil society, we want to highlight several factors that must be considered for the mitigation of risks related to food availability in times of crisis. Leaving aside the issue of food inequality, which would open discussion on the consumer dimension not addressed in this essay, we propose a set of five safety pillars which could serve as a temporary buffer for turbulent times:</p>
+            <p>1) Supporting community-based farming.</p>
+            <p>2) Defending small firms.</p>
+            <p>3) Developing narratives on the high value of local food.</p>
+            <p>4) Encouraging subsistence gardening and foraging in the wild.</p>
+            <p>5) Promoting local ecological and gastronomic knowledge.</p>
+        </sec>
+        <sec>
+            <title>Supporting community-based farming</title>
+            <p>The first aspect is closely related to the &#x201c;small is beautiful&#x201d; concept defined by British economist Ernst Friedrich Schumacher (1911&#x2013;1977) in the 1970s (
+                <xref ref-type="bibr" rid="ref-13">Schumacher, 2011</xref>). The need for workforce recruitment primarily relates to large-scale farming and animal husbandry. Heavily relying on the work of people external to the local community (
+                <xref ref-type="bibr" rid="ref-5">D'souza &amp; Ikerd, 1996</xref>), the past few months have shown that these farms are not sustainable in the event of being cut-off from external resources. Farms which operate using locally available resources, including the workforce, are potentially more sustainable (
+                <xref ref-type="bibr" rid="ref-6">D'souza &amp; Ikerd, 1996</xref>) and can withstand the consequences of a lockdown or any other similar disturbance in food availability. 
+                <xref ref-type="bibr" rid="ref-10">Jouzi 
+                    <italic toggle="yes">et al.</italic> (2017)</xref> stated: "Consequently, poor farmers can increase their yield by applying OF [organic farming] practices which are mostly based on agroecological principles". However, small (organic) farms are less demanding on the environment and yield proportionally more profit than large ones relying on subsidies, as shown in a recent study (before Brexit) in the UK (
+                <xref ref-type="bibr" rid="ref-5">Clark 
+                    <italic toggle="yes">et al.,</italic> 2019</xref>), which is predominantly the land of corporative farming, and so this applies not only to &#x201c;poor farmers&#x201d;.</p>
+            <p>While the smaller internal buffer space and the higher cost of sustainable production may make such farms vulnerable in the market, support could be provided by governmental subsidies dedicated specifically to small-scale food chains and &#x201c;food communities&#x201d;. The importance of small farms and producers in food security is also highlighted in the 
+                <xref ref-type="bibr" rid="ref-8">European Green Deal's</xref> "Farm to Fork strategy: for a fair, healthy and environmentally friendly food system" (
+                <xref ref-type="bibr" rid="ref-8">European Green Deal</xref>).</p>
+        </sec>
+        <sec>
+            <title>Defending small firms</title>
+            <p>The form of agriculture we advocate resisted centralization and is a network economy based on networks of small firms, which should be sustained. Small enterprises are vital to creating a competitive, flexible and resilient form of production, with strong local positive impacts on local communities (
+                <xref ref-type="bibr" rid="ref-11">Piore &amp; Sabel, 1984</xref>). However, small firms are not resilient to major economic crises due to their simple business structure and lack of capitalization. COVID-19 has heavily impacted these enterprises (
+                <xref ref-type="bibr" rid="ref-3">Bartik 
+                    <italic toggle="yes">et al.,</italic> 2020</xref>). Small farms are experiencing similar difficulties and there is uncertainty in other sectors as well, such as tourism and catering. In this context, neoliberalist laissez-faire is detrimental. Within a framework of a broader catastrophe recovery plan (
+                <xref ref-type="bibr" rid="ref-1">Baldwin &amp; Weder di Mauro, 2020</xref>), governments on a national and an international level should support small and medium-sized enterprises, especially in the strategic sector of food production, to preserve this fundamental element of European economy and progress toward the goal of sustainable and responsible production.</p>
+        </sec>
+        <sec>
+            <title>Developing narratives on the high value of local food</title>
+            <p>Assistance should not come just in terms of monetary support, but also in the form of support for the reputation of local food production. New EU member states have come from the former socialist bloc, which destroyed small-scale farms and caused severe humanitarian issues by introducing collective farming and (in the Soviet Union) the subsequent deportation of those refusing to participate. This created a discontinuity in local voluntary co-production in village communities and the loss of small-scale operations, and also destroyed the narrative on the importance of local foods in those regions.</p>
+            <p>Following the example of the Slow Food movement, which was created in Italy, as well as the New Nordic Cuisine movement in Northern Europe, the idea of local food has been gradually introduced in post-socialist countries, but it needs more involvement for wider acceptance. In the face of this particular situation, supporting small-scale farms in the launch of community-supported agricultural platforms is crucial, as is the implementation of educational policies aimed at promoting the responsibility of the individual, making food purchasing decisions on the basis of their sustainability.</p>
+        </sec>
+        <sec>
+            <title>Encouraging subsistence gardening and foraging in the wild</title>
+            <p>To strengthen food security, Europe should look back to the importance of the practices of subsistence gardening and foraging. The need for self-sufficiency in Eastern Europe (
+                <xref ref-type="bibr" rid="ref-7">Gudeman &amp; Hann, 2015</xref>) resulted in the persistence of subsistence gardening among the general population (every family had a piece of land on which to grow their vegetables, as the retail system was not able to secure a sufficient food supply) for a much longer period than the rest of Europe. After the collapse of the Soviet Union at the beginning of the 1990s, the economic situation worsened drastically but, in Ukraine for example, only a few people starved to death as there were other economic practices that allowed people to survive in times of crisis (
+                <xref ref-type="bibr" rid="ref-12">Round 
+                    <italic toggle="yes">et al.,</italic> 2010</xref>). The investment in these practices provided widespread family-scale subsistence food production and an informal market that allowed for the exchange of self-grown products (
+                <xref ref-type="bibr" rid="ref-15">S&#x00f5;ukand 
+                    <italic toggle="yes">et al.,</italic> 2020</xref>). Despite being deeply rooted in the acute need for food during and after the communist period, allotment gardening in Eastern Europe has become more pleasure-oriented (
+                <xref ref-type="bibr" rid="ref-11">Klepacki &amp; Kujawska, 2018</xref>) and is currently considered economically impractical (
+                <xref ref-type="bibr" rid="ref-22">Sowi&#x0144;ska-&#x015a;wierkosz 
+                    <italic toggle="yes">et al.</italic>, 2021</xref>).</p>
+            <p>Modern urban foraging is also frequently motivated by personal enjoyment (
+                <xref ref-type="bibr" rid="ref-12">Landor-Yamagata 
+                    <italic toggle="yes">et al.</italic>, 2018</xref>). The knowledge is currently held by a limited number of enthusiasts and/or professionals (
+                <xref ref-type="bibr" rid="ref-13">&#x0141;uczaj 
+                    <italic toggle="yes">et al.</italic>, 2021</xref>) who were well mobilized through social media during the Covid-19 lock-downs (
+                <xref ref-type="bibr" rid="ref-25">Townsend, 2020</xref>), yet such practices are not widespread among the general, rather biophobic, population.</p>
+            <p>Foraging (wild food plant collection) trajectories in Europe have historically been mainly twofold: one has concerned synanthropic plants and assimilable plants and the other has focused on non-timber forest products (especially wild fruits and mushrooms). The former kind of foraging has been practiced since the Neolithic Revolution, and then especially, but not exclusively, in the Mediterranean and Near East. It has been centered on synanthropic environments and plant species, and these practices were and continue to be primarily managed by women (
+                <xref ref-type="bibr" rid="ref-18">Pieroni 
+                    <italic toggle="yes">et al.</italic>, 2018</xref>).</p>
+            <p>A male kind of post-Neolithic foraging also emerged, however, but this was centred on thistles and managed by male shepherds (
+                <xref ref-type="bibr" rid="ref-15">Mattalia 
+                    <italic toggle="yes">et al.</italic>, 2020</xref>). The wild plant ingredients of this foraging approach have frequently been introduced in the domestic economy circuit and have been treated similar to products from private home gardens; moreover, they were often traded in the markets by women. </p>
+            <p>More interestingly, the ingredients of the second kind of foraging (which did not emerge from plant farming or animal breeding) has been more important in Middle and Northern Europe and these activities have mainly taken place in communal environments, i.e., forests. In many cases, the foraged species became the object of very sophisticated social negotiations, i.e., within the social institutions of gift giving and goods exchange, and marketed only when the work done to gather the plant was significant and/or the perceived value of the collected plants was high. The products of the second kind of foraging have been more important for fostering community cohesion and social sustainability.</p>
+            <p>The above mentioned clearly shows that foraging has not only represented a way of procuring food, but also an activity well integrated into local socio-ecological systems and should be fostered at different levels within the framework of implementing healthy sustainable food systems.</p>
+            <p>From this perspective, the importance of educational and community programs regarding school and community gardens launched across the continent in the past few decades is apparent. These initiatives are important to locally integrate the food cycle (e.g., promoting the local production of fruits and vegetables in a school that are then processed by the school canteen) and to re-embed food knowledge among members of the community.</p>
+            <p>While we do not advocate the complete self-sustainability of households or the return to widespread foraging as a means of survival, we do encourage the involvement of a considerable proportion of citizens in subsistence gardening practices as well as the teaching of foraging techniques (including recognition in the wild of edible plants and their preparation as food) at the school level. While the generations that were once able to care for food gardens or forage in the wild are still alive, the embodied knowledge is &#x201c;still there&#x201d; and should therefore be transmitted in embodied form.</p>
+        </sec>
+        <sec>
+            <title>Promoting local environmental and gastronomic knowledge</title>
+            <p>Evolutionally, food security has relied upon and has been secured by food, which is organically part of the local environment, often &#x201c;coalesced&#x201d; into specific food biocultural refugia (
+                <xref ref-type="bibr" rid="ref-2">Barthel 
+                    <italic toggle="yes">et al.,</italic> 2013</xref>). Collecting it requires a certain set of skills, starting with knowledge of the habitats of wild ingredients, recognition, gathering/hunting times, the preparation involved in obtaining a diversity of dishes, and assembling them within given aesthetics; this is local environmental and gastronomic knowledge. While wild food alone cannot possibly provide all the caloric and nutritive needs of large groups of people or for long periods, it can serve as a reservoir in situations of extreme need. Thus, recognizing the environmental resources to be used as food and the techniques needed to make them edible, in other words, traditional gastronomic knowledge, is evolutionally the most important pillar of food security (
+                <xref ref-type="bibr" rid="ref-4">Berkes, 1999</xref>; 
+                <xref ref-type="bibr" rid="ref-10">Pieroni 
+                    <italic toggle="yes">et al.,</italic> 2016</xref>).</p>
+            <p>Traditional gastronomic knowledge is embedded in the local space as it develops over generations and reflects the conditions and customs of a specific socio-ecological space. Such embedded knowledge is highly coevolved and transformative, but also quite vulnerable in times of dominating industrial productions and other globalisation-centred processes. While these processes that reshaped the planet over the past century have largely eroded traditional gastronomic knowledge, fostering the complex and inextricable link between biodiversity and cultural customs related to food and gastronomy can contribute in a variety of ways to the well-being of humans and their 
+                <italic toggle="yes">Oikos</italic>, particularly in this moment of crisis. Thus, the study of the complex interactions between human societies, food, and their environment &#x2013; what has been defined as 
+                <italic toggle="yes">gastronomic ethnobiology</italic> &#x2013; is a crucial pillar for fostering food security, food sustainability, and especially community-centred food sovereignty.</p>
+        </sec>
+        <sec>
+            <title>The way forward</title>
+            <p>The destruction of food systems caused by COVID-19 still seems mild, more like an &#x201c;exercise&#x201d;, or a strong warning before the results of global change, including massive biodiversity loss, reveal themselves on an everyday level. It has shown us that basic skills related to the production of food, as a primary necessity for human life, should be more evenly distributed within society to assure people that they will be able to provide for themselves even if centralized supplies cease to exist. While still enjoying the unstable benefits of global food exchange and intensive food production, all European countries should not only safeguard the sustainability of local food production but also nurture small-scale producers, subsistence farming and local/traditional ecological and gastronomic knowledge in particular, as these contribute to a natural buffer in turbulent times. In this framework, we need to re-write the narrative of feeding the hungry and shift focus to the importance of locally produced/gathered food and the ability of humans to feed themselves by securing the proper means of doing so.</p>
+            <p>In this context, we suggest that positive actions should be directed towards increasing the flexibility of existing food-systems:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>1)  </label>
+                    <p>Finding better ways to support small-scale farming and the development of close-to-home food chains.</p>
+                </list-item>
+                <list-item>
+                    <label>2)  </label>
+                    <p>Promoting subsistence gardening/permaculture as a lifestyle in both rural and urban settings, securing the availability of productive land or other designated spaces for everyone who is willing to continue or learn food cultivation or livestock rearing for their own family&#x2019;s needs.</p>
+                </list-item>
+                <list-item>
+                    <label>3)  </label>
+                    <p>Supporting community-centred work and equipment sharing to facilitate the involvement of new technologies in local food production.</p>
+                </list-item>
+                <list-item>
+                    <label>4)  </label>
+                    <p>Revising current legislation to support foraged/self-grown/home-prepared food production and facilitate access to the market with less severe regulations compared with industrially made food.</p>
+                </list-item>
+                <list-item>
+                    <label>5)  </label>
+                    <p>Documentation of the local uses of and culinary art linked to widely available wild food ingredients in order to prepare culturally sensitive education platforms.</p>
+                </list-item>
+                <list-item>
+                    <label>6)  </label>
+                    <p>Incorporating into education programs practical exercises embodying the use of local ecological knowledge, including foraging for wild food plants, cultivating vegetables in school gardens, and occasionally visiting small-scale farms so that town-born children also understand where food comes from and what to do to obtain it.</p>
+                </list-item>
+            </list>
+        </sec>
+        <sec>
+            <title>Data availability</title>
+            <p>No data are associated with this article.</p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Baldwin</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Weder di Mauro</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Mitigating the COVID economic crisis: Act fast and do whatever it takes.</article-title>Centre for Economic Policy Research, London,<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://voxeu.org/system/files/epublication/COVIDEconomicCrisis.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Barthel</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Crumley</surname>
+                            <given-names>CL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Svedin</surname>
+                            <given-names>U</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Biocultural refugia: combating the erosion of diversity in landscapes of food production.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ecol Soc.</italic>
+               </source>
+               <year>2013</year>;<volume>18</volume>(<issue>4</issue>):<fpage>71</fpage>.
+                    <pub-id pub-id-type="doi">10.5751/ES-06207-180471</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bartik</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bertrand</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cullen</surname>
+                            <given-names>Z</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>How are small businesses adjusting to COVID-19? Early evidence from a survey.</article-title>
+                    <source>
+
+                        <italic toggle="yes">HKS Faculty Research Working Paper Series RWP20-012.</italic>
+                    </source>May 2020,<year>2020</year>.
+                    <pub-id pub-id-type="doi">10.2139/ssrn.3574741</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Berkes</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sacred Ecology: Traditional Ecological Knowledge and Resource Management.</article-title>Taylor &amp; Francis, Philadelphia,<year>1999</year>;<fpage>209</fpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Sacred_Ecology.html?id=5b8RAgZtxxIC">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Clark</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Scanlon</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hart</surname>
+                            <given-names>K</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Less is more: Improving profitability and the natural environment in hill and other marginal farming systems.</article-title>RSPB, Natl. Trust Wildlife Trusts,<year>2019</year>; (last visit 29.09.21).
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nethergillassociates.co.uk/sustainable-farming/news-details/details/less-is-more-report">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>D'Souza</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ikerd</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Small farms and sustainable development: is small 
+                        <italic toggle="yes">more</italic> sustainable?</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Agric Appl Econ.</italic>
+               </source>
+               <year>1996</year>;<volume>28</volume>(<issue>1</issue>):<fpage>73</fpage>&#x2013;<lpage>83</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ageconsearch.umn.edu/bitstream/15243/1/28010073.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Emery</surname>
+                            <given-names>SB</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Forney</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wynne-Jones</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The more-than-economic dimensions of cooperation in food production.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Rural Stud.</italic>
+               </source>
+               <year>2017</year>;<volume>53</volume>:<fpage>229</fpage>&#x2013;<lpage>235</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.jrurstud.2017.05.017</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <collab>European Green Deal</collab>:
+                    <article-title>Farm to Fork strategy: for a fair, healthy and environmentally-friendly food system</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/food/horizontal-topics/farm-fork-strategy_en">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gudeman</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hann</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Introduction: self-sufficiency as reality and as myth.</article-title>In: Gudeman, S., Hann, C. (Eds.).
+                    <source>
+                        <italic toggle="yes">Oikos and market: explorations in self-sufficiency after socialism.</italic>
+                    </source>Berghahn Books, New York,<year>2015</year>;<volume>2</volume>:<fpage>1</fpage>&#x2013;<lpage>23</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://experts.umn.edu/en/publications/introduction-self-sufficiency-as-reality-and-as-myth">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Jouzi</surname>
+                            <given-names>Z</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Azadi</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Taheri</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Organic farming and small-scale farmers: Main opportunities and challenges.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ecol Econ.</italic>
+               </source>
+               <year>2017</year>;<volume>132</volume>:<fpage>144</fpage>&#x2013;<lpage>154</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.ecolecon.2016.10.016</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Klepacki</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kujawska</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Urban allotment gardens in Poland: Implications for botanical and landscape diversity.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J of Ethnobiol.</italic>
+               </source>
+               <year>2018</year>;<volume>38</volume>(<issue>1</issue>):<fpage>123</fpage>&#x2013;<lpage>137</lpage>.
+                    <pub-id pub-id-type="doi">10.2993/0278-0771-38.1.123</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Landor-Yamagata</surname>
+                            <given-names>JL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kowarik</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fischer</surname>
+                            <given-names>LK</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Urban foraging in Berlin: People, plants and practices within the metropolitan green infrastructure.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sustain.</italic>
+               </source>
+               <year>2018</year>;<volume>10</volume>(<issue>6</issue>):<fpage>1873</fpage>.
+                    <pub-id pub-id-type="doi">10.3390/su10061873</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>&#x0141;uczaj</surname>
+                            <given-names>&#x0141;</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wilde</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Townsend</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Ethnobiology of Contemporary British Foragers: Foods They Teach, Their Sources of Inspiration and Impact.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sustain.</italic>
+               </source>
+               <year>2021</year>;<volume>13</volume>(<issue>6</issue>):<fpage>3478</fpage>.
+                    <pub-id pub-id-type="doi">10.3390/su13063478</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>&#x0141;uczaj</surname>
+                            <given-names>&#x0141;</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pieroni</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Tard&#x00ed;o</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Wild food plant use in 21st century Europe: the disappearance of old traditions and the search for new cuisines involving wild edibles.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Acta Soc Bot Pol.</italic>
+               </source>
+               <year>2012</year>;<volume>81</volume>(<issue>4</issue>):<fpage>359</fpage>&#x2013;<lpage>370</lpage>.
+                    <pub-id pub-id-type="doi">10.5586/asbp.2012.031</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mattalia</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>S&#x00f5;ukand</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Corvo</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Wild food thistle gathering and pastoralism: An inextricable link in the biocultural landscape of Barbagia, Central Sardinia (Italy).</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sustainability.</italic>
+               </source>
+               <year>2020</year>;<volume>12</volume>(<issue>12</issue>):<fpage>5105</fpage>.
+                    <pub-id pub-id-type="doi">10.3390/su12125105</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Nori</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Farinella</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Restructuring of Agriculture and the Rural World in Mediterranean EU Countries.</article-title>In: Nori, M., Farinella, D. (Eds.).
+                    <source>
+
+                        <italic toggle="yes">Migration, Agriculture and Rural Development.</italic>
+               </source>IMISCOE Research Series. Springer, Cham,<year>2020</year>;<fpage>17</fpage>&#x2013;<lpage>38</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-030-42863-1_2</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pieroni</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pawera</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Shah</surname>
+                            <given-names>GM</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Gastronomic Ethnobiology.</article-title>In: Albuquerque, U.P., Alves, R.R.N. (Eds.).
+                    <source>
+                        <italic toggle="yes">Introduction to Ethnobiology.</italic>
+                    </source>Springer, New York,<year>2016</year>;<fpage>53</fpage>&#x2013;<lpage>62</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-319-28155-1_9</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pieroni</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>S&#x00f5;ukand</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Amin</surname>
+                            <given-names>HI</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Celebrating multi-religious co-existence in Central Kurdistan: the bio-culturally diverse traditional gathering of wild vegetables among Yazidis, Assyrians, and Muslim Kurds.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Hum Ecol.</italic>
+               </source>
+               <year>2018</year>;<volume>46</volume>(<issue>2</issue>):<fpage>217</fpage>&#x2013;<lpage>27</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s10745-018-9978-x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Piore</surname>
+                            <given-names>MJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sabel</surname>
+                            <given-names>CF</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Second Industrial Divide: Possibilities for Prosperity.</article-title>Basic Books, New York,<year>1984</year>;<fpage>171</fpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://scholarship.law.columbia.edu/books/171/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Round</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Williams</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rodgers</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The role of domestic food production in everyday life in post-Soviet Ukraine.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ann Assoc Am Geogr.</italic>
+               </source>
+               <year>2010</year>;<volume>100</volume>(<issue>5</issue>):<fpage>1197</fpage>&#x2013;<lpage>1211</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/00045608.2010.520214</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Schumacher</surname>
+                            <given-names>EF</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Small is beautiful: A study of economics as if people mattered.</article-title>Random House, London,<year>2011</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.kfbg.org/en/KFBG-blog/post/Small-is-Beautiful-A-Study-of-Economics-as-if-People-Mattered">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sowi&#x0144;ska-&#x015a;wierkosz</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Michalik-&#x015a;nie&#x017c;ek</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bieske-Matejak</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Can Allotment Gardens (AGs) Be Considered an Example of Nature-Based Solutions (NBS) Based on the Use of Historical Green Infrastructure?</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sustain.</italic>
+               </source>
+               <year>2021</year>;<volume>13</volume>(<issue>2</issue>):<fpage>835</fpage>.
+                    <pub-id pub-id-type="doi">10.3390/su13020835</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>S&#x00f5;ukand</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Stryamets</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fontefrancesco</surname>
+                            <given-names>MF</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The importance of tolerating interstices: 
+                        <italic toggle="yes">Babushka</italic> markets in Ukraine and Eastern Europe and their role in maintaining local food knowledge and diversity.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Heliyon.</italic>
+               </source>
+               <year>2020</year>;<volume>6</volume>(<issue>1</issue>):<fpage>e03222</fpage>.
+                    <pub-id pub-id-type="pmid">32095643</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.heliyon.2020.e03222</pub-id>
+                    <pub-id pub-id-type="pmcid">7034493</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Stock</surname>
+                            <given-names>PV</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Forney</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Emery</surname>
+                            <given-names>SB</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Neoliberal natures on the farm: Farmer autonomy and cooperation in comparative perspective.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Rural Stud.</italic>
+               </source>
+               <year>2014</year>;<volume>36</volume>:<fpage>411</fpage>&#x2013;<lpage>422</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.jrurstud.2014.06.001</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Townsend</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The professional wild food community and Covid-19: The use of online platforms in supporting people to access alternative food sources.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Local Development &amp; Society.</italic>
+               </source>
+               <year>2020</year>;<volume>1</volume>(<issue>2</issue>):<fpage>160</fpage>&#x2013;<lpage>165</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/26883597.2020.1797441</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report27888">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15326.r27888</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>&#x0141;uczaj</surname>
+                        <given-names>&#x0141;ukasz</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27888a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-5272-4826</uri>
+                </contrib>
+                <aff id="r27888a1">
+                    <label>1</label>Institute of Biology and Biotechnology, University of Rzesz&#x00f3;w, Rzesz&#x00f3;w, Poland</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>10</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 &#x0141;uczaj &#x0141;</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27888"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13138.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article improved and is nearly in its final form.</p>
+            <p> </p>
+            <p> Only the sentence "A male kind of post-Neolithic foraging also emerged, however, but this was centred on thistles and managed by male shepherds (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://open-research-europe.ec.europa.eu/articles/1-10#ref-15">Mattalia 
+                    <italic>et al.</italic>, 2020</ext-link>)." may be unclear for readers. I think authors are using some rare specific example and are not even using Latin names of "thistles". Either remove this sentence, shorten it or explain better.</p>
+            <p>Is the argument persuasive and supported by appropriate evidence?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and cogently presented?</p>
+            <p>Yes</p>
+            <p>Is the topic of the essay discussed accurately in the context of the current literature?</p>
+            <p>No</p>
+            <p>Does the essay contribute to the cultural, historical, social understanding of the field?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Foraging, traditional food gathering, wildlife gardening, rewilding.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report27889">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15326.r27889</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Nesbitt</surname>
+                        <given-names>Mark</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27889a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-9588-4296</uri>
+                </contrib>
+                <aff id="r27889a1">
+                    <label>1</label>Royal Botanic Gardens, Kew, Richmond, UK</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>25</day>
+                <month>10</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Nesbitt M</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27889"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13138.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>Thank your for your response. I'm sure this paper will prompt further discussion on the place of local initiatives in food systems.</p>
+            <p>Is the argument persuasive and supported by appropriate evidence?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and cogently presented?</p>
+            <p>Yes</p>
+            <p>Is the topic of the essay discussed accurately in the context of the current literature?</p>
+            <p>Partly</p>
+            <p>Does the essay contribute to the cultural, historical, social understanding of the field?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Good general knowledge of ethnobotany</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report27136">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.14208.r27136</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Nesbitt</surname>
+                        <given-names>Mark</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r27136a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-9588-4296</uri>
+                </contrib>
+                <aff id="r27136a1">
+                    <label>1</label>Royal Botanic Gardens, Kew, Richmond, UK</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>8</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 Nesbitt M</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport27136"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13138.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This is a timely response to the recent COVID crisis (supplemented by the effects of Brexit in the UK), which have demonstrated the fragility of national and international networks of food production and supply.</p>
+            <p> </p>
+            <p> The cultural importance of local, small-scale food production and consumption is well-demonstrated, drawing on ethnobotanical literature and experience of current projects such as Slow Food. However, to be fully persuasive, two more aspects could be addressed.</p>
+            <p> </p>
+            <p> The first is the economic framework of small-scale farming and food preparation. Globally, economies have moved away from industry-specific subsidies - at least those which are visible. How could existing mechanisms in Europe be repurposed to provide this support? A successful example is the reorientation of agricultural subsidies to support biodiversity conservation - could that be extended?</p>
+            <p> </p>
+            <p> Second is the question of equality of access. It is likely that food from small-scale production will be substantially more expensive (in a European context where labour is costly) than from large-scale. Foraging and community gardens are unlikely to be accessible to, say, residents of deprived urban areas. In any case, they would not have the time free for these activities. There is a significant literature on food inequality in urban areas that would be worth exploring.&#x00a0;</p>
+            <p> </p>
+            <p> Researchers have already noticed "the contemporary food sector...bifurcating into two main &#x2018;zones&#x2019; of production: standardized, specialized production processes responding to economic standards of efficiency and competitiveness on the one hand; localized, specialized production processes attempting to trade on the basis of environmental, nutritional, or health qualities on the other." (Sonnino &amp; Marsden). There seems a high risk that affluent consumers could enjoy the cash or time-expensive products advocated here, while leaving behind significant sectors of society.</p>
+            <p> </p>
+            <p> See the articles below and a significant wider literature on critical food geographies and food networks that is relevant to this subject.</p>
+            <p> </p>
+            <p> Dixon, J., Omwega, A. M., Friel, S., Burns, C., Donati, K., &amp; Carlisle, R. (2007). The health equity dimensions of urban food systems.&#x00a0;
+                <italic>Journal of Urban Health</italic>,&#x00a0;
+                <italic>84</italic>(1), 118-129.</p>
+            <p> </p>
+            <p> Sonnino, Roberta, and Terry Marsden. "Beyond the divide: rethinking relationships between alternative and conventional food networks in Europe."&#x00a0;
+                <italic>Journal of economic geography</italic>&#x00a0;6.2 (2006): 181-199.</p>
+            <p>Is the argument persuasive and supported by appropriate evidence?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and cogently presented?</p>
+            <p>Yes</p>
+            <p>Is the topic of the essay discussed accurately in the context of the current literature?</p>
+            <p>Partly</p>
+            <p>Does the essay contribute to the cultural, historical, social understanding of the field?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Good general knowledge of ethnobotany</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-27136-1">
+                    <label>1</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>The health equity dimensions of urban food systems.</article-title>
+                        <source>
+                            <italic>J Urban Health</italic>
+                        </source>.<year>2007</year>;<volume>84</volume>(<issue>3 Suppl</issue>) :
+                        <elocation-id>10.1007/s11524-007-9176-4</elocation-id>
+                  <fpage>i118</fpage>-<lpage>29</lpage>
+                        <pub-id pub-id-type="pmid">17401697</pub-id>
+                        <pub-id pub-id-type="doi">10.1007/s11524-007-9176-4</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-27136-2">
+                    <label>2</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Beyond the divide: rethinking relationships between alternative and conventional food networks in Europe</article-title>.
+                        <source>
+                            <italic>Journal of Economic Geography</italic>
+                        </source>.<year>2006</year>;<volume>6</volume>(<issue>2</issue>) :
+                        <elocation-id>10.1093/jeg/lbi006</elocation-id>
+                  <fpage>181</fpage>-<lpage>199</lpage>
+                        <pub-id pub-id-type="doi">10.1093/jeg/lbi006</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+        <sub-article article-type="response" id="comment3209-27136">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Kalle</surname>
+                            <given-names>Raivo</given-names>
+                        </name>
+                        <aff>University of Gastronomic Sciences, Italy</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>16</day>
+                    <month>10</month>
+               <year>2021</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>
+                    <italic>However, to be fully persuasive, two more aspects could be addressed. The first is the economic framework of small-scale farming and food preparation. Globally, economies have moved away from industry-specific subsidies - at least those which are visible. How could existing mechanisms in Europe be repurposed to provide this support? A successful example is the reorientation of agricultural subsidies to support biodiversity conservation - could that be extended?</italic>
+                </p>
+                <p> </p>
+                <p> 
+                    <bold>Author Response:</bold> Thank you for guiding our attention to this issue. We referred to a report proving that less is more and that small-scale farming which relies on available resources is actually more profitable than large-scale ones with subsidies.</p>
+                <p> </p>
+                <p> 
+                    <italic>Second is the question of equality of access. It is likely that food from small-scale production will be substantially more expensive (in a European context where labour is costly) than from large-scale. Foraging and community gardens are unlikely to be accessible to, say, residents of deprived urban areas. In any case, they would not have the time free for these activities. There is a significant literature on food inequality in urban areas that would be worth exploring.</italic>
+                </p>
+                <p> </p>
+                <p> 
+                    <italic>Researchers have already noticed "the contemporary food sector...bifurcating into two main &#x2018;zones&#x2019; of production: standardized, specialized production processes responding to economic standards of efficiency and competitiveness on the one hand; localized, specialized production processes attempting to trade on the basis of environmental, nutritional, or health qualities on the other." (Sonnino &amp; Marsden). There seems a high risk that affluent consumers could enjoy the cash or time-expensive products advocated here, while leaving behind significant sectors of society.</italic>
+                </p>
+                <p> </p>
+                <p> 
+                    <bold>Author Response:</bold> Thank you for the raising this question! We evaluated this dimension but decided to exclude it from the manuscript as it would steer the discussion in an entirely different direction. We acknowledge the problem, but it is an issue outside the scope of the essay. The pillars we proposed are not a substitute for the current system per se (as there are currently no sustainable alternatives for producing cheap food that is affordable for everyone), but rather a safety net, a layer providing a short-term security buffer in times of need.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report26564">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.14208.r26564</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>&#x0141;uczaj</surname>
+                        <given-names>&#x0141;ukasz</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r26564a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-5272-4826</uri>
+                </contrib>
+                <aff id="r26564a1">
+                    <label>1</label>Institute of Biology and Biotechnology, University of Rzesz&#x00f3;w, Rzesz&#x00f3;w, Poland</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>8</day>
+                <month>4</month>
+            <year>2021</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2021 &#x0141;uczaj &#x0141;</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport26564"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.13138.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The paper is a synthetic look at the possible ways of enhancing food security in Europe in the perspective of the current COVID pandemic. I think it is a valuable contribution to the discussion about it, as it takes into account culinary traditions and foraging as well as the issue of small scale producers. I agree with most ideas contained in the paper. However, the paper is quite brief, does not go into details and has too few references. It should be enriched with relevant references in all its sections, and give more specific examples. For example the authors say in the conclusions that we need &#x201c;4) Drafting legislation allowing foraged/self-grown/home-prepared product exchange or sale in informal markets with less severe regulations compared with industrially produced food.&#x201d; but do not give the example of current laws. Some countries already have such regulations (see Germany and Poland) but these regulations should be even more relaxed. I would also give example of Poland and France as the two countries which have a relatively large number of small farms, partly resisting the historical trend observed in places like Great Britain where agricultural land is owned by few large producers. As far as supporting small firms and farms is concerned, I recently discussed it in a 
+                <ext-link ext-link-type="uri"
+                      xlink:href="http://thewildfood.org/2020/03/should-we-make-world-economy-more-like-a-hologram-or-a-fractal/">blog post</ext-link> and proposed to look at the economy from the perspective of fractal geometry, underlining the importance of structural diversity of all agents of economic systems.</p>
+            <p> </p>
+            <p> Recently a number of papers and essay on foraging movement was published in Europe. It would enrich the article to quote them (and some references within): 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>&#x0141;uczaj, &#x0141;., Wilde, M. and Townsend, L., 2021. The Ethnobiology of Contemporary British Foragers: Foods They Teach, Their Sources of Inspiration and Impact
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-26564-1">1</xref>
+                            </sup>
+                        </p>
+                    </list-item>
+                    <list-item>
+                        <p>Townsend, L.. 2020. The professional wild food community and Covid-19: The use of online platforms in supporting people to access alternative food sources
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-26564-2">2</xref>
+                            </sup>
+                        </p>
+                    </list-item>
+                    <list-item>
+                        <p>Landor-Yamagata, J.; Kowarik, I.; Fischer, L. 2018. Urban foraging in Berlin: People, plants and practices within the metropolitan green infrastructure
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-26564-3">3</xref>
+                            </sup>
+                        </p>
+                    </list-item>
+                    <list-item>
+                        <p>Luczaj L. 2020. On the Wild Side: From the Anthropology of Hunter-Gatherers to Postmodern Foraging, Bushcraft and New-Age Nature Seekers
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-26564-4">4</xref>
+                            </sup>.</p>
+                    </list-item>
+                </list> The allotment movement popular both within the ex-Communist and western Europe must be mentioned, e.g. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Klepacki, P. and Kujawska, M., 2018. Urban allotment gardens in Poland: Implications for botanical and landscape diversity
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-26564-5">5</xref>
+                            </sup>.&#x00a0;This paper is a report from a project done in 2009-2012 by the Ethnographic Museum in Krak&#x00f3;w documenting the importance of allotments in Poland, both in a cultural and biological context.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Sowi&#x0144;ska-&#x015a;wierkosz, B., Michalik-&#x015a;nie&#x017c;ek, M. and Bieske-Matejak, A., 2021. Can Allotment Gardens (AGs) Be Considered an Example of Nature-Based Solutions (NBS) Based on the Use of Historical Green Infrastructure?
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-26564-6">6</xref>
+                            </sup>
+                        </p>
+                    </list-item>
+                </list> The expressions &#x2018;organic farming&#x2019; and &#x2018;permaculture&#x2019; are not mentioned in the paper, and they are important part of the food security discussion.</p>
+            <p>Is the argument persuasive and supported by appropriate evidence?</p>
+            <p>Partly</p>
+            <p>Is the work clearly and cogently presented?</p>
+            <p>Yes</p>
+            <p>Is the topic of the essay discussed accurately in the context of the current literature?</p>
+            <p>No</p>
+            <p>Does the essay contribute to the cultural, historical, social understanding of the field?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Foraging, traditional food gathering, wildlife gardening, rewilding.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-26564-1">
+                    <label>1</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>The Ethnobiology of Contemporary British Foragers: Foods They Teach, Their Sources of Inspiration and Impact</article-title>.
+                        <source>
+                            <italic>Sustainability</italic>
+                        </source>.<year>2021</year>;<volume>13</volume>(<issue>6</issue>) :
+                        <elocation-id>10.3390/su13063478</elocation-id>
+                        <pub-id pub-id-type="doi">10.3390/su13063478</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-26564-2">
+                    <label>2</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>The professional wild food community and Covid-19: The use of online platforms in supporting people to access alternative food sources</article-title>.
+                        <source>
+                            <italic>Local Development &amp; Society</italic>
+                        </source>.<year>2020</year>;<volume>1</volume>(<issue>2</issue>) :
+                        <elocation-id>10.1080/26883597.2020.1797441</elocation-id>
+                  <fpage>160</fpage>-<lpage>165</lpage>
+                        <pub-id pub-id-type="doi">10.1080/26883597.2020.1797441</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-26564-3">
+                    <label>3</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Urban Foraging in Berlin: People, Plants and Practices within the Metropolitan Green Infrastructure</article-title>.
+                        <source>
+                            <italic>Sustainability</italic>
+                        </source>.<year>2018</year>;<volume>10</volume>(<issue>6</issue>) :
+                        <elocation-id>10.3390/su10061873</elocation-id>
+                        <pub-id pub-id-type="doi">10.3390/su10061873</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-26564-4">
+                    <label>4</label>
+                    <mixed-citation>
+                        <person-group person-group-type="author"/>:
+                        <article-title>On the Wild Side: From the Anthropology of Hunter-Gatherers to Postmodern Foraging, Bushcraft and New-Age Nature Seekers</article-title>.<year>2020</year>;</mixed-citation>
+                </ref>
+                <ref id="rep-ref-26564-5">
+                    <label>5</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Urban Allotment Gardens in Poland: Implications for Botanical and Landscape Diversity</article-title>.
+                        <source>
+                            <italic>Journal of Ethnobiology</italic>
+                        </source>.<year>2018</year>;<volume>38</volume>(<issue>1</issue>) :
+                        <elocation-id>10.2993/0278-0771-38.1.123</elocation-id>
+                        <pub-id pub-id-type="doi">10.2993/0278-0771-38.1.123</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-26564-6">
+                    <label>6</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Can Allotment Gardens (AGs) Be Considered an Example of Nature-Based Solutions (NBS) Based on the Use of Historical Green Infrastructure?</article-title>.
+                        <source>
+                            <italic>Sustainability</italic>
+                        </source>.<year>2021</year>;<volume>13</volume>(<issue>2</issue>) :
+                        <elocation-id>10.3390/su13020835</elocation-id>
+                        <pub-id pub-id-type="doi">10.3390/su13020835</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+        <sub-article article-type="response" id="comment3208-26564">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Kalle</surname>
+                            <given-names>Raivo</given-names>
+                        </name>
+                        <aff>University of Gastronomic Sciences, Italy</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>16</day>
+                    <month>10</month>
+               <year>2021</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>
+                    <italic>The paper is a synthetic look at the possible ways of enhancing food security in Europe in the perspective of the current COVID pandemic. I think it is a valuable contribution to the discussion about it, as it takes into account culinary traditions and foraging as well as the issue of small scale producers. I agree with most ideas contained in the paper. However, the paper is quite brief, does not go into details and has too few references. It should be enriched with relevant references in all its sections, and give more specific examples. </italic>
+                </p>
+                <p> 
+                    <bold>Author Response:</bold> The briefness of the paper was intentional; we really would not like to expand it too much so as not to lose focus of the message. It is just an essay, not a full research article.</p>
+                <p> </p>
+                <p> 
+                    <italic>For example the authors say in the conclusions that we need &#x201c;4) Drafting legislation allowing foraged/self-grown/home-prepared product exchange or sale in informal markets with less severe regulations compared with industrially produced food.&#x201d; but do not give the example of current laws. Some countries already have such regulations (see Germany and Poland) but these regulations should be even more relaxed. </italic>
+                </p>
+                <p> 
+                    <bold>Author Response:</bold> The sentence was rephrased to clarify that it refers to the easier inclusion of products and productions in the market.</p>
+                <p> </p>
+                <p> 
+                    <italic>I would also give example of Poland and France as the two countries which have a relatively large number of small farms, partly resisting the historical trend observed in places like Great Britain where agricultural land is owned by few large producers. As far as supporting small firms and farms is concerned, I recently discussed it in a blog post and proposed to look at the economy from the perspective of fractal geometry, underlining the importance of structural diversity of all agents of economic systems.</italic>
+                </p>
+                <p> 
+                    <bold>Author Response:</bold> Many thanks for the examples! We completely agree with the reviewer. With our opinion article, we want to say this in one way or another. Yes, in southern Poland, due to historical features, small farms have survived, but elsewhere in the country, production is also concentrated in the hands of large producers. As it turns out, Polish small farms can also no longer remain competitive in the market because the current subsidy per hectare is equal for both large and small farms, and European quality control standards create inequalities (see more: Wetzels, H. 2020.&#x00a0; Poland: small farms, big farms &amp; EU relations. Agricultural and Rural Convention &#x2013; ARC2020. 10. February. 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.arc2020.eu/cap-poland-small-farms-big-farms-eu-relations/">https://www.arc2020.eu/cap-poland-small-farms-big-farms-eu-relations/</ext-link>). This is also the focus of the first point of our argument outlined in the conclusions. In addition to France and Poland, a considerable number of small farms have survived in both Estonia and Italy. We did not specify a list of countries as the problems are the same regardless of the country and the solution would be to make the current system more flexible.</p>
+                <p> </p>
+                <p> We read the reviewer's blog with great interest [http://thewildfood.org/2020/03/should-we-make-world-economy-more-like-a-hologram-or-a-fractal/]. We agree with the reviewer's ideas. Nevertheless, this pandemic showed the vulnerability of existing global systems. Community-based and small supply chain systems are more flexible. However, right now the global system is affected by non-agricultural factors, such as the lack of hundreds of thousands of truck drivers across Europe and the unavailability of sea shipping containers. Waltner-Toews 
+                    <italic>et al</italic> (2020) stated: &#x201c;This pandemic offers society an occasion to open a fresh discussion on whether we now need to learn how to do science in a different way. Conscientious scientists and engaged citizens cannot allow this opportunity to pass.&#x201d; [Waltner-Toews, D., Biggeri, A., De Marchi, B., Funtowicz, S., Giampietro, M., O'Connor, M., Ravetz, J.R., Saltelli, A., van der Sluijs, J. P. (2020). Pandemie post-normali. Perch&#x00e9; CoViD-19 richiede un nuovo approccio alla scienza. Recenti progressi in medicina, 111(4), 202-204. In English: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://steps-centre.org/blog/postnormal-pandemics-why-covid-19-requires-a-new-approach-to-science/">https://steps-centre.org/blog/postnormal-pandemics-why-covid-19-requires-a-new-approach-to-science/</ext-link> ]. This is the reason why we highlighted six interconnected pillars. We also believe that the solution is to try to look at the objectives holistically, through a flexible approach. This would help to better increase society's social confidence and to achieve greater goals.&#x00a0;</p>
+                <p> </p>
+                <p> 
+                    <italic>Recently a number of papers and essay on foraging movement was published in Europe. It would enrich the article to quote them.</italic>
+                </p>
+                <p> 
+                    <bold>Author Response: </bold>Thank you for the suggested references; we incorporated some of them into the manuscript. The allotment movement popular both within the ex-Communist and western Europe must be mentioned, e.g. Klepacki, P. and Kujawska, M., 2018. Urban allotment gardens in Poland: Implications for botanical and landscape diversity. This paper is a report from a project done in 2009-2012 by the Ethnographic Museum in Krak&#x00f3;w documenting the importance of allotments in Poland, both in a cultural and biological context. Sowi&#x0144;ska-&#x015a;wierkosz, B., Michalik-&#x015a;nie&#x017c;ek, M. and Bieske-Matejak, A., 2021. Can Allotment Gardens (AGs) Be Considered an Example of Nature-Based Solutions (NBS) Based on the Use of Historical Green Infrastructure? (
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3390/su13020835">
+                        <bold>https://doi.org/10.3390/su13020835</bold>
+                    </ext-link>) The expressions &#x2018;organic farming&#x2019; and &#x2018;permaculture&#x2019; are not mentioned in the paper, and they are important part of the food security discussion. Thank you for the suggested references; we have expanded a bit the discussion on this subject and incorporated them into the text.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+</article>

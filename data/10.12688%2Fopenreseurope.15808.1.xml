@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="letter"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15808.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Open Letter</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Merging cross-border flow optimization techniques for performance maximization</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Tzoumpas</surname>
+                        <given-names>Anastasis</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Nofuentes</surname>
+                        <given-names>Alvaro</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Winning</surname>
+                        <given-names>Catherine</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Norton</surname>
+                        <given-names>Mark</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Zhao</surname>
+                        <given-names>Zhehan</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Zafeiropoulou</surname>
+                        <given-names>Magda</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Bachoumis</surname>
+                        <given-names>Athanasios</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3887-9789</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Vlaisavljevic</surname>
+                        <given-names>Dusan</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Lekovic</surname>
+                        <given-names>Branko</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>UBITECH ENERGY, Brussels, Belgium</aff>
+                <aff id="a2">
+                    <label>2</label>ETRA I+D, Valencia, Spain</aff>
+                <aff id="a3">
+                    <label>3</label>SMART WIRES, Dublin, Ireland</aff>
+                <aff id="a4">
+                    <label>4</label>EKC, Belgrade, Serbia</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:atzoumpas@ubitech.eu">atzoumpas@ubitech.eu</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>26</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>161</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>27</day>
+                    <month>7</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Tzoumpas A et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-161/pdf"/>
+            <abstract>
+                <p>Both FARCROSS and TRINITY EU research projects aim to increase cross-border electricity flow and regional cooperation. The integration of SmartValve and T-SENTINEL systems offers benefits such as enhancing grid security and reliability, managing thermal constraints, and maximizing utilization of existing infrastructure. The combined system can achieve a more efficient and less costly coordinated network security process, increase cross-border capacities, and promote regional electricity market integration, benefiting the local communities with significant CO2 emissions avoidance and reduced electricity prices. Overall, the integration of SmartValve and T-SENTINEL can provide significant improvements in flexibility, making cross-border connections more robust and adaptive to the evolution of the electrical power industry.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>FARCROSS</kwd>
+                <kwd>TRINITY</kwd>
+                <kwd>SmartValve</kwd>
+                <kwd>T-SENTINEL</kwd>
+                <kwd>cross-border flow optimization techniques</kwd>
+                <kwd>Remedial Action Optimization</kwd>
+                <kwd>Modular Power Flow Controller</kwd>
+                <kwd>Static Synchronous Series Compensator</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100018693">
+                    <funding-source>Horizon Europe Framework Programme</funding-source>
+                    <award-id>864274</award-id>
+                    <award-id>863874</award-id>
+                </award-group>
+                <funding-statement>The TRINITY project has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement N&#x00ba; 863874.&#xD;
+The FARCROSS project has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under grant agreement No 864274.</funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>The rationale of this paper is to give insights about the way the combination of cross-border flow optimization techniques from two different H2020 projects can lead to a maximization of overall transmission system performance. Specifically, both FARCROSS and TRINITY, strive to address the above-mentioned challenges, especially in the broader area of Southeast Europe, and to achieve the EU goals in energy regarding the establishment of a geographically large market by initially improving its cross-border electricity interconnections.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>The commission regulation (EU) 2015/1222 of 24 July 2015 (and modified in March 2021) establishing a guideline on capacity allocation and congestion management (&#x201c;CACM regulation&#x201d;) sets out rules to ensure optimal use of the transmission infrastructure, operational security and optimizes the calculation and allocation of cross-zonal capacity. These factors are of crucial importance in order to improve the security of transmission system operation, as well as to foster better coupling of markets. The EU strives to achieve market integration and price convergence within its region; the term is well-known as market coupling. Electricity markets used to be localized and isolated, with demand being covered internally and a low amount of cross-border energy flows. The transition to integrated markets implies that high amounts of electricity are traded among the EU member countries, increasing the security of supply, while at the same time the cost of supply is being decreased. The ultimate measure of market integration is the degree of cross-border price harmonization. However, this is still far from achieved. As the Market Monitoring report in 2019 of the European Union Agency for Cooperation Energy Regulators (ACER) states, on about 50% of all European borders, the absolute cross-border differences in prices are higher than 5%, while on about 10 borders the absolute price difference exceeds 10%.</p>
+            <p>In the Clean Energy of all Europeans Package (CEP), the lack of sufficient cross-zonal capacity is considered as one of the main barriers to the integration of electricity markets. Hence, installing more cross-border capacity is one of the main ambitions. European Network of Transmission System Operators for Electricity (ENTSO-e) in the &#x201c;Completing the map Power system needs in 2030 and 2040&#x201d; report has identified that by 2040, 93 GW of additional cross-border capacity in Europe is required. In addition, other solutions such as storage, hybrid offshore infrastructure, smart grids, Power-to-X conversion technologies should be integrated in order to facilitate a Pan-European efficient electricity market. Besides the expansion in terms of cross-border capacity through traditional grid upgrades, increase in cross-border efficiency will also enhance market coupling. By achieving market coupling through efficient utilization of the existing infrastructure, while ensuring power system security, there are significant benefits from an environmental perspective, as well as an opportunity to minimize the total costs for the end-consumers.</p>
+            <p>ACER states that the development of European rules for the calculation and allocation of cross-zonal capacities on electricity interconnectors is an integral step in order to increase market efficiency. Therefore, as of January 1st, 2020, Article 16.8 EU 2019/943 was introduced, implying that TSOs shall make available a minimum binding level of capacity equal to 70% for cross-zonal trade.  According to this rule, the capacity made available to market parties per cross-border connection must be higher than 70% of the technical capacity, after controlling for a reliability margin to deal with loop flows and emergency conditions. For cross &#x2013; border connections using a coordinated net transmission capacity approach, the minimum capacity must account for 70% of the transmission capacity, respecting operational security limits after deduction of contingencies. For cross &#x2013; border connections using a flow-based approach, the minimum capacity shall be a margin set in the capacity calculation process as available for flows induced by cross-zonal exchange. The margin shall be 70% of the capacity respecting operational security limits of internal and cross-zonal critical network elements, taking into account potential contingencies.  Nevertheless, based on the ACER report about the minimum capacity margin available for cross-zonal trade (MACZT) in the first semester of 2020, even though on Direct Current (DC) borders the 70% target was met most of the time with a few notable exceptions, on Alternating Current (AC) borders, there is a very diverse picture with significant room for improvement to meet the 70% target for most regions and borders. Especially in the Southeast Europe region, the MACZT, in almost all of the interconnections, was not achieved even for 10% of the total hours.</p>
+            <p>Due to the relevance of this topic, research and innovation in this field is being financed by different governmental bodies, with Horizon2020 being one of the most relevant innovation programmes in Europe. The rationale of this paper is to give insights about the way the combination of cross-border flow optimization techniques from two different H2020 projects can lead to a maximization of overall transmission system performance. Specifically, those two EU-funded projects, namely FARCROSS and TRINITY, strive to address the above-mentioned challenges, especially in the broader area of Southeast Europe, and to achieve the EU goals in energy regarding the establishment of a geographically large market by initially improving its cross-border electricity interconnections.</p>
+        </sec>
+        <sec>
+            <title>Software solution: T-SENTINEL TOOLSET</title>
+            <p>Coordinated Security Analysis (CSA) is one of the main tasks conducted by Regional Security Centers (RSCs). During CSA, overloads can be detected on some monitored Critical Network Element &amp; Contingencies (CNECs). In order to maintain the loading of CNEC within operational security limits, RSCs can implement a relevant set of Remedial Actions, including costly ones (e.g. Redispatching). After implementing selected costly RA, a Cost Sharing process is conducted. All three layers of CSA: Security monitoring, Remedial Action and Cost sharing are regulated within a comprehensive EU legal framework: SOGL with related CSAM and ROSC Methodologies, and CACM and related Cost Sharing Methodologies.</p>
+            <p>One of the aims of TRINITY project is to develop novel methodologies and deliver a multi-modular toolset that will enhance the European Transmission System Operators (TSOs) and Regional Security Coordinators business processes.</p>
+            <p>For this purpose, the power system security and reliability T-SENTINEL toolset, which includes the development of novel algorithms and corresponding IT solutions related to coordinated security assessment functions has been developed. Under T-SENTINEL TOOLSET, security monitoring task is enhanced with two back-to-back modules: Remedial Action Optimization (RAO) and Redispatching Cost Sharing (RDCS).</p>
+            <p>The T-SENTINEL network security module (
+                <xref ref-type="fig" rid="f1">Figure 1</xref>) is expected to deliver advancements in the context of (1) improved efficiency of solving network congestions through co-optimization of non-costly and costly redispatching actions and (2) better sharing of the overall costs of redispatching.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>Scheme of T-SENTINEL network security module.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17078/5aa79520-f439-4e32-b947-0fceb088471f_figure1.gif"/>
+            </fig>
+            <p>The T-SENTINEL Remedial Action Optimization module (RAO module) is responsible for performing day ahead and intraday power system static security checks and optimization of coordinated multi-lateral remedial actions when potential overloads are detected.</p>
+            <p>The T-SENTINEL Redispatching Cost Sharing module (RDCS module) contains fully implemented mechanisms for fair distribution of redispatching actions costs among the transmission system operators. It encompasses three different processes, which are power flow decomposition, transformation and mapping.</p>
+            <p>The T-SENTINEL Remedial Action Optimization (RAO) module aims to choose the least expensive Remedial Action solution considering costly redispatching actions, but also non-costly actions such as adjusting active power flow through HVDCs and impacting power flow by tap changes of the PSTs.</p>
+            <p>The algorithm of proposed TRINITY solution for the RAO layer consists of the following steps:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>1. </label>
+                    <p>Generating and preparing Input files for Remedial Action Optimisation.</p>
+                    <list list-type="bullet">
+                        <list-item>
+                            <p>The goal of the preparation submodule is to prepare the main input files for RAO: ORCA and RAF files. ORCA file represents enhanced CNEC list with relevant sensitivity factors (nPTDF &#x2013; nodal power transfer distribution factors, PSDF &#x2013; phase shift transformers distribution factors and DCDF &#x2013; DC elements distribution factors). RAF file represents a predefined file in which RA candidates for optimisation are described. As a first step of the preparation phase, the RAF file is updated with the current PST/HVDC position/flows, and then together with relevant CGM, CNEC and GSK files, it is used to generate ORCA file.</p>
+                        </list-item>
+                    </list>
+                </list-item>
+                <list-item>
+                    <label>2. </label>
+                    <p>Remedial Action Optimisation, is performed based on the following principles:</p>
+                    <list list-type="bullet">
+                        <list-item>
+                            <p>Minimisation of incurred costs.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Remedial Actions (RAs) will be balanced, meaning that the cumulated fed-in active power into the electrical grid will not change.</p>
+                        </list-item>
+                        <list-item>
+                            <p>RAO will not lead to additional violations of operational security limits.</p>
+                        </list-item>
+                        <list-item>
+                            <p>The non-costly topological actions will be considered first, as the initial step of the process, based on the principle of selecting actions which generate the maximum deloading factor of overloaded elements. Hence, the costly RAO is triggered in sequential manner if non-costly solution cannot be found.</p>
+                        </list-item>
+                    </list>
+                </list-item>
+                <list-item>
+                    <label>3. </label>
+                    <p>Verification:</p>
+                    <list list-type="bullet">
+                        <list-item>
+                            <p>Verification of DC-based optimisation results is performed. By using relevant common grid model (CGM) and RAO results (selected preventive and curative actions), full AC load flow is conducted for N state and each relevant N-1 state, so that the proposed remedial actions are checked under AC load flow simulation.</p>
+                        </list-item>
+                    </list>
+                </list-item>
+                <list-item>
+                    <label>4. </label>
+                    <p>Reporting:</p>
+                    <list list-type="bullet">
+                        <list-item>
+                            <p>After the optimisation phase, RAO results with all relevant data are sent to the T-COORDINATION platform for further coordination. T-COORDINATION platform is also being developed under TRINITY project, as a tool which will enable communication and coordination between regional TSOs and their RSC.</p>
+                        </list-item>
+                    </list>
+                </list-item>
+            </list>
+            <p>Full mathematical formulation of the applied algorithm can be found in Deliverable 4.2 of TRINITY
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>
+                </sup>.</p>
+        </sec>
+        <sec>
+            <title>Hardware solution:  MPFC</title>
+            <p>MPFC Technology is able to deliver additional capacity through the redistribution of power flows. Typically, networks have several routes for power flow to travel, these routes have different impedances resulting in an unequal distribution of power flows. One route becomes overloaded first, limiting the utilisation of the network to protect the respective devices. Power Flow Control is able to redistribute the power flows allowing greater use of existing network capacity. An example of this is illustrated in the 
+                <xref ref-type="fig" rid="f2">Figure 2</xref>.</p>
+            <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                <label>Figure 2. </label>
+                <caption>
+                    <title>The use of MPFC to increase power flows.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17078/5aa79520-f439-4e32-b947-0fceb088471f_figure2.gif"/>
+            </fig>
+            <p>The proposed modular solution allows much smaller levels of impedance to be strategically deployed to maximize overall utilization than is practical with other technologies. In this way, it is possible to alleviate strains inflicted on transmission lines occurring at border regions. In addition, it can mitigate restrictions in the network that prevent power flowing to the cross &#x2013; border connections, also limiting cross border capacity. Power Flow control technology differs from many other technologies as it can act both in a capacitive or inductive mode to push power away from an overload or pull it towards an under loaded circuit.</p>
+            <p>For the FARCROSS demonstration project a Smart Wires solution including two SmartValves per phase is envisaged
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>. There are several bespoke aspects of SmartValve technology that must be considered as part of the process to assess suitable deployment locations.</p>
+            <p>The SmartValve is based on the Static Synchronous Series Compensator (SSSC) technology. This insulated-gate bipolar transistor (&#x2019;IGBT&#x2019;) based technology makes it ideal for deploying in places where there are concerns on system interaction, such as the appearance of sub-synchronous resonances, or a requirement to rapidly respond to changing system conditions.</p>
+            <p>To accommodate changing system conditions, the mSSSC technology can operate in a number of different control modes, rapidly move between them and change between capacitive and inductive injection mode. This flexibility in its operating principles and control capabilities offers a number of benefits and is particularly helpful for the management of power flows driven by intermittent renewable energy sources.</p>
+            <p>The modular nature of the solution allows adjustment of transmission line reactance at a granular level in real-time to control network power flows. This approach allows a small number of devices to be installed on several lines; small amounts of impedance on several circuits can typically be very effective at increasing overall power flows whilst limiting the amount of required impedance. Whilst not the focus of this initial deployment, the solution can be built upon and expanded in a coordinated way at a future stage to enhance the cross &#x2013; border impact initially delivered.</p>
+            <p>Furthermore, its modular nature allows a similar future solution to be easily scaled or reduced in size as transmission needs change. This allows the project to investigate areas where needs are only temporary, with greater reinforcement able to be delivered at a later date. Once the final solution has been delivered the solution could be redeployed to resolve a different issue. Also, the device can be used in areas where the network requirements are likely to be increased at a later date, for example due to an increase in local renewable connections. The solution can then be upgraded with additional modules, once the exact future need is known.</p>
+            <p>For the FARCROSS project, the ground based 1-1800 SmartValve, as shown in 
+                <xref ref-type="fig" rid="f3">Figure 3</xref>, is expected to be supplied. This device can accommodate up to 1800 A RMS, and can be installed at any voltage level. There is a minimum current requirement of 100 A to enter monitoring mode and 100 A to enter injection mode, so the device is operational between 200A and 1800 A, as shown in 
+                <xref ref-type="fig" rid="f4">Figure 4-(a)</xref>. When considering deployment these aspects must be included, on lightly loaded lines where the intention is pull additional power on to the line. In such a case, it must be assured there is sufficient current to allow the device to operate, or that power can be diverted (maybe by another SmartValve deployment on an adjacent circuit) to make this possible.</p>
+            <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                <label>Figure 3. </label>
+                <caption>
+                    <title>Layout of ground based 1&#x2013;1800 SmartValves.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17078/5aa79520-f439-4e32-b947-0fceb088471f_figure3.gif"/>
+            </fig>
+            <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                <label>Figure 4. </label>
+                <caption>
+                    <title>SmartValve 1&#x2013;1800 Operating Range.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17078/5aa79520-f439-4e32-b947-0fceb088471f_figure4.gif"/>
+            </fig>
+            <p>Conversely, when the SmartValve is used to push power away from overloads, this should not exceed a continuous current of 1800 A. It is expected that through the consideration of its built &#x2013; in push and pull functionality, there will be potential of deployments that allow operation within this envelope.</p>
+            <p>The SmartValve&#x2019;s capability to inject up to a fixed maximum reactive voltage, results in a non- linear operating range, as seen in the 
+                <xref ref-type="fig" rid="f4">Figure 4-(b)</xref>. The effective impedance delivered is dependent on the line current where the device is installed. In Smart Wire&#x2019;s experience there is generally a smaller level of impedance required when mSSSC technology is deployed on the overloaded circuit that needs to be reduced. However, this can still result in the requirement of more than one devices, due to the lower effective impedance injection from each module at high current. Therefore, a more effective solution can be to use the devices in pull mode, requiring a higher level of impedance, but potentially a smaller number of devices. To optimise the effectiveness of the solution against its cost, this relationship must be taken into account when assessing the network&#x2019;s needs.</p>
+            <p>Moreover, the operation of the network is dynamic, with the timing of peak circuit loading varying between circuits. This means that a dispersed solution with a number of units working in unison can be optimal to centralise at one location, providing significant efficiency benefits.</p>
+        </sec>
+        <sec>
+            <title>Complementarity analysis and expected results</title>
+            <p>The objective of the project is to increase the cross &#x2013; border electricity flow and regional cooperation. Based on the study of both technologies, the integrated solutions can provide a number of benefits for regional power systems to facilitate local power control and electricity market interaction, as well as to enhance their grid security and reliability.</p>
+            <p>A study on the SmartValve&#x2019;s installation indicates that the project effectively reduces the thermal loads on the installed line during normal operation stage and N-1 contingency by redirection of the power flow to under-utilised lines. By optimizing the power flows, the solution enables system operators to manage the thermal constraints and maximize the utilization of the existing infrastructure. Combining the T-SENTINEL and SmartValve Systems, it is expected to leverage the control systems&#x2019; flexibility to maximize the effectiveness of the devices. The Remedial Action Optimization allows the utilities to optimise SmartValve System control following the real-time operational violation calculation. As a result, it will significantly enhance the local power system security, stability and reliability.</p>
+            <p>By implementing the combined system, a more efficient and less costly coordinated network security process will be achieved in the SEE region. In addition, the SmartValve System, in synergy with T-SENTINEL module related to capacity calculation, can enable system operators to increase the cross-border capacities. This would yield to overall increase of regional power exchange, regional electricity market integration and consequently social economic welfare in the region.</p>
+            <p>The advanced control system of the SmartValve enables power flow management in real-time. Furthermore, it allows system operation to effectively manage the dynamic local renewable generation integration. By removing local grid constraints, SmartValve allows regional renewable energy to be connected and more consistently utilised in the grid, reducing the need for conventional generation. Therefore, the project benefits the local communities with significant CO
+                <sub>2</sub> emissions avoidance and a reduced price for electricity. It also simultaneously strengthens the reliability and resilience of the system, reducing the required size of system reserves by better management and reach of their use.</p>
+            <p>The modular nature and small size of SmartValve enables it to be easily scaled, up or down, and to be rapidly deployed or re &#x2013; deployed. It permits the SmartValve System to perform as an interim solution for outage management, reconductoring deferral, failure recovery and asset management to minimize the investment risk and mitigate the system risks. In this sense, the advanced optimization system of T-SENTINEL allows utilities to optimize the deployment location of SmartValve System to maximize the flexibility of SmartValve system.</p>
+            <p>Additionally, recent analysis shows that the Smartvalve is able to support voltage regulation and power oscillation damping. This is accomplished by the adjustment of the circuits&#x2019; reactance, to compensate the reactive power to support voltage control. Meanwhile, the advanced control system enables SmartValve to respond dynamically in a voltage collapse. Therefore, combined with T-SENTINEL it can provide additional ancillary services to enhance the security of the grid.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>Cross &#x2013; border power transmission connections in the SEE countries typically suffer from congestion, lack of contingency and market inconsistencies. At the same time, the available Renewable Energy resources aren&#x2019;t injected to the transmission corridors in a cost &#x2013; effective and secure way, making the need for transmission asset upgrade vital. In this sense, the operational principles and benefits of two different solutions are presented within the specific scope of work. On a network level, T&#x2013;SENTINEL remedies grid overloading conditions, through the configuration of optimal economic dispatch commands and extended static security monitoring. On a hardware level, SmartValves are introduced as a means to divert power flows from congested lines, as well as to distribute all generation available in between the transmission lines in a more secure and tolerant way. Consequently, the utilization of both technologies can be expected to offer significant improvements in terms of flexibility, making the cross &#x2013; border connections more robust and adaptive to the evolution of the electrical power industry.</p>
+            <p>The above-described qualitative analysis provides excellent overview of potential synergies and expected benefits from the combination of the two products. The further simulations and quantitative analyses can be performed after agreement with the SEE TSOs related to the network models provision. For this, both consortiums will promote the potential of this research looking for the necessary support from external bodies.</p>
+        </sec>
+        <sec>
+            <title>Disclaimer</title>
+            <p>The views expressed in this article are those of the author(s). Publication in Open Research Europe does not imply endorsement of the European Commission.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <p>No data are associated with this article.</p>
+        </sec>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="other">
+                    <collab>TRINITY H2020 Project</collab>:
+                    <article-title>D4.2. Advanced Concept for Security and Redispatching Cooperation</article-title>.</mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="other">
+                    <collab>FARCROSS H2020 Project</collab>:
+                    <article-title>D4.2. Deployment of PFC Solution and Basic Engineering</article-title>.</mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report36116">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17078.r36116</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Rakopoulos</surname>
+                        <given-names>Dimitrios C.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r36116a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Fotopoulou</surname>
+                        <given-names>Maria</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r36116a2">2</xref>
+                    <role>Co-referee</role>
+                </contrib>
+                <aff id="r36116a1">
+                    <label>1</label>Department of Thermal Engineering, School of Mechanical Engineering, Centre for Research and Technology Hellas, Athens, Greece</aff>
+                <aff id="r36116a2">
+                    <label>2</label>Centre for Research and Technology Hellas (CERTH), Athens, Greece</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>22</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Rakopoulos DC and Fotopoulou M</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport36116"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15808.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The authors tackle a modern topic, which is the cross-border flow optimization. A few minor comments, that could enhance the quality of the manuscript, are presented below: 
+                <list list-type="order">
+                    <list-item>
+                        <p>What is the TRL of the presented technologies?</p>
+                    </list-item>
+                    <list-item>
+                        <p>The authors are encouraged to include formulas/flowcharts/architectures that showcase the operating principle of the proposed systems.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The authors could add KPIs and their target values in order to highlight the impact of the proposed solution.</p>
+                    </list-item>
+                </list> Taking the aforementioned comments into consideration, the manuscript is approved with minor revisions.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>sustainable energy systems</p>
+            <p>We confirm that we have read this submission and believe that we have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report35337">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17078.r35337</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Efthymiou</surname>
+                        <given-names>Venizelos</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35337a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r35337a1">
+                    <label>1</label>American University of Cyprus, Larnaca, Larnaca, Cyprus</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>12</day>
+                <month>10</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Efthymiou V</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35337"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15808.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article "Merging cross-border flow optimization techniques for performance maximization" covers quiet vividly the valuable work done within the projects FARCROSS and TRINITY EU. It addresses profound issues that EU is facing with cross border flow of energy in support of the prevailing market. The presented tools to enhance inter-state trading SmartValve and T-Sentinel were presented with good results. The description and cross reference is clear giving to the reader a complete picture of the achieved results. Future work is clearly spelled out and it is responsive to the current achieved results.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Power systems, smart grids, microgrids, protection and control of power systems, storage, PV technologies,</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

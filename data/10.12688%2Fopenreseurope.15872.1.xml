@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="letter"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15872.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Open Letter</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Bridging the gap &#x2013; how to walk the talk on supporting early career researchers</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 3 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Pizzolato</surname>
+                        <given-names>Daniel</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3954-5924</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Reyes Elizondo</surname>
+                        <given-names>Andrea</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-5676-2122</uri>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Aubert Bonn</surname>
+                        <given-names>No&#x00e9;mi</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a4">4</xref>
+                    <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Taraj</surname>
+                        <given-names>Borana</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Roje</surname>
+                        <given-names>Rea</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Konach</surname>
+                        <given-names>Teodora</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a8">8</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>KU Leuven, Leuven, Flanders, Belgium</aff>
+                <aff id="a2">
+                    <label>2</label>European Network of Research Ethics Committees, Bonn, Germany</aff>
+                <aff id="a3">
+                    <label>3</label>Leiden University, Leiden, The Netherlands</aff>
+                <aff id="a4">
+                    <label>4</label>VU University Amsterdam, Amsterdam, The Netherlands</aff>
+                <aff id="a5">
+                    <label>5</label>Hasselt University, Hasselt, Flanders, Belgium</aff>
+                <aff id="a6">
+                    <label>6</label>European Association of Research Managers and Administrators, Brussels, Belgium</aff>
+                <aff id="a7">
+                    <label>7</label>University of Split School of Medicine, Split, Croatia</aff>
+                <aff id="a8">
+                    <label>8</label>Austrian Agency for Research Integrity, Vienna, Austria</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:daniel.pizzolato@kuleuven.be">daniel.pizzolato@kuleuven.be</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>4</day>
+                <month>5</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>75</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>6</day>
+                    <month>4</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Pizzolato D et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-75/pdf"/>
+            <abstract>
+                <p>Early career researchers (ECRs) play a crucial role in European and nationally funded research projects. They are at the forefront of planning, conducting, analysing, and reporting research. As part of the 
+                    <ext-link ext-link-type="uri" xlink:href="https://sops4ri.eu/">SOPs4RI</ext-link> project funded by the European Commission, we, as ECRs and members of this project&#x2019;s consortium, were given the opportunity to reflect on our role, obstacles, and possible opportunities that we experienced. Although several steps have been already taken to support early career researchers, more concrete actions have to be pursued.</p>
+                <p>In our opinion, the EC should take the lead and serve as a global frontrunner (taken as exemplary also by national funding agencies) in implementing initiatives to support early career researchers during their research trajectory. We opine that the European Commission should explicitly (i) 
+                    <italic toggle="yes">require the creation of a support system in which early career researchers will be able to build new skills and capacity,</italic> (ii) 
+                    <italic toggle="yes">encourage and facilitate more involvement of early career researchers in decision-making roles of EC-funded projects,</italic> and (iii) 
+                    <italic toggle="yes">provide resources to support career continuity between fixed-term contracts</italic>.</p>
+                <p>The suggested actions can help early career researchers build competencies and expertise to establish stability and continuity within the research environment or to embrace and excel in careers outside academia.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Early career researchers</kwd>
+                <kwd>career support</kwd>
+                <kwd>capacity building</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>824481</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under grant agreement No 824481 (Standard Operating Procedures for Research Integrity [SOPs4RI]).</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Disclaimer</title>
+            <p>The views expressed in this article are those of the authors. Publication in Open Research Europe does not imply endorsement of the European Commission.</p>
+            <p>Early career researchers (ECRs) play a crucial role in European and nationally funded research projects. They are at the forefront of planning, conducting, analysing, and reporting research. As part of the 
+                <ext-link ext-link-type="uri" xlink:href="https://sops4ri.eu/">SOPs4RI</ext-link> project funded by the European Commission (EC), we, as ECRs and members of this project&#x2019;s consortium, were given the opportunity to reflect on our role, obstacles, and possible opportunities that we experienced. We use the term 
+                <italic toggle="yes">early career researchers</italic> to include the broad range of research-enabling professionals in the early stages of their careers, regardless of age. This includes early career researchers (e.g., PhD students, junior postdoctoral researchers and early career professionals outside of academia such as research administrators and project managers) who are involved in funded research activities and anyone else contributing to research activities during the early stages of their career or career track. ECRs often face a challenging career transition, especially in the post-PhD period
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>
+                </sup>. 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://tressacademic.com/precariously-employed/?cookie-state-change=1675073279825">Post-PhD transition is often characterized by precarious contracts, limited access to career development and funding, lack of mentorship, and other challenges inherent to the transition towards more independent careers</ext-link>.</p>
+            <p>Despite the fact that a road map to improve and support the lives of ECRs in Europe has already been drawn
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>, further concrete actions are needed to support them in more substantial ways. Given its important role in numerous ECR careers, the European Commission has a responsibility to take the lead on this and require grant beneficiaries to be proactive in supporting ECRs within ongoing projects and in their career continuity.</p>
+            <p>Simultaneously with the presentation of the manifesto 
+                <ext-link ext-link-type="uri" xlink:href="https://initiative-se.eu/manifesto/">&#x201c;Europe supports early research careers and stimulating research workplaces&#x201d;</ext-link> at the 4th Gago Conference on European Science Policy in Brussels in June 2022, we reflected on how the European and national funding agencies can concretely support ECRs during their academic trajectory and in building future opportunities. In September 2022, a Manifesto for Early Career Researchers was launched to request broad and robust support to early career academics and scholars. 
+                <ext-link ext-link-type="uri" xlink:href="https://initiative-se.eu/manifesto/">The Manifesto has already been endorsed by many European and national organisations</ext-link>. This is a good first step; however, more specific actions can be taken by the EC when granting research projects and consortia. In this commentary, we present some of these reflections and provide specific recommendations to improve the conditions of ECRs.</p>
+            <p>The first action to be taken at several levels is to sensitise the research environment to the fragile, unstable, and unfavourable professional and psychological situation in which ECRs work. Recent initiatives, such as the 
+                <ext-link ext-link-type="uri" xlink:href="https://projects.tib.eu/remo/">Research Mental Health Observatory</ext-link> (REMO) Cost Action, the Danish campaign 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://uniavisen.dk/en/pleasedontstealmywork-new-campaign-to-stop-the-theft-of-research/">"Please do not steal my work"</ext-link>, or the French collective 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.science.org/content/article/who-camille-no-s-fictitious-french-researcher-nearly-200-papers">Camille No&#x00fb;s</ext-link>, raise awareness of some of the difficulties ECRs face. These recent initiatives are a good start and they suggest a shared understanding of the problems, but more needs to be done to bring this awareness to the different layers of the research ecosystem and encourage action by incorporating the topic to conversations at all levels, within departments, funding divisions, projects, etc.</p>
+            <p>Proactive support for ECRs can be provided at different levels, including 1) by European and national research funding organisations, 2) by research institutions, and 3) by senior colleagues who are involved in the same research project or have been involved in previous ones. Actions these stakeholders can take may include allocating budget to be used after the last deliverable of a project to enable ECRs to complete publications and/or prepare for new academic roles, and inviting ECRs to actively participate in the preparation of research proposals long before the end of the running project to increase the chances of a continuing career.</p>
+            <p>In our opinion, the EC should take the lead and serve as a global frontrunner (taken as exemplary also by national funding agencies) in implementing initiatives to support ECRs during their research trajectory within EC-funded projects and to promote career stability and continuity. We opine that the EC should explicitly (i) 
+                <italic toggle="yes">require the creation of a support system in which ECRs will be able to build new skills and capacity,</italic> (ii) 
+                <italic toggle="yes">encourage and facilitate more involvement of ECRs in decision-making roles of EC projects,</italic> and (iii) 
+                <italic toggle="yes">provide resources to support career continuity between fixed-term contracts</italic>. As in the case of explicit initiatives in support of open access, the EC should take the lead in supporting ECRs. We propose a list of six actions that can serve as a starting point to further develop initiatives in support of ECRs (
+                <xref ref-type="other" rid="B1">Box 1</xref>).</p>
+            <p>
+
+                <boxed-text content-type="website" id="B1" orientation="portrait" position="float">
+                    <caption>
+                        <title>Box 1. The proposed actions EC should take to support early career researchers</title>
+                    </caption>
+                    <table-wrap id="T1" orientation="portrait" position="anchor">
+                        <table content-type="article-table" frame="hsides">
+                            <tbody>
+                                <tr>
+                                    <td align="center" colspan="1" rowspan="1">
+                                        <bold>Support and capacity building</bold>
+                                        <break/>Action 1: Ombuds system and confidential advisors
+                                        <break/>Action 2: Research integrity and research ethics advisory system
+                                        <break/>Action 3: Capacity-building budget for ECRs
+                                        <break/>
+                                        <break/>
+                                        <bold>Involvement in decision-making</bold>
+                                        <break/>Action 4: ECR inclusion in decision-making and leadership roles
+                                        <break/>
+                                        <break/>
+                                        <bold>Career continuity</bold>
+                                        <break/>Action 5: Bridge careers after project completion
+                                        <break/>Action 6: ECR network and community platform</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                </boxed-text>
+         </p>
+            <p>
+                <bold>
+                    <italic toggle="yes">Action 1: Ombuds system and confidential advisors (Support and capacity-building)</italic>
+                </bold>
+            </p>
+            <p>In funding research consortia or single-beneficiary grants, the EC could require funded institutions or consortia to have an ombuds system in place to handle issues that might arise in relation to the psychological well-being and workplace environment of ECRs. The EC could require project leaders to assign a confidential advisor who is aware of the resources and contact persons and who is knowledgeable with regards to Diversity, Equity, and Inclusion (DEI) principles and is able to direct the consortium to appropriate DEI training. DEI training and policies should be available in the different institutions involved in the project. In fact, in addition to the issues that most ECRs face in normal research settings
+                <sup>
+                    <xref ref-type="bibr" rid="ref-3">3</xref>,
+                    <xref ref-type="bibr" rid="ref-4">4</xref>
+                </sup>, some ECRs may experience further difficulties and power imbalance because of different characteristics such as gender identity, dis/ability
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>, nationality, and socio-economic or cultural background, which often vary between the different hierarchical levels within academia. It is important that consortia and institutions where the funded researchers are based have measures in place such as experts and policies to address these inequalities. The SOPs4RI project co-created 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://sops4ri.eu/tool_category/diversity-issues/">guidelines for research institutions on diversity and inclusion</ext-link> which may provide tips on how to address these issues.</p>
+            <p>
+                <bold>
+                    <italic toggle="yes">Action 2: Research integrity and research ethics advisory system (Support and capacity-building)</italic>
+                </bold>
+            </p>
+            <p>In funding research consortia or single-beneficiary grants, the EC could require that a research integrity and research ethics advisory system is in place to support and advise project members at all career stages in terms of responsible research practices and conduct. Scientific misconduct and questionable research practices are not just due to deliberate misbehaviour or sloppy practices. They are also caused by a lack of knowledge, inadequate education, and limited awareness about the possible consequences of questionable practices. Excessive expectations, unreasonable time pressures, and peer pressure where seniors engage, in questionable research practises can also come into play. Having research integrity and ethics advisors, within or outside the consortium, can help ECRs and seniors to clarify uncertainties, fill possible lacunas of knowledge and competencies, and reflect on what constitutes responsible research practices.</p>
+            <p>
+                <bold>
+                    <italic toggle="yes">Action 3: Capacity-building budget for ECRs (Support and capacity-building)</italic>
+                </bold>
+            </p>
+            <p>In funding research consortia or single-beneficiary grants, the EC could support and encourage applicants to apply for a capacity-building budget for ECRs. When funding research projects, the EC could encourage and support consortia that apply for extra budget to focus on providing training sessions and building skills, including skills that extend beyond the needs of the project and that are useful for careers outside academia. Encouraging applicants to include this extra budget in their funding applications would allow ECRs to build extra competencies, skills, and expertise. 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://sops4ri.eu/tool_category/education-training/">The SOPs4RI project co-created guidelines for institutions on education and training</ext-link> which may be useful in identifying the areas and strategies to address the needs of ECRs.</p>
+            <p>
+                <bold>
+                    <italic toggle="yes">Action 4: ECR inclusion in decision-making process (Involvement in decision-making)</italic>
+                </bold>
+            </p>
+            <p>In funding research consortia or single-beneficiary grants, the EC could require consortia to involve ECRs in the decision-making process throughout the research project. This could include, for example, involving ECRs in strategic decisions for the preparation, completion and success of the project, requiring consortia to have ECRs in leadership roles (for instance as work-package co-leaders), and participation of ECRs in the Advisory Board or Executive Committees. Complementing the added perspective that this would provide, involving ECRs in core decision-making processes can help them acquire experience and expertise in how to manage important issues related to the research environment and research process, while offering them a safe environment in which they can prepare for future leadership roles. Moreover, the EC could encourage the involvement and recognition of ECRs in the process of writing research proposals. When evaluating research proposals, the EC should require consortia to fully involve ECRs in writing the grant proposal and to clearly detail how the consortium or single-beneficiary grant intends to involve ECRs during the lifetime of the project. The involvement of ECRs in the phase of writing a new grant proposal could increase opportunities of career continuity. To capture this, the EC could expand the &#x2018;gender perspective&#x2019; that is currently requested in proposals to a more general &#x2018;Commitment to diversity statement&#x2019;, which explicitly includes gender, diversity (e.g., cultural, racial gender, physical and diversity in interests), inclusion, together with early career researcher perspectives.</p>
+            <p>
+                <bold>
+                    <italic toggle="yes">Action 5: Bridge careers after project completion (Career continuity)</italic>
+                </bold>
+            </p>
+            <p>In funding research consortia or single-beneficiary grants, the EC could foresee additional funding to bridge precarious early careers after project completion. Several consortia already encourage ECRs to apply for future funding when approaching project completion, but this often happens without formal funding and outside working hours, leading to exhaustion and frustration. When funding research projects, the EC could guarantee extra funding to bridge transition periods inherent to early careers. This could involve additional months of funding for ECRs after the completion of the project during which ECRs could complete publications, build additional competencies, and apply for future funding opportunities. 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://medicine.duke.edu/research/grants-and-funding/career-development-bridge-funding-program">This has already been well implemented in the U.S. and allows ECRs to fill the gap between fellowships</ext-link>.</p>
+            <p>
+                <bold>
+                    <italic toggle="yes">Action 6: ECR network and community platform (Career continuity)</italic>
+                </bold>
+            </p>
+            <p>The EC could promote and support the creation and consolidation of a network and community platform to support ECR career stability and continuity. The community platform can serve as a contact point between ERCs with specific expertise and project leaders of starting EC-funded projects. As in the case of the 
+                <ext-link ext-link-type="uri" xlink:href="https://eneri.eu/e-community/">ENERI e-community</ext-link>, the database could be integrated into 
+                <ext-link ext-link-type="uri" xlink:href="https://europa.eu/sinapse/sinapse/">SINAPSE</ext-link>, a free public service provided by the EC, or in the new EC-funded online platform, the 
+                <ext-link ext-link-type="uri" xlink:href="https://embassy.science/wiki/Main_Page">Embassy of Good Science</ext-link>. In addition, the community platform could offer a springboard for networking and ERCs to exchange ideas, share resources, and initiative activities, not only among themselves but with more seasoned researchers.  </p>
+            <p>To conclude, we believe that EC-funded projects offer an ideal platform to support ECRs as they embark on their academic career or future professional trajectory. The suggested actions can help them build competencies and expertise to establish stability and continuity within the research environment or to embrace and excel in careers outside academia. We hope these suggestions might inspire the EC to assume a leadership role in supporting ECRs, while encouraging and incentivising research institutions and research funders to join this important effort. In addition, we think that these suggestions can be framed in the context of existing EU policies, such as initiatives for 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/reforming-research-assessment-agreement-now-final-2022-07-20_en">reforming research assessment</ext-link>, gender equality in research, and research integrity, among others designed to enhance the research endeavour.</p>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>Ethical approval and consent were not required.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <p>No data are associated with this article.</p>
+        </sec>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>We would like to thank all SOPs4RI consortium members for their support in developing this manuscript, especially Krishma Labib, Mathieu Rochambeau, Lex Bouter, Mads P. S&#x00f8;rensen, Ana Maru&#x0161;i&#x0107;, Zo&#x00eb; Hammatt, Panagiotis Kavouras, Joeri Tijdink and Kris Dierickx for their valuable support and help in elevating this manuscript.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Malcom</surname>
+                            <given-names>SM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Parikh</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Students and postdocs deserve more.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Science.</italic>
+               </source>
+               <year>2023</year>;<volume>379</volume>(<issue>6632</issue>):<fpage>519</fpage>.
+                    <pub-id pub-id-type="pmid">36758099</pub-id>
+                    <pub-id pub-id-type="doi">10.1126/science.adh0336</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Singh Chawla</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A road map aims to improve the lives of junior scientists in Europe.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Nature.</italic>
+               </source>
+               <year>2022</year>.
+                    <pub-id pub-id-type="pmid">36258128</pub-id>
+                    <pub-id pub-id-type="doi">10.1038/d41586-022-03321-3</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Levecque</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Anseel</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>De Beuckelaer</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Work organization and mental health problems in PhD students.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Res Pol.</italic>
+               </source>
+               <year>2017</year>;<volume>46</volume>(<issue>4</issue>):<fpage>868</fpage>&#x2013;<lpage>879</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.respol.2017.02.008</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Woolston</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Graduate survey: A love&#x2013;hurt relationship.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Nature.</italic>
+               </source>
+               <year>2017</year>;<volume>550</volume>:<fpage>549</fpage>&#x2013;<lpage>552</lpage>.
+                    <pub-id pub-id-type="doi">10.1038/nj7677-549a</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Annamma</surname>
+                            <given-names>SA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Connor</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ferri</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Dis/ability critical race studies (DisCrit): theorizing at the intersections of race and dis/ability.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Race Ethn and Educ.</italic>
+               </source>
+               <year>2013</year>;<volume>16</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>31</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/13613324.2012.730511</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report34844">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17145.r34844</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Araya</surname>
+                        <given-names>Yoseph</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r34844a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r34844a1">
+                    <label>1</label>The Open University, Milton Keynes, England, UK</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>26</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Araya Y</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport34844"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15872.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This is a neatly communicated letter addressing the important challenge facing early career researchers (ECRs), a secure transition to academic and research career. It is built on the reflections of researchers from a European Commission (EC) funded project, undertaken across various European countries. The outcomes are largely targeted at the EC level and how it can play a role in ensuring a career path for ECRs. Citing various examples, of which there are plenty, it highlights the precarious nature of transition faced by ECR&#x2019;s as a result of their limited contracts, in their most vulnerable career stage. They are still learning research skills and still building experience forging their academic career, when they eventually face the abrupt step of ensuring the next long-term contract. Too often they are unprepared to obtain their own grant, especially with the competition for limited opportunities. This inevitably has, and is highlighted by the authors, apart from financial, mental wellbeing consequences. This is unfortunately a reality shared globally, with similar cases for example in the UK and USA. The letter is aimed at the EC, a major funder, to act as a leader in ensuring ECR research trajectory continues. The proposal suggested rightly focuses on support at the beginning, whilst still in the early career project, and once near the finish. A few points and suggestions the authors could elaborate or discuss are presented as follows.</p>
+            <p> </p>
+            <p> Considering the first of the three stages suggested, support in the early stage of the career is crucial in building the skills and confidence needed in a research career. The focus on building a formal structure on training and mentorship is well made. There are examples of this being undertaken by multiple institutions elsewhere too. For e.g. UK Research and Innovation body (UKRI) has recently introduced Doctoral Training Partnerships (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.ukri.org/what-we-do/developing-people-and-skills/esrc/doctoral-training-partnerships/">https://www.ukri.org/what-we-do/developing-people-and-skills/esrc/doctoral-training-partnerships/</ext-link>), which not only train ECR&#x2019;s in various skills from the perspective of a broader inter-university and research partner collaboration. The key with such approach is having a coordinating body. Although the suggestion of assigning confidential advisors (&#x2018;Ombuds&#x2019; or mentors is suggested in the letter, the need for a formal structure within the projects would be necessary to realise the desired support outcomes. It is crucial who and where the advisor(s) sit and how they operate. It is also important to specify how the Ombuds will collaborate within projects. The letter rightly emphasises on Ombuds being familiar with diversity and inclusion principles. This is especially even more challenging across a wide network of different countries as would be anticipated in EC countries. Ensuring a ring-fenced budget for capacity building is an excellent idea, but it is crucial national governments and institutions, ensure existence and continuity of such advisory and training work. So this should be potentially a requirement before EC grants are awarded. A suggestion on how such structure can be created and maintained hence would be a good discussion point.</p>
+            <p> </p>
+            <p> Considering support whilst during the grant in the form of inclusion in decision-making and leadership is rightly made. However, this probably is broad issue, which will inevitably deal with research culture and ethics. Recently a lot has been discussed including an excellent paper by (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914">Maestre et al, 2019</ext-link>). However, to ensure practicality, it might have to be supported via individual institutions and nations as well. For example, a wider recognition of good culture could be considered such as a charter or concordat which institutions sign up (e.g. UK&#x2019;s 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.universitiesuk.ac.uk/topics/research-and-innovation/concordat-support-research-integrity">concordat for research integrity</ext-link> or the 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.advance-he.ac.uk/equality-charters/athena-swan-charter">Athena Swan Charter</ext-link>). Recognition for institutions that demonstrate good support on such initiatives, could then be used as an additional criteria by the EC when considering funding bids. The key thing is good culture of supporting ECR&#x2019;s should be practically assessed and become a motivating factor for institutions bidding for EC funds.</p>
+            <p> </p>
+            <p> Considering the latter part of an ECR&#x2019;s involvement in a project and the next step, a network of ECR&#x2019;s will be crucial and is well pointed at. Good examples are provided and may be stronger case could be made in the letter, how this should be well-established and embedded within projects. Discussion could be made if there a case to be made for an independent EC funded body working across projects.</p>
+            <p> </p>
+            <p> Overall an engaging and well written letter, with clear ideas on how to support ECR&#x2019;s. It will be rewarding to have EC and national bodies take steps to ensure the future of researchers.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>NA</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report34845">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17145.r34845</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>L. Hewitt</surname>
+                        <given-names>Victoria</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r34845a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-2997-6499</uri>
+                </contrib>
+                <aff id="r34845a1">
+                    <label>1</label>The University of Auckland, Auckland, Auckland, New Zealand</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>19</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 L. Hewitt V</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport34845"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15872.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The Open letter makes clear, actionable policy suggestions directed at the EC that are also more broadly applicable to research funding bodies worldwide. Making adequate provisions for career progression and protection from exploitative employment practices a requirement of external funding would provide a strong incentive to employers of ECRs to improve their working conditions and thereby empower a vital part of the research sector. These concrete suggestions tied to funding, but in most cases not dependent on additional funding being sourced or structures being developed, offer clearer steps forward than the 2022 Manifesto by the Initiative for Science in Europe (ISE) and the 2005 Euraxess Charter. Citing the charter and noting the limited progress since 2005 would also strengthen the author&#x2019;s argument that more concrete steps are necessary to achieve a culture change.</p>
+            <p> </p>
+            <p> The introduction clearly explains the aims of the letter, but it would be helpful for many readers to have a very brief introduction to the SOPs4RI program to ensure the context of the text can be understood without following further links. The authors acknowledge that commitment to adopting the recommendations of the Manifesto at an institutional level are a good first step but could add that this helps ensure many improvements are accessible to all ECRs not just those on EC funded projects.</p>
+            <p> Regarding the advisors and additional capacity training referenced in Actions 2 and 3, the cost of funding and finding suitable people to fill these roles may be difficult for some smaller institutions. Perhaps alternatives in the form of a small fund from the grant to gain relevant but otherwise unavailable training for one of the applicants could also help capacity building and spread best practice in these areas.</p>
+            <p> </p>
+            <p> Action 4 suggests naming and including ECRs in the early stages of the grant application process and on the evaluation side. These are relatively easy steps that simply allow ECRs &#x201c;in the room&#x201d; but are potentially transformational for ECRs whose experience may otherwise be completely dependent on their supervisors to provide these opportunities (and might otherwise be missed because of time pressures and lack of awareness around training of ECRs).</p>
+            <p> </p>
+            <p> The bridging funding suggestions in Action 5 also have the potential to alter career paths particularly for ECRs in systems where less institutional or national funds are available and in the scale of EC grants would not have huge impact on costs. In my experience ensuring the availability of such funding reaches the appropriate people appears to be a limiting factor and indicating as such in any guidance around documentation for applications would be prudent.</p>
+            <p> </p>
+            <p> The ECR network suggested in Action 6, while appealing, is (in agreement with the other reviewer, Brian Cahill) hard to implement. Without significant administrative support and institutional &#x201c;champions&#x201d; leading the way such networks are very hard to sustain. A more targeted network as suggested (the ENERI e-community) is one avenue that appears to help ensure continuity. Having seen the decline of a once very useful academic twitter and more discipline specific society and institutional initiatives I feel this action is less easily implemented than the rest. Perhaps this advice could be amended to include advice that EC funding applications note concrete ways ECRs involved will be encouraged make connections via access existing networks (eg Professional societies, inter-institutional and nationally funded network programs/exchanges).</p>
+            <p> </p>
+            <p> Beyond inclusion of a very brief introduction to SOPsRI and the addition an &#x201c;Introduction&#x201d; heading to the text beginning after the disclaimer my other comments are simply suggestions and I recommend publication of this Letter.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>I am a Researcher Developer and have extensive experience as an ECR across 3 continents and 5 institutions and have been involved in supporting ECRs for many years while also performing research.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report31441">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17145.r31441</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Cahill</surname>
+                        <given-names>Brian P.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r31441a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-7325-5114</uri>
+                </contrib>
+                <aff id="r31441a1">
+                    <label>1</label>Leibniz Information Centre for Science and Technology, Hannover, Germany</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>I am Grant Manager of the Research Mental Health Observatory (REMO) Cost Action that is mentioned in the article and my review.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>22</day>
+                <month>5</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Cahill BP</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport31441"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15872.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This a well written and timely call for greater involvement of researchers in framing the future of the European Research Area and in creating structures that better support researchers.</p>
+            <p> </p>
+            <p> One weakness of this paper is the lack of assessment of the current frameworks that address such issues and the involvement or lack thereof of ECRs in their administration. In 2005, the European Commission published the European Charter for Researchers and a Code of Conduct for the Recruitment of Researchers 
+                <sup>
+                    <xref ref-type="bibr" rid="rep-ref-31441-1">1</xref>
+                </sup>&#x00a0;
+                <sup>&#x00a0;</sup>(
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf">https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf</ext-link>). Ten years after its publication, one of the organisations that actively lobbied for the Charter and Code to be adopted, EuroScience, published a very lukewarm appraisal of the "success" of the Charter and Code (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.euroscientist.com/does-the-european-researchers-charter-deserve-its-birthday-cake/">https://www.euroscientist.com/does-the-european-researchers-charter-deserve-its-birthday-cake/</ext-link>)
+                <sup>
+                    <xref ref-type="bibr" rid="rep-ref-31441-2">2</xref>
+                </sup>. The administration of the Charter and Code has been largely at a level that ECRs have no input at a national or institutional level. In some countries (for instance, Germany), very few institutions have endorsed the Charter and Code.</p>
+            <p> </p>
+            <p> The Charter and Code appears to be being revised at the moment through a consultative process that I understand involves a small number of researchers and extensive representation from national governments and other stakeholders.&#x00a0; Researchers have some representation but people working in relevant roles as ombuds, research integrity officers, researcher career developers etc. are almost completely excluded. This compares very poorly with the revision of the Concordat to Support the Career Development of Researchers
+                <sup>
+                    <xref ref-type="bibr" rid="rep-ref-31441-3">3</xref>
+                </sup>&#x00a0;(the UK equivalent) published in 2019 that was led by Vitae and that included feedback from all relevant stakeholder groups through an open call for contributors to a Concordat writing group.</p>
+            <p> </p>
+            <p> Many national funders (German Research Council DFG) allow a cost-neutral extension of the project beyond the originally-agreed project lifetime that often allows ECR contracts to be extended. This is not a usual feature of EC-funded projects that tend to impose fixed deadlines for project completion and use of budget. I agree that a dedicated budget to support ECRs in this way would be very useful. Particularly the 3-year funding for MSCA Doctoral Fellows causes a huge amount of mental stress for young researchers, who are required by the eligibility criteria to be internationally mobile and who often take longer than 4 years to complete their PhD. This is a structural issue within the conception of doctoral funding that places undue stress on ECRs and leads to reduced levels of completion of doctoral programmes.</p>
+            <p> </p>
+            <p> As regards Action 1, the Charter and Code already includes a recommendation to implement an ombudsman-type system within institutions and research funders. Nevertheless the devil is in the detail. It is accompanied by a qualification that "in compliance with national rules and regulations, appropriate procedures". The European Commission has no competence to enforce the non-binding recommendations within the Charter and Code. This remains the competence of relevant national bodies, such as the national legal system.</p>
+            <p> </p>
+            <p> As reagrds Action 2, there is a very variable coverage of training for research integrity throughout Europe. Many researchers (particularly more senior researchers) have never received research integrity training of any sort and have absorbed experience through a process of osmosis from their former supervisors, colleagues and general experience of working as an academic (I count myself among these individuals). In some countries (Germany), research integrity officers are rather confusingly called Ombuds, which confuses many researchers looking for advice on issues related to power abuse, bullying and harassment.</p>
+            <p> </p>
+            <p> The European Commission includes many of the Capacity Building measures mentioned under Action 3 in the Marie Sklodowska-Curie Actions, Erasmus Mundus and the EIT. A more general access to such training and network-building activities across all EU-funded programmes would be highly welcome. The Commission has recently funded the EURAXESS Hubs project
+                <sup>
+                    <xref ref-type="bibr" rid="rep-ref-31441-4">4</xref>
+                </sup>&#x00a0;that aims to build support for researcher careers through the EURAXESS network. This network is useful but is more focused on supporting researcher mobility through an extensive network of international offices throughout Europe rather than an extensive network of researcher career developers. It is questionable how effective these sort of projects can be without directly engaging career developers at the institutional level.</p>
+            <p> </p>
+            <p> In general, the European Commission considers&#x00a0; academic researchers as being represented by their institutions.This is highly questionable. From a purely legal viewpoint, the beneficiary is the institution that communicates with the Research Executive Agency and employment-related issues are largely a matter for institutional Human Resources to deal with. The Commission set up the Human Resources Strategy for Researchers (HRS4R) as a type of accreditation process for the implementation of the Charter and Code. Adding ways to include involvement of ECRs in strategic decisions related to EU-funded projects does not play any role in HRS4R. In MSCA projects, the ECR and the supervisor must jointly draft a Career Development Plan for the ECR but more direct involvement of ECRs in higher-level management is not foreseen. Even the career development plan is not a requirement of other EC-funded programmes.</p>
+            <p> </p>
+            <p> As regards Action 5, the Commission previously had a relatively small-valued grants for Career Reintegration of MSCA fellows that supported the fellows to move institution and retain a small amount of funding to support their continuing career development. I personally benefited from this programme. My understanding is that it was discontinued during FP7 due to the expense of awarding and evaluating many small-valued grants (that were of huge value to the careers of ECRs). Lack of flexibility at early-career stages can be very disruptive to the career development of researchers especially in combination with international mobility.</p>
+            <p> </p>
+            <p> As regards Action 6, the Commission set up exactly this sort of ECR network and community platform in 2012. It was called "Voice of Researchers" and its surviving footprint is limited to a Twitter presence (
+                <ext-link ext-link-type="uri" xlink:href="https://twitter.com/Research_Voice">https://twitter.com/Research_Voice</ext-link>). If activities of this sort are purely based on time-limited funding, a repetition of the demise of the Voice of Researchers portal is very likely. Also, it must be taken into account that a representative group of individuals without an independent status that is purely funded by the Commission with the aim of giving feedback to the Commission is something that might lead to other stakeholders dismissing the feedback of these ECRs as being overly biased towards Commission policy positions.</p>
+            <p> </p>
+            <p> On a final point that might be considered biased (Conflict of Interest declaration: I am grant manager of the ReMO COST Action on Researcher Mental Health), the ReMO COST Action is not purely focussed on Raising Awareness. Raising awareness of&#x00a0; researcher mental health is one important objective of several mentioned in the 
+                <italic>Researcher Mental Health and Well-being Manifesto</italic>
+                <sup>
+                    <xref ref-type="bibr" rid="rep-ref-31441-5">5</xref>
+                </sup>
+                <italic>
+                    <sup>&#x00a0;</sup>
+                </italic>. ReMO is also running a Europe-wide survey, drafting national policy briefs and supporting the collection of evidence on the effectiveness of interventions to support researcher mental health.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Interdisciplinary; Researcher Career Development; Researcher Mental Health; Research Policy; Microfluidics; Colloid and Interface Science; Biomedical Engineering; Sensors and Actuators;</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-31441-1">
+                    <label>1</label>
+                    <mixed-citation>
+                        <person-group person-group-type="author"/>:
+                        <article-title>European Charter for Researchers and a Code of Conduct for the Recruitment of Researchers</article-title>.<year>2005</year>;
+                        <ext-link ext-link-type="uri"
+                            xlink:href="https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf">Reference source</ext-link>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-31441-2">
+                    <label>2</label>
+                    <mixed-citation>
+                        <person-group person-group-type="author"/>:
+                        <article-title>Does the European Researchers Charter deserve its birthday cake?</article-title>.
+                        <source>
+                            <italic>EuroScientist</italic>
+                        </source>.<year>2015</year>;
+                        <ext-link ext-link-type="uri"
+                            xlink:href="https://www.euroscientist.com/does-the-european-researchers-charter-deserve-its-birthday-cake/">Reference source</ext-link>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-31441-3">
+                    <label>3</label>
+                    <mixed-citation>
+                        <article-title>Concordat to Support the Career Development of Researchers</article-title>.
+                        <source>
+                            <italic>Vitae</italic>
+                        </source>.<year>2019</year>;
+                        <ext-link ext-link-type="uri"
+                            xlink:href="https://www.vitae.ac.uk/policy/concordat/concordat-to-support-the-career-development-of-researchers">Reference source</ext-link>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-31441-4">
+                    <label>4</label>
+                    <mixed-citation>
+                        <person-group person-group-type="author"/>:
+                        <article-title>Researcher Mental Health and Well-being Manifesto</article-title>.
+                        <source>
+                            <italic>Zenodo</italic>
+                        </source>.<year>2021</year>;
+                        <elocation-id>10.5281/zenodo.5559806</elocation-id>
+                        <pub-id pub-id-type="doi">10.5281/zenodo.5559806</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-31441-5">
+                    <label>5</label>
+                    <mixed-citation>
+                        <article-title>Piloting EURAXESS talent hubs to support researchers&#x2019; careers</article-title>.
+                        <elocation-id>10.3030/101035541</elocation-id>
+                        <pub-id pub-id-type="doi">10.3030/101035541</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+    </sub-article>
+</article>

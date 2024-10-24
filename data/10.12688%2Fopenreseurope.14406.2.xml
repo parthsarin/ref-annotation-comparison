@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="data-paper"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.14406.2</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Data Note</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Local ecological knowledge and folk medicine in historical Estonia, Livonia, Courland and Galicia in Northeastern Europe, 1805-1905</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 2; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Anegg</surname>
+                        <given-names>Martin</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Software</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Prakofjewa</surname>
+                        <given-names>Julia</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3217-1704</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Kalle</surname>
+                        <given-names>Raivo</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2175-8617</uri>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>S&#x00f5;ukand</surname>
+                        <given-names>Renata</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-0413-8723</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Department of Environmental Sciences, Informatics and Statistics, Ca&#x2019; Foscari University of Venice, Mestre, Venezia VE, Via Torino, 155, 30170, Italy</aff>
+                <aff id="a2">
+                    <label>2</label>University of Gastronomic Sciences, Pollenzo CN, Piazza Vittorio Emanuele II, 9, 12042, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:yuliya.prakofyeva@unive.it">yuliya.prakofyeva@unive.it</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>13</day>
+                <month>9</month>
+            <year>2022</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2022</year>
+            </pub-date>
+         <volume>2</volume>
+            <elocation-id>30</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>30</day>
+                    <month>8</month>
+               <year>2022</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Anegg M et al.</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/2-30/pdf"/>
+            <abstract>
+                <p>
+                    <bold>Background:</bold> Historical ethnobotanical data can provide valuable information about past human-nature relationships as well as serve as a basis for diachronic analysis. This data note aims to present a dataset which documented medicinal plant uses, mentioned in a selection of German-language sources from the 19
+                    <sup>th</sup> century covering the historical regions of Estonia, Livonia, Courland, and Galicia.</p>
+                <p>
+                    <bold>Methods:</bold> Data was mainly entered by systematic manual search in various ethnobotanical historical German-language works focused on the medicinal use of plants. Data about plant and non-plant constituents, their usage, the mode of administration, used plant parts, and their German and local names was extracted and collected into a database in the form of Use Reports.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>ethnomedicine</kwd>
+                <kwd>historical ethnobotany</kwd>
+                <kwd>Baltics</kwd>
+                <kwd>environmental history</kwd>
+                <kwd>herbals</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>714874</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Research Council (ERC) under the European Union&#x2019;s Horizon 2020 research and innovation programme (grant agreement No 714874).</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+        <notes>
+            <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 1</title>
+                <p>The new version displays minor changes, essentially clarifications based on the reviewer's suggestions. We have been more specific in the title, modifying it and including the name of the general study region. We have clarified the study site and included one figure which shows maps of investigated areas. A short paragraph describing the reasons for our focus on German language sources was added. Hence, four new references were included in the dataset, and one reference was corrected. We changed keywords and provided new ones not present in the title to improve the visibility of the Data note and Dataset in searches. The following changes have been made to the text in the revised version and have not changed the main results of our work.</p>
+            </sec>
+        </notes>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>This data note is based on a dataset (
+                <xref ref-type="bibr" rid="ref-17">Anegg 
+                    <italic toggle="yes">et al.,</italic> 2021</xref>) which described medicinal plant uses in the 19th century in historical Estonia, Livonia, Courland and Galicia, which were located in Northeast Europe. The studied region corresponds roughly to present-day Latvia (Livonia and Courland), Estonia and Ukraine (Galicia). The presented dataset is based on a digitized collection of German texts will be helpful to researchers who study the history of knowledge, science, and medicine.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>Recent studies are underlining the diverse application possibilities of historical ethnobotanical research and the re-valorised value of ethnobotanical data. The analysis of such data can contribute to understanding in which cultural fields plants are important and used, offer a rich basis of information for ethnobotanical and diachronic research, helping to understand better how societies and their folk culture develop and change over time, their dealing with natural resources, their interaction with and influence on ecosystems and the flora, as well as help in understanding modern medicinal practices better and contribute to the approval of new herbal medicines.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>The primary sources included in the presented database were identified through literature research focusing on local medicinal plant use in the historical regions of Estonia, Courland, Livonia, and Galicia (
+                <xref ref-type="fig" rid="f1">Figure 1</xref>). In addition, we included in the sample publications published between 1805 and 1905 solely in the German language as inclusion criteria (
+                <xref ref-type="table" rid="T1">Table 1</xref>). A range of relevant books and articles were used for extracting the historical indications of medicinal plant taxa which are treated as inclusion criteria (accessible botanical, historical, ethnographic literature describing the use of plants for medicinal purposes). Certain categories of sources are excluded from the dataset because of their non-circulating status (e.g., rare books). Main sources included the online libraries of the Online Catalogue ESTER (
+                <xref ref-type="bibr" rid="ref-13">Estonian Library Network Consortium</xref>), the Biodiversity Heritage Library (
+                <xref ref-type="bibr" rid="ref-12">Biodiversity Heritage Library</xref>), the Baltic Digital Library (
+                <xref ref-type="bibr" rid="ref-11">Ba&#x0142;tycka Biblioteka Cyfrowa</xref>) and google scholar, as well as citations and mentions of other relevant German-speaking authors (searching for documents which possess keywords: &#x201c;Volksmedizin&#x201d;, &#x201c;Volksheilmittel&#x201d;, &#x201c;Heilpflanzen&#x201d;, &#x201c;Oekonomisch-technische Flora&#x201d;). The limited geographical and temporal scale allows conducting a comprehensive comparative study to understand the biocultural diversity of medicinal ethnobotany of the region and to create a sound scientific base for future comparisons with current field-work results from the region.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>Map of the study area.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16292/cab2a9b9-e7b4-4703-a3ca-f442a0d36082_figure1.gif"/>
+            </fig>
+            <table-wrap id="T1" orientation="portrait" position="anchor">
+                <label>Table 1. </label>
+                <caption>
+                    <title>List of German language sources used in this study (
+                        <xref ref-type="bibr" rid="ref-17">Anegg 
+                            <italic toggle="yes">et al.,</italic> 2021</xref>).</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="1" rowspan="1">Reference</th>
+                            <th align="left" colspan="1" rowspan="1">Author</th>
+                            <th align="left" colspan="1" rowspan="1">Title</th>
+                            <th align="left" colspan="1" rowspan="1">Place of 
+                                <break/>publication</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <xref ref-type="bibr" rid="ref-21">Friebe, 1805</xref>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1">Friebe, Wilhelm Christian</td>
+                            <td align="left" colspan="1" rowspan="1">Oekonomisch-technische Flora von Liefland, Ehstland
+                                <break/> und Kurland</td>
+                            <td align="left" colspan="1" rowspan="1">Riga</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <xref ref-type="bibr" rid="ref-6">von Luce, 1829</xref>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1">Luce, Johann Wilhelm Ludwig von</td>
+                            <td align="left" colspan="1" rowspan="1">Heilmittel der Ehsten auf der Insel Oesel</td>
+                            <td align="left" colspan="1" rowspan="1">Pernau</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <xref ref-type="bibr" rid="ref-22">Hoelzl, 1861</xref>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1">Hoelzl, Karl</td>
+                            <td align="left" colspan="1" rowspan="1">Botanische Beitr&#x00e4;ge aus Galizien</td>
+                            <td align="left" colspan="1" rowspan="1">Vienna</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <xref ref-type="bibr" rid="ref-27">Wiedemann, 1876</xref>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1">Wiedemann, Ferdinand Johann</td>
+                            <td align="left" colspan="1" rowspan="1">Aus dem inneren und &#x00e4;usseren Leben der Ehsten</td>
+                            <td align="left" colspan="1" rowspan="1">Vienna</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <xref ref-type="bibr" rid="ref-2">Aaronson, 1891</xref>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1">Aaronson, Dr. Emil</td>
+                            <td align="left" colspan="1" rowspan="1">&#x00dc;ber die Volksheilmittel der Letten</td>
+                            <td align="left" colspan="1" rowspan="1">Mitau</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <xref ref-type="bibr" rid="ref-1">Alksnis, 1894</xref>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1">Alksnis, Jakobs</td>
+                            <td align="left" colspan="1" rowspan="1">Materialien zur lettischen Volksmedizin</td>
+                            <td align="left" colspan="1" rowspan="1"> Dorpat</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <xref ref-type="bibr" rid="ref-20">Bermann &amp; Ludwig, 1904</xref>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1">Bermann, P. und Ludwig, Mag.
+                                <break/> Pharm. F.</td>
+                            <td align="left" colspan="1" rowspan="1">Pflanzen des Rigaschen Krautinarktes</td>
+                            <td align="left" colspan="1" rowspan="1">Riga</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">
+                                <xref ref-type="bibr" rid="ref-23">Ludwig, 1905</xref>
+                            </td>
+                            <td align="left" colspan="1" rowspan="1">Ludwig, Mag. Pharm. F.</td>
+                            <td align="left" colspan="1" rowspan="1">Die Heilpflanzen des Rigaschen Krautmarktes</td>
+                            <td align="left" colspan="1" rowspan="1">Riga</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>The research was part of a wider study, namely the ERC-funded DiGe project, aiming to understand the patterns of change in ethnobotanical knowledge systems in Eastern European countries. Specifically, we have selected the period and space to fill the gap in historical ethnobotanical studies. German language was the dominant language of scientific communication in the studied period. So German language herbals devoted to Baltics were not studied from ethnobotanical point of view yet. The growing interest in the historical ethnobotany of Eastern Europe may be observed - it was already have done a dataset of medicinal plants, based on written sources in Estonian (
+                <xref ref-type="bibr" rid="ref-31">S&#x00f5;ukand &amp; Kalle, 2008</xref>). From historical point of view the ethnobotanical data affecting studied region was already systematised and analyzed by Estonian scholars (
+                <xref ref-type="bibr" rid="ref-29">Kalle 
+                    <italic toggle="yes">et al</italic>., 2022</xref>; 
+                <xref ref-type="bibr" rid="ref-28">Kalle &amp; S&#x00f5;ukand, 2021</xref>). A more detailed analysis of medicinal plant records documented in the dataset was presented in the paper (
+                <xref ref-type="bibr" rid="ref-30">Prakofjewa 
+                    <italic toggle="yes">et al</italic>., 2022</xref>).</p>
+            <p>Due to the limited relevant written records in German language, every possible work was considered at first. For analysis purposes, we excluded primary sources that did not fulfil the following criteria: availability of local names and specific historical periods. In the next step, the selected public-domain books were carefully scanned and then was put into a Microsoft Excel 2013 spreadsheet. Thus, data on the local ecological knowledge and folk medicine were compiled from eight German historical ethnobotanical studies conducted in Estonia, Livonia, Courland, and Galicia, published between 1805 and 1905 (
+                <xref ref-type="table" rid="T1">Table 1</xref>).</p>
+            <p>Every independent use in the sources was considered as a Use Report (UR) and was entered into a separate row in the spreadsheet. For each usage mentioned, the following information was elicited from the text, if present:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>A.</label>
+                    <p>source</p>
+                </list-item>
+                <list-item>
+                    <label>B.</label>
+                    <p>page number, where UI can be found</p>
+                </list-item>
+                <list-item>
+                    <label>C.</label>
+                    <p>constituent type</p>
+                </list-item>
+                <list-item>
+                    <label>D.</label>
+                    <p>constituent name stated in the original source</p>
+                </list-item>
+                <list-item>
+                    <label>E.</label>
+                    <p>original German name of constituent, if provided</p>
+                </list-item>
+                <list-item>
+                    <label>F.</label>
+                    <p>recent English interpretation</p>
+                </list-item>
+                <list-item>
+                    <label>G.</label>
+                    <p>local name(s) of the constituent</p>
+                </list-item>
+                <list-item>
+                    <label>H.</label>
+                    <p>preparation of constituent</p>
+                </list-item>
+                <list-item>
+                    <label>I.</label>
+                    <p>plant part used (if applicable)</p>
+                </list-item>
+                <list-item>
+                    <label>J.</label>
+                    <p>mode of administration</p>
+                </list-item>
+                <list-item>
+                    <label>K.</label>
+                    <p>original usage of constituent</p>
+                </list-item>
+                <list-item>
+                    <label>L.</label>
+                    <p>recent interpretation of medicinal usage</p>
+                </list-item>
+                <list-item>
+                    <label>M.</label>
+                    <p>medicinal category (according to 
+                        <xref ref-type="bibr" rid="ref-16">WHO, 2018</xref>)</p>
+                </list-item>
+                <list-item>
+                    <label>N.</label>
+                    <p>recent interpretation of food usage</p>
+                </list-item>
+                <list-item>
+                    <label>O.</label>
+                    <p>recent interpretation of other usage</p>
+                </list-item>
+                <list-item>
+                    <label>P.</label>
+                    <p>additional comments</p>
+                </list-item>
+            </list>
+            <p>Besides recording all the medicinal usages of the different plants stated, information on other usages like food or veterinary medicinal uses were transcribed from the chosen texts and books as thoroughly as possible to allow further data mining and comparison possibilities in future studies. Moreover, non-plant constituents were transcribed for the same reason stated above. It should be noted that the &#x201c;constituent name stated in original&#x201d; reported plant names which are stated in German and Latin languages, but &#x201c;local name&#x201d; is always stated as indigenous name (if recorded).</p>
+            <p>In an additional step, important categories for analysis and future comparison with data from other investigations were unified according to the classifications used in other ethnobotanical and ethnomedicinal studies to facilitate comparisons with similar datasets.</p>
+            <p>These categories are</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>Q.</label>
+                    <p>plant name according to Plants of the World Online (POWO) (
+                        <xref ref-type="bibr" rid="ref-7">POWO, 2021</xref>)</p>
+                </list-item>
+                <list-item>
+                    <label>R.</label>
+                    <p>plant family current</p>
+                </list-item>
+                <list-item>
+                    <label>S.</label>
+                    <p>medicinal use according to the International Classification of Primary Care (ICPC-2) (
+                        <xref ref-type="bibr" rid="ref-9">WHO, 2012</xref>)</p>
+                </list-item>
+                <list-item>
+                    <label>T.</label>
+                    <p>medicinal category short according to ICPC-2 (
+                        <xref ref-type="bibr" rid="ref-9">WHO, 2012</xref>)</p>
+                </list-item>
+                <list-item>
+                    <label>U.</label>
+                    <p>medicinal category abbreviation according to ICPC-2 (
+                        <xref ref-type="bibr" rid="ref-9">WHO, 2012</xref>)</p>
+                </list-item>
+            </list>
+            <p>If an identification or accurate interpretation of a given constituent or any information of one of the categories stated above was not possible, the respective information was marked with a question mark in brackets &#x2018;(?)&#x2019;.</p>
+            <p>The stated plant parts that were used were categorised as follows (with their respective abbreviation in square brackets): bark [BARK], exudates (including gums, resins, and saps) [EXUD], flowers (including inflorescences and parts thereof) [FLOW], fruits [FRUI], herbs (= aerial parts, including branches and shoots) [HERB], leaves [LEAV], seeds [SEED], subterranean parts (including bulbs, rhizomes, roots, and tubers) [SUBT] and wood [WOOD]. If the part used was not stated, then the part was classified as herbs. This categorisation follows the terminology used by the authors contributing to this study. Statements concerning &#x201c;die Pflanze&#x201d; (the plant) or &#x201c;Gr&#x00fc;nzeug&#x201c; (greens) were also classified as herbs. Otherwise, the parts stated by the authors were the same in English terms, hence the categorisation. Furthermore, other studies, like 
+                <xref ref-type="bibr" rid="ref-26">Staub 
+                    <italic toggle="yes">et al.</italic> (2016)</xref> and 
+                <xref ref-type="bibr" rid="ref-24">Spa&#x0142;ek 
+                    <italic toggle="yes">et al.</italic> (2019)</xref>, also used this categorisation.</p>
+            <p>The mode of administration was recorded and divided into either internally (internal ingestion in any manner) or externally (for example, in the form of ointments or compresses) administered.</p>
+            <p>The recent interpretation of the ailments stated was done according to the International Statistical Classification of Diseases and Related Health Problems, Version 11 (ICD-11) of the World Health Organisation (WHO) (
+                <xref ref-type="bibr" rid="ref-16">WHO, 2018</xref>). This classification is divided into the following ailment categories:</p>
+            <p>1 - Certain infectious or parasitic diseases</p>
+            <p>2 - Neoplasms</p>
+            <p>3 - Diseases of the blood or blood-forming organs</p>
+            <p>4 - Diseases of the immune system</p>
+            <p>5 - Endocrine, nutritional or metabolic diseases</p>
+            <p>6 - Mental, behavioural or neurodevelopmental disorders</p>
+            <p>7 - Sleep-wake disorders</p>
+            <p>8 - Diseases of the nervous system</p>
+            <p>9 - Diseases of the visual system</p>
+            <p>10 - Diseases of the ear or mastoid process</p>
+            <p>11 - Diseases of the circulatory system</p>
+            <p>12 - Diseases of the respiratory system</p>
+            <p>13 - Diseases of the digestive system</p>
+            <p>14 - Diseases of the skin</p>
+            <p>15 - Diseases of the musculoskeletal system or connective tissue</p>
+            <p>16 - Diseases of the genitourinary system</p>
+            <p>17 - Conditions related to sexual health</p>
+            <p>18 - Pregnancy, childbirth or the puerperium</p>
+            <p>19 - Certain conditions originating in the perinatal period</p>
+            <p>20 - Developmental anomalies</p>
+            <p>21 - Symptoms, signs or clinical findings, not elsewhere classified</p>
+            <p>22 - Injury, poisoning or certain other consequences of external causes</p>
+            <p>X - Extension Codes (for example, for agents)</p>
+            <p>The unification of the recent interpretation of the ailments was carried out in accordance with the ICPC-2 of the World Organization of National Colleges, Academies and Academic Associations of General Practitioners/Family Physicians (WONCA) International Classification Committee (
+                <xref ref-type="bibr" rid="ref-9">WHO, 2012</xref>). This classification consists of the following categories (with the respective abbreviations used by the authors in the database and analysis in square brackets):</p>
+            <p>A - General and Unspecified diseases [Geun]</p>
+            <p>B - Blood, Blood Forming Organs and Immune Mechanism [Blim]</p>
+            <p>C - Culture Bound Syndrome (CultB)</p>
+            <p>D - Digestive [Dige]</p>
+            <p>F - Eye [Eye]</p>
+            <p>E - Ear [Ear]</p>
+            <p>K - Cardiovascular [Card]</p>
+            <p>L - Musculoskeletal [Musc]</p>
+            <p>N - Neurological [Neur]</p>
+            <p>P - Psychological [Psyc]</p>
+            <p>R - Respiratory [Resp]</p>
+            <p>S -Skin [Skin]</p>
+            <p>T - Endocrine/Metabolic and Nutritional [Endo]</p>
+            <p>W - Pregnancy, Childbearing, Family Planning [Pcfp]</p>
+            <p>X - Female Genital [Genif]</p>
+            <p>Y - Male Genital [Genim]</p>
+            <p>Z - Social Problems [Soci]</p>
+            <p>Those categories were segmented further into symptoms/complaints, infections, neoplasms, injuries, congenital anomalies, and other diagnoses. This classification was used for further analysis. This ICPC-2 categorisation was used for further analysis because it will facilitate easier comparison with other studies in the future. Furthermore, the ICPC-2 is less clinical than the ICD, making the classification of reported ailments and symptoms easier and more applicable to the &#x2018;ethnomedical reality&#x2019; (
+                <xref ref-type="bibr" rid="ref-25">Staub 
+                    <italic toggle="yes">et al.,</italic> 2015</xref>; 
+                <xref ref-type="bibr" rid="ref-26">Staub 
+                    <italic toggle="yes">et al.,</italic> 2016</xref>). Despite the fact that in the documented historical sources it was not found special categories (e.g., Y- Male Genital), we kept the ICPC-2 categorisation for future perspective of the development of the database and adding new German-speaking authors. The category of &#x2018;culture bound syndrome&#x2019; was added to reflect the uses associated with local customs and beliefs not attributable to the specific disease categories.</p>
+            <p>Additional categories were added by the authors to cover non-medicinal usages. They are as follows:</p>
+            <p>a) &#x201c;Accessories and Decoration&#x201d; [ACDE] &#x2013; including usages like wreaths, added to bouquets, etc.</p>
+            <p>b) &#x201c;Body&#x201d; [BODY] &#x2013; including usages for body hygiene, restoring hair, baths generally, etc.</p>
+            <p>c) &#x201c;Food&#x201d; [FOOD] &#x2013; including usages of plants as food or in food and beverages.</p>
+            <p>d) &#x201c;Harmful&#x201d; [HARM] &#x2013; including reports of poisonous plants or usages to kill someone.</p>
+            <p>e) &#x201c;Insecticides&#x201d; [INSE] &#x2013; including usages as an insecticide or to drive away insects.</p>
+            <p>f) &#x201c;Other&#x201d; [OTHE] &#x2013; including all usages which do not fit into any of the other categories.</p>
+            <p>h) &#x201c;Veterinary&#x201d; [VETE] &#x2013; including veterinary-medicinal usages concerning animals and pets.</p>
+            <p>i) &#x201c;Cultural&#x201d; [CULT] &#x2013; including culture-bound usages of plants in a specific cultural setting.</p>
+            <p>To avoid misidentifications and misinterpretations of plants or historical technical medicinal terms, several sources were used for crosschecking past pathologies and plant names, including the 
+                <xref ref-type="bibr" rid="ref-10">Atlas of the Estonian Flora (2020)</xref>, 
+                <xref ref-type="bibr" rid="ref-3">Beiche (1872)</xref>, the GenWiki of the 
+                <xref ref-type="bibr" rid="ref-15">Verein f&#x00fc;r Computergenealogie e.V. (2020)</xref>, 
+                <xref ref-type="bibr" rid="ref-14">GBIF.org (2021)</xref>, 
+                <xref ref-type="bibr" rid="ref-4">Genaust (2013)</xref>, 
+                <xref ref-type="bibr" rid="ref-5">Hiller &amp; Melzig (2006)</xref>, 
+                <xref ref-type="bibr" rid="ref-7">POWO (2021)</xref> and 
+                <xref ref-type="bibr" rid="ref-8">Tutin 
+                    <italic toggle="yes">et al.</italic> (1993)</xref>.</p>
+            <p>Disclaimer: the database is designed to give a general overview of the sources to the best knowledge of the authors. In case of any need for clarification, consult the original source.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>Zenodo. Local Ecological Knowledge and folk medicine in historical Esthonia, Livonia, Courland and Galicia, 1805&#x2013;1905. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.6106746">https://doi.org/10.5281/zenodo.6106746</ext-link>. (
+                    <xref ref-type="bibr" rid="ref-17">Anegg 
+                        <italic toggle="yes">et al.,</italic> 2021</xref>).</p>
+                <p>This project contains the following underlying data:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Anegg 
+                            <italic toggle="yes">et al.</italic>_Database.xlsx. (An excel database was created by manually selecting relevant information and putting it into the database. Every independent use in the sources was accounted for as Detailed Use Reports (DUR), where the informant mentions specific medicinal use based on the category uses by the specific author of the plant part (p, e.g., fruits, leaves, aerial parts, flowers, etc. if provided), considering also the form in which the plant part is used (f, e.g., fresh, dried, frozen, refrigerated) and specific way of preparation. Every DUR was entered on a separate row in the excel spreadsheet).</p>
+                    </list-item>
+                </list>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</ext-link> (CC-BY 4.0).</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Author contributions</title>
+            <p>Conceptualisation: Anegg, Prakofjewa, Kalle, S&#x014d;ukand</p>
+            <p>Data Curation: Anegg, Kalle, S&#x014d;ukand</p>
+            <p>Formal Analysis: Anegg</p>
+            <p>Funding Acquisition: S&#x014d;ukand</p>
+            <p>Investigation: Anegg, Prakofjewa, S&#x014d;ukand</p>
+            <p>Methodology: Anegg, Prakofjewa, S&#x014d;ukand</p>
+            <p>Project Administration: Anegg, Prakofjewa, S&#x014d;ukand</p>
+            <p>Resources: Anegg, Prakofjewa, S&#x014d;ukand</p>
+            <p>Software: Anegg</p>
+            <p>Supervision: S&#x014d;ukand</p>
+            <p>Validation: S&#x014d;ukand, Kalle</p>
+            <p>Writing &#x2013; Original Draft Preparation: Anegg</p>
+            <p>Writing &#x2013; Review &amp; Editing: Prakofjewa, S&#x014d;ukand</p>
+        </sec>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>Special thanks to Dr Baiba Pr&#x016b;se for help in locating primary sources.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Aaronson</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Ueber die Volksheilmittel der Letten</article-title>.
+                    <italic toggle="yes">Magazin der Lettischlitera&#x0308;rischen Gesellschaft</italic>. ed. A. Bielenstein, Mitau<year>1891</year>;<volume>19</volume>(<issue>1</issue>):<fpage>185</fpage>&#x2013;<lpage>203</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Alksnis</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Materialien zur lettischen Volksmedizin.</article-title>Gesammelt, ins Deutsche u&#x0308;bersetzt und geordnet von J. Alksnis aus Kurland. Historische Studien aus dem Pharmakologischen Institut der Kaiserlichen Universita&#x0308;t Dorpat. ed. R. Kobert, Halle a. S.<year>1894</year>;<volume>4</volume>:<fpage>166</fpage>&#x2013;<lpage>283</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Materialien_zur_lettischen_Volksmedizin.html?id=neb0vgEACAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Anegg</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Prakofjewa</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kalle</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <data-title>Local Ecological Knowledge and folk medicine in historical Esthonia, Livonia, Courland and Galicia, 1805-1905 (1.0) [Data set].</data-title>
+                    <source>
+
+                        <italic toggle="yes">Zenodo</italic>. 
+</source>
+               <year>2021</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.6106746">http://www.doi.org/10.5281/zenodo.6106746</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <article-title>Atlas of the Estonian Flora.</article-title>Last accessed on 08.12.2021.<year>2020</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://elurikkus.ee/en/plant-atlas">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <article-title>Ba&#x0142;tycka Biblioteka Cyfrowa - Baltic Digital Library.</article-title>Last accessed on 07.12.2020.
+                    <ext-link ext-link-type="uri" xlink:href="https://bibliotekacyfrowa.eu/dlibra">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Beiche</surname>
+                            <given-names>WE</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Vollsta&#x0308;ndiger Blu&#x0308;tenkalender der deutschen Phanerogamen-Flora: Unter Zugrundelegung von Dr. Kittel&#x201b; s Taschenbuch der Flora Deutschlands, nebst Angabe der Klassen und Ordnungen nach Linne&#x0301;, der Jussieu'schen Pflanzenfamilien, der richtigen Aussprache und der wichtigsten Synonymen und Trivialnamen</article-title>.
+Hahn.<year>1872</year>;<volume>1</volume>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Vollst%C3%A4ndiger_Bl%C3%BCtenkalender_der_deuts.html?id=cylZAAAAcAAJ&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bermann</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ludwig</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Pflanzen des Rigaschen Krautmarktes.</article-title>In:
+                    <italic toggle="yes">Korrespondenzblatt des Naturforscher-Vereins zu Riga</italic>. ed. G. Schweder, Riga 1905.<year>1904</year>;<volume>48</volume>:<fpage>203</fpage>&#x2013;<lpage>211</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <article-title>Biodiversity Heritage Library.</article-title>Last accessed on 07.12.2020.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.biodiversitylibrary.org">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <article-title>Estonian Library Network Consortium (ELNET Consortium)</article-title>. ONLINE CATALOGUE ESTER.<year>2020</year>; Last accessed on 07.12.2020.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.ester.ee/search~S1">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Friebe</surname>
+                            <given-names>W</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Oekonomisch-technische flora f&#x00fc;r Liefland, Ehstland und Kurland</article-title>. In
+                    <italic toggle="yes">der Hartmannischen Buchhandlung</italic>,<year>1805</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Oekonomisch_technische_Flora_f&#x00fc;r_Liefla.html?id=6SAaAAAAYAAJ&amp;redir_esc=y">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Genaust</surname>
+                            <given-names>H</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Etymologisches Wo&#x0308;rterbuch der botanischen Pflanzennamen</article-title>.  Springer-Verlag.<year>2013</year>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-0348-9282-7</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <collab>Global Biodiversity Information Facility (GBIF)</collab>:
+                    <article-title>GBIF Home Page</article-title>.<year>2021</year>; Last accessed on 21.01.2021.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hiller</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Melzig</surname>
+                            <given-names>MF</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Lexikon der Arzneipflanzen und Drogen</article-title>.
+Directmedia.<year>2006</year>;<volume>144</volume>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://gesund-speisen.de/buch-109-Lexikon-der-Arzneipflanzen-und-Drogen.htm">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hoelzl</surname>
+                            <given-names>K</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Botanische Beitr&#x00e4;ge aus Galizien.</article-title>Ueber die Heil- und Zauberpflanzen der Ruthenen in Ostgalizien und der Bukowina.
+                    <source>
+
+                        <italic toggle="yes">Verh der Zool Bot Ges Wien.</italic>
+               </source>
+               <year>1861</year>;<volume>11</volume>:<fpage>149</fpage>&#x2013;<lpage>160</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.zobodat.at/pdf/VZBG_11_0149-0160.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kalle</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>S&#x00f5;ukand</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The name to remember: Flexibility and contextuality of preliterate folk plant categorization from the 1830s, in Pernau, Livonia, historical region on the eastern coast of the Baltic Sea.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Ethnopharmacol.</italic>
+               </source>
+               <year>2021</year>;<volume>264</volume>:<fpage>113254</fpage>.
+                    <pub-id pub-id-type="pmid">32798616</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.jep.2020.113254</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kalle</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pieroni</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Svanberg</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Early Citizen Science Action in Ethnobotany: The Case of the Folk Medicine Collection of Dr. Mihkel Ostrov in the Territory of Present-Day Estonia, 1891&#x2013;1893.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Plants (Basel).</italic>
+               </source>
+               <year>2022</year>;<volume>11</volume>(<issue>3</issue>):<fpage>274</fpage>.
+                    <pub-id pub-id-type="pmid">35161254</pub-id>
+                    <pub-id pub-id-type="doi">10.3390/plants11030274</pub-id>
+                    <pub-id pub-id-type="pmcid">8840167</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ludwig</surname>
+                            <given-names>F</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Die Heilpflanzen des Rigaschen Krautmarktes.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Korrespondenzblatt des Naturforscher-Vereins zu Riga.</italic>
+               </source>ed. G. Schweder, Riga 1905.<year>1905</year>;<volume>48</volume>:<fpage>65</fpage>&#x2013;<lpage>71</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <collab>Plants of the World Online (POWO)</collab>:
+                    <article-title>"Plants of the World Online.</article-title>Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet.<year>2021</year>; Last accessed on 13.12.2021.
+                    <ext-link ext-link-type="uri" xlink:href="https://powo.science.kew.org/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Prakofjewa</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Anegg</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kalle</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Diverse in Local, Overlapping in Official Medical Botany: Critical Analysis of Medicinal Plant Records from the Historic Regions of Livonia and Courland in Northeast Europe, 1829&#x2013;1895.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Plants (Basel).</italic>
+               </source>
+               <year>2022</year>;<volume>11</volume>(<issue>8</issue>):<fpage>1065</fpage>.
+                    <pub-id pub-id-type="pmid">35448792</pub-id>
+                    <pub-id pub-id-type="doi">10.3390/plants11081065</pub-id>
+                    <pub-id pub-id-type="pmcid">9032843</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>S&#x00f5;ukand</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kalle</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Historistlik eesti rahvameditsiini botaaniline and mebaas (HERBA)</article-title>. [HERBA, the Estonian folk medicine database of plant use], 2008.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.folklore.ee/rl/fo/tegevus/herba2009_2013.htm">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Spa&#x0142;ek</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Spielvogel</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pro&#x0107;k&#x00f3;w</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Historical ethnopharmacology of the herbalists from Krummh&#x00fc;bel in the Sudety Mountains (seventeenth to nineteenth-century), Silesia.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Ethnobiol Ethnomed.</italic>
+               </source>
+               <year>2019</year>;<volume>15</volume>(<issue>1</issue>):<fpage>24</fpage>.
+                    <pub-id pub-id-type="pmid">31122247</pub-id>
+                    <pub-id pub-id-type="doi">10.1186/s13002-019-0298-z</pub-id>
+                    <pub-id pub-id-type="pmcid">6533749</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Staub</surname>
+                            <given-names>PO</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Casu</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Leonti</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Back to the roots: A quantitative survey of herbal drugs in Dioscorides' De Materia Medica (ex Matthioli, 1568).</article-title>
+                    <source>
+
+                        <italic toggle="yes">Phytomedicine.</italic>
+               </source>
+               <year>2016</year>;<volume>23</volume>(<issue>10</issue>):<fpage>1043</fpage>&#x2013;<lpage>52</lpage>.
+                    <pub-id pub-id-type="pmid">27444350</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.phymed.2016.06.016</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Staub</surname>
+                            <given-names>PO</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Geck</surname>
+                            <given-names>MS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Weckerle</surname>
+                            <given-names>CS</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Classifying diseases and remedies in ethnomedicine and ethnopharmacology.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Ethnopharmacol.</italic>
+               </source>
+               <year>2015</year>;<volume>174</volume>:<fpage>514</fpage>&#x2013;<lpage>519</lpage>.
+                    <pub-id pub-id-type="pmid">26342522</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.jep.2015.08.051</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Tutin</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Burges</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Chater</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Flora Europaea I (2nd Edition) and Flora Europaea II-V.</article-title>Cambridge: Cambridge University Press,<year>1993</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cambridge.org/in/academic/subjects/life-sciences/botanical-reference/flora-europaea-volume-1-2nd-edition?format=HB&amp;isbn=9780521410076">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <article-title>Verein fu&#x0308;r Computergenealogie e.V.</article-title>(2004 onwards). GenWiki, Lexika.  Last accessed on 07.12.2020.</mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>von Luce</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Heilmittel der Ehsten auf der Insel Oesel</article-title>.<year>1829</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://dspace.ut.ee/handle/10062/29794?locale-attribute=de">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wiedemann</surname>
+                            <given-names>FJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Aus dem inneren und &#x00e4;usseren Leben der Ehsten.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Kaiserliche Akademie der Wissenschaften,</italic>
+               </source>St. Petersburg,<year>1876</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.co.in/books/about/Aus_dem_inneren_und_&#x00e4;usseren_Leben_der.html?id=xOjySJA8tWwC&amp;redir_esc=y">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="journal">
+                    <collab>World Health Organization (WHO)</collab>:
+                    <article-title>International Classification of Diseases 11th Revision</article-title>.<year>2018</year>; Last accessed on 07.12.2020.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.paho.org/en/news/11-2-2022-whos-new-international-classification-diseases-icd-11-comes-effect">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <collab>World Health Organization (WHO)</collab>:
+                    <article-title>International Classification of Primary Care, Second edition (ICPC-2)</article-title>.<year>2012</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.who.int/standards/classifications/other-classifications/international-classification-of-primary-care">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report30083">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16292.r30083</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Teixidor-Toneu</surname>
+                        <given-names>Irene</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30083a1">1</xref>
+                    <xref ref-type="aff" rid="r30083a2">2</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r30083a1">
+                    <label>1</label>Natural History Museum, University of Oslo, Oslo, Norway</aff>
+                <aff id="r30083a2">
+                    <label>2</label>Centre d'Ecologie Fonctionnelle et Evolutive, CNRS, Paris, France</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>11</day>
+                <month>10</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Teixidor-Toneu I</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport30083"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14406.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The map of the study area is a great addition. Please do indicate which area/colour corresponds to which named region either by adding the names in the map or explaining this in the figure legend.</p>
+            <p> </p>
+            <p> Something is still unclear to me. Are the four regions of study pre-selected (in which case, the question arises as to why this specific selection of regions and not other parts of Eastern Europe) or the four regions result from the search of data on herbal medicines in German in Eastern Europe (as in, there is only 19th century information in German in Eastern Europe for these four regions)?</p>
+            <p> </p>
+            <p> In the list of information present in the database, point B cites an acronym (UI) that is not explained.</p>
+            <p>Are sufficient details of methods and materials provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Is the rationale for creating the dataset(s) clearly described?</p>
+            <p>Partly</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Partly</p>
+            <p>Are the protocols appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>ethnopharmacology, ethnobotany, historical ethnobotany, biocultural approaches to conservation, evolutionary anthropology</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report29085">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15548.r29085</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Teixidor-Toneu</surname>
+                        <given-names>Irene</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r29085a1">1</xref>
+                    <xref ref-type="aff" rid="r29085a2">2</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r29085a1">
+                    <label>1</label>Natural History Museum, University of Oslo, Oslo, Norway</aff>
+                <aff id="r29085a2">
+                    <label>2</label>Centre d'Ecologie Fonctionnelle et Evolutive, CNRS, Paris, France</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>9</day>
+                <month>5</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Teixidor-Toneu I</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport29085"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14406.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This is a relevant and highly valid report on a dataset. I have made comments to improve the rationale for creating the database, as some gaps exist at present. I find the protocols appropriate and the work technically sound. Some details could be added to the methods and materials section and I have made suggestions to improve its usability and presentation.</p>
+            <p> </p>
+            <p> Abstract</p>
+            <p> &#x201c;historical regions of Estonia, Livonia, Courland, and Galicia&#x201d; &#x2013; it&#x2019;s too vague. Galicia is also a region in Spain, but given that the documents are in German, I find it confusing. Add perhaps the state these historical regions are in brackets? Or the general region e.g., Eastern Europe? Baltics? In the introduction, a couple of sentences describing the overall or specific regions would be welcome.</p>
+            <p> </p>
+            <p> &#x201c;Data was mainly obtained&#x201d; &#x2013; how were data not obtained by systematic manual search?</p>
+            <p> &#x201c;Various relevant historical German-language works&#x201d; &#x2013; how many? Relevant in what sense? Perhaps just delete the word &#x201c;relevant&#x201d;?</p>
+            <p> </p>
+            <p> Keywords</p>
+            <p> I would suggest using words not present in the title to improve visibility of the paper in searches.</p>
+            <p> </p>
+            <p> Introduction</p>
+            <p> &#x201c;recent value of ethnobotanical data&#x201d; &#x2013; I disagree that the value is &#x201c;recent&#x201d;, perhaps re-valorised?</p>
+            <p> </p>
+            <p> Methods</p>
+            <p> It is not clear why these regions were chosen (a map would be most welcome), why the specified time period, or why focus on German language sources. These questions could perhaps be addressed in the introduction. Are sources in other languages about these regions already systematised? Or are there plans to do so?</p>
+            <p> </p>
+            <p> Does a description of each source accompany the database? Interpretation of medicinal plant use documented in historical sources heavily relies on understanding the author&#x2019;s motivations and context of production of the source. Such information would be necessary for a broader use of the dataset.</p>
+            <p> </p>
+            <p> In the methods &#x201c;Use Instance&#x201d; is used instead of &#x201c;Use Report&#x201d;, which is noted in the abstract. It would be good to be consistent with one or other phrasing.</p>
+            <p> </p>
+            <p> What is the difference between &#x201c;constituent name stated in original&#x201d; and &#x201c;local names&#x201d;?</p>
+            <p> </p>
+            <p> The inclusion of food and veterinary uses is highly welcome, for the purposes stated by the authors.</p>
+            <p> </p>
+            <p> &#x201c;Items with such a marking were excluded from the analysis&#x201d; &#x2013; I wonder if this sentence belongs to this text. As far as I understand, no analysis is expected in an Open Research Europe Data Note.</p>
+            <p> </p>
+            <p> For the database to be fully expandable, I would suggest not to combine categories, even if some are not found in the current dataset (e.g., X &#x2013; Female Genital, Y- Male Genital).</p>
+            <p> </p>
+            <p> For the dataset to be easily usable, it should also include a tab with the codes used. I am aware that these can be found in associated publications, but including them in the dataset itself will facilitate further use.</p>
+            <p>Are sufficient details of methods and materials provided to allow replication by others?</p>
+            <p>Partly</p>
+            <p>Is the rationale for creating the dataset(s) clearly described?</p>
+            <p>Partly</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Partly</p>
+            <p>Are the protocols appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>ethnopharmacology, ethnobotany, historical ethnobotany, biocultural approaches to conservation, evolutionary anthropology</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <sub-article article-type="response" id="comment3477-29085">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Julia</surname>
+                            <given-names>Prakofjewa</given-names>
+                        </name>
+                        <aff>Ca' Foscari University of Venice, Italy</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>25</day>
+                    <month>8</month>
+               <year>2022</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>
+                    <italic>This is a relevant and highly valid report on a dataset. I have made comments to improve the rationale for creating the database, as some gaps exist at present. I find the protocols appropriate and the work technically sound. Some details could be added to the methods and materials section, and I have made suggestions to improve its usability and presentation. Response: Thank you very much for your careful reading and helpful comments and suggestions.&#x00a0; Abstract &#x201c;historical regions of Estonia, Livonia, Courland, and Galicia&#x201d; &#x2013; it&#x2019;s too vague. Galicia is also a region in Spain, but given that the documents are in German, I find it confusing. Add perhaps the state these historical regions are in brackets? Or the general region e.g., Eastern Europe? Baltics? In the introduction, a couple of sentences describing the overall or specific regions would be welcome. </italic>
+                </p>
+                <p> 
+                    <bold>Response:</bold> We are very grateful to the reviewer for this comment. We have been more specific in the title, modifying it as follows.&#x00a0; &#x201c;Local ecological knowledge and folk medicine in historical Estonia, Livonia, Courland and Galicia in Northeastern Europe, 1805-1905&#x201d;.&#x00a0; We have clarified it in the introduction as follows:&#x00a0;&#x201c;This data note is based on a dataset (Anegg 
+                    <italic>et al</italic>., 2021) which described medicinal plant uses in the 19th century in historical Estonia, Livonia, Courland and Galicia, which were located in Northeast Europe. The studied region corresponds roughly to present-day Latvia (Livonia and Courland), Estonia and Ukraine (Galicia).&#x201d;</p>
+                <p> </p>
+                <p> 
+                    <italic>&#x201c;Data was mainly obtained&#x201d; &#x2013; how were data not obtained by systematic manual search? &#x201c;Various relevant historical German-language works&#x201d; &#x2013; how many? Relevant in what sense? Perhaps just delete the word &#x201c;relevant&#x201d;?</italic>
+                </p>
+                <p> 
+                    <bold>Response:</bold> Thank you to the reviewer for the careful reading. We have corrected it as follows.</p>
+                <p> &#x201c;Methods: Data was mainly entered by systematic manual search in various ethnobotanical historical German-language works focused on the medicinal use of plants.&#x201d;</p>
+                <p> </p>
+                <p> 
+                    <italic>Keywords I would suggest using words not present in the title to improve visibility of the paper in searches</italic>.</p>
+                <p> 
+                    <bold>Response:</bold> Thank you very much for your comment; we further specified the keywords as follows:&#x00a0; &#x201c;Keywords: ethnomedicine, historical ethnobotany, Baltics, environmental history, herbals&#x201d;</p>
+                <p> </p>
+                <p> 
+                    <italic>Introduction &#x201c;recent value of ethnobotanical data&#x201d; &#x2013; I disagree that the value is &#x201c;recent&#x201d;, perhaps re-valorised?</italic>
+                </p>
+                <p> 
+                    <bold>Response:</bold> Thank you very much for bringing this to our attention. We have further corrected as follows. &#x201c;Recent studies are underlining the diverse application possibilities of historical ethnobotanical research and the re-valorised value of ethnobotanical data.&#x201d;</p>
+                <p> </p>
+                <p> 
+                    <italic>Methods It is not clear why these regions were chosen (a map would be most welcome), why the specified time period, or why focus on German language sources. These questions could perhaps be addressed in the introduction. Are sources in other languages about these regions already systematised? Or are there plans to do so?</italic>
+                </p>
+                <p> 
+                    <bold>Response:</bold> We are grateful for these comments. We have added the map of the studied region in the Methods.&#x00a0; We have further expanded, referring to previous articles published by members of our research group as follows.&#x00a0; &#x201c;The research was part of a wider study, namely the ERC-funded DiGe project, aiming to understand the patterns of change in ethnobotanical knowledge systems in Eastern European countries. Specifically, we have selected the period and space to fill the gap in historical&#x00a0;ethnobotanical studies.&#x00a0;German language was the dominant language of scientific communication in the studied period. So German language herbals devoted to Baltics were not studied from ethnobotanical point of view yet. The growing interest in the historical ethnobotany of Eastern Europe may be observed - it was already have done a dataset of medicinal plants, based on written sources in Estonian (Soukand 
+                    <italic>et al</italic> 2008). From historical point of view the ethnobotanical data affecting studied region was already systematised and analyzed by Estonian scholars (Kalle 
+                    <italic>et al</italic> 2022, Kalle 
+                    <italic>et al</italic> 2021)&#x201d;.&#x00a0;&#x00a0;</p>
+                <p> We have added the references as follows: Kalle R, S&#x00f5;ukand R. The name to remember: Flexibility and contextuality of preliterate folk plant categorization from the 1830s, in Pernau, Livonia, historical region on the eastern coast of the Baltic Sea. J Ethnopharmacol. 2021 Jan 10;264:113254. doi: 10.1016/j.jep.2020.113254. Kalle R, Pieroni A, Svanberg I, S&#x00f5;ukand R. Early Citizen Science Action in Ethnobotany: The Case of the Folk Medicine Collection of Dr. Mihkel Ostrov in the Territory of Present-Day Estonia, 1891&#x2013;1893. Plants. 2022; 11(3):274. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3390/plants11030274">https://doi.org/10.3390/plants11030274</ext-link> S&#x00f5;ukand R, Kalle R. Historistlik eesti rahvameditsiini botaaniline andmebaas (HERBA). [HERBA, the Estonian folk medicine database of plant use. 2008]. We have corrected it as follows: 1. Aaronson E: Ueber die Volksheilmittel der Letten. Magazin der Lettischlitera&#x0308;rischen Gesellschaft. ed. A. Bielenstein, Mitau, 1891; 19(1): 185&#x2013;203</p>
+                <p> </p>
+                <p> 
+                    <italic>Does a description of each source accompany the database? Interpretation of medicinal plant use documented in historical sources heavily relies on understanding the author&#x2019;s motivations and context of production of the source. Such information would be necessary for a broader use of the dataset. </italic>
+                </p>
+                <p> 
+                    <bold>Response:</bold> Thank you, we have specified it referring to previous articles published by our group as follows. &#x201c;A more detailed analysis of medicinal plant records documented in the dataset was presented in the paper (Prakofjewa et al 2022).&#x201d; We have added the reference as follows: Prakofjewa J, Anegg M, Kalle R, Simanova A, Pr&#x016b;se B, Pieroni A, S&#x00f5;ukand R. Diverse in Local, Overlapping in Official Medical Botany: Critical Analysis of Medicinal Plant Records from the Historic Regions of Livonia and Courland in Northeast Europe, 1829&#x2013;1895. Plants. 2022; 11(8):1065. 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3390/plants11081065">https://doi.org/10.3390/plants11081065</ext-link>
+                </p>
+                <p> </p>
+                <p> 
+                    <italic>In the methods &#x201c;Use Instance&#x201d; is used instead of &#x201c;Use Report&#x201d;, which is noted in the abstract. It would be good to be consistent with one or other phrasing.</italic>
+                </p>
+                <p> 
+                    <bold>Response:</bold> Thank you for your note. We have corrected it as follows. &#x201c;Every independent use in the sources was considered as a Use Report (UR) and was entered into a separate row in the spreadsheet&#x201d;</p>
+                <p> </p>
+                <p> 
+                    <italic>What is the difference between &#x201c;constituent name stated in original&#x201d; and &#x201c;local names&#x201d;? </italic>
+                </p>
+                <p> 
+                    <bold>Response:</bold> Thank you for bringing this to our attention. We have further expanded as follows.&#x00a0;&#x201c;It should be noted that the &#x201c;constituent name stated in original&#x201d; reported plant names which are stated in German and Latin languages, but &#x201c;local name&#x201d; is always stated as indigenous name (if recorded)&#x201d;.&#x00a0;</p>
+                <p> </p>
+                <p> 
+                    <italic>The inclusion of food and veterinary uses is highly welcome, for the purposes stated by the authors. </italic>
+                </p>
+                <p> 
+                    <bold>Response: </bold>Thank you for noticing it. It contains all the uses mentioned in the sources.&#x00a0;</p>
+                <p> </p>
+                <p> 
+                    <italic>&#x201c;Items with such a marking were excluded from the analysis&#x201d; &#x2013; I wonder if this sentence belongs to this text. As far as I understand, no analysis is expected in an Open Research Europe Data Note.</italic>
+                </p>
+                <p> 
+                    <bold>Response:</bold> Thank you for noticing. We have deleted it.</p>
+                <p> </p>
+                <p> 
+                    <italic>For the database to be fully expandable, I would suggest not to combine categories, even if some are not found in the current dataset (e.g., X &#x2013; Female Genital, Y- Male Genital).</italic>
+                </p>
+                <p> 
+                    <bold>Response:</bold> Thank you, we have further expanded as follows.&#x00a0;&#x201c;Despite the fact that in the documented historical sources it was not found special categories (e.g., Y- Male Genital), we kept the ICPC-2 categorisation for future perspective of the development of the database and adding new German-speaking authors.&#x201d;</p>
+                <p> </p>
+                <p> 
+                    <italic>For the dataset to be easily usable, it should also include a tab with the codes used. I am aware that these can be found in associated publications, but including them in the dataset itself will facilitate further use. </italic>
+                </p>
+                <p> 
+                    <bold>Response:</bold> Thank you for this idea which contributes to effectively deliver the information of this Data Note. We have developed the following dataset (Anegg et al 2021).</p>
+            </body>
+        </sub-article>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report28720">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15548.r28720</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Sile</surname>
+                        <given-names>Inga</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r28720a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-8338-4964</uri>
+                </contrib>
+                <aff id="r28720a1">
+                    <label>1</label>Latvian Institute of Organic Synthesis, Riga, Latvia</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>3</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Sile I</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport28720"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14406.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This data note describes medicinal plant uses (also usages in food or veterinary) in the 19th century in historical Estonia, Livonia, Courland and Galicia. A systematic search has been conducted to collect relevant historical German-language works focused on the medicinal use of plants. Collected data are well structured in the database which can be useful to other researchers, especially those studying ethnobotany and ethnomedicine.</p>
+            <p> </p>
+            <p> The rationale for the creation of the dataset is clearly described. The work is well organized and technically sound. This data note provides easy-to-understand and sufficient information about the methods and materials so that others can successfully replicate them. An excel database is clearly understandable and easy to use for searching or selecting specific information.</p>
+            <p> </p>
+            <p> The work &#x2018;Local ecological knowledge and folk medicine in historical Estonia, Livonia, Courland, and Galicia, 1805-1905&#x2019; is well performed and can be useful to analyze the development of folk culture, the traditions of folk medicine and changes over time. I have only one remark: the inclusion of such historical regions as Estonia, Livonia, and Courland sounds justified, but I am not sure if Galicia falls well within the mentioned regions. Perhaps you should add a sentence explaining why these regions&#x00a0;have been chosen.</p>
+            <p>Are sufficient details of methods and materials provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Is the rationale for creating the dataset(s) clearly described?</p>
+            <p>Yes</p>
+            <p>Are the datasets clearly presented in a useable and accessible format?</p>
+            <p>Yes</p>
+            <p>Are the protocols appropriate and is the work technically sound?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>My areas of research are medicinal plant uses, pharmacognosy, ethnobotany, ethnomedicine, analysis of chemical composition of plant material and biological activity analysis in vitro and ex vivo.</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

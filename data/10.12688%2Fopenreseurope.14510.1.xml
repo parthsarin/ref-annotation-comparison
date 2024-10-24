@@ -1,0 +1,2069 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.14510.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>An Interoperability Framework for electromobility (INFRA): The main results from the USER-CHI framework implementation in a new spotlight</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Csillak</surname>
+                        <given-names>Katharina</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-9078-3069</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Moreno Kuhnke</surname>
+                        <given-names>Mariana</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Mobility Department, Institute for Climate Protection, Energy and Mobility (IKEM), 10179 Berlin, Germany</aff>
+                <aff id="a2">
+                    <label>2</label>Energy Law Department, Institute for Climate Protection, Energy and Mobility (IKEM), 10179 Berlin, Germany</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:Katharina.Csillak@ikem.de">Katharina.Csillak@ikem.de</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>25</day>
+                <month>5</month>
+            <year>2022</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2022</year>
+            </pub-date>
+         <volume>2</volume>
+            <elocation-id>65</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>18</day>
+                    <month>5</month>
+               <year>2022</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Csillak K and Moreno Kuhnke M</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/2-65/pdf"/>
+            <abstract>
+                <p>In 2021 the number of electric vehicles (EV) circulating in the European Union (EU) was higher than ever before. The innovative solutions of the user centric charging infrastructure (USER-CHI) project aim at devising the basic guidelines for an interoperable charging infrastructure for EV. The future goal is for users to be able to charge &#x201c;anywhere, anytime&#x201d;. USER-CHI works towards a large-scale e-mobility market and the development of integrated smart solutions and new business models. These will be demonstrated in five urban areas, which are part of the Trans-European Transport Network corridor (Barcelona metropolitan area, Rome, Berlin, Budapest, and Turku).</p>
+                <p>To make access to the charging infrastructure possible irrespectively of vehicle brands and operators, an analysis of the existing interoperability framework was considered essential within the USER-CHI project. Pursuant to this, the Institute for Climate Protection, Energy and Mobility (IKEM) developed INFRA (Interoperability Framework), a study that contains an analysis of the four layers that condition interoperability in the electromobility sector (organizational, semantic, technical and legal). Building on this analysis, the existing barriers for interoperability in each layer were identified and guidelines and recommendations were elaborated. The baseline of this paper are the role schemes, guidelines and recommendations elaborated for INFRA summarized in minimum requirements within each layer. The INFRA results are already available on CORDIS.</p>
+                <p>In addition, further desk research shows the latest developments in the EU regarding electromobility and puts INFRA in the context of the most recent discourse. The new insights of this paper offer an updated overall short summary of the main requirements for an interoperability framework for electromobility in the EU.</p>
+                <p>In conclusion the current developments underline the importance of the minimum requirements identified in INFRA and first steps towards a more interoperable infrastructure system have been taken.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Electromobility</kwd>
+                <kwd>charging infrastructure</kwd>
+                <kwd>interoperability</kwd>
+                <kwd>electric vehicle</kwd>
+                <kwd>framework</kwd>
+                <kwd>USER-CHI</kwd>
+                <kwd>INFRA</kwd>
+                <kwd>legal requirements</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>875187</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No 875187 (innovative solutions for USER centric CHarging Infrastructure [USER-CHI]). This paper reflects the authors views. The European Commission is not in any way responsible for any use that may be made of the information it contains.</funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Plain language summary</title>
+            <p>In 2021 the number of electric vehicles in the European Union (EU) was higher than ever before. Therefore, the charging infrastructure in Europe has many challenges. The EU project USER-CHI (user centric charging infrastructure) aims at devising the basic guidelines for an interoperable charging infrastructure in INFRA (Interoperability Framework). The goal is, to charge "everywhere, anytime". The first part of the paper is about the main results from the framework. The second part presents additional desk research. This allowed for the identification of new aspects that were not, or only superficially, considered during INFRA. As result, the most important aspect to achieve interoperability in the EU is a user friendly charging infrastructure. It needs to fill the gaps in the European legislation and transfer them into national legal frameworks, otherwise it causes wide disparities between countries. Nevertheless, the further success of the massive uptake of electric vehicles depends on solutions that fit the needs of electric vehicle users.</p>
+            <sec>
+                <title>Glossary</title>
+                <table-wrap id="T1g" orientation="portrait" position="anchor">
+                    <table content-type="article-table" frame="hsides">
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>ACEA</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">The European Automobile Manufacturers&#x2019; Association</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>AFID</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Alternative Fuels Infrastructure Directive</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>AFIR</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Alternative Fuels Infrastructure Regulation</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>APDS</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Alliance for Parking Data Standards</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>AVERE</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">The European Association for Electromobility</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>B2B</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Business to Business</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>CLICK</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Charging Location and Holistic Planning Kit</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>CPOs</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Charging Point Operators</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>DSO</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Distribution System Operator</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>eMIP</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Electro Mobility Inter-roaming Protocol</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>EEMEC</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">European E-Mobility Expertise Center</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>EMEurope</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Electric Mobility Europe</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>EMSPs</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Electromobility Service Providers</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>EU</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">European Union</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>EV</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Electric Vehicle</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>EVSE</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Electric Vehicle Supply Equipment</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>GDPR</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">General Data Protection Regulation</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>IDZ</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Initiative Deutscher Zahlungssysteme
+                                    <break/>
+                                    <italic toggle="yes">(Initiative of German payment systems)</italic>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>IKEM</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Institute for Climate Protection, Energy and Mobility</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>INCAR</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Interoperability, Charging and Parking Platform</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>INFRA</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Interoperability Framework</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>LEV</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Light Electric Vehicles</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>MID</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Measuring Instruments Directive</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>OCHP</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Open Clearing House Protocol</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>OCPP</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Open Charge Point Protocol</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>OICP</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Open InterCharge Protocol</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>P&amp;C</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Park and Charge</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>TCR</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Technical Connection Rules</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>TEN-T</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Trans-European Transport Network</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>USER-CHI</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Innovative solutions for USER centric CHarging Infrastructure</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>V2G</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Vehicle to Grid</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">
+                                    <bold>WEVCS</bold>
+                                </td>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Wireless Electric Vehicle Charging Systems</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec id="S1" sec-type="intro">
+            <title>1 Introduction</title>
+            <p>In the year 2020 the global electric passenger car stock almost reached the 10 million electric cars. In 2020 Europe had the second highest electric vehicle (EV) stock in the world with 3.3 million electric vehicles, after China (total: 5.4 million) and before the United States (total: 1.8 million)
+                <sup>
+                    <xref ref-type="other" rid="FN1">1</xref>
+                </sup>. Thereof, 1.4 million Plug-in-Hybrid Electric Vehicles (PHEV) and 1.8 million Battery Electric Vehicles (BEV) were part of the European EV stock
+                <sup>
+                    <xref ref-type="other" rid="FN2">2</xref>
+                </sup>.  The significant growing sales share of new electric cars in Europe (that raised from 0.5% in 2013 to 10.5% in 2020) shows an increasing number of EV users
+                <sup>
+                    <xref ref-type="other" rid="FN3">3</xref>
+                </sup>. This growth requires unified standards for the charging infrastructure across the European Union (EU) that allows the rollout of an interoperable publicly accessible charging infrastructure along the Trans-European Transport Network (TEN-T) corridors with charging options at home and at work. The aim is to increase the convenience of the charging possibilities for electric vehicle owners
+                <sup>
+                    <xref ref-type="other" rid="FN4">4</xref>
+                </sup>.</p>
+            <p>The Horizon-2020 project USER-CHI
+                <sup>
+                    <xref ref-type="other" rid="FN5">5</xref>
+                </sup> targets the development of guidelines for a user-friendly charging infrastructure. The goal is that every EV driver has the possibility to access an interoperable charging infrastructure &#x201c;anywhere&#x201d; and &#x201c;anytime&#x201d; across the EU. USER-CHI supports the mentioned large-scale e-mobility market roll out with the development of smart solutions and business models while working on the necessary framework conditions. The five demonstration cities are connected through the key Mediterranean and Scandinavian TEN-T corridors: Rome (Italy), Berlin (Germany), Turku (Finland), Barcelona metropolitan area (Spain) and Budapest (Hungary). Additionally, the cities Murcia (Spain) and Florence (Italy) are part of the project as replication cities, covering in this way several different city typologies. That means that the results of the project will have a higher impact, and gives the possible solutions for user-friendly e-mobility a higher replicability in a greater number of cities in Europe.</p>
+            <p>Within the USER-CHI project and for the elaboration of the Deliverable D3.2. Interoperability Framework (INFRA)
+                <sup>
+                    <xref ref-type="other" rid="FN6">6</xref>
+                </sup>, IKEM (Institute for Climate Protection, Energy and Mobility) analysed the existing interoperability framework to identify the minimum requirements for a unified and user-friendly roll out of the EV charging infrastructure across Europe in tight cooperation with the project partners like demonstration cities and product developers. To this end, the main existing barriers that currently hinder the aimed user-friendly roll out of this infrastructure were identified and, to overcome them, guidelines and recommendations were developed. INFRA was delivered in May 2021
+                <sup>
+                    <xref ref-type="other" rid="FN7">7</xref>
+                </sup>.</p>
+            <p>This paper aims at giving publicity to the results of INFRA and adds some new perspectives. In this sense, it is based on the results of INFRA and further desk research on the identified minimum requirements. The INFRA deliverable is the main source of information for the elaboration of this publication. The main results of INFRA (role schemes, guidelines and recommendations) are summarized here in the form of minimum requirements for the interoperability of the EV charging infrastructure across the EU. This means that additional perspectives and information have been added to the results of INFRA by the authors.</p>
+        </sec>
+        <sec id="S2" sec-type="methods">
+            <title>2 Methods</title>
+            <p>This paper was elaborated based on the results of the deliverable D3.2. Interoperability Framework (INFRA)
+                <sup>
+                    <xref ref-type="other" rid="FN8">8</xref>
+                </sup> of the USER-CHI project (see 
+                <italic toggle="yes">Data availability</italic>). Thus, first the results of INFRA were summarized in minimum requirements. Additionally, new findings were made as a result of the desk research and added to this publication. The steps taken are described in detail in the following.</p>
+            <sec id="S3">
+                <title>2.1 INFRA results</title>
+                <p>The role schemes, guidelines and recommendations described in INFRA are summarised in this paper as minimum requirements
+                    <sup>
+                        <xref ref-type="other" rid="FN9">9</xref>
+                    </sup> to achieve the roll out of an interoperable charging infrastructure across the EU. These requirements constitute the baseline for the development of this paper.</p>
+                <p>This paper is structured in a continuous text, in an attempt to make it more reader friendly. The authors have transparently identified the authorship through citations and footnotes. Most citations from other literature are linked to the desk research (if they are not, a further footnote will identify the paragraph as a result from the input of the INFRA deliverable).</p>
+                <p>The input from the INFRA deliverable in each of the  minimum requirements is clearly identified through a footnote, that either states that it is information contained in INFRA or directly citates the deliverable &#x201c;Nowack 
+                    <italic toggle="yes">et al</italic> (2021)&#x201d;. The authors own input resulting from the desk research is also clearly identified as such through a footnote.</p>
+                <p>The INFRA deliverable was conceived as a product of USER-CHI and offers a first overview of an interoperability framework for electromobility. As for the methodology, the INFRA deliverable was developed as explained below.</p>
+                <p>The layers that condition interoperability were identified. The layers identified as mainly relevant were the organisational layer (global layer), the technical, semantic, and legal layer (specific layers). Interdependencies between all layers were identified during the work for the INFRA deliverable. The organizational layer, also called global layer, gives an overview of all stakeholders involved in the roll out of the charging infrastructure and achieving interoperability. The technical and the semantic layer focus on technical requirements for interoperability (like soft- and hardware). And last, the legal layer reflects the (inter-)national legal situation that conditions the interoperability of the EV charging infrastructure.</p>
+                <p>The INFRA deliverable was developed in an interactive process: a) a validation workshop
+                    <sup>
+                        <xref ref-type="other" rid="FN10">10</xref>
+                    </sup> was held in each demonstration city with participation of the product developers and city partners to develop stakeholders (global layer) and b) an inventory of technical (semantic and technical) and legal requirements was developed based on the basis of the input of the deliverable D1.3 &#x201c;Technical and Legal Requirements&#x201d; of the USER-CHI project (specific layer). In step c) these requirements were clustered according to the priorities of the demonstration cities. In the last step d) the results were validated by each demonstration city via workshops
+                    <sup>
+                        <xref ref-type="other" rid="FN11">11</xref>,
+                        <xref ref-type="other" rid="FN12">12</xref>
+                    </sup>.</p>
+                <p>As a result, the INFRA deliverable identified and categorized the role schemes, guidelines and recommendations to achieve the interoperability of a cross borders charging infrastructure for EV
+                    <sup>
+                        <xref ref-type="other" rid="FN13">13</xref>
+                    </sup>:  a selected set of technical, semantic, and legal guidelines determining interoperability were consolidated, the main barriers to achieve interoperability in relation to the identified specific aspects within each layer were identified and recommendations on how to diminish the main barriers were developed.</p>
+            </sec>
+            <sec id="S4">
+                <title>2.2 Desk research</title>
+                <p>For this paper, further research has been carried out on the scientific literature regarding the requirements identified in the INFRA deliverable as essential to achieve the roll out of an interoperable charging infrastructure for EV across the EU. In this sense, the most important aspects of the identified minimum requirements have been in this paper further developed as a result of a wide literature review.</p>
+                <p>As already mentioned in 
+                    <xref ref-type="other" rid="S3">Section 2.1</xref>, the information from INFRA on which this paper is based, is either identified with the citation of the deliverable &#x201c;Nowack 
+                    <italic toggle="yes">et al</italic> (2021)&#x201d; in footnotes or  the footnote includes a reference to the INFRA deliverable.</p>
+                <p>The literature review focused on research papers and statements of researchers, non-profit-organisation, networks and clusters of the electromobility field between June 2021 and December 2021 (cut-off date: December 15
+                    <sup>th</sup>, 2021). The literature was sourced by key words of the selected minimum requirements of INFRA with a &#x201c;snowball sampling technique&#x201d;. The literature that was found was then used to find similar or familiar literature, that is connected to it (through the bibliography, recommended publications, or references and citations).  The technique is classified as part of the non-systematic literature studies and has been conducted manually. However, the &#x201c;snowball sampling method&#x201d; is a common technique in qualitative research
+                    <sup>
+                        <xref ref-type="other" rid="FN14">14</xref>
+                    </sup>, as well as in systematic literature review processes
+                    <sup>
+                        <xref ref-type="other" rid="FN15">15</xref>
+                    </sup>. In 2020 &#x201c;up to 51% of references in a systematic review are identified by 
+                    <italic toggle="yes">snowballing</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN16">16</xref>
+                    </sup>. In conclusion, the results of the literature review complement the summarised minimum requirements (cited as Nowack 
+                    <italic toggle="yes">et al.</italic> (2021)) with information and current updates that were found via &#x2018;
+                    <italic toggle="yes">snowballing</italic>&#x2019;. The authors own input resulting from the desk research is clearly identified as such through a footnote.</p>
+                <p>In this sense, an update of the developments achieved (semantic and technical) since the drafting of the INFRA deliverable has been made and the legal status quo of each of the legal minimum requirements has been revised. Therefore, the results of the desk research reflect the most recent developments. This desk research allowed us to identify new aspects that were not &#x2013; or only superficially &#x2013; considered during the elaboration of the INFRA deliverable. In this sense, the desk research gives new inputs to the results of the INFRA deliverable, giving them a wider contextualisation in the scientific discourse regarding interoperability in the European electromobility sector.</p>
+            </sec>
+        </sec>
+        <sec id="S5">
+            <title>3 Results: Minimum requirements for the roll out of an interoperable EV charging infrastructure across the EU</title>
+            <p>As a consequence of the EU CO
+                <sub>2</sub> emission reduction targets
+                <sup>
+                    <xref ref-type="other" rid="FN17">17</xref>
+                </sup>, the number of EVs in the EU will increase considerably in the coming years. This presents a challenge for the EV charging infrastructure and for the national and European electric grids. To make sure that the charging infrastructure is interoperable across the EU and that the electric system can withstand such an increase in electricity consumption, a set of minimum requirements was identified in the INFRA deliverable and categorised in the organizational layer (global layer) an in the technical, semantic and legal layer (specific layers). An overview of the layers within the INFRA deliverable is shown in 
+                <xref ref-type="fig" rid="f1">Figure 1</xref>.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>Overview of INFRA (Interoperability Framework) layers.</title>
+                    <p>Own presentation.</p>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15663/d55d8aaf-133f-42fa-9ca8-f83e76fab359_figure1.gif"/>
+            </fig>
+            <p>Following this, a short introduction on the importance of each specific layer for the cross borders interoperability of the EV charging infrastructure is made. Furthermore, the identified minimum requirements within each layer are displayed together with an explanation of their role in achieving interoperability, possible barriers that hinder their complete fulfilment and, if existing, concrete solutions to overcome these barriers are proposed. Baseline for the development of the minimum requirements are the results of INFRA. However, these have been updated, and some new requirements have been added and merged with them.</p>
+            <p>As already mentioned, all layers are interconnected. This means that, while some technical and semantical essential aspects to the interoperability of the charging infrastructure are identified and described in the respective layer, they are also mentioned in the legal layer because they need to be foreseen in the legal instruments at EU level in order to achieve a charging infrastructure with unified characteristics in all EU member states. Thus, they are also briefly mentioned in the legal layer.</p>
+            <sec id="S6">
+                <title>3.1 Minimum requirements within the global layer</title>
+                <p>The organisational layer creates the context and sets the basic structures and conditions for the semantic, technical, and legal layer. To achieve the roll out of an interoperable EV charging infrastructure across the EU, all stakeholders that have a role in the intended practical implementation of the interoperable charging infrastructure need to achieve a consensus on the pursued goals, the distribution of roles and the assumption of responsibilities
+                    <sup>
+                        <xref ref-type="other" rid="FN18">18</xref>
+                    </sup>. In this sense, all essential roles must be clearly identified and assumed by a concrete stakeholder.</p>
+                <p>Essential to achieve interoperability within the global layer is, in any case, (a) the involvement of each stakeholder in the organization and execution processes at an early stage to avoid later changes, and (b) a barrierless and fluid communication and cooperation between stakeholders. The INFRA deliverable showed that essentially the same stakeholders appeared in all demonstration cities, 21 roles were found but not every role was represented in every city, and some stakeholders had more than one role
+                    <sup>
+                        <xref ref-type="other" rid="FN19">19</xref>,
+                        <xref ref-type="other" rid="FN20">20</xref>
+                    </sup>.</p>
+                <p>The results of the organisational layer of INFRA reflect very accurately the status quo in the scientific literature on this matter
+                    <sup>
+                        <xref ref-type="other" rid="FN21">21</xref>
+                    </sup>. Thus, the importance of clear roles in an interoperable electromobility infrastructure is mentioned in other Horizon 2020 projects like NeMo
+                    <sup>
+                        <xref ref-type="other" rid="FN22">22</xref>
+                    </sup>. The consolidated models of different actor groups like IT-suppliers, decision makers and public authorities and their relationship with each other show the same results as INFRA (see 
+                    <xref ref-type="fig" rid="f2">Figure 2</xref>). For example, the needs and interactions of the involved stakeholders to achieve interoperability and cooperation within the European Electromobility Network have already been summarised
+                    <sup>
+                        <xref ref-type="other" rid="FN23">23</xref>
+                    </sup>. This network was the starting point of the creation of an eRoaming hyper-network within their project, where actors will be able to interact and exchange data
+                    <sup>
+                        <xref ref-type="other" rid="FN24">24</xref>
+                    </sup>. In addition, clear role schemes of all actors and their assignments have an important impact and the partnership&#x00b4;s dynamic is an element, that needs to be extended and institutionalized
+                    <sup>
+                        <xref ref-type="other" rid="FN25">25</xref>
+                    </sup>. In conclusion, the involvement of each stakeholder in the implementation process (a) could be a challenge, when there is a high dynamic, but also, (b) could be successful, if it is integrated early in the process of creating a network. External organisations or networks like e.g., AVERE (The European Association for Electromobility)
+                    <sup>
+                        <xref ref-type="other" rid="FN26">26</xref>
+                    </sup>, EMEurope (Electric Mobility Europe)
+                    <sup>
+                        <xref ref-type="other" rid="FN27">27</xref>
+                    </sup> or EEMEC (European E-Mobility Expertise Center)
+                    <sup>
+                        <xref ref-type="other" rid="FN28">28</xref>
+                    </sup> could be helpful to connect and exchange experiences with other project consortiums. Additionally, International Energy Agency (IEA)
+                    <sup>
+                        <xref ref-type="other" rid="FN29">29</xref>
+                    </sup> and European Alternative Fuels Observatory (EAFO)
+                    <sup>
+                        <xref ref-type="other" rid="FN30">30</xref>
+                    </sup> offer further information and networking possibilities. They also offer information on summarized statistic and data about electromobility. In any case, communication between stakeholders is a key element to achieve the interoperability of the EV charging infrastructure.</p>
+                <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                    <label>Figure 2. </label>
+                    <caption>
+                        <title>Overall role scheme of the e-mobility ecosystem in user centric charging infrastructure (USER-CHI).</title>
+                        <p>LEV, Light Electric Vehicles. 
+                            <xref ref-type="fig" rid="f2">Figure 2</xref> has been reproduced with permission from Nowack 
+                            <italic toggle="yes">et al.</italic> (2021), p. 21.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15663/d55d8aaf-133f-42fa-9ca8-f83e76fab359_figure2.gif"/>
+                </fig>
+            </sec>
+            <sec id="S7">
+                <title>3.2 Minimum requirements within the specific layers</title>
+                <p>The specific layers (the technical, the semantic and the legal) contain the aspects that condition interoperability in a practical way. Therefore, the readiness status of science and politics to achieve the interoperability of the EV charging infrastructure was analysed in INFRA. For this, the guidelines and recommendations elaborated in the INFRA deliverable have been summarised and used as baseline for this paper in form of minimum requirements. Additionally, new insights on the developments within each layer in relation to different aspects have been added to the respective requirements. The information from the INFRA deliverable and the information from the desk research have been therefore merged. Nevertheless, every paragraph has a footnote that indicates weather the input comes from the INFRA deliverable or it is the author&#x00b4;s own input. Information from the INFRA deliverable is either cited as &#x201c;Nowack 
+                    <italic toggle="yes">et al.</italic> (2021)&#x201d; or marked as such in a footnote.</p>
+                <p id="S8">
+                    <bold>
+                        <italic toggle="yes">3.2.1 Technical layer.</italic>
+                    </bold> Within the technical layer, the literature about the essential technological conditions (hardware) to achieve the interoperability of the charging infrastructure of EV across the EU was analysed. In this sense, the results from the INFRA deliverable were summarized (as mentioned in 
+                    <xref ref-type="other" rid="S2">Section 2</xref>) in three &#x201c;minimum requirements&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN31">31</xref>
+                    </sup> (see 
+                    <xref ref-type="fig" rid="f3">Figure 3</xref>). Additionally, some further desk research on the development and status of these technologies and further technological applications that condition interoperability has been conducted. The results of INFRA have been systematised as follows and have been complemented with information resulting from the desk research (for further information on the authorship see citations and footnotes).</p>
+                <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                    <label>Figure 3. </label>
+                    <caption>
+                        <title>Summarised minimum requirements of the technical layer on basis of INFRA (Interoperability Framework) input.</title>
+                        <p>Own presentation.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15663/d55d8aaf-133f-42fa-9ca8-f83e76fab359_figure3.gif"/>
+                </fig>
+                <p>The first minimum requirement is related to the energy supply and the metering devices of the charging points. In this sense, the prerequisites for the physical connection of the charging points to the distribution grid and the requisites on the location of the measuring devices established by local grid and metering point operators must be observed. There are standards and Technical Connection Rules (TCR) for the connection to the grid and rules for the measuring device&#x2019;s location on regional, national, and international level that need to be complied. All these issues, together with potentially necessary grid extensions should be identified at the early stages of the planning process
+                    <sup>
+                        <xref ref-type="other" rid="FN32">32</xref>
+                    </sup>.</p>
+                <p>The use of uniform charging plug components
+                    <sup>
+                        <xref ref-type="other" rid="FN33">33</xref>
+                    </sup> (charging plugs standards) is the second minimum requirement for interoperability in the electromobility sector within this layer. There already are standards in place for these plugs at international and at European level. In this sense, the use of &#x201c;
+                    <italic toggle="yes">Type 2 sockets or cables for AC charging points and Combo 2 sockets or cables for DC charging points</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN34">34</xref>
+                    </sup> is already a requirement at European level and was established through Annex II of the Alternative Fuels Infrastructure Directive (AFID)
+                    <sup>
+                        <xref ref-type="other" rid="FN35">35</xref>
+                    </sup>. For more information about the AFID see section 4.2.3 dealing with the legal layer
+                    <sup>
+                        <xref ref-type="other" rid="FN36">36</xref>
+                    </sup>.</p>
+                <p>The third minimum requirement deals with plug components for Light Electric Vehicles (LEV)
+                    <sup>
+                        <xref ref-type="other" rid="FN37">37</xref>
+                    </sup> charging
+                    <sup>
+                        <xref ref-type="other" rid="FN38">38</xref>
+                    </sup>. Thus, the use of standardized plug components is of high importance. However, unified standards have not been established yet at every level and each provider uses its own plug components.</p>
+                <p>There are plenty of other charging solutions next to self-reliant solar-powered battery charging scheme for LEVs
+                    <sup>
+                        <xref ref-type="other" rid="FN39">39</xref>
+                    </sup> or onboard charger (OBC)
+                    <sup>
+                        <xref ref-type="other" rid="FN40">40</xref>
+                    </sup>. Plenty of experiences have already been made on the difficulties that the lack of initial standards causes for the acceptance and access of new EV to the charging infrastructure. Thereafter, special and concrete requirements for LEVs must be quickly integrated into EU legislation. An example is the introduction of small three&#x2013; or four-wheeled electric vehicles (SEVs)
+                    <sup>
+                        <xref ref-type="other" rid="FN41">41</xref>
+                    </sup>, that is currently being discussed and is, again, leading to new technical challenges for the EV charging infrastructure
+                    <sup>
+                        <xref ref-type="other" rid="FN42">42</xref>
+                    </sup>.</p>
+                <p>The same applies to wireless charging. Several different technologies for wireless charging already exist
+                    <sup>
+                        <xref ref-type="other" rid="FN43">43</xref>
+                    </sup> and this kind of EV charging will probably incur a complex situation in the next years since there are no requirements established for the technical components for wireless charging yet (technology is still in development). These Wireless Electric Vehicle Charging Systems (WEVCS) are currently rare in most countries and the discussion is mostly based on the techno-economic aspects
+                    <sup>
+                        <xref ref-type="other" rid="FN44">44</xref>
+                    </sup>. This fact has the risk that this technology remains as a &#x201c;niche product&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN45">45</xref>
+                    </sup> because it is not interoperable. However, it could foster the discussions about smart road concepts
+                    <sup>
+                        <xref ref-type="other" rid="FN46">46</xref>
+                    </sup> and more hard- and software applications on street.</p>
+                <p>The fourth minimum requirement consists of the implementation of a smart metering infrastructure
+                    <sup>
+                        <xref ref-type="other" rid="FN47">47</xref>
+                    </sup>, which&#x2019;s importance is already mentioned in the AFID
+                    <sup>
+                        <xref ref-type="other" rid="FN48">48</xref>
+                    </sup>. Smart meters are considered as an improvement of the public charging points that allows to monitor the energy flowing process and gives the user the possibility start and stop the charging process in order to save energy
+                    <sup>
+                        <xref ref-type="other" rid="FN49">49</xref>
+                    </sup>. Among other things, smart meters could track and submit the charging information to the supplier to ensure accurate bills. However, for smart meters to be able to operate accurately the interoperability of this technology needs to be guaranteed across the EU.</p>
+                <p>In conclusion, the technical possibilities are growing rapidly and technological developments occur on a daily basis. Therefore, the technological development in matters of interoperability needs to be closely followed. On the other hand, the adoption of minimum universal requirements for components of EV at early stages is very important to ensure interoperability within the technical layer.</p>
+                <p id="S9">
+                    <bold>
+                        <italic toggle="yes">3.2.2 Semantic layer.</italic>
+                    </bold> The semantic layer contains the communication aspects between service providers (stakeholders). Achieving semantic interoperability means providing &#x201c;
+                    <italic toggle="yes">a common meaning of the data exchanged by heterogeneous devices, even if they belong to different domains</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN50">50</xref>
+                    </sup>.  In this sense, seven minimum requirements
+                    <sup>
+                        <xref ref-type="other" rid="FN51">51</xref>
+                    </sup> for syntactic and communication that condition the interoperability of the charging infrastructure for EV have been summarised within the semantic layer (see 
+                    <xref ref-type="fig" rid="f4">Figure 4</xref>) based on the input of the INFRA. Further desk research was conducted on these minimum requirements. The minimum requirements have been systematised as follows merging the input of the INFRA deliverable and the results of the desk research (for further information on the authorship see footnotes and citations).</p>
+                <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                    <label>Figure 4. </label>
+                    <caption>
+                        <title>Summarised minimum requirements of the semantic layer on basis of INFRA (Interoperability Framework) input.</title>
+                        <p>Own presentation.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15663/d55d8aaf-133f-42fa-9ca8-f83e76fab359_figure4.gif"/>
+                </fig>
+                <p>The first minimum requirement within this layer is the use of open charging protocols for communication between stakeholders, such as OICP (Open InterCharge Protocol)
+                    <sup>
+                        <xref ref-type="other" rid="FN52">52</xref>
+                    </sup> for roaming and authentication or OCPP (Open Charge Point Protocol)
+                    <sup>
+                        <xref ref-type="other" rid="FN53">53</xref>
+                    </sup> for communication between Electric Vehicle Supply Equipment (EVSE) and Charging Point Operators, (CPOs). Currently, semantic communication and data exchange are not uniformly guaranteed because stakeholders use different proprietary protocols (OICP, Open InterCharge Protocol;  OCHP, Open Clearing House Protocol;  eMIP, Electro Mobility Inter-roaming Protocol) or customised interfaces
+                    <sup>
+                        <xref ref-type="other" rid="FN54">54</xref>
+                    </sup>.</p>
+                <p>The use of a single unified authentication system or the possibility to authenticate at public charging stations through any of the available systems on the market
+                    <sup>
+                        <xref ref-type="other" rid="FN55">55</xref>
+                    </sup> is the second minimum requirement. Currently, every CPO uses a different authentication system and EV drivers are forced to have several different ways to authenticate to be able charge their EVs at different charging points. Essential for interoperability is also the existence of consistent/uniform online payment systems
+                    <sup>
+                        <xref ref-type="other" rid="FN56">56</xref>
+                    </sup> between stakeholders and users that consider the complexity of roaming services, being this the third minimum requirement. For general and specific applications, different providers of online payment services are available. This situation does not foster interoperability. Therefore, the utilization of an online payment system that doesn&#x00b4;t depend on any operator could, in this case, be a good solution. Linked to this is the use of secure and transparent accounting services
+                    <sup>
+                        <xref ref-type="other" rid="FN57">57</xref>
+                    </sup> (fourth minimum requirement)
+                    <sup>
+                        <xref ref-type="other" rid="FN58">58</xref>
+                    </sup>. Additionally, the application of the blockchain technology could contribute to achieve interoperable and secure accounting processes amongst stakeholders
+                    <sup>
+                        <xref ref-type="other" rid="FN59">59</xref>
+                    </sup>.</p>
+                <p>Steps towards the achievement of unified payment systems that fosters an interoperable EV charging infrastructure have already been taken. An example of this is the change introduced in the &#x201c;Charging station ordinance&#x201d; (&#x2018;
+                    <italic toggle="yes">Lades&#x00e4;ulenverordnung</italic>&#x2019;)
+                    <sup>
+                        <xref ref-type="other" rid="FN60">60</xref>
+                    </sup> in Germany. This ordinance foresees that, from July 2023 on, CPOs are obliged to offer users the possibility to pay with credit card. Currently the option to pay with EC/credit card is the most attractive option for EV users and a  good known alternative to this is &#x2018;PayPal&#x2019;, as a digital payment service provider
+                    <sup>
+                        <xref ref-type="other" rid="FN61">61</xref>
+                    </sup>. Countries like Greece, Poland, France, and Slovenia have the highest rates of payment with credit card
+                    <sup>
+                        <xref ref-type="other" rid="FN62">62</xref>
+                    </sup>. In conclusion, a unified payment system with credit card across the EU charging infrastructure would clearly foster the interoperability of the EV charging infrastructure
+                    <sup>
+                        <xref ref-type="other" rid="FN63">63</xref>
+                    </sup>.</p>
+                <p>As already mentioned, the ordinance applies only to the German charging infrastructure, but the EU also plans to simplify the payment system by introducing modifications to the AFID
+                    <sup>
+                        <xref ref-type="other" rid="FN64">64</xref>
+                    </sup> with the proposal for the new Alternative Fuels Infrastructure Regulation (AFIR)
+                    <sup>
+                        <xref ref-type="other" rid="FN65">65</xref>
+                    </sup> to make the payment service &#x201c;
+                    <italic toggle="yes">as simple as possible for consumers</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN66">66</xref>
+                    </sup>. In this sense, there are several stakeholders
+                    <sup>
+                        <xref ref-type="other" rid="FN67">67</xref>
+                    </sup>, made comments to the AFIR proposal and many of them recommend the introduction of the obligation to allow credit card payments
+                    <sup>
+                        <xref ref-type="other" rid="FN68">68</xref>
+                    </sup> at public charging points as an essential requirement to achieve the interoperability of the charging infrastructure across the EU
+                    <sup>
+                        <xref ref-type="other" rid="FN69">69</xref>
+                    </sup>.</p>
+                <p>Back to the requirements
+                    <sup>
+                        <xref ref-type="other" rid="FN70">70</xref>
+                    </sup>: to achieve a well-planned roll out of the EV charging infrastructure, the availability of historic and online utilisation data
+                    <sup>
+                        <xref ref-type="other" rid="FN71">71</xref>
+                    </sup>, in compliance with the data protection regulations, is necessary for administrations to be able to coherently plan the expansion of the charging infrastructure in public (and semi-public) spaces, and therefore constitutes the fifth minimum requirement. Also, the availability of parking data for combined parking and charging services
+                    <sup>
+                        <xref ref-type="other" rid="FN72">72</xref>
+                    </sup> (&#x2018;Park and Charge&#x2019;, P&amp;C) is of high importance for interoperability and constitutes the sixth minimum requirement. Currently, there are no uniform standards for a uniform data exchange between stakeholders
+                    <sup>
+                        <xref ref-type="other" rid="FN73">73</xref>
+                    </sup> (particularly for off-street) and, instead, multiple proprietary solutions are being used. A way to overcome this is to use open standard systems, e.g., Alliance for Parking Data Standards (APDS)
+                    <sup>
+                        <xref ref-type="other" rid="FN74">74</xref>
+                    </sup>, and to integrate P&amp;C data into roaming platforms from the planning on. The availability of routing services for roaming and charging platforms
+                    <sup>
+                        <xref ref-type="other" rid="FN75">75</xref>
+                    </sup> that allow EV driver an easy access to P&amp;C services constitutes the seventh minimum requirement. Thus, open charging protocols should be used as well when providing routing services.</p>
+                <p>Closely related to all beforementioned requirements is the aspect of the cybersecurity of the charging points (as of every other product connected to the internet)
+                    <sup>
+                        <xref ref-type="other" rid="FN76">76</xref>
+                    </sup>. Cybersecurity is, in this sense, essential to the charging station itself, to CPOs and to the energy Distribution System Operators (DSOs) and constitutes the eighth minimum requirement. Some of the risks in terms of cybersecurity are &#x201c;
+                    <italic toggle="yes">identity theft, data alteration, unauthorized access privileges, malware insertion, private &amp; sensitive information theft, electricity flow manipulation and changes in operating parameters that may compromise charging stations&#x2019; safety&#x201d;</italic>
+                    <sup>
+                        <xref ref-type="other" rid="FN77">77</xref>
+                    </sup>. Security measures need, therefore, to be implemented for &#x201c;
+                    <italic toggle="yes">communication, mobile apps, firmware updates and physical access points</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN78">78</xref>
+                    </sup>. To achieve the cybersecurity of the charging infrastructure, the implementation of unified protocols is essential, too. Moreover, the compliance with the data protection regulations
+                    <sup>
+                        <xref ref-type="other" rid="FN79">79</xref>
+                    </sup> is of high importance
+                    <sup>
+                        <xref ref-type="other" rid="FN80">80</xref>
+                    </sup>.</p>
+                <p>As already mentioned in 
+                    <xref ref-type="other" rid="S6">Section 3.1</xref> about the global layer, communication and organisation is a key element for electromobility charging infrastructure. In the USER-CHI project, different products shall be developed and implemented in different demonstration sides. For example, INCAR, an interoperability, charging and parking platform, aims to ensure a barrier-free and operator-independent access for end-users, maximising EVSE availability, improving user convenience and providing roaming services along the two TEN-T corridors with transparent and flexible payment features. CLICK (Charging Location and Holistic Planning Kit) is another product developed within the USER-CHI project, that will be an easy-to-use question-and-answer online tool for the top-down location planning for charging infrastructure, which&#x00b4;s purpose is to optimise the location and planning of new charging infrastructure in cities. Therefore, CLICK will use data &#x2013; like historic data, city data &#x2013; to analyse locations for expanding electromobility charging hubs. Both products of USER-CHI are good examples of a first steps to meet the semantic requirements. The lessons-learned from the development of these products at the end of the project in 2024 will probably be a good adding to the requirements of INFRA and to what is needed to achieve interoperability in semantic layer.</p>
+                <p id="S10">
+                    <bold>
+                        <italic toggle="yes">3.2.3 Legal layer.</italic>
+                    </bold> The legal framework is meant to establish obligations for stakeholders (service providers, EV builders, governments, etc.), unify technical standards and set mechanisms to make charging easy and attractive for EV drivers. Therefore, an overall uniformity of the legal aspects for the deployment of a cross border charging infrastructure for EV is essential. In a first step, the guidelines and recommendations made in the INFRA deliverable within the legal layer were examined and summarized into minimum requirements. In this sense, a set of eight legal minimum requirements to achieve interoperability was consolidated as baseline for this paper and systematised as follows (see 
+                    <xref ref-type="fig" rid="f5">Figure 5</xref>). In a second step, further desk research was made in relation to the EU and national relevant laws and regulations to achieve the interoperability of a cross borders charging infrastructure as presented in INFRA. The desk research on the applicable legislation was expanded to any relevant legal aspect that could condition interoperability in other ways not considered in INFRA (for further information on the authorship see footnotes and citations).</p>
+                <fig fig-type="figure" id="f5" orientation="portrait" position="float">
+                    <label>Figure 5. </label>
+                    <caption>
+                        <title>Summarised minimum requirements of the legal layer on basis of INFRA (Interoperability Framework).</title>
+                        <p>Own presentation. CPO, Charging Point Operators; EV, Electric Vehicle.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/15663/d55d8aaf-133f-42fa-9ca8-f83e76fab359_figure5.gif"/>
+                </fig>
+                <p>As first legal requirement for interoperability, a harmonised national transposition of the AFID is necessary
+                    <sup>
+                        <xref ref-type="other" rid="FN81">81</xref>
+                    </sup>. The AFID regulates the roll out of the charging infrastructure for EVs and alternative fuels across the EU
+                    <sup>
+                        <xref ref-type="other" rid="FN82">82</xref>
+                    </sup>. Until now a harmonised transposition of the AFID into the national legislations of the EU state members has not been achieved. This and the fact that the AFID doesn&#x00b4;t include determinations for roaming for EV charging and charging protocols, constitute huge barriers for interoperability
+                    <sup>
+                        <xref ref-type="other" rid="FN83">83</xref>
+                    </sup>.</p>
+                <p>As consumers demand for EV is necessarily linked to the deployment of an interoperable charging infrastructure across the EU, the European Commission proposed a revision of the AFID that was included in the &#x201c;Fit for 55&#x201d; Package
+                    <sup>
+                        <xref ref-type="other" rid="FN84">84</xref>
+                    </sup> published in July 2021. The AFID is planned to be repealed and replaced by the Alternative Fuels Infrastructure Regulation (AFIR), which will be directly applicable in the member States. This way, a uniform implementation of the obligations established at EU level in each member State is ensured. The AFIR proposal is also meant to fill some of the current legal gaps that hinder interoperability. In this sense, the actual adoption of this regulation would, so to say, guarantees the fulfilment of this first legal minimum requirement. The uptake of the AFIR will, in this way, introduce some changes and have impacts on different aspects of the other layers that condition interoperability
+                    <sup>
+                        <xref ref-type="other" rid="FN85">85</xref>
+                    </sup>.</p>
+                <p>Complementary to this is the inclusion of interoperability requirements in the national legal frameworks of the EU member states. In general, the national legislations of EU member states do not establish minimum requirements to ensure the interoperability of EV charging points operated by different CPOs
+                    <sup>
+                        <xref ref-type="other" rid="FN86">86</xref>
+                    </sup>. This requirement can&#x00b4;t be considered separately from the preceding requirement. Since the interoperability of the EV charging infrastructure across the EU depends completely on the uptake of minimum requirements at EU level (within all layers), the uncoordinated adoption of national requirements is rather detrimental. Thus, the actual adoption of the AFIR proposal, would guarantee a unified inclusion of the foreseen interoperability requirements in the national legal frameworks
+                    <sup>
+                        <xref ref-type="other" rid="FN87">87</xref>
+                    </sup>.</p>
+                <p>A second requirement, also considered to be essential to achieve interoperability in this sector, is for the administrative approval proceedings for public charging points to be optimised. Often the approval of new charging points in public spaces is competence of the municipalities and each municipality may, to a certain point, establish its own proceedings. These proceedings can be very tedious for all parties involved. In this regard, municipalities should reduce the complexity of their own authorisation proceedings
+                    <sup>
+                        <xref ref-type="other" rid="FN88">88</xref>
+                    </sup>.</p>
+                <p>The legal enablement of the reservation of parking spots and charging points in (semi-) public spaces is the third minimum legal requirement for interoperability
+                    <sup>
+                        <xref ref-type="other" rid="FN89">89</xref>
+                    </sup>. However, a uniform regulation of this matter at EU level has not been achieved yet. The AFIR proposal does not contain any provisions in this regard either. Therefore, a first step would be to conduct feasibility studies of this matter mainly at municipal level. An example of the implementation of P&amp;C in an EU city is the case of Barcelona. The municipality of Barcelona developed a public service of parking spots on public roads for charging EV called &#x201c;Endolla&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN90">90</xref>
+                    </sup>. While using this service, users can make a reservation with 20 minutes in advance to charge their EV for up to 12 hours. In Berlin, and within the MEISTER project
+                    <sup>
+                        <xref ref-type="other" rid="FN91">91</xref>
+                    </sup>, four pilot P&amp;C points have been installed with booking possibilities through the MEISTER Neighbourhood app
+                    <sup>
+                        <xref ref-type="other" rid="FN92">92</xref>
+                    </sup>. A similar service will be provided in the USER-CHI project with the beforementioned INCAR platform
+                    <sup>
+                        <xref ref-type="other" rid="FN93">93</xref>
+                    </sup>, where a reservation of P&amp;C is possible
+                    <sup>
+                        <xref ref-type="other" rid="FN94">94</xref>
+                    </sup>.</p>
+                <p>The fourth minimum requirement is the enforcement of the CPOs obligation to offer the possibility to recharge the EV on an ad-hoc basis
+                    <sup>
+                        <xref ref-type="other" rid="FN95">95</xref>
+                    </sup>. This obligation is already foreseen in the AFID (Art. 4 Nr. 9) without further explanations on what 
+                    <italic toggle="yes">&#x201c;on ad-hoc basis</italic>&#x201d; means or which services must be guaranteed. By contrast, it is established in the AFIR proposal that charging &#x201c;
+                    <italic toggle="yes">on ad-hoc basis</italic>&#x201d; refers to &#x201c;
+                    <italic toggle="yes">a recharging service purchased by an end user without the need for that end user to register, conclude a written agreement, or enter into a longer-lasting commercial relationship with the operator of that recharging point beyond the mere purchase of the service</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN96">96</xref>
+                    </sup>. To this respect, the AFIR proposal establishes that this service will have to be provided by all CPOs of public accessible charging points and, at the same time, that CPOs must guarantee the possibility for users to pay with credit card
+                    <sup>
+                        <xref ref-type="other" rid="FN97">97</xref>
+                    </sup> at newly established charging points
+                    <sup>
+                        <xref ref-type="other" rid="FN98">98</xref>
+                    </sup>.</p>
+                <p>A fifth minimum requirement
+                    <sup>
+                        <xref ref-type="other" rid="FN99">99</xref>
+                    </sup> is the harmonised and complete national transposition of the Measuring Instruments Directive (MID)
+                    <sup>
+                        <xref ref-type="other" rid="FN100">100</xref>
+                    </sup> in all EU member states, or put differently, the enforcement of a directly binding legislation on metering devices in the EU. The AFID already established in Art. 4 Nr. 7 that, if technically feasible and economically reasonable, the recharging points accessible to the public shall &#x201c;
+                    <italic toggle="yes">make use of intelligent metering systems&#x201d;</italic> in compliance with the Directive 2012/27/EU
+                    <sup>
+                        <xref ref-type="other" rid="FN101">101</xref>
+                    </sup>. Nevertheless, until now, there is no legal overall obligation for CPOs to use intelligent metering systems in publicly accessible charging points.</p>
+                <p>In this regard, the AFIR proposal highlights the importance of smart recharging points, which need to have specific hardware and software features that are necessary for the data exchange between stakeholders and end users
+                    <sup>
+                        <xref ref-type="other" rid="FN102">102</xref>
+                    </sup>, in combination with smart metering systems. This would have great benefits for users and would mean an easier integration of EV in the electric system. Thereafter, the AFIR proposal mentions that Member States should encourage, were technically and economically feasible, &#x201c;
+                    <italic toggle="yes">the use of smart metering system for the recharging of EV at publicly accessible recharging stations</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN103">103</xref>
+                    </sup>. It also states that smart metering systems are essential to guarantee the availability of real-time data. This kind of data is needed &#x201c;
+                    <italic toggle="yes">to ensure the stability of the grid and to encourage rational use of recharging services</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN104">104</xref>
+                    </sup> as well as to ensure the accuracy of the billing information.</p>
+                <p>To the day, the requirements for smart metering devices are regulated by the Directive (EU) 2019/444
+                    <sup>
+                        <xref ref-type="other" rid="FN105">105</xref>
+                    </sup>, which Member States should have already transposed into national law. In any case, if used, smart metering systems must comply with the requirements established in Art. 20 of the same Directive (EU) 2019/444. However, and even though smart metering systems could promote smart charging
+                    <sup>
+                        <xref ref-type="other" rid="FN106">106</xref>
+                    </sup>, the AFIR proposal does not lay down specific obligations regarding the use of smart metering systems within the EV charging infrastructure (unless it is a feature that smart charging points need to have, which is not established in the AFIR either)
+                    <sup>
+                        <xref ref-type="other" rid="FN107">107</xref>
+                    </sup>.</p>
+                <p>The compliance with the regulations on data protection regarding the personal data generated when EV drivers use public charging points
+                    <sup>
+                        <xref ref-type="other" rid="FN108">108</xref>
+                    </sup> is the sixth minimum requirement. In this sense, the EU General Data Protection Regulation (GDPR)
+                    <sup>
+                        <xref ref-type="other" rid="FN109">109</xref>
+                    </sup>, which is directly applicable in all EU member states, and further nationally or regionally established obligations must be observed
+                    <sup>
+                        <xref ref-type="other" rid="FN110">110</xref>
+                    </sup> (e.g., in German &#x2018;
+                    <italic toggle="yes">Bundesdatenschutzgesetz</italic>&#x2019;
+                    <sup>
+                        <xref ref-type="other" rid="FN111">111</xref>
+                    </sup> or in Spanish &#x2018;
+                    <italic toggle="yes">Ley de Protecci&#x00f3;n de Datos&#x2019;</italic>
+                    <sup>
+                        <xref ref-type="other" rid="FN112">112</xref>
+                    </sup>). In this sense, some communication protocols like OCPP are configurable to comply with the GDPR provisions. However, the compliance with the GDPR is responsibility of the implementers of the OCPP
+                    <sup>
+                        <xref ref-type="other" rid="FN113">113</xref>
+                    </sup>.</p>
+                <p>In addition, the requirement of having binding obligations on data sharing processes between providers has been identified in the INFRA deliverable
+                    <sup>
+                        <xref ref-type="other" rid="FN114">114</xref>
+                    </sup>. The goal is to achieve interoperable systems (for all transactions that are necessary in the charging process)
+                    <sup>
+                        <xref ref-type="other" rid="FN115">115</xref>
+                    </sup> that are not depending on a single provider. This is currently not possible because there are no legal obligations in this regard and stakeholders use proprietary systems that are mostly partly interoperable
+                    <sup>
+                        <xref ref-type="other" rid="FN116">116</xref>
+                    </sup>.</p>
+                <p>The importance of the data exchange between stakeholders is also recognised in the AFIR proposal
+                    <sup>
+                        <xref ref-type="other" rid="FN117">117</xref>
+                    </sup>. In this sense, the AFIR proposal mentions the importance of digitally connected and smart recharging points to achieve an interoperable charging infrastructure. These smart charging points need to have specific hardware and software features for the data exchange between stakeholders and end users
+                    <sup>
+                        <xref ref-type="other" rid="FN118">118</xref>
+                    </sup>. The specifications on these hardware and software features should be included in the legislation at EU level. Smart recharging is thus defined in Art. 2 Nr. 59 AFIR proposal as &#x201c;
+                    <italic toggle="yes">a recharging operation in which the intensity of electricity delivered to the battery is adjusted in real-time, based on information received through electronic communication</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN119">119</xref>
+                    </sup>.</p>
+                <p>A digitally connected recharging point is, as established in Art. 2 Nr. 14 AFIR proposal, a charging point that &#x201c;
+                    <italic toggle="yes">can send and receive information in real time, communicate bi-directionally with the electricity grid and the electric vehicle, and that can be remotely monitored and controlled, including to start and stop the recharging session and to measure electricity flows</italic>&#x201d;. Even though the AFIR proposal this way includes first references to the need for stakeholders to be able to exchange data, it does not establish a specific obligation for stakeholders to, for example, use open communication protocols, which are needed for smart charging
+                    <sup>
+                        <xref ref-type="other" rid="FN120">120</xref>
+                    </sup> and that would ensure interoperability.</p>
+                <p>There is also a gap in relation to unified requirements on data sharing processes for e-roaming
+                    <sup>
+                        <xref ref-type="other" rid="FN121">121</xref>
+                    </sup> or e-roaming platforms
+                    <sup>
+                        <xref ref-type="other" rid="FN122">122</xref>
+                    </sup> for EV charging (seventh requirement)
+                    <sup>
+                        <xref ref-type="other" rid="FN123">123</xref>
+                    </sup>. The before mentioned overall situation in relation to data exchange between stakeholders across the EU foreseen in the AFIR proposal is the same for data sharing processes for roaming and roaming platforms.</p>
+                <p>On the other side, the existence of a uniform regulation of vehicle to grid charging/reverse charging is necessary (eighth requirement). There are currently non-binding international standards on this matter (ISO 15118-1:2019
+                    <sup>
+                        <xref ref-type="other" rid="FN124">124</xref>
+                    </sup> and IEC 60870-5-104
+                    <sup>
+                        <xref ref-type="other" rid="FN125">125</xref>
+                    </sup>) and some countries (e.g., Germany and Spain) have started to act. As there are no obligations in force on this matter at EU level, a unified legislation on this matter is essential.
+                    <sup>
+                        <xref ref-type="other" rid="FN126">126</xref>
+                    </sup>
+                </p>
+                <p>In this sense, the integration of this issue into the AFIR proposal is an important milestone. The AFIR proposal acknowledges in its Preamble (21) the importance of &#x201c;
+                    <italic toggle="yes">bi-directional charging</italic>&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN127">127</xref>
+                    </sup>, to facilitate the integration of EV charging in the electric system. As already mentioned, the possibility of bi-directional charging, is a feature that digitally connecting charging points (Art. 2 Nr. 14 AFIR proposal) and, as set out in Art. 5 Nr. 7 AFIR proposal and if the AFIR proposal is finally adopted, CPOs will need to ensure the digital connectivity of charging points
+                    <sup>
+                        <xref ref-type="other" rid="FN128">128</xref>
+                    </sup>.</p>
+                <p>Related to these last aspects is the importance of the cybersecurity of EV charging points (as already mentioned in the semantic layer). However, there is still no unified cybersecurity protocol or regulation put in place. Therefore, there could be an overall lack of coordination between all stakeholders
+                    <sup>
+                        <xref ref-type="other" rid="FN129">129</xref>
+                    </sup> (which is highly important for interoperability, as already mentioned in the global layer
+                    <sup>
+                        <xref ref-type="other" rid="FN130">130</xref>
+                    </sup>). Some countries, like the United Kingdom (UK), are already acting in this respect (even though not in the EU, it is still worth mentioning). In this sense, for example the UK plans to release new legislations on EV smart charging, that include cybersecurity requirements. The British Standard Institution already released two publicly available specifications (PAS) 1878 and 1879, that include security requirements that contribute to securing smart and V2G (Vehicle to Grid) charging infrastructure
+                    <sup>
+                        <xref ref-type="other" rid="FN131">131</xref>
+                    </sup>.</p>
+                <p>The use of encrypted communication, that no one can interfere with and/or alter, is a possible answer to this problem. The use of &#x201c;smart contracts&#x201d;
+                    <sup>
+                        <xref ref-type="other" rid="FN132">132</xref>
+                    </sup> could pose a solution for the cybersecurity problems and might, also, simplify the contractual situation between service providers. There are multiple possible applications for smart contracts in blockchain-based systems
+                    <sup>
+                        <xref ref-type="other" rid="FN133">133</xref>
+                    </sup>. A special significance has the blockchain technology when it comes to the verifiability of transactions
+                    <sup>
+                        <xref ref-type="other" rid="FN134">134</xref>
+                    </sup>. Smart contracts could be used, in this sense, between stakeholders (Business to Business, B2B) to improve transparency, security, and effectivity
+                    <sup>
+                        <xref ref-type="other" rid="FN135">135</xref>,
+                        <xref ref-type="other" rid="FN136">136</xref>
+                    </sup>.</p>
+                <p>The use of smart legal contracts
+                    <sup>
+                        <xref ref-type="other" rid="FN137">137</xref>
+                    </sup> to regularise relations between stakeholders and end consumers is also possible but it has some important disadvantages for the consumer due to their immutability
+                    <sup>
+                        <xref ref-type="other" rid="FN138">138</xref>
+                    </sup>. In this sense, the GDPR recognises the right to rectification (Art. 16 GDPR) and the right to erasure (&#x2018;
+                    <italic toggle="yes">right to be forgotten&#x2019;,</italic> Art. 17 GDPR)
+                    <sup>
+                        <xref ref-type="other" rid="FN139">139</xref>
+                    </sup> and these rights are very difficult to guarantee with the use of smart contracts
+                    <sup>
+                        <xref ref-type="other" rid="FN140">140</xref>
+                    </sup>. In any case, there is no harmonised regulation at EU level on blockchain technology nor &#x201c;smart contracts&#x201d; and, with it, the interoperability of the charging infrastructure is not guaranteed with the use of these technologies either
+                    <sup>
+                        <xref ref-type="other" rid="FN141">141</xref>
+                    </sup>.</p>
+                <p>On the other hand, the incorporation into the EU legislation of time-of-use tariffs and, eventually, dynamic prices for EV charging are also aspects that would foster the roll out and scale up of electromobility
+                    <sup>
+                        <xref ref-type="other" rid="FN142">142</xref>
+                    </sup>. By offering price signals to users, it would be possible to shift the charging of EV to off-peak periods and optimise the use of the already available electricity without having to invest excessively in the expansion of the electricity production or distribution systems
+                    <sup>
+                        <xref ref-type="other" rid="FN143">143</xref>,
+                        <xref ref-type="other" rid="FN144">144</xref>
+                    </sup>.</p>
+            </sec>
+        </sec>
+        <sec id="S11" sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>In conclusion, the interoperability of the charging infrastructure for EV across the EU can only be guaranteed if all member states integrate the described minimum requirements (from the global and the specific layers) in their legal framework and all involved stakeholders across the EU comply with them. For this to happen in a uniform way (also in terms of timing), the establishment of these minimum requirements needs to be pursued at the highest levels of the EU decision making instances.</p>
+            <p>Thereafter, the interoperability requirements of the specific layers (technical and semantic) need to be included in the EU legal framework. Interoperability requires, for example, that the necessary data for a better use of EVs is generated and exchanged uniformly. To ensure a convenient use of EV (enabled by the complete interoperability of the charging infrastructure) the accessibility issues (e.g., of data, hard- and software) need to be addressed uniformly by all member states of the EU. If these requirements are not implemented, achieving interoperability of the EV charging infrastructure in the EU (apart from those countries that are included in European projects) is going to be a challenge. Additionally, and because of the continuous technological developments, regulation must have the right scope to allow innovations, e.g., new technology solutions but as well-set relevant standards. Within the legal layer, there are currently two main aspects that are hindering the interoperability of the charging infrastructure for EV across the EU. The first is that there are still some important gaps in the EU legislation on the charging infrastructure of EV. Thus, some aspects like the use of a specific or interoperable data sharing protocol, bi-directional charging, smart charging points or the cybersecurity of the charging pints, consumer devices or grid systems have not found their way into the EU&#x00b4;s legislation yet (some of the might when and if the AFIR is enacted). The second is that, even though some aspects have already been included in the EU legislation, they have not been adequately transposed into the national legal frameworks of some of the member states. This causes wide disparities between countries. In this sense, the AFIR proposal is a step forward to overcome the current obstacles hindering the achievement of interoperability since no transposition into the national legal systems will be necessary and it is directly applicable. However, the AFIR proposal falls short in relation to some aspects, e.g., regarding the missing obligations in relation to interoperable data sharing protocols.</p>
+        </sec>
+        <sec id="S12">
+            <title>5	Outlook</title>
+            <p>Alongside all before mentioned aspects, EV users need to be considered more widely. Their convenience when charging and their acceptance of new technologies and regulations is essential for the needed uptake of EV. If the regulations and technical solutions (like uniform payment system) are not accepted by the EV users, interoperability will merely exist on paper. The success of the massive uptake of EV, strictly depends on solutions that satisfy EV user&#x2019;s needs. The social aspects of the acceptance and uptake of electromobility are not mentioned in this paper but could be further analysed in a &#x201c;social layer&#x201d;. The following questions should be addressed there: &#x201c;For which users is the infrastructure in EU interoperable and who can and who can&#x2019;t use it?&#x201d;, &#x201c;what kind of barriers exist and what are the problems and reasons for overregulation or regulation gaps?&#x201d;, &#x201c;which and whose needs were integrated in the processes of developing a uniform charging infrastructure for EV?&#x201d;</p>
+            <p>The prospective experiences within the USER-CHI project evaluation processes will help to answer some questions about EV users&#x2019; acceptance and could be linked to interoperability aspects in additional research. This research will most likely help to improve the interoperability of the EV charging infrastructure across the EU.</p>
+        </sec>
+        <sec>
+            <title>Data availability</title>
+            <p>This study involves a literature review which was used to update and to complement the results of the existing D3.2 Interoperability Framework (INFRA) report of the user centric charging infrastructure (USER-CHI) project. The results of the D3.2 report have been published and are available on CORDIS: 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>.</p>
+        </sec>
+        <sec>
+            <title>Ethics and consent</title>
+            <p>Ethical approval and consent were not required.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>A special acknowledgement is made hereby to Felix Nowack, Julia Schmidt, Anne Freiberger and Fanny Knoll for their work in elaborating the Deliverable D.3.2 INFRA within the USER-CHI project on which this publication builds up.</p>
+        </ack>
+        <fn-group>
+            <fn id="FN1">
+                <p>
+
+                    <sup>1</sup>
+
+                    <italic toggle="yes">International Energy Agency (IEA) (2021)</italic>, Global EV Outlook 2021, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.iea.org/reports/global-ev-outlook-2021">https://www.iea.org/reports/global-ev-outlook-2021</ext-link> (last consulted: 01.12.2021).</p>
+            </fn>
+            <fn id="FN2">
+                <p>
+
+                    <sup>2</sup>
+
+                    <italic toggle="yes">International Energy Agency (IEA) (2021)</italic>, Global EV Outlook 2021, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.iea.org/reports/global-ev-outlook-2021">https://www.iea.org/reports/global-ev-outlook-2021</ext-link> (last consulted: 01.12.2021).</p>
+            </fn>
+            <fn id="FN3">
+                <p>
+
+                    <sup>3</sup> European Alternative Fuels Observatory (EAFO) (2022), Vehicles and fleets &#x2013; AF (Alternative Fuels) Market share of new registrations, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://alternative-fuels-observatory.ec.europa.eu/transport-mode/road/european-union-eu27/vehicles-and-fleet">https://alternative-fuels-observatory.ec.europa.eu/transport-mode/road/european-union-eu27/vehicles-and-fleet</ext-link> (last consulted 20.04.2022).</p>
+            </fn>
+            <fn id="FN4">
+                <p>
+
+                    <sup>4</sup>
+
+                    <italic toggle="yes">Wappelhorst, S./ Hall, D./ Nicholas, M./ Lutsey, N. (2020)</italic>, Analysing Policies to Grow the Electric Vehicle Market in European Cities, White Paper, International Council on Clean Transportation, 2020, p. 3 f, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://theicct.org/wp-content/uploads/2021/06/EV_city_policies_white_paper_fv_20200224.pdf">https://theicct.org/wp-content/uploads/2021/06/EV_city_policies_white_paper_fv_20200224.pdf</ext-link> (last consulted: 13.04.2022).</p>
+            </fn>
+            <fn id="FN5">
+                <p>
+
+                    <sup>5</sup> Innovative solutions for USER centric CHarging Infrastructure. Grant agreement No 875187.</p>
+            </fn>
+            <fn id="FN6">
+                <p>
+
+                    <sup>6</sup>
+
+                    <italic toggle="yes">Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021)</italic>, Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>. 
+                    <italic toggle="yes"/>
+            </p>
+            </fn>
+            <fn id="FN7">
+                <p>
+
+                    <sup>7</sup>
+
+                    <italic toggle="yes">Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                        <ext-link ext-link-type="uri"
+                            xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>.</italic>
+            </p>
+            </fn>
+            <fn id="FN8">
+                <p>
+
+                    <sup>8</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>.</p>
+            </fn>
+            <fn id="FN9">
+                <p>
+
+                    <sup>9</sup> The most relevant individual requirements of all specific layers, in Nowack 
+                    <italic toggle="yes">et al</italic> (2021), p. 15 ff.</p>
+            </fn>
+            <fn id="FN10">
+                <p>
+
+                    <sup>10</sup> Workshops held between December 14
+                    <sup>th</sup> - 18
+                    <sup>th</sup> 2020, in Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 16.</p>
+            </fn>
+            <fn id="FN11">
+                <p>
+
+                    <sup>11</sup> Workshops held between March 15
+                    <sup>th</sup> - 19
+                    <sup>th</sup> 2021, in Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 17.</p>
+            </fn>
+            <fn id="FN12">
+                <p>
+
+                    <sup>12</sup> The workshop data can be found in Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, Annex 5, p. 106 ff.</p>
+            </fn>
+            <fn id="FN13">
+                <p>
+
+                    <sup>13</sup> In this paper the mentioned role schemes, guidelines and recommendations of the INFRA deliverable are summarised as minimum requirements.</p>
+            </fn>
+            <fn id="FN14">
+                <p>
+
+                    <sup>14</sup>
+
+                    <italic toggle="yes">Naderifar, M./ Goli, H./Ghaljaei, F.</italic> (2017), Snowball Sampling: A Purposeful Method of Sampling in Qualitative Research, Strides in Development of Medical Education, September 2017, S. 1-4, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://sdme.kmu.ac.ir/article_90598_3632edfb2e97c38d73c0bdea8753195c.pdf">http://sdme.kmu.ac.ir/article_90598_3632edfb2e97c38d73c0bdea8753195c.pdf</ext-link> (last consulted: 13.04.2022).</p>
+            </fn>
+            <fn id="FN15">
+                <p>
+
+                    <sup>15</sup>
+
+                    <italic toggle="yes">Greenhalgh, T.; Peacock, R.</italic> (2005), Effectiveness and efficiency of search methods in systematic reviews of complex evidence: audit of primary sources, BMJ, November 2005, 1064-1065, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.bmj.com/content/bmj/331/7524/1064.full.pdf">https://www.bmj.com/content/bmj/331/7524/1064.full.pdf</ext-link> (last consulted: 13.04.2022)</p>
+            </fn>
+            <fn id="FN16">
+                <p>
+
+                    <sup>16</sup>
+
+                    <italic toggle="yes">Kohli, A.</italic> (2020), &#x201c;Snowballing&#x201d; in Systematic Literature Review, LinkedIn, July 2020, online available at:  
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.linkedin.com/pulse/snowballing-systematic-literature-review-amanpreet-kohli?articleId=6685292355240660992">https://www.linkedin.com/pulse/snowballing-systematic-literature-review-amanpreet-kohli?articleId=6685292355240660992</ext-link> (last consulted: 28.03.2022).</p>
+            </fn>
+            <fn id="FN17">
+                <p>
+
+                    <sup>17</sup> Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 'Fit For 55': Delivering the EU's 2030 Climate Target on the way to climate neutrality (COM/2021/550 final), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52021DC0550&amp;from=EN">https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52021DC0550&amp;from=EN</ext-link>.</p>
+            </fn>
+            <fn id="FN18">
+                <p>
+
+                    <sup>18</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 20 ff.</p>
+            </fn>
+            <fn id="FN19">
+                <p>
+
+                    <sup>19</sup> Further to the developed overall role scheme and the specific role schemes for each demonstration city in Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 20&#x2013;29.</p>
+            </fn>
+            <fn id="FN20">
+                <p>
+
+                    <sup>20</sup> The first two paragraphs are a summary of the INFRA deliverable, in Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 20 f.</p>
+            </fn>
+            <fn id="FN21">
+                <p>
+
+                    <sup>21</sup> The following paragraph shows the results of further desk research.</p>
+            </fn>
+            <fn id="FN22">
+                <p>
+
+                    <sup>22</sup>
+
+                    <italic toggle="yes">NeMo</italic> (2017), D1.1. Consolidated Version of the Use Cases and Actors&#x2019; Requirements, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://nemo-emobility.eu/wp-content/uploads/sites/10/2019/12/NeMo-D1.1-Use-Cases-and-Actors_Final.pdf">http://nemo-emobility.eu/wp-content/uploads/sites/10/2019/12/NeMo-D1.1-Use-Cases-and-Actors_Final.pdf</ext-link> (last consulted: 25.11.2021).</p>
+            </fn>
+            <fn id="FN23">
+                <p>
+
+                    <sup>23</sup>
+
+                    <italic toggle="yes">Fanti, M.P./ Pedroncelli, G./ Roccotelli, M./ Mininel, S./ Stecco, G./ Ukovich, W.</italic> (2018), Actors Interactions and Needs in the European Electromobility Network, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://arts.units.it/retrieve/handle/11368/2926616/231924/4461_11368_2926616_EUT.pdf">https://arts.units.it/retrieve/handle/11368/2926616/231924/4461_11368_2926616_EUT.pdf</ext-link> (last consulted: 25.11.2021).</p>
+            </fn>
+            <fn id="FN24">
+                <p>
+
+                    <sup>24</sup>
+
+                    <italic toggle="yes">Fanti, M.P./ Pedroncelli, G./ Roccotelli, M./ Mininel, S./ Stecco, G./ Ukovich, W.</italic> (2018), Actors Interactions and Needs in the European Electromobility Network, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://arts.units.it/retrieve/handle/11368/2926616/231924/4461_11368_2926616_EUT.pdf">https://arts.units.it/retrieve/handle/11368/2926616/231924/4461_11368_2926616_EUT.pdf</ext-link> (last consulted: 25.11.2021).</p>
+            </fn>
+            <fn id="FN25">
+                <p>
+
+                    <sup>25</sup>
+
+                    <italic toggle="yes">Sadeghian, S/ Th&#x00e9;bert, M./ Leurent, F./ Sajous, P.</italic> (2012), Actors&#x2018; positions and inclinations towards the electromobility system in France, p. 522, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/publication/257716395_Actors%27_Positions_and_Inclinations_Toward_Electromobility_System_in_France">https://www.researchgate.net/publication/257716395_Actors%27_Positions_and_Inclinations_Toward_Electromobility_System_in_France</ext-link> (last consulted: 25.11.2021).</p>
+            </fn>
+            <fn id="FN26">
+                <p>
+
+                    <sup>26</sup>The European Association for Electromobility, online available at: 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.avere.org/">https://www.avere.org/</ext-link>.</p>
+            </fn>
+            <fn id="FN27">
+                <p>
+
+                    <sup>27</sup>Electric Mobility Europe, online available at: 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.electricmobilityeurope.eu/">https://www.electricmobilityeurope.eu/</ext-link>. </p>
+            </fn>
+            <fn id="FN28">
+                <p>
+
+                    <sup>28</sup>European e-mobility Expertise Center, online available at: 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.eemec.eu/">https://www.eemec.eu/</ext-link>.</p>
+            </fn>
+            <fn id="FN29">
+                <p>
+
+                    <sup>29</sup>International Energy Agency, online available at: 
+                    <ext-link ext-link-type="uri" xlink:href="https://www.iea.org/">https://www.iea.org/</ext-link>.</p>
+            </fn>
+            <fn id="FN30">
+                <p>
+
+                    <sup>30</sup> European Alternative Fuels Observatory, online available at: 
+                    <ext-link ext-link-type="uri" xlink:href="https://eafo.eu/">https://eafo.eu/</ext-link>.</p>
+            </fn>
+            <fn id="FN31">
+                <p>
+
+                    <sup>31</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link> , p. 37-41.</p>
+            </fn>
+            <fn id="FN32">
+                <p>
+
+                    <sup>32</sup> This paragraph summarises information of the INFRA deliverable; Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 48 f.</p>
+            </fn>
+            <fn id="FN33">
+                <p>
+
+                    <sup>33</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 39 f.</p>
+            </fn>
+            <fn id="FN34">
+                <p>
+
+                    <sup>34</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 29 f.</p>
+            </fn>
+            <fn id="FN35">
+                <p>
+
+                    <sup>35</sup> Directive 2014/94/EU of the European Parliament and of the Council of 22 October 2014 on the deployment of alternative fuels infrastructure. Online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0094&amp;from=en">https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0094&amp;from=en</ext-link>.  </p>
+            </fn>
+            <fn id="FN36">
+                <p>
+
+                    <sup>36</sup> The first three paragraphs of the technical layer are based on the input of the INFRA deliverable. The link to the Alternative Fuels Infrastructure Directive (AFID) is the author&#x2019;s own adding.</p>
+            </fn>
+            <fn id="FN37">
+                <p>
+
+                    <sup>37</sup> Light electric vehicles, like e-bikes or e-scooters.</p>
+            </fn>
+            <fn id="FN38">
+                <p>
+
+                    <sup>38</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 40 f.</p>
+            </fn>
+            <fn id="FN39">
+                <p>
+
+                    <sup>39</sup>
+
+                    <italic toggle="yes">Singh, K./ Mishra, A./ Singh, B./ Sahay, K.</italic> (2021), Solar powered battery charging scheme for light electric vehicles (LEVs), International Journal of Emerging Electric Power Systems 2021, p. 101-111, 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1515/ijeeps-2020-0200">https://doi.org/10.1515/ijeeps-2020-0200</ext-link>.</p>
+            </fn>
+            <fn id="FN40">
+                <p>
+
+                    <sup>40</sup>
+
+                    <italic toggle="yes">Sharma, U./ Singh, B</italic>. (2021), Seamless Integration of An Onboard Charger in a Smart Home, 2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON) 2021, p. 1-6. , doi: 10.1109/GUCON50781.2021.9573859.</p>
+            </fn>
+            <fn id="FN41">
+                <p>
+
+                    <sup>41</sup>
+
+                    <italic toggle="yes">&#x201c;SEVs according to EU regulation No. 168/2013 as well as electric cargo bikes. Cargo bikes can be two-, three- or four-wheeled with and without insurance tags&#x201c;,</italic> in 
+                    <italic toggle="yes">Eisenmann, C. / Gruber, J./ Brost, M./ Ewert, A./ Stieler, S./ Gicklhorn, K. in: Ewert A./ Schmid S./ Brost M./ Davies H./ Vinckx L</italic>., Small Electric Vehicles, 2021, p. 128.</p>
+            </fn>
+            <fn id="FN42">
+                <p>
+
+                    <sup>42</sup> This paragraph and the following paragraphs of the technical layer reflect the authors input resulting from the desk research.</p>
+            </fn>
+            <fn id="FN43">
+                <p>
+
+                    <sup>43</sup>
+
+                    <italic toggle="yes">Inter alia Panchal, C/; Stegen, S./ Lu, J.</italic> (2018), Review of static and dynamic wireless electric vehicle charging system, Engineering Science and Technology, an International Journal, 2018, p. 922-937, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://reader.elsevier.com/reader/sd/pii/S221509861830154X?token=DBE7E99C6D012B0D520F0051374960BA828EC954AC108FB0D03A672C4E39F5DA176E359815B3BA0D7B94B229D4940C2E&amp;originRegion=eu-west-1&amp;originCreation=20220413121037">https://reader.elsevier.com/reader/sd/pii/S221509861830154X?token=DBE7E99C6D012B0D520F0051374960BA828EC954AC108FB0D03A672C4E39F5DA176E359815B3BA0D7B94B229D4940C2E&amp;originRegion=eu-west-1&amp;originCreation=20220413121037</ext-link> (last consulted: 13.04.2022), 
+                    <italic toggle="yes">Fett, D./ Ensslen, A./ Jochem, P./ Fichtner, W.</italic> (2018), A Survey on User Acceptance of Wireless Electric Vehicle Charging, World Electric Vehicle Journal 9, 36, August 2018, p. 1-12, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://mdpi-res.com/d_attachment/wevj/wevj-09-00036/article_deploy/wevj-09-00036-v2.pdf">https://mdpi-res.com/d_attachment/wevj/wevj-09-00036/article_deploy/wevj-09-00036-v2.pdf</ext-link> (last consulted: 13.04.2022). On this matter also 
+                    <italic toggle="yes">Shi, B./ Yang, F./ Wei, B./ Ouyang, M.</italic> (2021), Electrical Interoperability Evaluating of Wireless Electric Vehicle Charging Systems Based on Impedance Space, World Electric Vehicle Journal, 12, 245, November 2021, p. 1-14, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://mdpi-res.com/d_attachment/wevj/wevj-12-00245/article_deploy/wevj-12-00245.pdf">https://mdpi-res.com/d_attachment/wevj/wevj-12-00245/article_deploy/wevj-12-00245.pdf</ext-link> (last consulted: 13.04.2022).</p>
+            </fn>
+            <fn id="FN44">
+                <p>
+
+                    <sup>44</sup>
+
+                    <italic toggle="yes">Vidhya, K./ Sharmeela, C./ Balaji, S./ Elango, S./ Sanjeevikumar, P./ Bhaskar, M.S.</italic> (2021), Techno-Economic Aspects of the Wireless EV Charging System, IECON 2021 &#x2013; 47th Annual Conference of the IEEE Industrial Electronics Society 2021, p. 1-6.</p>
+            </fn>
+            <fn id="FN45">
+                <p>
+
+                    <sup>45</sup>
+
+                    <italic toggle="yes">Gadge, C./ Khule, Dr. S. S.</italic> (2021), E-Vehicle Charging Infrastructure Based on Inductive Wireless Power Transfer Scheme, International Journal of Research in Electronics and Computer Engineering, Vol. 9, Jan-March 2021, p. 74-77.</p>
+            </fn>
+            <fn id="FN46">
+                <p>
+
+                    <sup>46</sup>
+
+                    <italic toggle="yes">Pompigna, A./ Mauro, R.</italic> (2021), Smart roads: A state of the art of highways innovations in the Smart Age, Engineering Science and Technology, an international Journal, 25, 2022, p. 1-15, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://reader.elsevier.com/reader/sd/pii/S2215098621000872?token=31CD6784C811F33C48E5244938B9D146599456A693CE5E76A7A2699ACEF93F84E4579A96D07277DBFFE796B79474D3C0&amp;originRegion=eu-west-1&amp;originCreation=20220413120616">https://reader.elsevier.com/reader/sd/pii/S2215098621000872?token=31CD6784C811F33C48E5244938B9D146599456A693CE5E76A7A2699ACEF93F84E4579A96D07277DBFFE796B79474D3C0&amp;originRegion=eu-west-1&amp;originCreation=20220413120616</ext-link> (last consulted: 13.04.2022).</p>
+            </fn>
+            <fn id="FN47">
+                <p>
+
+                    <sup>47</sup> Inter alia 
+                    <italic toggle="yes">Calearo, L./ Ziras, H./ Sevdari, K./ Marinelli, M.</italic> (2021), Comparison of Smart Charging and Battery Energy Storage System for a PV Prosumer with an EV, 2021 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe) 2021, p. 1-6. Also on this matter 
+                    <italic toggle="yes">Shahzad, U.</italic> (2022), Smart Grid and Electric Vehicle: Overview and Case Study, Journal of Electrical Engineering, Electronic, Control and Computer Science &#x2013; JEEECCCS, Vol. 8, 2022, p. 1-6, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/profile/Umair-Shahzad/publication/353667007_Smart_Grid_and_Electric_Vehicle_Overview_and_Case_Study/links/610968080c2bfa282a201746/Smart-Grid-and-Electric-Vehicle-Overview-and-Case-Study.pdf?origin=publication_detail">https://www.researchgate.net/profile/Umair-Shahzad/publication/353667007_Smart_Grid_and_Electric_Vehicle_Overview_and_Case_Study/links/610968080c2bfa282a201746/Smart-Grid-and-Electric-Vehicle-Overview-and-Case-Study.pdf?origin=publication_detail</ext-link> (last consulted 13.04.2022).</p>
+            </fn>
+            <fn id="FN48">
+                <p>
+
+                    <sup>48</sup> See section 4.3.2 
+                    <italic toggle="yes">Legal Layer</italic>.</p>
+            </fn>
+            <fn id="FN49">
+                <p>
+
+                    <sup>49</sup>
+
+                    <italic toggle="yes">Gadgune, S. Y./ Hewalekar, S. N.</italic> (2020), Progression of Smart Metering Infrastructure for Electric Vehicle Charging Station, 2020 Third International Conference on Smart Systems and Inventive Technology (ICSSIT) 2020, p. 370-375.</p>
+            </fn>
+            <fn id="FN50">
+                <p>
+
+                    <sup>50</sup>
+
+                    <italic toggle="yes">Cavalieri, S.</italic> (2021), Semantic Interoperability between IEC 61850 and oneM2M for IoT-Enabled Smart Grids, Sensors 2021, 21, 2571, p. 1-28, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038825/pdf/sensors-21-02571.pdf">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038825/pdf/sensors-21-02571.pdf</ext-link> (last consulted: 25.11.2021).</p>
+            </fn>
+            <fn id="FN51">
+                <p>
+
+                    <sup>51</sup> Nowack 
+                    <italic toggle="yes">Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                        <ext-link ext-link-type="uri"
+                            xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>
+                    </italic>, p. 29-37.</p>
+            </fn>
+            <fn id="FN52">
+                <p>
+
+                    <sup>52</sup> Standardized through IEC 63119.</p>
+            </fn>
+            <fn id="FN53">
+                <p>
+
+                    <sup>53</sup> Standardized through IEC 63110.</p>
+            </fn>
+            <fn id="FN54">
+                <p>
+
+                    <sup>54</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 29 f.</p>
+            </fn>
+            <fn id="FN55">
+                <p>
+
+                    <sup>55</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 30 f.</p>
+            </fn>
+            <fn id="FN56">
+                <p>
+
+                    <sup>56</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 31 f.</p>
+            </fn>
+            <fn id="FN57">
+                <p>
+
+                    <sup>57</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>) , p. 33.</p>
+            </fn>
+            <fn id="FN58">
+                <p>
+
+                    <sup>58</sup> The two first paragraphs summarise the results of the INFRA deliverable.</p>
+            </fn>
+            <fn id="FN59">
+                <p>
+
+                    <sup>59</sup> Further on blockchain in the section 4.3.2 
+                    <italic toggle="yes">Legal layer</italic>.</p>
+            </fn>
+            <fn id="FN60">
+                <p>
+
+                    <sup>60</sup> Lades&#x00e4;ulenverordnung vom 9. M&#x00e4;rz 2016 (BGBl. I S. 457), die zuletzt durch Artikel 2 der Verordnung vom 2. November 2021 (BGBl. I S. 4788) ge&#x00e4;ndert worden ist.</p>
+            </fn>
+            <fn id="FN61">
+                <p>
+
+                    <sup>61</sup>
+
+                    <italic toggle="yes">R&#x00f6;ckle, F./ Schulz,T</italic>. (2021), Leveraging User Preferences to Develop Profitable Business Models for Electric Vehicle Charging, World Electric Vehicle Journal 2021, 12, 60, p. 1-16, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://mdpi-res.com/d_attachment/wevj/wevj-12-00060/article_deploy/wevj-12-00060.pdf">https://mdpi-res.com/d_attachment/wevj/wevj-12-00060/article_deploy/wevj-12-00060.pdf</ext-link> (last consulted: 13.04.2022).</p>
+            </fn>
+            <fn id="FN62">
+                <p>
+
+                    <sup>62</sup>
+
+                    <italic toggle="yes">Initiative deutscher Zahlungssysteme (IDZ)</italic> (2021), Survey on e-mobility among consumers - Card payment needs to be possible at charging stations throughout Europe, from 30.11.2021, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.presseportal.de/en/pm/127450/5086776">https://www.presseportal.de/en/pm/127450/5086776</ext-link> (last consulted: 01.12.2021).</p>
+            </fn>
+            <fn id="FN63">
+                <p>
+
+                    <sup>63</sup> This paragraph reflects the results of further desk research.</p>
+            </fn>
+            <fn id="FN64">
+                <p>
+
+                    <sup>64</sup> See also Alternative Fuels Infrastructure Directive (AFID) in section 4.2.3. 
+                    <italic toggle="yes">Legal layer</italic>.</p>
+            </fn>
+            <fn id="FN65">
+                <p>
+
+                    <sup>65</sup> European Commission, Proposal for a Regulation of the European Parliament and of the Council on the deployment of alternative fuels infrastructure and repealing Directive 2014/94/EU of the European Parliament and of the Council (COM/2021/559 final), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0559">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0559</ext-link> (last consulted: 02.12.2021).</p>
+            </fn>
+            <fn id="FN66">
+                <p>
+
+                    <sup>66</sup>
+
+                    <italic toggle="yes">Initiative deutscher Zahlungssysteme (IDZ)</italic> (2021), Survey on e-mobility among consumers - Card payment needs to be possible at charging stations throughout Europe, from 30.11.2021, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.presseportal.de/en/pm/127450/5086776">https://www.presseportal.de/en/pm/127450/5086776</ext-link> (last consulted: 01.12.2021).</p>
+            </fn>
+            <fn id="FN67">
+                <p>
+
+                    <sup>67</sup>
+
+                    <italic toggle="yes">Transport &amp; Environment</italic> (2021), AFIR: providing infrastructure to make transport fit for 55, Briefing, November 2021, p. 2, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.transportenvironment.org/wp-content/uploads/2021/11/20211004_AFIR_Briefing.pdf">https://www.transportenvironment.org/wp-content/uploads/2021/11/20211004_AFIR_Briefing.pdf</ext-link> (last consulted: 01.12.2021).</p>
+            </fn>
+            <fn id="FN68">
+                <p>
+
+                    <sup>68</sup>
+
+                    <italic toggle="yes">The European Automobile Manufacturers&#x2019; Association</italic> (ACEA) (2021), ACEA Position Paper - Proposal for the Alternative Fuels Infrastructure Regulation (AFIR), November 2021, p. 14, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.acea.auto/files/ACEA_Position_Paper-Alternative_Fuels_Infrastructure_Regulation.pdf">https://www.acea.auto/files/ACEA_Position_Paper-Alternative_Fuels_Infrastructure_Regulation.pdf</ext-link> (last consulted: 02.12.2021).</p>
+            </fn>
+            <fn id="FN69">
+                <p>
+
+                    <sup>69</sup> This paragraph reflects the results of further desk research.</p>
+            </fn>
+            <fn id="FN70">
+                <p>
+
+                    <sup>70</sup> This paragraph summarises the results of the INFRA deliverable.</p>
+            </fn>
+            <fn id="FN71">
+                <p>
+
+                    <sup>71</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link> , p. 33 f.</p>
+            </fn>
+            <fn id="FN72">
+                <p>
+
+                    <sup>72</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link> , p. 33 f.</p>
+            </fn>
+            <fn id="FN73">
+                <p>
+
+                    <sup>73</sup> Specially for operators of parking facilities (especially off-street), in Nowack 
+                    <italic toggle="yes">et al</italic> (2021), p. 34f.</p>
+            </fn>
+            <fn id="FN74">
+                <p>
+
+                    <sup>74</sup> The Alliance for Parking Data Standards (APDS) is an international organisation aiming at establishing a global standard for data elements related to providing various parking services.</p>
+            </fn>
+            <fn id="FN75">
+                <p>
+
+                    <sup>75</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link> , p. 36 f.</p>
+            </fn>
+            <fn id="FN76">
+                <p>
+
+                    <sup>76</sup> The information contained in the following two paragraphs reflects the results from the authors own desk research.</p>
+            </fn>
+            <fn id="FN77">
+                <p>
+
+                    <sup>77</sup> DEKRA (2021), The importance of cybersecurity in electric vehicle charging stations, June 2021, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.dekra-product-safety.com/en/importance-cybersecurity-electric-vehicle-charging-stations">https://www.dekra-product-safety.com/en/importance-cybersecurity-electric-vehicle-charging-stations</ext-link>.</p>
+            </fn>
+            <fn id="FN78">
+                <p>
+
+                    <sup>78</sup> DEKRA (2021), The importance of cybersecurity in electric vehicle charging stations, June 2021, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.dekra-product-safety.com/en/importance-cybersecurity-electric-vehicle-charging-stations">https://www.dekra-product-safety.com/en/importance-cybersecurity-electric-vehicle-charging-stations</ext-link>.</p>
+            </fn>
+            <fn id="FN79">
+                <p>
+
+                    <sup>79</sup> European Commission, Data protection in the EU, online available at 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en">https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en</ext-link>.</p>
+            </fn>
+            <fn id="FN80">
+                <p>
+
+                    <sup>80</sup> For more information on the data protection requirements see section 4.3.2 
+                    <italic toggle="yes">Legal layer</italic>.</p>
+            </fn>
+            <fn id="FN81">
+                <p>
+
+                    <sup>81</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 41f.</p>
+            </fn>
+            <fn id="FN82">
+                <p>
+
+                    <sup>82</sup> This paragraph is a result from the INFRA deliverable.</p>
+            </fn>
+            <fn id="FN83">
+                <p>
+
+                    <sup>83</sup> The result of a not harmonized transposition of the Alternative Fuels Infrastructure Directive (AFID) is a result of the desk research.</p>
+            </fn>
+            <fn id="FN84">
+                <p>
+
+                    <sup>84</sup> European Commission, Proposal for a Regulation of the European Parliament and of the Council on the deployment of alternative fuels infrastructure and repealing Directive 2014/94/EU of the European Parliament and of the Council (COM/2021/559 final).</p>
+            </fn>
+            <fn id="FN85">
+                <p>
+
+                    <sup>85</sup> This paragraph reflects the results of the authors desk research.</p>
+            </fn>
+            <fn id="FN86">
+                <p>
+
+                    <sup>86</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 42 f.</p>
+            </fn>
+            <fn id="FN87">
+                <p>
+
+                    <sup>87</sup> The rest of the paragraph is the authors own input on the subject.</p>
+            </fn>
+            <fn id="FN88">
+                <p>
+
+                    <sup>88</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 43 f.</p>
+            </fn>
+            <fn id="FN89">
+                <p>
+
+                    <sup>89</sup> Based on the input of the INFRA deliverable, Nowack 
+                    <italic toggle="yes">et al</italic> (2021), p. 44 f.</p>
+            </fn>
+            <fn id="FN90">
+                <p>
+
+                    <sup>90</sup> Endolla Barcelona, Terms and conditions of use, Seventh condition, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.endolla.barcelona/es/condiciones-de-uso">https://www.endolla.barcelona/es/condiciones-de-uso</ext-link> (last consulted: 01.12.2021).</p>
+            </fn>
+            <fn id="FN91">
+                <p>
+
+                    <sup>91</sup> MEISTER is also a Horizon 2020 research and innovation project (grant agreement No 769052). It aims at changing the paradigm in the electromobility market by providing to interoperable platforms and services for easy, convenient, and barrier-free access to charging, billing, and smart grid service, online available at: 
+                    <ext-link ext-link-type="uri" xlink:href="https://meisterproject.eu/">https://meisterproject.eu/</ext-link> (last consulted: 13.04.2022).</p>
+            </fn>
+            <fn id="FN92">
+                <p>
+
+                    <sup>92</sup> Smart P&amp;C pilot, MEISTER, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://meisterproject.eu/berlin-begins-piloting-smart-park-charge/">https://meisterproject.eu/berlin-begins-piloting-smart-park-charge/</ext-link> (last consulted: 13.04.2022).</p>
+            </fn>
+            <fn id="FN93">
+                <p>
+
+                    <sup>93</sup> See section 3.2.2.</p>
+            </fn>
+            <fn id="FN94">
+                <p>
+
+                    <sup>94</sup> The rest of the paragraph reflects the results of the authors desk research.</p>
+            </fn>
+            <fn id="FN95">
+                <p>
+
+                    <sup>95</sup> The paragraph is the result of the authors own desk research.</p>
+            </fn>
+            <fn id="FN96">
+                <p>
+
+                    <sup>96</sup> Art. 2 Nr. 40 Alternative Fuels Infrastructure Regulation (AFIR) proposal.</p>
+            </fn>
+            <fn id="FN97">
+                <p>
+
+                    <sup>97</sup> Art. 5 Nr. 2 Alternative Fuels Infrastructure Regulation (AFIR) proposal.</p>
+            </fn>
+            <fn id="FN98">
+                <p>
+
+                    <sup>98</sup> This date will be determined when the Alternative Fuels Infrastructure Regulation (AFIR) proposal is officially enacted.</p>
+            </fn>
+            <fn id="FN99">
+                <p>
+
+                    <sup>99</sup> The fifth requirement based on the INFRA deliverable. All further information on Measuring Instruments Directive  (MID) and Alternative Fuels Infrastructure Regulation (AFIR) proposal in this paragraph and the following paragraph is a result of the authors own desk research.</p>
+            </fn>
+            <fn id="FN100">
+                <p>
+
+                    <sup>100</sup> Directive 2014/32/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of measuring instruments (recast).</p>
+            </fn>
+            <fn id="FN101">
+                <p>
+
+                    <sup>101</sup> Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC.</p>
+            </fn>
+            <fn id="FN102">
+                <p>
+
+                    <sup>102</sup> Alternative Fuels Infrastructure Regulation (AFIR) proposal, Preamble (19).</p>
+            </fn>
+            <fn id="FN103">
+                <p>
+
+                    <sup>103</sup> Alternative Fuels Infrastructure Regulation (AFIR)  proposal, Preamble (20).</p>
+            </fn>
+            <fn id="FN104">
+                <p>
+
+                    <sup>104</sup> Alternative Fuels Infrastructure Regulation (AFIR) proposal, Preamble (20).</p>
+            </fn>
+            <fn id="FN105">
+                <p>
+
+                    <sup>105</sup> Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU.</p>
+            </fn>
+            <fn id="FN106">
+                <p>
+
+                    <sup>106</sup>
+
+                    <italic toggle="yes">Eyres, R.</italic> (2021), Smart charging: now is the time to plan, September 2021, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.engineerlive.com/content/smart-charging-now-time-plan">https://www.engineerlive.com/content/smart-charging-now-time-plan</ext-link> (last consulted on 13.04.2021).</p>
+            </fn>
+            <fn id="FN107">
+                <p>
+
+                    <sup>107</sup> This paragraph reflects the results of the desk research.</p>
+            </fn>
+            <fn id="FN108">
+                <p>
+
+                    <sup>108</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 46 f.</p>
+            </fn>
+            <fn id="FN109">
+                <p>
+
+                    <sup>109</sup> Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.</p>
+            </fn>
+            <fn id="FN110">
+                <p>
+
+                    <sup>110</sup> This statement is a result of the INFRA deliverable. The following phrases of this paragraph are results of the desk research.</p>
+            </fn>
+            <fn id="FN111">
+                <p>
+
+                    <sup>111</sup> Bundesdatenschutzgesetz vom 30. Juni 2017 (BGBl. I S. 2097), das durch Artikel 10 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) ge&#x00e4;ndert worden ist.</p>
+            </fn>
+            <fn id="FN112">
+                <p>
+
+                    <sup>112</sup> Ley Org&#x00e1;nica 3/2018, de 5 de diciembre, de Protecci&#x00f3;n de Datos Personales y garant&#x00ed;a de los derechos digitales.</p>
+            </fn>
+            <fn id="FN113">
+                <p>
+
+                    <sup>113</sup> Open Charge Alliance, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.openchargealliance.org/about-us/ocpp-and-gdpr/">https://www.openchargealliance.org/about-us/ocpp-and-gdpr/</ext-link> (last consulted: 13.04.2022).</p>
+            </fn>
+            <fn id="FN114">
+                <p>
+
+                    <sup>114</sup> Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 47 f.</p>
+            </fn>
+            <fn id="FN115">
+                <p>
+
+                    <sup>115</sup> For example, reservation, authentication, accounting, and billing, in Nowack 
+                    <italic toggle="yes">et al</italic> (2021), p. 46.</p>
+            </fn>
+            <fn id="FN116">
+                <p>
+
+                    <sup>116</sup> Based on the input of the INFRA deliverable.</p>
+            </fn>
+            <fn id="FN117">
+                <p>
+
+                    <sup>117</sup> Alternative Fuels Infrastructure Regulation (AFIR)   proposal, Preamble (19).</p>
+            </fn>
+            <fn id="FN118">
+                <p>
+
+                    <sup>118</sup> Alternative Fuels Infrastructure Regulation (AFIR)   proposal, Preamble (19).</p>
+            </fn>
+            <fn id="FN119">
+                <p>
+
+                    <sup>119</sup> This paragraph and the next one about the Alternative Fuels Infrastructure Regulation (AFIR) are the result of the authors desk research.</p>
+            </fn>
+            <fn id="FN120">
+                <p>
+
+                    <sup>120</sup> Anisie, A./ Boshell, F./ Sesma, J. (2019), International Renewable Energy Agency (IRENA), Innovation landscape brief: Electric-vehicle smart charging, p. 16, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://irena.org/-/media/Files/IRENA/Agency/Publication/2019/Sep/IRENA_EV_smart_charging_2019.pdf?la=en&amp;hash=E77FAB7422226D29931E8469698C709EFC13EDB2">https://irena.org/-/media/Files/IRENA/Agency/Publication/2019/Sep/IRENA_EV_smart_charging_2019.pdf?la=en&amp;hash=E77FAB7422226D29931E8469698C709EFC13EDB2</ext-link>  (last consulted on 13.04.2021).</p>
+            </fn>
+            <fn id="FN121">
+                <p>
+
+                    <sup>121</sup> &#x201c;e-roaming &#x201c;refers to &#x201c;
+                    <italic toggle="yes">the exchange of data and payments between the operator of a recharging or refuelling point and a mobility service provider from which an end user purchases a recharging service</italic>&#x201c;, Art. 2 Nr. 21 Alternative Fuels Infrastructure Regulation (AFIR)  proposal.</p>
+            </fn>
+            <fn id="FN122">
+                <p>
+
+                    <sup>122</sup> &#x201c;e-roaming platform&#x201d; refers to &#x201c;
+                    <italic toggle="yes">a platform connecting market actors, notably mobility service providers and operators of recharging or refuelling points, to enable services between them, including e-roaming</italic>&#x201d;, Art.2 Nr.22 Alternative Fuels Infrastructure Regulation (AFIR)  proposal.</p>
+            </fn>
+            <fn id="FN123">
+                <p>
+
+                    <sup>123</sup> The idea of the seventh minimum requirement is based on the input of the INFRA deliverable, Nowack 
+                    <italic toggle="yes">et al</italic> (2021), p. 48 f. The further development of this idea is input of the authors.</p>
+            </fn>
+            <fn id="FN124">
+                <p>
+
+                    <sup>124</sup> International Organization for Standardization, ISO 15118-1:2019, Road vehicles &#x2014; Vehicle to grid communication interface, preview available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.iso.org/obp/ui/#iso:std:iso:15118:-1:ed-2:v1:en">https://www.iso.org/obp/ui/#iso:std:iso:15118:-1:ed-2:v1:en</ext-link> (last consulted: 13.04.2022) .</p>
+            </fn>
+            <fn id="FN125">
+                <p>
+
+                    <sup>125</sup>International Electrotechnical Commission, IEC 60870-5-104, Transmission Protocols, preview online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://webstore.iec.ch/preview/info_iec60870-5-104%7Bed2.0%7Den_d.pdf">https://webstore.iec.ch/preview/info_iec60870-5-104%7Bed2.0%7Den_d.pdf</ext-link> (last consulted: 13.04.2022).</p>
+            </fn>
+            <fn id="FN126">
+                <p>
+
+                    <sup>126</sup> Input from the INFRA deliverable, Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 49 f.</p>
+            </fn>
+            <fn id="FN127">
+                <p>
+
+                    <sup>127</sup> &#x201c;bi-directional recharging&#x201d; refers to &#x201c;
+                    <italic toggle="yes">smart recharging operation where the direction of the electricity flow may be reversed, allowing that electricity flows from the battery to the recharging point it is connected to</italic>&#x201d;, Art. 2 Nr. 9 AFIR proposal.</p>
+            </fn>
+            <fn id="FN128">
+                <p>
+
+                    <sup>128</sup> This paragraph and the following constitute the authors own input.</p>
+            </fn>
+            <fn id="FN129">
+                <p>
+
+                    <sup>129</sup>
+
+                    <italic toggle="yes">Lawrence, C.</italic> (2021), What's holding back electric vehicle charging security?, Power&amp;Beyond, April 2021, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.power-and-beyond.com/whats-holding-back-electric-vehicle-charging-security-a-1019375/">https://www.power-and-beyond.com/whats-holding-back-electric-vehicle-charging-security-a-1019375/</ext-link> (last consulted: 15.12.2021).</p>
+            </fn>
+            <fn id="FN130">
+                <p>
+
+                    <sup>130</sup> See section 4.1.</p>
+            </fn>
+            <fn id="FN131">
+                <p>
+
+                    <sup>131</sup>
+
+                    <italic toggle="yes">Metere, R./ Neaimeh, M./  Morisset, C./ Czekste, R.M./ Bellekens, X./ Maple, C.</italic> (2021), Securing the Electric Vehicle Charging Infrastructure, State-of-the-art review and recommendations with a focus on smart charging and vehicle-to-grid, 2021, p. 1-39, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/profile/Ricardo-Czekster/publication/351448785_Securing_the_Electric_Vehicle_Charging_Infrastructure/links/609b9a4692851c9eaadd1949/Securing-the-Electric-Vehicle-Charging-Infrastructure.pdf?origin=publication_detail">https://www.researchgate.net/profile/Ricardo-Czekster/publication/351448785_Securing_the_Electric_Vehicle_Charging_Infrastructure/links/609b9a4692851c9eaadd1949/Securing-the-Electric-Vehicle-Charging-Infrastructure.pdf?origin=publication_detail</ext-link> (last consulted: 13.04.2022).</p>
+            </fn>
+            <fn id="FN132">
+                <p>
+
+                    <sup>132</sup> A &#x201c;smart contract&#x201d; describes a software that is programmed to, under specific conditions (measurable and/or documentable), control, keep record of or even generate legally relevant contractual relations, in 
+                    <italic toggle="yes">Schrey, J./ Thalhofer, T.</italic> (2017), Rechtliche Aspekte der Blockchain, NJW 2017, p. 1431-1436. The contract information is defined in the programme code under the principle &#x201c;code is law&#x201d;, in 
+                    <italic toggle="yes">Schiller, K.</italic> (2018), Was sind Smart Contracts? Definition und Erkl&#x00e4;rung, November 2018, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://blockchainwelt.de/smart-contracts-vertrag-blockchain/">https://blockchainwelt.de/smart-contracts-vertrag-blockchain/</ext-link> (last consulted: 10.11.2021). The contractual obligations and the consequences of breaches of duty are programmed as "if-then rules": if a condition specified in the contract is fulfilled, this automatically leads to the previously determined consequence, 
+                    <italic toggle="yes">Kipker, D./ Birreck, P./ Niew&#x00f6;hner, M./ Schnorr, T.</italic> (2020), Rechtliche und technische Rahmenbedingungen des &#x201e;Smart contracts&#x201c;, MMR - Zeitschrift f&#x00fc;r IT-Recht und Digitalisierung 2020, p. 509-513, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nutrisafe.de/wp-content/uploads/2020/10/3-Rechtliche-und-technische-Rahmenbedingungen-der-%E2%80%9ESmart-Contracts%E2%80%9C.pdf">https://www.nutrisafe.de/wp-content/uploads/2020/10/3-Rechtliche-und-technische-Rahmenbedingungen-der-%E2%80%9ESmart-Contracts%E2%80%9C.pdf</ext-link> (last consulted: 10.11.2021). Only if both parties comply (&#x201c;pre-check&#x201d;), then the contract is automatically concluded, in Nowack 
+                    <italic toggle="yes">et al</italic> (2021), p. 51. Smart contracts could increase the efficiency and security of digital transactions, in Kipker 
+                    <italic toggle="yes">et al</italic> (2020), p. 513.</p>
+            </fn>
+            <fn id="FN133">
+                <p>
+
+                    <sup>133</sup> Blockchain is a distributed database; it is a specific way of storing transaction or payment data. The data is written in a "block ", as soon as its capacity is reached, the data are written in the next block and so on. This block in turn refers to the previous one, so that a chain of blocks is created, the "blockchain", in Schrey 
+                    <italic toggle="yes">et al</italic> (2017), p. 1431.</p>
+            </fn>
+            <fn id="FN134">
+                <p>
+
+                    <sup>134</sup>
+
+                    <italic toggle="yes">Schrey, J./ Thalhofer, T.</italic> (2017), Rechtliche Aspekte der Blockchain, NJW 2017, p. 1431-1436. p. 1431.</p>
+            </fn>
+            <fn id="FN135">
+                <p>
+
+                    <sup>135</sup> The advantages of &#x201c;smart contracts&#x201d; are that (1) they are executed automatically, when the required event occurs, (2) contract partners get real time information, and (3) they are very secure against forgery, as no central database can be attacked or manipulated, in 
+                    <italic toggle="yes">Schiller, K.</italic> (2018).</p>
+            </fn>
+            <fn id="FN136">
+                <p>
+
+                    <sup>136</sup> The whole paragraph is based on input from the INFRA deliverable, in Nowack, F./ Schmidt, J./ Freiberger, A./ Knoll, F. (2021), Interoperability Framework Implementation (INFRA). Deliverable (D3.2) of USER-CHI project (European Union's Horizon 2020 research and innovation programme under grant agreement No 875187), online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://cordis.europa.eu/project/id/875187/results">https://cordis.europa.eu/project/id/875187/results</ext-link>, p. 50 ff.</p>
+            </fn>
+            <fn id="FN137">
+                <p>
+
+                    <sup>137</sup> The idea of smart (legal) contracts is a result of the INFRA deliverable. The input about the right to rectification and the right to erasure in the GDPR is a result of the desk research.</p>
+            </fn>
+            <fn id="FN138">
+                <p>
+
+                    <sup>138</sup> The immutability of smart contracts is, at the same time, an advantage and disadvantage.</p>
+            </fn>
+            <fn id="FN139">
+                <p>
+
+                    <sup>139</sup> Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.</p>
+            </fn>
+            <fn id="FN140">
+                <p>
+
+                    <sup>140</sup> The information of this last sentence is input from the authors desk research.</p>
+            </fn>
+            <fn id="FN141">
+                <p>
+
+                    <sup>141</sup> Input from the INFRA deliverable.</p>
+            </fn>
+            <fn id="FN142">
+                <p>
+
+                    <sup>142</sup> Input not contemplated in INFRA.</p>
+            </fn>
+            <fn id="FN143">
+                <p>
+
+                    <sup>143</sup> International Renewable Energy Agency (IRENA)(2019), Innovation outlook: Smart charging for electric vehicles, p. 9, online available at: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2019/May/IRENA_Innovation_Outlook_EV_smart_charging_2019.pdf">https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2019/May/IRENA_Innovation_Outlook_EV_smart_charging_2019.pdf</ext-link> (last consulted: 13.04.2021).</p>
+            </fn>
+            <fn id="FN144">
+                <p>
+
+                    <sup>144</sup> Author&#x2018;s own input resulting from the desk research.</p>
+            </fn>
+        </fn-group>
+    </back>
+    <sub-article article-type="reviewer-report" id="report30348">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15663.r30348</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Andrenacci</surname>
+                        <given-names>Natascia</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30348a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-8837-1540</uri>
+                </contrib>
+                <aff id="r30348a1">
+                    <label>1</label>Ente per le Nuove Tecnologie, l'Energia e l'Ambiente (ENEA), Rome, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>I am a recipient of funding under European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No 875187 (User-Chi project), but I have not directly collaborated with the authors of this paper in the past and we are not currently working on any joint publications. I can confirm I am able to objectively assess the validity of this article.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>26</day>
+                <month>10</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Andrenacci N</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport30348"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14510.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The issue of interoperability in the field of electric mobility is of primary interest to increase the adoption of electric vehicles. The article investigates the current barriers to the interoperability of charging points and indicates some actions to mitigate or overcome the problem. The article is well structured and sufficiently clear in the exposition. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Generally, I would recommend limiting repeated references to deliverable 4.3.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Regarding the management of footnotes: Being structured as a paragraph of bibliography/references, I would recommend inserting each source only once in the list, and citing it if necessary in the text.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Since the acronyms have been defined in a specific table, it is not necessary to repeat the definition several times in the text (e.g., INFRA is reported also in full in many captions), limiting the explanation to the first citation.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>No source data required</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Electric mobility; charging infrastructures; batteries; batteries ageing; data analysis</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report29474">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.15663.r29474</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Jonuschat</surname>
+                        <given-names>Dr. Helga</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r29474a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r29474a1">
+                    <label>1</label>Dornier Consulting International GmbH, Berlin, Germany</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>27</day>
+                <month>6</month>
+            <year>2022</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2022 Jonuschat DH</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport29474"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.14510.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This report provides a thorough overview on the status quo of the challenges of achieving interoperability in the context of the charging infrastructure roll-out in Europe. It suggests a structured analysis along four layers (organisational, technical, semantic, legal) and provides insight on the USER-CHI project results for each layer. The study design is suitable for the research question and methods and sources have been presented thoroughly to ensure replicability. The paper is clearly structured and written, although references to project details (e.g. deliverables) are not important for the wider public. Overall, this paper addresses a complex topic and provides very useful insights on the status quo of interoperability of charging networks in the EU.</p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>Not applicable</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>No source data required</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Yes</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Electric mobility, interoperability, user requirements, charging infrastructure roll-out, policy analysis</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

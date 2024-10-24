@@ -1,0 +1,2318 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.16363.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Drying out fish ponds, for an entire growth season, as an agroecological practice: maintaining primary producers for fish production and biodiversity conservation</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 1 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>GIRARD</surname>
+                        <given-names>L&#x00e9;o</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Data Curation</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Methodology</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Software</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0009-0005-1339-2095</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>WEZEL</surname>
+                        <given-names>Alexander</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>ROBIN</surname>
+                        <given-names>Jo&#x00eb;l</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Funding Acquisition</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Resources</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Validation</role>
+                    <role content-type="http://credit.niso.org/">Visualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Agroecology and Environment Research Unit, ISARA, Lyon, 69364, France</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:legirard@isara.fr">legirard@isara.fr</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>18</day>
+                <month>8</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>125</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>27</day>
+                    <month>7</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 GIRARD L et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-125/pdf"/>
+            <abstract>
+                <p>Agroecology largely focusses on terrestrial agroecosystems, but it can also be applied to fish farming. Indeed, ponds are typically used for fish production in Europe, but are also important reservoirs of biodiversity. Numerous studies demonstrate that both fish production and biodiversity are strongly determined by human management. One key practice in extensive fish farming, although more rare in Europe, is to dry out ponds. They are left dry for a complete year after several years of fish production. However, the extent to which this practice affects the functioning of the ecosystem, its biodiversity and fish production, remains unclear.</p>
+                <p>We investigated data from 85 fish ponds in the Dombes region, France, sampled between 2007 and 2014. We related variation in key abiotic characteristics to the time since last dry-out. The dataset included organic matter content in pond sediments and concentrations of inorganic nitrogen and phosphorus in the water column, and biotic components such as macrophytes cover and richness, phytoplankton concentration and richness, macroinvertebrates density, and fish yield.</p>
+                <p>Our results show that drying out facilitates the mineralization of organic matter in sediments and results in higher concentrations of inorganic nitrogen in the water column. Macrophytes cover is highest during the first year after drying out, and gradually declines after at the expense of increasing phytoplankton concentration. The diversity of both is highest in the first year after drying out and declines rapidly, especially for macrophytes. Fish yield is at its maximum in the second year.</p>
+                <p>Drying out fish ponds appears to be an important agroecological practice in extensive fish farming with an application every three to four years. Through nutrient recycling, this practice has a positive impact on the balance between primary producers and indirectly on the whole food web for two years. It optimizes fish production and allows biodiversity conservation.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>macrophytes</kwd>
+                <kwd>fishpond</kwd>
+                <kwd>shallow lake</kwd>
+                <kwd>sediment</kwd>
+                <kwd>agroecology</kwd>
+                <kwd>disturbance</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100018693">
+                    <funding-source>Horizon Europe Framework Programme</funding-source>
+                    <award-id>869296</award-id>
+                </award-group>
+                <funding-statement>This project has received funding from the European Union&#x2019;s Horizon Europe research and innovation programme under grant agreement No 869296 (POND Ecosystems for Resilient FUture Landscapes in a changing climate [PONDERFUL]). </funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>Agricultural landscapes in Europe are considered as important habitats for biodiversity conservation in anthropogenic areas (
+                <xref ref-type="bibr" rid="ref-21">Eriksson, 2021</xref>; 
+                <xref ref-type="bibr" rid="ref-43">Queiroz 
+                    <italic toggle="yes">et al</italic>., 2014</xref>). They are therefore increasingly targeted by nature protection policies that aim to maintain or increase biodiversity. For this purpose, multiple areas in Europe have been classified as Natura 2000 regions or as High Nature Value (HNV) areas (
+                <xref ref-type="bibr" rid="ref-6">Andersen 
+                    <italic toggle="yes">et al</italic>., 2004</xref>; 
+                <xref ref-type="bibr" rid="ref-22">Evans, 2012</xref>; 
+                <xref ref-type="bibr" rid="ref-35">Mueller &amp; Maes, 2015</xref>). Agricultural landscapes are typically subjected to human interference to promote agricultural production and their ecological status strongly relies on specific practices (
+                <xref ref-type="bibr" rid="ref-51">Schmitzberger 
+                    <italic toggle="yes">et al</italic>., 2005</xref>).</p>
+            <p>Several agricultural landscapes Europe are characterized by the occurrence of a high density of man-made ponds that have historically been used for extensive fish farming. Examples of such pond landscapes, also called &#x201c;pondscapes&#x201d;, are Midden-Limburg in Belgium, Trebon in the Czech Republic, Lausitz, Aischgrund and Oberpfalz in Germany, Waldviertel in Austria, but also Dombes, Lorraine, Brenne and Forez in France (
+                <xref ref-type="bibr" rid="ref-9">Aubin 
+                    <italic toggle="yes">et al</italic>., 2017</xref>). Many fish ponds have a rich history as they have often been created by monastic communities in the Middle Ages, in an effort to drain swampy areas (
+                <xref ref-type="bibr" rid="ref-10">Avocat, 1975</xref>; Guichenon, 1650 cited in 
+                <xref ref-type="bibr" rid="ref-48">Sceau, 1980</xref>), to ensure agricultural production, to reduce diseases, and to promote the production of freshwater fishes (Guichenon, 1650 cited in 
+                <xref ref-type="bibr" rid="ref-48">Sceau, 1980</xref>). Today, extensive fish production is still an important agricultural practice in most of these regions. Pond management practices, including water management, pond fertilisation or liming, and fish stocking can vary strongly between regions and countries (
+                <xref ref-type="bibr" rid="ref-30">Horv&#x00e0;th 
+                    <italic toggle="yes">et al</italic>., 2002</xref>). However, the overall activities largely target the production of cyprinid fish species, such as common carp (
+                <italic toggle="yes">Cyprinus carpio</italic>) for human consumption and restocking programs (
+                <xref ref-type="bibr" rid="ref-30">Horv&#x00e0;th 
+                    <italic toggle="yes">et al</italic>., 2002</xref>).</p>
+            <p>All these ponds collectively contain more species and more rare species than other aquatic environments (
+                <xref ref-type="bibr" rid="ref-65">Williams 
+                    <italic toggle="yes">et al</italic>., 2004</xref>). In harbouring rare as well as endemic species, they form irreplaceable habitats (
+                <xref ref-type="bibr" rid="ref-19">C&#x00e9;r&#x00e9;ghino 
+                    <italic toggle="yes">et al</italic>., 2007</xref>). They play an important role in biodiversity conservation (
+                <xref ref-type="bibr" rid="ref-12">Biggs 
+                    <italic toggle="yes">et al</italic>., 1994</xref>; 
+                <xref ref-type="bibr" rid="ref-19">C&#x00e9;r&#x00e9;ghino 
+                    <italic toggle="yes">et al</italic>., 2007</xref>; 
+                <xref ref-type="bibr" rid="ref-36">Oertli 
+                    <italic toggle="yes">et al</italic>., 2005</xref>; 
+                <xref ref-type="bibr" rid="ref-65">Williams 
+                    <italic toggle="yes">et al</italic>., 2004</xref>). Although fish production and human management, fish ponds are no exception in this regard), in the same way as natural ponds (
+                <xref ref-type="bibr" rid="ref-66">Zamora-Marin 
+                    <italic toggle="yes">et al</italic>., 2021</xref>). These areas represent a mosaic of diverse habitats and can be considered as hotspots of biodiversity (
+                <xref ref-type="bibr" rid="ref-18">Broyer &amp; Curtet, 2012</xref>; 
+                <xref ref-type="bibr" rid="ref-31">Lemmens 
+                    <italic toggle="yes">et al</italic>., 2013</xref>; 
+                <xref ref-type="bibr" rid="ref-45">Rosset 
+                    <italic toggle="yes">et al</italic>., 2014</xref>; 
+                <xref ref-type="bibr" rid="ref-59">Vanacker 
+                    <italic toggle="yes">et al</italic>., 2015</xref>; 
+                <xref ref-type="bibr" rid="ref-61">Wezel 
+                    <italic toggle="yes">et al</italic>., 2013</xref>; 
+                <xref ref-type="bibr" rid="ref-63">Wezel 
+                    <italic toggle="yes">et al</italic>., 2014</xref>). Fish ponds can be also home of rare or protected fauna and flora (
+                <xref ref-type="bibr" rid="ref-55">Vallod &amp; Wezel, 2010</xref>; 
+                <xref ref-type="bibr" rid="ref-61">Wezel 
+                    <italic toggle="yes">et al</italic>., 2013</xref>; 
+                <xref ref-type="bibr" rid="ref-63">Wezel 
+                    <italic toggle="yes">et al</italic>., 2014</xref>). These agroecosystems are of human origin and thus artificial environments (
+                <xref ref-type="bibr" rid="ref-10">Avocat, 1975</xref>; Guichenon, 1650 cited in 
+                <xref ref-type="bibr" rid="ref-48">Sceau, 1980</xref>). The biodiversity present in these agroecosystems is also the result of historical practices applied (
+                <xref ref-type="bibr" rid="ref-55">Vallod &amp; Wezel, 2010</xref>). It would appear that unmanaged ponds are not conducive to biodiversity (
+                <xref ref-type="bibr" rid="ref-47">Sayer 
+                    <italic toggle="yes">et al</italic>., 2012</xref>)</p>
+            <p>Fish pond managers are therefore increasingly challenged to combine economically profitable fish farming activities with maintaining proper ecological ecosystem functioning and high levels of biodiversity in these agroecosystems. In these &#x2018;pondscapes&#x2019;, fish farmers play an important role in biodiversity conservation by maintaining ponds or by organizing water circulation in the pond networks. In this regard, they are dealing with agroecology applied to extensive fish farming. Agroecology is based on 13 principles (
+                <xref ref-type="bibr" rid="ref-29">HLPE, 2019</xref>; 
+                <xref ref-type="bibr" rid="ref-62">Wezel 
+                    <italic toggle="yes">et al</italic>., 2020</xref>), some of which are applicable to aquaculture and fish pond agroecosystems management. According to 
+                <xref ref-type="bibr" rid="ref-9">Aubin 
+                    <italic toggle="yes">et al</italic>. (2017)</xref>, agroecological fish pond systems can be defined with the following five principles: It should be (1) productive, (2) resilient and robust, (3) efficient in the use of local resources, but also (4) environmentally friendly, and (5) have a natural and cultural value. Here we find together the notions of production, conservation of biodiversity, and ecological status of systems. Indeed, biological interactions and ecosystem synergies build a complex trophic web, which allow fish production. However, the literature on agroecological practices applied to pond fish farming remains limited.</p>
+            <p>A key management action in fish ponds is regular periodic drainage of ponds to harvest fish (
+                <xref ref-type="bibr" rid="ref-30">Horvath 
+                    <italic toggle="yes">et al</italic>., 2002</xref>; 
+                <xref ref-type="bibr" rid="ref-33">Lierdeman, 2013</xref>). This is typically done from autumn to late winter (generally from October to March). The pond is refilled quickly after, in early spring, for a new production season. 
+                <xref ref-type="bibr" rid="ref-32">Lemmens 
+                    <italic toggle="yes">et al</italic>. (2015)</xref> mentioned that this periodic pond drainage is important for biodiversity conservation. In addition to these short dry periods, in Dombes, ponds are empty every 4 or 5 years during a whole production season, approximately from March to September. It is an ancestral practice, called dry out in this paper, applied regularly and in some other fish pond systems (
+                <xref ref-type="bibr" rid="ref-30">Horvath 
+                    <italic toggle="yes">et al</italic>., 2002</xref>; 
+                <xref ref-type="bibr" rid="ref-33">Lierdeman, 2013</xref>). Of all the extensive fish farming practices, drying out is the most common applied in the Dombes region. It is also a practice that brings together the most different ecological functions related to different agroecological principles (
+                <xref ref-type="bibr" rid="ref-9">Aubin 
+                    <italic toggle="yes">et al</italic>., 2017</xref>). It is directly related to the third principle: using natural and local resources efficiently. However, it appears at the same time to be the practice restoring a high productivity level after water refilling. It allows the recycling of sediment material that accumulates during the production cycle to increase the concentration of mineral nutrients in the water for primary producers (
+                <xref ref-type="bibr" rid="ref-9">Aubin 
+                    <italic toggle="yes">et al</italic>., 2017</xref>; 
+                <xref ref-type="bibr" rid="ref-33">Lierdeman, 2013</xref>). It should also allow for macrophytes re-establishment and control of algal blooms (
+                <xref ref-type="bibr" rid="ref-9">Aubin 
+                    <italic toggle="yes">et al</italic>., 2017</xref>). As in temporary ponds, this voluntary dry period also promotes a very specific flora, especially macrophytes with a short life cycle (
+                <xref ref-type="bibr" rid="ref-24">Fontanilles 
+                    <italic toggle="yes">et al</italic>., 2023</xref>).</p>
+            <p>Drying out a pond for one year affects both the physico-chemistry of the sediments and water but also the balance between primary producers and other biodiversity components such as macroinvertebrates. Theoretically, after the drying out, the aquatic plant community is composed of ruderal, fast-growing species, which allow the rapid recolonization of the environment. In subsequent years, the nutrient concentrations and the degree of pond eutrophication gradually increase. Ruderal plant species will be replaced by more competitive species (
+                <xref ref-type="bibr" rid="ref-37">Oertli &amp; Frossard, 2013</xref>), and the ponds will subsequently switch into a turbid water state with low plant coverage and a dominance of phytoplankton in the water column. Earlier investigations show that such change in ecosystem state results in lower fish biomass production (
+                <xref ref-type="bibr" rid="ref-30">Horvath 
+                    <italic toggle="yes">et al</italic>., 2002</xref>).</p>
+            <p>Although a periodic annual dry stand is an often applied management measure in fish ponds (
+                <xref ref-type="bibr" rid="ref-8">Arthaud 
+                    <italic toggle="yes">et al</italic>., 2013</xref>; 
+                <xref ref-type="bibr" rid="ref-9">Aubin 
+                    <italic toggle="yes">et al</italic>., 2017</xref>; 
+                <xref ref-type="bibr" rid="ref-30">Horvath 
+                    <italic toggle="yes">et al</italic>., 2002</xref>; 
+                <xref ref-type="bibr" rid="ref-33">Lierdeman, 2013</xref>; 
+                <xref ref-type="bibr" rid="ref-37">Oertli &amp; Frossard, 2013</xref>; 
+                <xref ref-type="bibr" rid="ref-58">Vanacker 
+                    <italic toggle="yes">et al</italic>., 2016</xref>;  
+                <xref ref-type="bibr" rid="ref-61">Wezel 
+                    <italic toggle="yes">et al</italic>., 2013</xref>), it is not yet well known to what extent such a dry period affects the functioning of the pond ecosystem with respect to physico-chemical characteristics, primary production, biodiversity, and fish production.</p>
+            <p>The present study therefore aimed to fill this important knowledge gap. More specifically, we aimed to analyse how a periodic one-year dry-out impacts the physico-chemical pond characteristics, the biomass and diversity of primary producers, invertebrate density and net fish yield. We hypothesized that (i) the dry-out enhances the mineralisation of organic matter accumulated in pond sediments and increases mineral nitrogen and phosphorus concentrations after water refilling, (ii) this mineral nutrient enrichment increases overall primary producers after the dry period, with a dominance of macrophytes over phytoplankton, and (iii) the diversity of macrophytes and benthic invertebrates&#x2019; densities are higher during the first year after the dry period and decreases over years in favour of a higher diversity and density of algae. Finally, (iv) drying out was expected to increase fish production with the highest net fish yield in the first year after drying out.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <sec>
+                <title>Study area and study sites</title>
+                <p>The fishponds studied were located in the Dombes area, in the department of Ain, Northeast of Lyon, in a Natura 2000 region. This area is one of the main fish pond landscapes of France, comprising approximately 1,100 ponds and a total water surface of about 11,500 ha (
+                    <xref ref-type="bibr" rid="ref-11">Bernard &amp; Lebreton, 2007</xref>). These ponds also date back to the Middle Ages and have been used for extensive fish farming since then. They are organized in chains, with hydrological connectivity between ponds, according to annual draining for fish harvest. Historically, a mixture of common carp (
+                    <italic toggle="yes">Cyprinus carpio</italic>), whitefish (roach and rudd), tench and piscivorous (pike and pikeperch) have been produced (
+                    <xref ref-type="bibr" rid="ref-61">Wezel 
+                        <italic toggle="yes">et al</italic>., 2013</xref>). Ponds are drained annually during the cold season (autumn and winter) to harvest the fish and are immediately refilled with water, in early spring. This fish production cycle typically lasts for four to five years, after which the ponds are left dry for an entire full growth season. Average yield reaches 250 kg/ha (
+                    <xref ref-type="bibr" rid="ref-44">Robin 
+                        <italic toggle="yes">et al</italic>., 2014</xref>; 
+                    <xref ref-type="bibr" rid="ref-61">Wezel 
+                        <italic toggle="yes">et al</italic>., 2013</xref>), which corresponds to a rather low density of fish (45-70g/m
+                    <sup>3</sup>) representative of extensive fish pond farming. The Dombes region is both an environment characterized by extensive fish farming with some ancestral practices but also by its biodiversity related to fish ponds (
+                    <xref ref-type="bibr" rid="ref-55">Vallod &amp; Wezel, 2010</xref>; 
+                    <xref ref-type="bibr" rid="ref-61">Wezel 
+                        <italic toggle="yes">et al</italic>., 2013</xref>; 
+                    <xref ref-type="bibr" rid="ref-63">Wezel 
+                        <italic toggle="yes">et al</italic>., 2014</xref>). The ponds monitored were selected with similar practices. Typical pond management practices include liming, fertilization and feeding fish.</p>
+                <p>The present study used a dataset holding key information (physico-chemical characteristics, biomass and diversity of primary producers, invertebrate density and net fish yield) from a set of 134-point data, including 85 different ponds that were monitored between 2007 and 2014, several years for some of them. These repetitions of some fish ponds in the dataset were considered in the analysis. Variable numbers of fish ponds represent each post-drying year from year to year (
+                    <xref ref-type="table" rid="T1">Table 1</xref>).</p>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                    <label>Table 1. </label>
+                    <caption>
+                        <title>An overview of the number of fish ponds for each year class (Y1 correspond to the first year after drying) and the different parameters that have been assessed.</title>
+                    </caption>
+                    <table content-type="article-table" frame="hsides">
+                        <thead>
+                            <tr>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Variables and years after dry out</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Y1</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Y2</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Y3</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Y4</th>
+                                <th align="center" colspan="1" rowspan="1" valign="top">Y&gt;5</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Organic matter concentration in
+                                    <break/>sediments (g/kg)</td>
+                                <td align="center" colspan="1" rowspan="5" valign="middle">31</td>
+                                <td align="center" colspan="1" rowspan="5" valign="middle">35</td>
+                                <td align="center" colspan="1" rowspan="5" valign="middle">31</td>
+                                <td align="center" colspan="1" rowspan="5" valign="middle">22</td>
+                                <td align="center" colspan="1" rowspan="5" valign="middle">15</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Nitrate concentration in water (mg/l)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Phosphate concentration in water
+                                    <break/>(mg/l)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Nitrate in total nitrogen in water (%)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Chlorophyll a concentration (&#x00b5;g/l)</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Phytoplankton taxon richness</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">18</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">27</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">20</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">16</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">9</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Cyanobacteria in phytoplankton (%)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">11</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">20</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">16</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">12</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">9</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Macrophytes cover (%)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">29</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">29</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">28</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">21</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">15</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Jackknife diversity of macrophytes</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">23</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">27</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">25</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">17</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">14</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Density of invertebrates</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">16</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">11</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">6</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">7</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">7</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="1" rowspan="1" valign="top">Net fish yield (kg/ha/year)</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">26</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">28</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">24</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">17</td>
+                                <td align="center" colspan="1" rowspan="1" valign="top">10</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>These fish ponds are distinguished according to the number of years since the last dry period of the ponds: Y1 corresponds to the first year of water after the last drying out, Y2 the second year and so far, Y&gt;5 includes all ponds that have been dry for five years or more (
+                    <xref ref-type="table" rid="T1">Table 1</xref>).</p>
+            </sec>
+            <sec>
+                <title>Sediment physico-chemical parameters</title>
+                <p>We determined organic content and concentrations of nitrogen and phosphate in the sediment of each pond by collecting pond sediment twice a year (once in early spring [March] and once in autumn [October]) in each pond using an Eckman grab. Three samples were taken at different spots. Samples from different spots were homogenized into one sample in the field for later analysis in the laboratory.</p>
+                <p>The organic matter content of the sediment was determined in the laboratory according to the method ISO 10694 (
+                    <xref ref-type="bibr" rid="ref-1">AFNOR, 1995</xref>). At the same time, we also determined the concentration of total nitrogen by dry combustion and exchangeable phosphorus following the method ISO 13878 (
+                    <xref ref-type="bibr" rid="ref-2">AFNOR, 1998</xref>) and NF X31-160 (
+                    <xref ref-type="bibr" rid="ref-3">AFNOR, 1999</xref>) respectively.</p>
+                <p>For organic matter, it was derived from the measurement of organic carbon, on which a conversion factor of 1.724 was applied (C/MO = 0.58). The sample was heated to over 900&#x00b0;C to oxidize the carbon present into carbon dioxide. The amount of gas was measured. Data from spring and autumn were averaged for each pond prior to any statistical analysis.</p>
+            </sec>
+            <sec>
+                <title>Water chemistry</title>
+                <p>Water samples were taken from each pond on 10 dates throughout spring and summer (from March to September). Water was collected at the deepest part of the pond, usually at the outlet, using a Van Dorn column to take a sample under the water surface. Samples were stored at 4&#x00b0;C until further analysis. Nitrate and phosphate were measured by ion chromatography (882 Compact IC plus, Metrohm) after filtration of the water samples using a syringe filter (RC CHROMAPHIL, 0.2 &#x00b5;m porosity).</p>
+            </sec>
+            <sec>
+                <title>Phytoplankton</title>
+                <p>A subsample of the collected pond water was used to determine the concentration of chlorophyll a (CHL). For this purpose, a known volume of pond water was filtered through a Whatman GF/C filter which was subsequently incubated into a 90% acetone solution for 24 hours. After centrifugation, readings of absorbance were taken using a Shimadzu UV/VIS spectrophotometer UV-2101 (Schimadzu Corporation, Kyoto, Japan) at wavelengths of 630, 645, 663 and 750 nm. The CHL concentration was calculated based on the formula of 
+                    <xref ref-type="bibr" rid="ref-40">Parsons and Strickland (1963)</xref>. We used CHL concentration as a proxy for phytoplankton biomass.</p>
+                <p>In addition to this quantitative information, water samples also allowed to assess the phytoplankton community composition. The water was stored in a one-litre bottle and fixed with Lugol. Specimen identification was done to genus level in the laboratory using the Uterm&#x00f6;hl method (
+                    <xref ref-type="bibr" rid="ref-5">AFNOR, 2006</xref>). For each sample, 400 cells were counted under a Nikon Eclipse 50 microscope equipped with a Nikon DS-Fi1 camera. We obtained both the richness of the phytoplankton and the abundance of each genus.</p>
+            </sec>
+            <sec>
+                <title>Macrophytes</title>
+                <p>The macrophyte community composition was assessed once in each pond during the growth season (between end June and July) by identification of specimens within multiple quadrats (4 m&#x00b2;) that were distributed every 50 meters along five transects following the protocol described in 
+                    <xref ref-type="bibr" rid="ref-8">Arthaud 
+                        <italic toggle="yes">et al</italic>. (2013)</xref> and after in Vanacker 
+                    <italic toggle="yes">et al</italic>. (
+                    <xref ref-type="bibr" rid="ref-59">2015</xref>, 
+                    <xref ref-type="bibr" rid="ref-58">2016</xref>), and used since 2007. Transects were arranged perpendicularly to the pond&#x2019;s dam, the deepest part with the outlet, of each pond. Two transects were located in the periphery, along the belt of helophytes, one in the center of the pond and the last two at half distance between the laterals and the central one. The number of quadrats was therefore related to the size of the pond. Macrophytes were identified to species level to obtain the richness per pond and their abundance within each quadrant was scored with the cover-abundance estimates of 
+                    <xref ref-type="bibr" rid="ref-17">Braun-Blanquet (1932)</xref>. This also allowed us to calculate the total coverage of macrophytes on the pond.</p>
+            </sec>
+            <sec>
+                <title>Benthic invertebrates</title>
+                <p>Benthic invertebrates were sampled once in September in each pond every year. The protocol was based on the AFNOR NF T90-391 standard (
+                    <xref ref-type="bibr" rid="ref-4">AFNOR, 2005</xref>) relating to the 
+                    <italic toggle="yes">&#x201c;Indice Oligoch&#x00e8;tes de Bioindication Lacustre</italic>&#x201d; (IOBL). The oligochaetes present in the ponds live and feed in the sediments. These organisms play an important role in the functioning of the ecosystem, which is why this is an often monitored indicator. The standard protocol was supplemented by the technical note of 
+                    <xref ref-type="bibr" rid="ref-34">Mazzella (2009)</xref> and by the experiences in the collection in these types of ponds in the Dombes area (
+                    <xref ref-type="bibr" rid="ref-56">Vallod 
+                        <italic toggle="yes">et al</italic>., 2011</xref>).</p>
+                <p>In the same way as mentioned above, the sediments were collected using an Eckman grab. Two samples were taken in an area of maximum depth reachable by foot and two others in shallower depth. These four samples allowed the equivalent of 0.1 m
+                    <sup>2</sup> of sediment to be collected. Each point had to be at least 10 m away from the others. They were carried out in the sector of the outlet without getting too close to it in order to be representative of the environmental conditions. These samples were pooled to form more than one sample for analysis.</p>
+                <p>The samples were first filtered in the field using a 0.315 mm sieve and the residue was then fixed with 5% formalin. This sample was then processed in the laboratory to determine the density of oligochaetes, corresponding to a number of individuals per area. It was measured using the formula: 3.log(1+(100.EFF)) where 100.EFF is the number of individuals per area per 0.1 m
+                    <sup>2</sup>.</p>
+            </sec>
+            <sec>
+                <title>Fish</title>
+                <p>Information on the net fish yield was obtained from local fish farmers and collected by the local fish association. It corresponds to the total fish biomass harvested at the end of the season (Autumn) minus the total stocked fish biomass at the start of the growth season (early Spring). Fish yields are expressed in kg/ha/year.</p>
+            </sec>
+            <sec>
+                <title>Statistical analysis</title>
+                <p>All statistical analyses were conducted with R and R Studio software (
+                    <xref ref-type="bibr" rid="ref-80">R Development Core Team, 2013</xref>).</p>
+                <p>For macrophytes richness, we used the Jackknife index based on 
+                    <xref ref-type="bibr" rid="ref-57">Vanacker (2016)</xref>. It allows to obtain a better estimation of the richness, often underestimated in fish ponds. Vanacker showed that it was the most suitable index for these environments and their biodiversity (
+                    <xref ref-type="bibr" rid="ref-57">Vanacker, 2016</xref>), this has also been shown more generally by 
+                    <xref ref-type="bibr" rid="ref-52">Soukainen and Cardoso (2022)</xref>. The Jackknife index appears to be the most accurate, efficient and least biased of the non-parametric indices for estimating species richness (
+                    <xref ref-type="bibr" rid="ref-57">Vanacker, 2016</xref>). It is calculated based on the number of species returned once and the number of quadrats made.</p>
+                <p>The values of water parameters used were the medians of the various measurements taken during the year (April to July), to have a better representation, as the mean is more driven by extreme values.</p>
+                <p>Firstly, to observe the variations of the different variables studied over the years since the last drying out, we created boxplots using functions from the ggplot2 package (
+                    <xref ref-type="bibr" rid="ref-64">Wickham, 2016</xref>).</p>
+                <p>We used Levene tests to compare the variability of the variables between ponds monitored several years and ponds monitored only once. No significant differences were found. These results are in line with those highlighted by 
+                    <xref ref-type="bibr" rid="ref-58">Vanacker 
+                        <italic toggle="yes">et al</italic>. (2016)</xref>. One reason for this is that the ponds are emptied every year. But to take repetitions of some fish ponds into account, we also performed linear mixed models with the glmer function of the lme4 package (
+                    <xref ref-type="bibr" rid="ref-81">Bates, 2010</xref>). Depending on the variables, we used Poisson, negative binomial or Gaussian laws. The models used and their p-values are shown alongside the boxplots. This makes it possible to show if there is an effect of the practice of drying out on the variables studied.</p>
+                <p>The models are in the form of (DryOut represents the year after the last drying out and PondID the identifier of each pond to take into account repetitions):</p>
+                <disp-formula>
+                    <mml:math display="block" id="math1">
+                        <mml:mrow>
+                            <mml:mi>V</mml:mi>
+                            <mml:mi>a</mml:mi>
+                            <mml:mi>r</mml:mi>
+                            <mml:mi>i</mml:mi>
+                            <mml:mi>a</mml:mi>
+                            <mml:mi>b</mml:mi>
+                            <mml:mi>l</mml:mi>
+                            <mml:mi>e</mml:mi>
+                            <mml:mtext>&#x2009;</mml:mtext>
+                            <mml:mi>s</mml:mi>
+                            <mml:mi>t</mml:mi>
+                            <mml:mi>u</mml:mi>
+                            <mml:mi>d</mml:mi>
+                            <mml:mi>i</mml:mi>
+                            <mml:mi>e</mml:mi>
+                            <mml:mi>d</mml:mi>
+                            <mml:mtext>&#x2009;</mml:mtext>
+                            <mml:mo>&#x223c;</mml:mo>
+                            <mml:mtext>&#x2009;</mml:mtext>
+                            <mml:mi>D</mml:mi>
+                            <mml:mi>r</mml:mi>
+                            <mml:mi>y</mml:mi>
+                            <mml:mi>O</mml:mi>
+                            <mml:mi>u</mml:mi>
+                            <mml:mi>t</mml:mi>
+                            <mml:mtext>&#x2009;</mml:mtext>
+                            <mml:mo>+</mml:mo>
+                            <mml:mtext>&#x2009;</mml:mtext>
+                            <mml:mo stretchy="false">(</mml:mo>
+                            <mml:mn>1</mml:mn>
+                            <mml:mo>|</mml:mo>
+                            <mml:mi>P</mml:mi>
+                            <mml:mi>o</mml:mi>
+                            <mml:mi>n</mml:mi>
+                            <mml:mi>d</mml:mi>
+                            <mml:mi>I</mml:mi>
+                            <mml:mi>D</mml:mi>
+                            <mml:mo stretchy="false">)</mml:mo>
+                        </mml:mrow>
+                    </mml:math>
+                </disp-formula>
+                <p>Then, to analyze the relationships between variables, we looked for correlations of Spearman, using the ggcormat function of the ggstatsplot package (
+                    <xref ref-type="bibr" rid="ref-41">Patil, 2021</xref>). The graphical representations are made with the scatterplot function of the car package (
+                    <xref ref-type="bibr" rid="ref-25">Fox &amp; Weisberg, 2019</xref>).</p>
+                <p>Finally, in order to obtain a synthetic and multivariate vision of the variations observed with the boxplots, we performed a multivariate analysis with a Principal Component Analysis (PCA). This ordination has been made with the dudi.pca function from the ade4 package (
+                    <xref ref-type="bibr" rid="ref-53">Thioulouse 
+                        <italic toggle="yes">et al</italic>., 2018</xref>). The functions s.class, s.arrow and superpose from the same package allow for graphical representations.</p>
+            </sec>
+        </sec>
+        <sec sec-type="results">
+            <title>Results</title>
+            <p>For all variables, we observed a large variability between fish ponds (
+                <xref ref-type="table" rid="T2">Table 2</xref>). This high variability was similar both between different ponds and within the same pond over several years. There was both variability in physico-chemical parameters but also in biological parameters.</p>
+            <table-wrap id="T2" orientation="portrait" position="anchor">
+                <label>Table 2. </label>
+                <caption>
+                    <title>The median, minimum and maximum values for the parameters studied.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Variables</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Median</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Min</th>
+                            <th align="center" colspan="1" rowspan="1" valign="top">Max</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Organic matter concentration in
+                                <break/>sediments (g/kg)</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">33.69</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">16.58</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">112.41</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Nitrate concentration in water
+                                <break/>(mg/l NO
+                                <sup>3</sup>)</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">0.47</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">&lt;0.025</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">1</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Phosphate concentration in water
+                                <break/>(mg/l PO
+                                <sup>4</sup>)</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">0.089</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">0.007</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">0.5812</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Nitrate in total nitrogen in water (%)</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">19</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">0</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">82</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Chlorophyll a concentration (&#x00b5;g/l)</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">48.06</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">2.92</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">347.51</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Phytoplankton taxon richness</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">32</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">16</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">45</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Cyanobacteria in phytoplankton
+                                <break/>(% of biomass)</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">23</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">0</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">71</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Macrophytes cover (%)</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">34</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">0</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">144</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Jackknife diversity of macrophytes</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">14.9</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">0</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">43.8</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Density of invertebrates</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">1670</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">22</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">4764</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1" valign="top">Net fish yield (kg/ha/year)</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">185</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">8</td>
+                            <td align="center" colspan="1" rowspan="1" valign="top">696</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>Sediment composition varied between ponds and similarly, so did nutrient concentrations in the water. For example, we observed a concentration of organic matter in the sediment ranging from 16.8 g/kg to over 110 g/kg. Nitrate concentration in the water ranged from near zero to 1 mg/L.</p>
+            <p>Similarly, ponds differed strongly in local macrophyte species richness: some ponds had no macrophyte species while others had more than 40. In the whole set of ponds, 96 species of macrophytes were sampled. Some species were very common and are found in more than 50% of the ponds such as 
+                <italic toggle="yes">Polygonum amphibium</italic>, 
+                <italic toggle="yes">Najas minor</italic> and 
+                <italic toggle="yes">Najas marina</italic>, 
+                <italic toggle="yes">Phalaris arundimacea</italic>, 
+                <italic toggle="yes">Potamogeton nodosus</italic> and 
+                <italic toggle="yes">Potamogeton crispus</italic>. Conversely, some species were present in only one. Some ponds also hosted species threatened at the French or European level like 
+                <italic toggle="yes">Elatine alsinastrum</italic>, 
+                <italic toggle="yes">E. hexandra or E. hydropiper</italic>, 
+                <italic toggle="yes">Hydrocharis morus ranae</italic>, 
+                <italic toggle="yes">Luronium natans</italic>, and 
+                <italic toggle="yes">Marsilea quadrifolia</italic>.</p>
+            <p>Finally, net fish yields varied from a few kilos per hectare to almost 700 kg/ha/year.</p>
+            <sec>
+                <title>Physico-chemistry of sediments and water</title>
+                <p>Higher water nutrient concentrations, especially for nitrate, could be found during Y1 and Y2, and then decreasing in the following years (p&lt;0.05 for glmer). We observed a median concentration of nitrate of 0.47 mg/L in Y1 and 0.52 mg/L in Y2 against 0.36 mg/L in Y4. Although the different pond categories did not differ significantly in phosphate concentrations, we observed a similar trend with lower values with increasing years after drying out. The highest concentration was measured in Y1 ponds (median of 0.12 mg/L) and the lowest concentrations were observed in Y4 ponds (median of 0.07 mg/L).</p>
+                <p>More specifically, the percentage of nitrate on total nitrogen decreases significantly (p&lt;0.05 for glmer) from Y1 to Y4 (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>). It reduced by a factor 3 over a period of four years (from 30% the first year to 10% the fourth).</p>
+                <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                    <label>Figure 1. </label>
+                    <caption>
+                        <title> Variation of different parameters monitored in fish ponds of the Dombes area, France, according to the years after being drying out for one year.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17665/7ab675ab-00be-45c4-b3fb-6202fd03bc01_figure1.gif"/>
+                </fig>
+                <p>For organic matter concentration in sediments, no accumulation was observed from Y1 to Y5 (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>). A slight, but not significant increase of less than 1 g/kg of sediment was present over the first three years (Y1 to Y3). The trend observed was even rather downward, with less organic matter over the years. Results were similar for nitrate with no significant difference between year classes, as well as for available phosphorus, even if a slight increase for this was observed between classes Y1 and Y&gt;5.</p>
+            </sec>
+            <sec>
+                <title>Quantitative parameters for primary producers</title>
+                <p>The maximum of macrophytes cover (median value) was found in Y1, before a gradual decrease (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>, p&lt;0.01 for glmer). On average 56% of the pond surface was covered by macrophytes in Y1. It decreased to around 40% in Y2 and Y3, and then collapsed to 5% in Y4. In the following years it remained at this low coverage.</p>
+                <p>Conversely, algal concentration (CHL) was low in Y1 with 30 &#x00b5;g/L and increased in the following years (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>). The mixed model tested showed an effect of water year on this algal concentration (p&lt;0.001). The maximum was reached during Y4 with an average concentration around 58 &#x00b5;g/L. However, contrary to what can be expected, the increase of the CHL concentration was not continuous, notably after 6 years. After 10&#x2013;15 years, the primary producers&#x2019; biomass in the ponds becomes low.</p>
+            </sec>
+            <sec>
+                <title>Primary producers diversity and invertebrates density</title>
+                <p>According to the index of Jackknife, macrophyte richness declined continuously other the years (p&lt;0.01 for glmer), with a median number of 23 species in Y1 and 8 in Y5 and after. This richness of macrophytes was positively and significantly correlated with cover extent (
+                    <xref ref-type="fig" rid="f2">Figure 2</xref>).</p>
+                <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                    <label>Figure 2. </label>
+                    <caption>
+                        <title>Correlation between macrophyte richness and cover.</title>
+                        <p>The solid line represents the linear regression between the two variables (R
+                            <sup>2</sup>=0.732, p&lt;0.0001) and the dashed line represents a smoothed non-parametric regression. The band around the curves represent the confident interval with a level of 0.95.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17665/7ab675ab-00be-45c4-b3fb-6202fd03bc01_figure2.gif"/>
+                </fig>
+                <p>For phytoplankton, we did not have the same positive correlation between concentration and richness. The richness was higher when the CHL concentrations are low (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>). It reached its maximum after five years with water, with a median of 36 taxa, and was also high in Y1 with 35 taxa. Lower values were observed in the years Y2 to Y4. Over the years, the relative abundance of cyanobacteria among phytoplankton increased gradually (
+                    <xref ref-type="fig" rid="f3">Figure 3</xref>). The mixed model tested showed an effect of years after drying out (p&lt;0.001). A positive correlation between CHL concentration and cyanobacteria abundance was found. When CHL increased above 100 &#x00b5;g/L, this relative abundance exceeded 20% (
+                    <xref ref-type="fig" rid="f4">Figure 4</xref>).</p>
+                <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                    <label>Figure 3. </label>
+                    <caption>
+                        <title>Percentage of cyanobacteria in phytoplankton as a function of year after drying out.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17665/7ab675ab-00be-45c4-b3fb-6202fd03bc01_figure3.gif"/>
+                </fig>
+                <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                    <label>Figure 4. </label>
+                    <caption>
+                        <title>Correlation between the percentage of cyanobacteria and CHL concentration.</title>
+                        <p>The solid line represents the linear regression between the two variables (R
+                            <sup>2</sup>=0.47, p&lt;0.0001) and the dashed line represents a smoothed non-parametric regression. The band around the curves represent the confident interval with a level of 0.95.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17665/7ab675ab-00be-45c4-b3fb-6202fd03bc01_figure4.gif"/>
+                </fig>
+                <p>Specifically for invertebrates, even if densities were lower in Y1 than in Y&gt;5 (medians of 397 
+                    <italic toggle="yes">versus</italic> 1,594 individuals), they were higher in Y2 and Y4 than in Y&gt;5 (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>). The densities were at a maximum in Y4 with 2,579 individuals, followed closely by the second year with 2,286 individuals. The mixed model did not show a significant relationship.</p>
+                <p>In summary, macrophytes richness and phytoplankton richness were higher in Y1, and in Y2 for invertebrates densities (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>).</p>
+            </sec>
+            <sec>
+                <title>Fish yield</title>
+                <p>The highest fish yields were achieved in Y1 and Y2 (196 kg/ha and 214 kg/ha respectively) compared to 152 kg/ha for Y&gt;5 ponds (
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>). A strong link between this yield and invertebrate density was observed (Correlation R
+                    <sup>2</sup>=0.41, p&lt;0.05, and multivariate analyses, 
+                    <xref ref-type="fig" rid="f6">Figure 6</xref>). p&lt;0.05 for the mixed model tested.</p>
+            </sec>
+            <sec>
+                <title>Multivariate analysis</title>
+                <p>The multivariate analysis with a PCA provides the position of the five year classes of our dataset regarding different variables measured (
+                    <xref ref-type="fig" rid="f6">Figure 6</xref>). The trajectory is mainly observed on the first dimension of the analysis, starting from the positive part of the X-axis (in the right part) with Y1 and going to the negative part (in the left) with Y4. Ponds that have been in water for 5 years or more are more located towards the center of the plot. In terms of variables, this trajectory corresponds to a shift from an agroecosystem dominated by macrophytes to one dominated by algae. A progressive increase in invertebrate density with the sawtooth evolution can be also observed as before in the analysis. The positioning of the ponds with water for more than 5 years shows a decrease of the primary productivity as a whole, with less good fish yields.</p>
+                <p>In an addition analysis where Y&gt;5 ponds are separated for the respective exact years, we see the same results for the first four years classes. The fifth year seems to follow a similar logic with still good invertebrate densities but, the end of this evolution occurs with the sixth year, where the primary production decreases in an overall way. The positioning of the following years seems more random, with a logic more difficult to define and explain.</p>
+            </sec>
+        </sec>
+        <sec sec-type="discussion">
+            <title>Discussion</title>
+            <sec>
+                <title>Accumulation of organic matter and mineral nutrients in fish ponds</title>
+                <p>The accumulation of organic matter in the bottom of the pond is a natural process in all standing water bodies, called sedimentation (
+                    <xref ref-type="bibr" rid="ref-37">Oertli &amp; Frossard, 2013</xref>). In the context of the Dombes fish ponds, we analysed the concentration of organic matter in the sediments according to the years after the last dry-out of the ponds. We expected an increase in organic matter content over the years; however, our results based on means for each year after drying did not support this, and thus did not confirming our hypothesis. The organic matter content in the sediments remained relatively stable for all the years studied, and no significant differences could be found. The fish farming practice based on emptying the pond every year in order to harvest fish in a small remaining part of the pond may explain these observations. During this, the more labile parts of the sediments can be washed away from the pond with the water drainage at the pond outlet. 
+                    <xref ref-type="bibr" rid="ref-54">Vallod and Sarrazin (2010)</xref> showed that for a 24-ha pond, 8.5 t of material were exported during emptying. Moreover, the period during draining when the sediments in the largest part of the ponds remain in contact with air, even if it is much shorter than during a one-year dry period, probably already allows a partial mineralisation of the organic matter that has accumulated, if the temperatures and oxygen concentrations are favourable for microbial activity (
+                    <xref ref-type="bibr" rid="ref-15">Boyd &amp; Pippopinyo, 1994</xref>; 
+                    <xref ref-type="bibr" rid="ref-16">Boyd 
+                        <italic toggle="yes">et al</italic>., 2002</xref>). Indeed, the pond is drained between September and January and water refilling can take several weeks, depending on rainfall events and water transport from surrounding land areas via water ditches toward the ponds.</p>
+                <p>Our results show higher concentrations of inorganic nitrogen and phosphorus in the water after the dry-out years Y1 and Y2. Despite this, we did not observe any accumulation of organic matter in the sediments. We can nevertheless make the hypothesis that the drying up favours an incomplete mineralization of the organic matter in the sediments. Draining of the ponds increases the oxygen concentration in the sediments and thus promote the decomposition of organic matter (
+                    <xref ref-type="bibr" rid="ref-16">Boyd 
+                        <italic toggle="yes">et al</italic>., 2002</xref>). These results confirm the interest of drying out ponds for nutrients mineralization and availability in the water column (
+                    <xref ref-type="bibr" rid="ref-10">Avocat, 1975</xref>; 
+                    <xref ref-type="bibr" rid="ref-13">Billard, 1979</xref>; 
+                    <xref ref-type="bibr" rid="ref-33">Lierdeman, 2013</xref>; 
+                    <xref ref-type="bibr" rid="ref-61">Wezel 
+                        <italic toggle="yes">et al</italic>., 2013</xref>).</p>
+            </sec>
+            <sec>
+                <title>Primary production and competition between algae and macrophytes</title>
+                <p>In ponds, two types of primary producers, algae and macrophytes, compete for light and nutrients. 
+                    <xref ref-type="bibr" rid="ref-49">Scheffer and Carpenter (2003)</xref> established the theory of alternative stable states, with the relative domination of one or another. Our results show a domination of macrophytes in Y1, as shown by their high percent coverage. These results agree with those of 
+                    <xref ref-type="bibr" rid="ref-58">Vanacker 
+                        <italic toggle="yes">et al</italic>. (2016)</xref>, who observed an average pond coverage of macrophytes in Y1 close to our results (49% versus 56% here). These macrophytes are a good indicator of biodiversity and productivity of the aquatic ecosystem (
+                    <xref ref-type="bibr" rid="ref-23">Folke 
+                        <italic toggle="yes">et al</italic>., 2004</xref>). In the following years, we observed a progressive decrease, which likely resulted from a gradual increase in water turbidity caused by enhanced concentrations of phytoplankton. After the drying period, a first stage appeared during Y1 with a domination of macrophytes and a progressive shift between primary producers in Y2 and Y3. In Y4 and Y&gt;5, we noted the domination of phytoplankton and a collapse of macrophyte cover and richness, thus validating our initial hypothesis. However, if we look at the following years included in Y&gt;5, the concentration of both primary producers decreased thus reaching a third stage where the two primary producers were in low biomass quantity. This would suggest a decrease of the total primary production. Finally, after a dominance of macrophytes in Y1 and a progressive shift (Y2 and Y3) towards phytoplankton dominance (Y4), ponds could evolve to a detrital state based on decomposers (
+                    <xref ref-type="bibr" rid="ref-39">Okuda 
+                        <italic toggle="yes">et al</italic>., 2013</xref>).</p>
+                <p>In fish ponds, we would ideally maintain a continuous balance between these two primary producers in order to ensure a good productivity of the agroecosystem. This could correspond to an unstable state, between the two stable states defined by 
+                    <xref ref-type="bibr" rid="ref-49">Scheffer and Carpenter (2003)</xref>. Our results confirm that this situation of a balance between macrophytes and phytoplankton is mostly observed in Y2, but changes afterwards. Therefore, this balance is of interest for fish production systems to ensure a high productivity in the food web. In addition, the presence of a balance between both primary producers ensures that linked biodiversity is maintained. In our study, during Y2, macrophyte coverage averaged 40% of the pond surface and CHL concentration was around 53 &#x00b5;g/L. Regarding macrophytes, our results are higher than those recommended by 
+                    <xref ref-type="bibr" rid="ref-50">Schlumberger and Girard (2020)</xref>, which were 15 to 20% macrophyte cover in extensive fish ponds. For phytoplankton, our results were below 60&#x00b5;g/L of CHL defined by 
+                    <xref ref-type="bibr" rid="ref-61">Wezel 
+                        <italic toggle="yes">et al</italic>. (2023)</xref> as a tipping point above which they observed a significant decrease in aquatic plant diversity. Thus, the dry season allows for the rejuvenation of the agroecosystem, but also for the initiation of a succession, especially for macrophytes (
+                    <xref ref-type="bibr" rid="ref-8">Arthaud 
+                        <italic toggle="yes">et al</italic>., 2013</xref>). Here, Y2 were characterized by a high richness and abundance of macrophytes, by a balance between plant and phytoplankton, and simultaneously by the highest fish yields. A complementary study with zooplankton monitoring could be interesting to demonstrate that Y2 proposed the highest productivity at the different links of the food web.</p>
+            </sec>
+            <sec>
+                <title>Effects of dry year disturbance on biodiversity</title>
+                <p>The diversity of macrophytes was found to be directly correlated with the macrophytes cover of the ponds. The macrophyte species richness was at its maximum in Y1 and then decreased in the following years. During Y1, we found an average of more than 22 species while then decreasing to about 16 in Y2 and only 11 in Y4. On average, fish ponds in the Dombes area host between 11 and 15 aquatic plant species (
+                    <xref ref-type="bibr" rid="ref-8">Arthaud 
+                        <italic toggle="yes">et al</italic>., 2013</xref>; 
+                    <xref ref-type="bibr" rid="ref-44">Robin 
+                        <italic toggle="yes">et al</italic>., 2014</xref>; 
+                    <xref ref-type="bibr" rid="ref-59">Vanacker 
+                        <italic toggle="yes">et al</italic>., 2015</xref>; 
+                    <xref ref-type="bibr" rid="ref-61">Wezel 
+                        <italic toggle="yes">et al</italic>., 2013</xref>). Our analysis shows that the macrophyte richness was different for each year, higher in Y1 and progressively decreased over the years.</p>
+                <p>In this paper, we were interested in the biodiversity of macrophytes only through the number of species. For biodiversity conservation purposes, it is also interesting to analyse the composition of the communities and their variation in different years. In a study on this, 
+                    <xref ref-type="bibr" rid="ref-24">Fontanilles 
+                        <italic toggle="yes">et al</italic>. (2023)</xref> highlighted about fifteen species specific to Y1. These are species with a high recolonization capacity or that are more tolerant to disturbance. Some species need this alternation between a dry phase and a wet phase. We found rare species, disappearing the following years. For the others years after drying-out, they observed the phenomenon of nestedness based on a loss of several species but not on a complete turnover (
+                    <xref ref-type="bibr" rid="ref-24">Fontanilles 
+                        <italic toggle="yes">et al</italic>., 2023</xref>).</p>
+                <p>Related to richness of phytoplankton taxa and CHL concentration, we found a negative correlation. These results are consistent with those found by 
+                    <xref ref-type="bibr" rid="ref-42">Qin 
+                        <italic toggle="yes">et al</italic>. (2013)</xref>, showing that eutrophication decreases phytoplankton diversity. Phytoplankton richness was, like macrophytes, at its maximum during Y1 and then comparatively low in Y&gt;5 ponds. We also observed that when the concentration of CHL increased, the percentage of cyanobacteria also increased to the detriment of other types of algae, resulting in an overall loss of phytoplankton taxa diversity. It is known that when phytoplankton concentration increases during eutrophication, the biomass of cyanobacteria increases and leads to changes in taxonomic structure (
+                    <xref ref-type="bibr" rid="ref-28">Havens, 2008</xref>). Our results are therefore similar. This proliferation of cyanobacteria should be avoided because it leads to both a loss of biodiversity and a significant decrease in oxygen in the water. This anoxia can lead in some cases to strong fish losses.</p>
+                <p>For invertebrates, the density was not at its maximum in Y1 but in Y2 and Y4. The recolonization time of these taxa appears to be longer after the disturbance of dry-out. Here we have only quantitative information with the density of invertebrates but not on the diversity present. Few studies have addressed the effect of drying out a pond on aquatic invertebrates. 
+                    <xref ref-type="bibr" rid="ref-47">Sayer 
+                        <italic toggle="yes">et al</italic>. (2012)</xref> showed that diversity was higher in managed ponds. The management practices included the removal of some of the sediments and trees growing around the pond. They can be compared to a dry-out with the objective of rejuvenating the agroecosystem. The duration of the dry period also appears to be an important factor in the ability to recolonize. 
+                    <xref ref-type="bibr" rid="ref-14">Boix 
+                        <italic toggle="yes">et al</italic>. (2001)</xref> presented an example with three pioneer species, present after six months of drying out but disappearing after two years. Further studies on invertebrate diversity should be conducted to confirm that invertebrate communities follow the same evolution cycle between two drying out from Y1 to Y&gt;5, as phytoplankton or macrophytes.</p>
+            </sec>
+            <sec>
+                <title>Drying out a pond as an important agroecological practice in extensive fish farming</title>
+                <p>Drying out ponds allows a mineralisation process, which ensures a greater availability of nutrients in the water during Y1. This allows a good development and a balance between the primary producers. This practice also promotes higher levels of macrophyte richness in the ponds and a higher density of invertebrates, a major source of food for the fish, especially in Y2. All these elements explain the better fish yields observed, especially in the second year of production. They also validate the hypothesis that drying out ponds appears as an important agroecological practice in extensive fish farming.</p>
+                <p>Our results are in line with some other research such as 
+                    <xref ref-type="bibr" rid="ref-58">Vanacker 
+                        <italic toggle="yes">et al</italic>. (2016)</xref> who stated that it is essential to dry out regularly to ensure good fish yields, as well as those of 
+                    <xref ref-type="bibr" rid="ref-30">Horvath 
+                        <italic toggle="yes">et al</italic>. (2002)</xref> who also confirmed the beneficial role of a period of drying out. We can see that, in addition to fish production, it is the entire functioning of the agroecosystem, based on primary production but also some species or taxa diversity, that benefits from this practice, in certain periods after the pond drying out. The cycle of different states, water and sediment quality, fish yield, and elements of biodiversity is illustrated in 
+                    <xref ref-type="fig" rid="f5">Figure 5</xref>. The drying out of ponds promotes a higher productivity of the agroecosystem during two or three years. The organic matter in the sediments undergoes mineralization during the dry period, making nitrate and phosphate available in the water the following years for primary production and thus also provides resources for fish. This enhanced mineralization can also limit the use of inputs during the fish production cycle. The disturbance through drying out and the available nutrients thereafter seem to support the recolonisation of macrophytes. Indeed, in Y2, a good state of equilibrium between the two types of primary producers is observed, but also macroinvertebrates in higher densities, altogether allowing better fish yields (
+                    <xref ref-type="fig" rid="f5">Figure 5</xref>). These observations are directly linked to one of the principles of agroecological fish pond management: &#x201c;an agroecological fish pond is robust and resilient&#x201d; (
+                    <xref ref-type="bibr" rid="ref-9">Aubin 
+                        <italic toggle="yes">et al</italic>., 2017</xref>). Moreover, drying out allows also to reach higher levels of aquatic plant and algal diversity, at least in the first few years. These refer also to the other principles such as being environmentally friendly (principle 4), and having a natural and cultural value (5). The drying out also indicates a certain resilience and robustness of the ecosystem (2), which is however mostly pronounced in Y1 and Y2.</p>
+                <fig fig-type="figure" id="f5" orientation="portrait" position="float">
+                    <label>Figure 5. </label>
+                    <caption>
+                        <title>Positioning of classes and variables on the factorial map.</title>
+                        <p>The points correspond to the individuals, i.e. the fish ponds, the arrows and their length to the correlation of the variables with the first two dimensions of the PCA, the ellipses represent a graphical summary of the scatterplots corresponding to each pond class. The center of the ellipse is the center of gravity.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17665/7ab675ab-00be-45c4-b3fb-6202fd03bc01_figure5.gif"/>
+                </fig>
+                <fig fig-type="figure" id="f6" orientation="portrait" position="float">
+                    <label>Figure 6. </label>
+                    <caption>
+                        <title>Conceptual model of the three stages identified in the temporal changes of a fish pond in the Dombes area, France.</title>
+                        <p>The x-axis represents primary productivity (algae and macrophytes) and the y-axis represents fish productivity. Year 2 (Y2) was the one with the best balance in a fish production objective. The percentage of mineral nitrogen is in water.</p>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17665/7ab675ab-00be-45c4-b3fb-6202fd03bc01_figure6.gif"/>
+                </fig>
+                <p>Our results might also justify the will of local actors in the study area to join the RAMSAR convention on wetlands of international importance, which rewards sites and actors who want to preserve wetlands. The role of fish farmers applying the production in an agroecological way is of first importance to meet the objectives of biodiversity conservation. In typical European pondscapes where fish production remains, maintaining this activity is essential for pond subsistence.</p>
+            </sec>
+            <sec>
+                <title>Frequency of drying out fish ponds</title>
+                <p>All the variables studied do not react in the same way to the disturbance caused by drying out ponds and do not evolve in the same way in the following years. Therefore, the question of the best dry-out frequency is important for the management of ponds from a production, but also ecological perspective. 
+                    <xref ref-type="bibr" rid="ref-30">Horvath 
+                        <italic toggle="yes">et al</italic>. (2002)</xref> mentioned that a dry period should be carried out regularly, but did not provide any details, whereas 
+                    <xref ref-type="bibr" rid="ref-47">Sayer 
+                        <italic toggle="yes">et al</italic>. (2012)</xref> stated that three to five years after sediment removal (ponds were dried out and sediments removed with mechanic action), macrophyte and invertebrate biodiversity decreased significantly. This is similar to findings by 
+                    <xref ref-type="bibr" rid="ref-58">Vanacker 
+                        <italic toggle="yes">et al</italic>. (2016)</xref> on determining tipping points in fish pond systems, who highlighted a significant decline in their performance indicator after Y&gt;5. This indicator was based on aquatic plant richness, CHL, and fish yield. They stated that ideally, a pond should have more than 15 species of macrophytes, a CHL concentration below 60 &#x00b5;g/L &#x2013; tthe threshold above which tipping points of different environmental variables are observed &#x2013; and may assure a fish yield above 213 kg/ha. Our results show that we had a richness of macrophytes below 15 from four years onwards. The tipping point of 60 &#x00b5;g/L of CHL was not reached, but was very close during Y4. Finally, a fish yield of 213 kg/ha was only reached in the second year, but was lower in all other years. These median values were very close to the averages stated in the 2021 report of the local fish promotion association.</p>
+                <p>Our results suggest that ponds should be dried out every three years. Indeed, ecosystem productivity, biodiversity levels and fish yields were at their maximum in the second year and then declined. Drying out at the end of the third year would allow a rapid return to these more favourable levels. Historically, the cycle has been of five or six years. Reducing it to four years would also have repercussions on water distribution. Indeed, each year a quarter of the ponds would be dry, instead of the current one-fifth. In a context of climate change and water shortage, this could be a solution for a better filling of the ponds.</p>
+                <p>Only very few ponds in our study area are kept in water for more than five years. It would be interesting to analyse the effects of this practice in other fish farming regions. Indeed, effects may differ between such a drying out practice done for the first time and conducted historically, as water and biodiversity variables might potentially vary considerably as disturbance regimes are different. Another important point to emphasize concerns the variability observed on all the parameters studied in this paper. Indeed, even if the practice of drying out ponds, for an entire growth season, is a factor explaining interannual variability, the latter was highly significant in each class. It would be interesting to investigate which factors explain this variability.</p>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>Fish ponds face a double challenge: to produce fish to ensure a sufficient income for pond managers while conserving biodiversity. Indeed, some pondscapes are considered as sites for biodiversity conservation such as a Natura 2000 zones or Ramsar sites, as discussed in the study area by local and regional stakeholders for the past few years. Agroecological practices must reconcile the two, through supporting an optimized functioning of the agroecosystem. Among all these practices, drying out ponds, although a major disturbance, allow a good functioning of this agroecosystem, permitting fish production while at the same time conserving biodiversity.</p>
+            <p>Our results do not show an accumulation of organic matter in the sediments, as we predicted. Nevertheless, our results suggest that a dry year allows the mineralization of nitrogen in pond sediments and enhances the availability of mineral nitrogen in the water column during the first year after dry stand (Y1). In connection with these nutrient dynamics, this practice allows the restoration of a good primary productivity and a significant colonization by macrophytes. Indeed, it favours a domination of the agroecosystem by macrophytes with a low phytoplankton development in Y1. Drying out resets the systems towards a macrophyte dominate state. In connection with this, we also observed a higher specific diversity.</p>
+            <p>The second year (Y2) marked the best state of balance between the two primary producers, an optimum unstable state for fish production. It was also the year with the highest density of invertebrates. These different elements explain why it was also the best year for fish yields.</p>
+            <p>During the following years (Y3 and Y4), we observed a decrease in inorganic nutrients availability in the water, as well as in the cover and the species diversity of macrophytes, in favour of the quantity of phytoplankton.</p>
+            <p>For ponds maintained in water for a longer period (more than five years), we observed a lower presence of the two primary producers: a low cover of macrophytes and a lower concentration of phytoplankton. The same was true for their diversity, which was at lower levels than in the first years. This change of functioning is beneficial for a detrivorous food web, also called microbial loop. The use of a dry period in these situations allows the rejuvenation of the ecosystem with a major disturbance. As we have seen, this allows a return to good levels of primary productivity and therefore fish production, while maintaining the highest levels of biodiversity.</p>
+            <p>Drying ponds out for one year might also be a practice to be implemented regularly in some natural ponds where organic matter has accumulated, more than sediment dredging techniques which are expensive and often inefficient on a long-term scale.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <sec>
+                <title>Underlying data</title>
+                <p>Zenodo: Dataset - Drying out fish ponds, for an entire growth season, as an agroecological practice: maintaining primary producers for fish production and biodiversity conservation, 
+                    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.8183091">https://doi.org/10.5281/zenodo.8183091</ext-link> (
+                    <xref ref-type="bibr" rid="ref-26">Girard 
+                        <italic toggle="yes">et al</italic>., 2023</xref>)</p>
+                <p>This project contains the following underlying data:</p>
+                <p>- Girard 
+                    <italic toggle="yes">et al.</italic> - 2023 - Dataset.csv</p>
+                <p>- Girard 
+                    <italic toggle="yes">et al.</italic> - 2023 - Metadata.csv</p>
+                <p>Data are available under the terms of the 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero "No rights reserved" data waiver</ext-link> (CC0 1.0 Public domain dedication).</p>
+            </sec>
+        </sec>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>Part of this research has received funding from the European Union&#x2019;s Horizon 2020 research and innovation programme under grant agreement No 869296 &#x2013; The PONDERFUL Project.</p>
+            <p>We highly acknowledge the fish pond owners and managers allowing to sample their fish ponds. We further thank Thomas Lhuillery, Mathieu Guerin and Florent Arthaud for data collection and Vincent Tolon for his help in statistical data analysis. We also thank Pieter Lemmens for his proofreading and advice.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="web">
+                    <collab>AFNOR</collab>:
+                    <article-title> ISO 10694 - Qualit&#x00e9; du sol - Dosage du carbone organique et du carbone total apr&#x00e8;s combustion s&#x00e8;che (analyse &#x00e9;l&#x00e9;mentaire).</article-title>
+               <year> 1995</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.iso.org/fr/standard/18782.html">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="web">
+                    <collab>AFNOR</collab>:
+                    <article-title>ISO 13878 - Qualit&#x00e9; du sol - D&#x00e9;termination de la teneur totale en azote par combustion s&#x00e8;che (&#x201c;analyse &#x00e9;l&#x00e9;mentaire&#x201d;).</article-title>
+               <year> 1998</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.iso.org/obp/ui/fr/#iso:std:iso:13878:ed-1:v1:fr">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="web">
+                    <collab>AFNOR</collab>:
+                    <article-title>NF X31-160 - Qualit&#x00e9; des sols - D&#x00e9;termination du phosphore soluble dans une solution &#x00e0; 20 g.l -1 d&#x2019;acide citrique monohydrat&#x00e9; - M&#x00e9;thode Dyer.</article-title>
+               <year> 1999</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://connect.snv.ch/en/nf-x31-160-1999">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="web">
+                    <collab>AFNOR</collab>:
+                    <article-title>NF T90-391 - Qualit&#x00e9; de l&#x2019;eau - D&#x00e9;termination de l&#x2019;indice oligoch&#x00e8;tes de bioindication lacustre (IOBL).</article-title>
+               <year> 2005</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.boutique.afnor.org/fr-fr/norme/nf-t90391/qualite-de-leau-determination-de-lindice-oligochetes-de-bioindication-lacus/fa137207/24606">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="web">
+                    <collab>AFNOR</collab>:
+                    <article-title>NF EN 15204 - Qualit&#x00e9; de l&#x2019;eau - Norme guide pour le d&#x00e9;nombrement du phytoplancton par microscopie invers&#x00e9;e (m&#x00e9;thode Uterm&#x00f6;hl).</article-title>
+               <year> 2006</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.boutique.afnor.org/fr-fr/norme/nf-en-15204/qualite-de-leau-norme-guide-pour-le-denombrement-du-phytoplancton-par-micro/fa136619/814">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Andersen</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Baldock</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bennett</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Developing a high nature value farming area indicator.</article-title>
+               <year> 2004</year>;<volume>75</volume>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eea.europa.eu/data-and-maps/indicators/agriculture-area-under-management-practices/developing-a-high-nature-value">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Arthaud</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Vallod</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Robin</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Short-term succession of aquatic plant species richness along ecosystem productivity and dispersal gradients in shallow lakes.</article-title>Munzbergova Z editor.
+                    <source>
+
+                        <italic toggle="yes">J Veg Sci.</italic>
+               </source>
+               <year>2013</year>;<volume>24</volume>(<issue>1</issue>):<fpage>148</fpage>&#x2013;<lpage>56</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/j.1654-1103.2012.01436.x</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Aubin</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Robin</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wezel</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Agroecological management in fish pond systems.</article-title>In:
+                    <italic toggle="yes">Agroecological Practices for Sustainable Agriculture&#x202f;: Pinciples, Applications, and Making the Transition.</italic>1&#x00e8;re &#x00e9;dition.&#x200e; World Scientific Europe Ltd;<year>2017</year>.
+                    <pub-id pub-id-type="doi">10.1142/9781786343062_0012</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Avocat</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>La Dombes, milieu naturel ou milieu en &#x00e9;quilibre&#x202f;? Introduction &#x00e0; une &#x00e9;co-g&#x00e9;ographie de l&#x2019;espace dombiste.</article-title>
+                    <source>
+
+                        <italic toggle="yes">geoca.</italic>
+               </source>
+               <year>1975</year>;<volume>50</volume>(<issue>1</issue>):<fpage>35</fpage>&#x2013;<lpage>58</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.persee.fr/doc/geoca_0035-113x_1975_num_50_1_1666">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-81">
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bates</surname>
+                            <given-names>DM</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>lme4: Mixed-e&#xfb00;ects modeling with R</article-title>.<year>2010</year>;<fpage>131</fpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://stat.ethz.ch/~maechler/MEMo-pages/lMMwR.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bernard</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lebreton</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Les oiseaux de la Dombes&#x202f;: une mise &#x00e0; jour</article-title>.<year>2007</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.fondation-pierre-verots.fr/wp-content/uploads/2020/10/Les-oiseaux-de-la-Dombes-une-mise-a-jour.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Biggs</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Corfield</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Walker</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>New approaches to the management of ponds.</article-title>
+                    <source>
+
+                        <italic toggle="yes">British Wildlife.</italic>
+               </source>
+               <year>1994</year>;<volume>5</volume>(<issue>5</issue>):<fpage>15</fpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://freshwaterhabitats.org.uk/wp-content/uploads/2013/09/Biggs-et-al-1994-New-approaches.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Billard</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>L&#x2019;&#x00e9;tang de Dombes. Insertion dans le paysage agraire.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Bull Fr Piscic.</italic>
+               </source>
+               <year>1979</year>;<volume>272</volume>:<fpage>71</fpage>&#x2013;<lpage>93</lpage>.
+                    <pub-id pub-id-type="doi">10.1051/kmae:1979013</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Boix</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sala</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Moreno-Amich</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The faunal composition of espolla pond (ne iberian peninsula): the neglected biodiversity of temporary waters.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Wetlands.</italic>
+               </source>
+               <year>2001</year>;<volume>21</volume>(<issue>4</issue>):<fpage>577</fpage>&#x2013;<lpage>592</lpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://tinyurl.com/3u4pfr8t">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Boyd</surname>
+                            <given-names>CE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pippopinyo</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Factors affecting respiration in dry pond bottom soils.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Aquaculture.</italic>
+               </source>
+               <year>1994</year>;<volume>120</volume>(<issue>3&#x2013;4</issue>):<fpage> 283</fpage>&#x2013;<lpage>93</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/0044-8486(94)90085-X</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Boyd</surname>
+                            <given-names>CE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wood</surname>
+                            <given-names>CW</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Thunjai</surname>
+                            <given-names>T</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Aquaculture pond bottom soil quality management</article-title>.<year>2002</year>;<fpage>45</fpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://freshwater-aquaculture.extension.org/wp-content/uploads/2019/08/Aquaculture_Pond_Bottom_Soil_Quality_Management.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Braun-Blanquet</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Plant Sociology: The Study of Plant Communities</article-title>.<year>1932</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://digital.library.cornell.edu/catalog/chla2917578">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Broyer</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Curtet</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Biodiversity and fish farming intensification in French fishpond systems.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Hydrobiologia.</italic>
+               </source>
+               <year>2012</year>;<volume>694</volume>(<issue>1</issue>):<fpage>205</fpage>&#x2013;<lpage>218</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s10750-012-1162-5</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>C&#x00e9;r&#x00e9;ghino</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Biggs</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Oertli</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The ecology of European ponds: defining the characteristics of a neglected freshwater habitat</article-title>. In: Oertli B, C&#x00e9;r&#x00e9;ghino R, Biggs J, Declerck S, Hull A, Miracle MR, editors.
+                    <italic toggle="yes">Pond Conservation in Europe</italic>. Dordrecht: Springer Netherlands;<year>2007</year>;<fpage>1</fpage>&#x2013;<lpage>6</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/978-90-481-9088-1_1</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Eriksson</surname>
+                            <given-names>O</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The importance of traditional agricultural landscapes for preventing species extinctions.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Biodivers Conserv.</italic>
+               </source>
+               <year>2021</year>;<volume>30</volume>(<issue>5</issue>):<fpage>1341</fpage>&#x2013;<lpage>1357</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s10531-021-02145-3</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Evans</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Building the European Union&#x2019;s Natura 2000 network.</article-title>
+                    <source>
+
+                        <italic toggle="yes">NC.</italic>
+               </source>
+               <year>2012</year>;<volume>1</volume>:<fpage>11</fpage>&#x2013;<lpage>26</lpage>.
+                    <pub-id pub-id-type="doi">10.3897/natureconservation.1.1808</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Folke</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Carpenter</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Walker</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Regime Shifts, Resilience, and Biodiversity in Ecosystem Management.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Annu Rev Ecol Evol Syst.</italic>
+               </source>
+               <year>2004</year>;<volume>35</volume>(<issue>1</issue>):<fpage>557</fpage>&#x2013;<lpage>581</lpage>.
+                    <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.35.021103.105711</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fontanilles</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Robin</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rouifed</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Disturbance and resilience of aquatic plant communities in fish ponds after temporary dry periods.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Aquat Ecol.</italic>
+               </source>
+               <year>2023</year>.
+                    <pub-id pub-id-type="doi">10.1007/s10452-023-10032-y</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Fox</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Weisberg</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>An R Companion to Applied Regression</article-title>.<year>2019</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.john-fox.ca/Companion/index.html">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <mixed-citation publication-type="data">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Girard</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Robin</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wezel</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <data-title>Dataset - Drying out fish ponds, for an entire growth season, as an agroecological practice: maintaining primary producers for fish production and biodiversity conservation [Data set]</data-title>.
+                    <source>Zenodo</source>.<year>2023</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.5281/zenodo.8183091">http://www.doi.org/10.5281/zenodo.8183091</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Havens</surname>
+                            <given-names>KE</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Cyanobacteria blooms: effects on aquatic ecosystems.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Adv Exp Med Biol.</italic>
+               </source>
+               <year>2008</year>;<volume>619</volume>:<fpage>733</fpage>&#x2013;<lpage>47</lpage>.
+                    <pub-id pub-id-type="pmid">18461790</pub-id>
+                    <pub-id pub-id-type="doi">10.1007/978-0-387-75865-7_33</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <mixed-citation publication-type="report">
+                    <collab>HLPE</collab>:
+                    <article-title>HLPE Report #14 - Agroecological and other innovative approaches for sustainable agriculture and food systems that enhance food security and nutrition</article-title>.<year>2019</year>;<fpage>163</fpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://www.fao.org/3/ca5602en/ca5602en.pdf">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Horvath</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Tamas</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Seagrave</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Carp and Pond Fish Culture</article-title>. Seconde Edition. John Wiley &amp; Sons;<year>2002</year>.
+                    <pub-id pub-id-type="doi">10.1002/9780470995662</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lemmens</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mergeay</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>De Bie</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>How to Maximally Support Local and Regional Biodiversity in Applied Conservation? Insights from Pond Management.</article-title>. Fontaneto D, editor.
+                    <source>
+
+                        <italic toggle="yes">PLoS One.</italic>
+               </source>
+               <year>2013</year>;<volume>8</volume>(<issue>8</issue>):
+                    <elocation-id>e72538</elocation-id>.
+                    <pub-id pub-id-type="pmid">23951328</pub-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0072538</pub-id>
+                    <pub-id pub-id-type="pmcid">3741229</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lemmens</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mergeay</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Van Wichelen</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The Impact of Conservation Management on the Community Composition of Multiple Organism Groups in Eutrophic Interconnected Man-Made Ponds</article-title>. Green AJ, editor.
+                    <source>
+
+                        <italic toggle="yes">PLoS One.</italic>
+               </source>
+               <year>2015</year>;<volume>10</volume>(<issue>9</issue>):
+                    <elocation-id>e0139371</elocation-id>.
+                    <pub-id pub-id-type="pmid">26422390</pub-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0139371</pub-id>
+                    <pub-id pub-id-type="pmcid">4589289</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lierdeman</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Principes de gestion et modalit&#x00e9;s d&#x2019;entretien</article-title>. In:
+                    <italic toggle="yes">Mares et &#x00e9;tangs&#x202f;: Ecologie, conservation, gestion, valorisation</italic>. PPUR Presses polytechniques;<year>2013</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <mixed-citation publication-type="web">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mazzella</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Cr&#x00e9;ation d&#x2019;un nouvel outil de bioindication bas&#x00e9; sur les communaut&#x00e9;s d&#x2019;invert&#x00e9;br&#x00e9;s benthiques lacustres: m&#x00e9;thodes d&#x2019;&#x00e9;chantillonnage et m&#x00e9;triques candidates</article-title>.<year>2009</year>;<fpage>26</fpage>.
+                    <ext-link ext-link-type="uri" xlink:href="https://hal.inrae.fr/hal-02592211/document">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-35">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Mueller</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Maes</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Arguments for biodiversity conservation in Natura 2000 sites: An analysis based on LIFE projects.</article-title>
+                    <source>
+
+                        <italic toggle="yes">NC.</italic>
+               </source>
+               <year>2015</year>;<volume>12</volume>:<fpage>1</fpage>&#x2013;<lpage>26</lpage>.
+                    <pub-id pub-id-type="doi">10.3897/natureconservation.12.4848</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-36">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Oertli</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Biggs</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>C&#x00e9;r&#x00e9;ghino</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Conservation and monitoring of pond biodiversity: introduction.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Aquatic Conserv Mar Freshw Ecosyst.</italic>
+               </source>
+               <year>2005</year>;<volume>15</volume>(<issue>6</issue>):<fpage>535</fpage>&#x2013;<lpage>540</lpage>.
+                    <pub-id pub-id-type="doi">10.1002/aqc.752</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-37">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Oertli</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Frossard</surname>
+                            <given-names>PA</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Mares et &#x00e9;tangs&#x202f;: Ecologie, conservation, gestion, valorisation</article-title>. PPUR Presses polytechniques;<year>2013</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-39">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Okuda</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Watanabe</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fukumori</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Biodiversity Researches on Microbial Loop in Aquatic Systems</article-title>. In:
+                    <italic toggle="yes">Biodiversity in Aquatic Systems and Environments</italic>.<year>2013</year>.
+                    <pub-id pub-id-type="doi">10.1007/978-4-431-54150-9_3</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-40">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Parsons</surname>
+                            <given-names>TT</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Strickland</surname>
+                            <given-names>JDH</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Discussion of Spectrophotometric Determination of Marine-Plant Pigments, with Revised Equations for Ascertaining Chlorophylls and Carotenoids.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Mar Res.</italic>
+               </source>
+               <year>1963</year>;<volume>21</volume>:<fpage>155</fpage>&#x2013;<lpage>63</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://scirp.org/reference/referencespapers.aspx?referenceid=1163102">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-41">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Patil</surname>
+                            <given-names>I</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Visualizations with statistical details: The &#x201c;ggstatsplot&#x201d; approach.</article-title>
+                    <source>
+
+                        <italic toggle="yes">JOSS.</italic>
+               </source>
+               <year>2021</year>;<volume>6</volume>(<issue>61</issue>):
+                    <elocation-id>3167</elocation-id>.
+                    <pub-id pub-id-type="doi">10.21105/joss.03167</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-42">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Qin</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gao</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Zhu</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Lake eutrophication and its ecosystem response.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Chin Sci Bull.</italic>
+               </source>
+               <year>2013</year>;<volume>58</volume>(<issue>9</issue>):<fpage>961</fpage>&#x2013;<lpage>970</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s11434-012-5560-x</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-43">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Queiroz</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Beilin</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Folke</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Farmland abandonment: threat or opportunity for biodiversity conservation? A global review.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Front Ecol Evol.</italic>
+               </source>
+               <year>2014</year>;<volume>12</volume>(<issue>5</issue>):<fpage>288</fpage>&#x2013;<lpage>96</lpage>.
+                    <pub-id pub-id-type="doi">10.1890/120348</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-80">
+                <mixed-citation publication-type="journal">
+                    <collab>R Development Core Team</collab>:
+                    <article-title>R: A Language and Environment for Statistical Computing.</article-title>R Foundation for Statistical Computing, Vienna, Austria.<year>2013</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.gbif.org/tool/81287/r-a-language-and-environment-for-statistical-computing">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-44">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Robin</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wezel</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bornette</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Biodiversity in eutrophicated shallow lakes: determination of tipping points and tools for monitoring.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Hydrobiologia.</italic>
+               </source>
+               <year>2014</year>;<volume>723</volume>(<issue>1</issue>):<fpage>63</fpage>&#x2013;<lpage>75</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s10750-013-1678-3</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-45">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Rosset</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ang&#x00e9;libert</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Arthaud</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Is eutrophication really a major impairment for small waterbody biodiversity</article-title>? Arnott S editor.
+                    <source>
+
+                        <italic toggle="yes">J Appl Ecol.</italic>
+               </source>
+               <year>2014</year>;<volume>51</volume>(<issue>2</issue>):<fpage>415</fpage>&#x2013;<lpage>25</lpage>.
+                    <pub-id pub-id-type="doi">10.1111/1365-2664.12201</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-47">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sayer</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Andrews</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Shilland</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The role of pond management for biodiversity conservation in an agricultural landscape.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Aquatic Conserv Mar Freshw Ecosyst.</italic>
+               </source>
+               <year>2012</year>;<volume>22</volume>(<issue>5</issue>):<fpage>626</fpage>&#x2013;<lpage>638</lpage>.
+                    <pub-id pub-id-type="doi">10.1002/aqc.2254</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-48">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Sceau</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Les &#x00e9;tangs de la Dombes, fondements socio-&#x00e9;conomiques d&#x2019;un syst&#x00e8;me hydraulique.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Revue de g&#x00e9;ographie de Lyon.</italic>
+               </source>
+               <year>1980</year>;<volume>55</volume>(<issue>2</issue>):<fpage>129</fpage>&#x2013;<lpage>159</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.persee.fr/doc/geoca_0035-113x_1980_num_55_2_1271">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-49">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Scheffer</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Carpenter</surname>
+                            <given-names>SR</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Catastrophic regime shifts in ecosystems: linking theory to observation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Trends Ecol Evol.</italic>
+               </source>
+               <year>2003</year>;<volume>18</volume>:<fpage>648</fpage>&#x2013;<lpage>56</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.tree.2003.09.002</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-50">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Schlumberger</surname>
+                            <given-names>O</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Girard</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Memento de la pisciculture d&#x2019;&#x00e9;tang. 5i&#x00e8;me &#x00e9;dition mise &#x00e0; jour</article-title>. Versailles: Quae;<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.quae.com/produit/1642/9782759231799/memento-de-pisciculture-d-etang">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-51">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Schmitzberger</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wrbka</surname>
+                            <given-names>Th</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Steurer</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>How farming styles influence biodiversity maintenance in Austrian agricultural landscapes.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Agric Ecosyst Environ.</italic>
+               </source>
+               <year>2005</year>;<volume>108</volume>(<issue>3</issue>):<fpage>274</fpage>&#x2013;<lpage>290</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.agee.2005.02.009</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-52">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Soukainen</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Cardoso</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Accuracy of non-parametric species richness estimators across taxa and regions.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ecology.</italic>
+               </source>
+               <year>2022</year>.</mixed-citation>
+            </ref>
+            <ref id="ref-53">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Thioulouse</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dray</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dufour</surname>
+                            <given-names>AB</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Multivariate Analysis of Ecological Data with ade4</article-title>.<year>2018</year>.
+                    <pub-id pub-id-type="doi">10.1007/978-1-4939-8850-1</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-54">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Vallod</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sarrazin</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Caract&#x00e9;risation de l&#x2019;effluent de vidange d&#x2019;un &#x00e9;tang de pisciculture extensive.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Hydrol Sci J.</italic>
+               </source>
+               <year>2010</year>;<volume>55</volume>(<issue>3</issue>):<fpage>394</fpage>&#x2013;<lpage>402</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/02626661003683272</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-55">
+                <mixed-citation publication-type="other">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Vallod</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wezel</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Influence des pratiques agropiscicoles sur la biodiversit&#x00e9; des &#x00e9;tangs de la Dombes (Ain, France) en vue d&#x2019;une valorisation de produits du terroir</article-title>.<year>2010</year>;<fpage>6</fpage>.
+                    <pub-id pub-id-type="doi">10.4000/vertigo.9980</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-56">
+                <mixed-citation publication-type="other">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Vallod</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wezel</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Robin</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Caract&#x00e9;risation &#x00e9;cologique des &#x00e9;tangs de la Dombes. Mise au point d&#x2019;une m&#x00e9;thode d&#x2019;&#x00e9;valuation applicable aux &#x00e9;tangs</article-title>.<year>2011</year>;<fpage>65</fpage>.</mixed-citation>
+            </ref>
+            <ref id="ref-57">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Vanacker</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Les points de basculement dans les &#x00e9;tangs piscicoles&#x202f;: relation entre la qualit&#x00e9; de l&#x2019;eau et la biodiversit&#x00e9;</article-title>. Isara;<year>2016</year>.
+                    <ext-link ext-link-type="uri" xlink:href="https://hal.science/tel-02529350/document">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-58">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Vanacker</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wezel</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Arthaud</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Determination of tipping points for aquatic plants and water quality parameters in fish pond systems: A multi-year approach.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ecol Indic.</italic>
+               </source>
+               <year>2016</year>;<volume>64</volume>:<fpage>39</fpage>&#x2013;<lpage>48</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.ecolind.2015.12.033</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-59">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Vanacker</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wezel</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Payet</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Determining tipping points in aquatic ecosystems: The case of biodiversity and chlorophyll &#x03b1; relations in fish pond systems.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Ecol Indic.</italic>
+               </source>
+               <year>2015</year>;<volume>52</volume>:<fpage>184</fpage>&#x2013;<lpage>93</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.ecolind.2014.12.011</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-61">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wezel</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Arthaud</surname>
+                            <given-names>F</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Dufloux</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Varied impact of land use on water and sediment parameters in fish ponds of the Dombes agro-ecosystem, France.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Hydrol Sci J.</italic>
+               </source>
+               <year>2013</year>;<volume>58</volume>(<issue>4</issue>):<fpage>854</fpage>&#x2013;<lpage>71</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/02626667.2013.780656</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-62">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wezel</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Herren</surname>
+                            <given-names>BG</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kerr</surname>
+                            <given-names>RB</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Agroecological principles and elements and their implications for transitioning to sustainable food systems. A review.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Agron Sustain Dev.</italic>
+               </source>
+               <year>2020</year>;<volume>40</volume>(<issue>6</issue>): 40.
+                    <pub-id pub-id-type="doi">10.1007/s13593-020-00646-z</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-63">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wezel</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Oertli</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rosset</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Biodiversity patterns of nutrient-rich fish ponds and implications for conservation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Limnology.</italic>
+               </source>
+               <year>2014</year>;<volume>15</volume>(<issue>3</issue>):<fpage>213</fpage>&#x2013;<lpage>223</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s10201-013-0419-7</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-64">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wickham</surname>
+                            <given-names>H</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>ggplot2&#x202f;: elegant graphics for data analysis</article-title>.<year>2016</year>.
+                    <pub-id pub-id-type="doi">10.1007/978-3-319-24277-4</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-65">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Williams</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Whitfield</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Biggs</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Comparative biodiversity of rivers, streams, ditches and ponds in an agricultural landscape in Southern England.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Biol Conserv.</italic>
+               </source>
+               <year>2004</year>;<volume>115</volume>(<issue>2</issue>):<fpage>329</fpage>&#x2013;<lpage>41</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/S0006-3207(03)00153-8</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-66">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zamora-Mar&#x00ed;n</surname>
+                            <given-names>JM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ilg</surname>
+                            <given-names>C</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Demierre</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Contribution of artificial waterbodies to biodiversity: A glass half empty or half full?</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sci Total Environ.</italic>
+               </source>
+               <year>2021</year>;<volume>753</volume>:
+                    <elocation-id>141987</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1016/j.scitotenv.2020.141987</pub-id>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report34752">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17665.r34752</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Bacon</surname>
+                        <given-names>Christopher</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r34752a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2534-6900</uri>
+                </contrib>
+                <aff id="r34752a1">
+                    <label>1</label>Associate Professor of Environmental Politics and Policy, Santa Clara University, Santa Clara, California, USA</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>13</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Bacon C</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport34752"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16363.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article entitled, &#x201c;Drying out fish ponds, for an entire growth season, as an agroecological practice: maintaining primary producers for fish production and biodiversity conservation&#x201d; contributes to an often overlooked area of agroecology by incorporating on-farm fish ponds. The consideration of the way that the pods relate to&#x00a0;nutrient cycling and on-farm aquatic biodiversity offers an important and potentially innovative contribution to the literature and the scientific measurements and sample sizes are generally robust.</p>
+            <p> </p>
+            <p> Overall, I find the writing clear, the references well done and I think this will be of interest to readers of this journal. I do have several suggestions that could be useful for revisions, which I have organized according to the subsection below.</p>
+            <p> </p>
+            <p> Introduction&#x00a0; 
+                <list list-type="order">
+                    <list-item>
+                        <p>A map / photo of some of these pondscapes could be a useful visual for readers.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Third paragraph first sentence - more biodiversity than which other environments?&#x00a0;</p>
+                    </list-item>
+                    <list-item>
+                        <p>This same paragraph has a sequence of different propositions that either need more explanation and should be discussed in several separate paragraphs. There are ideas about why the pods were made commingled with ideas about how much biodiversity they sustain and if managed vs. unmanaged ones conserve more biodiversity.</p>
+                    </list-item>
+                    <list-item>
+                        <p>First 2 paragraphs were strong, but I was a bit lost with all of these ideas in the third paragraph.</p>
+                    </list-item>
+                    <list-item>
+                        <p>More clarity on why the dry out phase has been used used would be helpful.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Strong clear statement of study goals and hypothesis - I would preview these earlier in the introduction.</p>
+                    </list-item>
+                </list> 
+         </p>
+            <p> Methods&#x00a0; 
+                <list list-type="order">
+                    <list-item>
+                        <p>Clear writing, robust research plan, and this section also helped further explain several questions I had in the introduction (see comments above).&#x00a0;</p>
+                    </list-item>
+                </list> 
+         </p>
+            <p> Results&#x00a0; 
+                <list list-type="order">
+                    <list-item>
+                        <p>Generally clear, robust and well organized.&#x00a0;</p>
+                    </list-item>
+                    <list-item>
+                        <p>A bit more detail in the figure captions explaining each figure would be helpful.&#x00a0;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Also reminders of the sample size and years covered.&#x00a0;</p>
+                    </list-item>
+                </list> 
+         </p>
+            <p> Discussion and conclusion&#x00a0; 
+                <list list-type="order">
+                    <list-item>
+                        <p>Missing a summary of the results vs. in initial hypothesis.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Missing a border discussion about how this relates to the brief literature review engaged in the introduction and the agroecological management biodiversity over time and across land and water.. And, tie back into the discussion of agroecological principles.&#x00a0;&#x00a0;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Conclusion is solid but could talk a bit more about generalizability to other places.&#x00a0;</p>
+                    </list-item>
+                    <list-item>
+                        <p>Question - Why not broaden the focus to include agricultural ponds for irrigation not just for fish?&#x00a0;</p>
+                    </list-item>
+                    <list-item>
+                        <p>As another broader implication that authors may want to consider in the discussion, or suggest for future research in the conclusion, is the extent to which this study could contribute to a broader research agenda related to the agroecology-based management of water systems.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Is the study design appropriate and does the work have academic merit?</p>
+            <p>Yes</p>
+            <p>Is the work clearly and accurately presented and does it cite the current literature?</p>
+            <p>Yes</p>
+            <p>If applicable, is the statistical analysis and its interpretation appropriate?</p>
+            <p>I cannot comment. A qualified statistician is required.</p>
+            <p>Are all the source data underlying the results available to ensure full reproducibility?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn adequately supported by the results?</p>
+            <p>Partly</p>
+            <p>Are sufficient details of methods and analysis provided to allow replication by others?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Agroecology</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+</article>

@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="review-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15078.2</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Review</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>The missing piece. The perceived marginalization of CSOs and HRGs in SOSTs&#x2019; decision-making processes: a review</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 2; peer review: 1 approved, 4 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>De Sabbata</surname>
+                        <given-names>Lorenzo</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Supervision</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-6770-7807</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Laterza</surname>
+                        <given-names>Riccardo</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Formal Analysis</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-2139-5027</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Del Bianco</surname>
+                        <given-names>Daniele</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Ferrari</surname>
+                        <given-names>Olivia</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Benedetti</surname>
+                        <given-names>Ezio</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Institute of International Sociology of Gorizia &#x2013; ISIG, Gorizia, Italy, 34170, Italy</aff>
+                <aff id="a2">
+                    <label>2</label>Department of Social and Political Sciences, University of Trieste, Trieste, 34127, Italy</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:desabbata@isig.it">desabbata@isig.it</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>27</day>
+                <month>6</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>21</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>16</day>
+                    <month>6</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 De Sabbata L et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-21/pdf"/>
+            <abstract>
+                <p>This review represents the first contribution of a research diptych which stems from the activities implemented in the framework of the H2020 ARESIBO project (Augmented Reality Enriched Situation awareness for Border security). The general objective of ARESIBO is to improve the efficiency of border surveillance systems by providing the operational teams, as well as the tactical command and control level with accurate and comprehensive information related to border control considering different issues and perspectives. These perspectives also include the analysis of the level of engagement and the (possible) enhancement of citizens&#x2019; involvement in the development and decision making related to border surveillance.</p>
+                <p>The principal human rights and migration International Organisations (IOs), as well as EU institutions dealing with security and external borders (i.e., Frontex), agree and state that human rights groups (HRGs) and civil society organisations (CSOs) should be more involved and integrated in border surveillance. That stated, the main goal of this paper is to analyse this perceived marginalisation of CSOs and HRGs, as it emerges from several HRGs&#x2019; and CSOs&#x2019; statements on that regard in order to explore the reasons of this perceived marginalisation, as well as the elements that on the contrary seem to make this marginalisation less substantial. The results of this non-systematic review in the framework of ARESIBO led to the elaboration of an innovative participatory model that will be analysed in detail in the second article of this research diptych, entitled &#x201c;Towards the engagement of citizens in SOSTs decision-making: participatory models setting a common ground for border surveillance and respect of fundamental rights. The case of ARESIBO H2020 project&#x201d;.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>participation</kwd>
+                <kwd>border surveillance</kwd>
+                <kwd>participatory models</kwd>
+                <kwd>Surveillance-Oriented Security Technologies (SOSTs) for borders control</kwd>
+                <kwd>citizens&#x2019; involvement</kwd>
+                <kwd>privacy</kwd>
+                <kwd>fundamental rights</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>833805</award-id>
+                </award-group>
+                <funding-statement>833805&#xD;
+ARESIBO&#xD;
+Augmented Reality Enriched Situation awareness for Border security</funding-statement>
+            </funding-group>
+        </article-meta>
+        <notes>
+            <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 1</title>
+                <p>We tried to address some of the most relevant comments presented by the reviewer. We highlight the fact that the article is a non-systematic review, we clarifiied the geographical scope of the article and addedd some references.</p>
+            </sec>
+        </notes>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <sec>
+                <title>The importance of a human rights-based approach in border management and border surveillance</title>
+                <p>Scholars and international organizations (including the EU and its agency dealing with the management of external borders &#x2013; Frontex
+                    <sup>
+                        <xref ref-type="other" rid="FN1">1</xref>
+                    </sup>) agree that an enhanced and more structured involvement of Civil Society Organisations (CSOs) and Human Rights Groups (HRGs) in decision making related border management and surveillance is of paramount importance to guarantee a consistent application and respect of fundamental rights, especially when the use of new technologies (e.g., use of AI in border surveillance, collection of biometric data at border crossings, etc.) is foreseen (
+                    <xref ref-type="bibr" rid="ref-11">McAdam, 2013</xref>).</p>
+                <p>For instance, the UN Office of the High Commissioner for Human Rights (OHCHR) affirms that: &#x00ab;
+                    <italic toggle="yes">States have legitimate interests in implementing border controls, in order to enhance security, to protect human rights, and to respond to transnational organized crime</italic>&#x00bb;, [&#x2026;] and &#x00ab;
+                    <italic toggle="yes">assert a human rights-based approach deriving from the core international human rights instruments and anchored in the interdependence and inalienability of all human rights, seek to establish accountability between duty-bearers and rightsholders, emphasis participation and empowerment, and focus on vulnerability, marginalization and exclusion.</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-18">OHCHR, 2014</xref>, 12).</p>
+                <p>The need (and the request) to ensure citizens&#x2019; and States&#x2019; security favoured the development and the introduction of new technologies and new approaches to border controls. In this frame, screening procedures at borders are deemed to play an important role in guaranteeing the overall security of the country, in particular in its efforts to fight against potential terrorist acts. At the same time, States are bound by international law to respect and protect the human rights of every individual while establishing security the measures and applying innovative and/or technological measures to ensure the control and the management of borders.</p>
+                <p>Thus, when dealing with border security and border management, it is not possible to disregard and underestimate the impact that counter terrorism measures and the adoption of SOSTs at borders have or may have on the fundamental rights of individuals, who are entitled to cross borders under determined conditions, such as economic migrants, individuals that ask for international protection &#x2013; such as refugees and asylum seekers &#x2013; as well as normal citizens who are travelling form a country to another for work or leisure.</p>
+                <p>Despite this general institutional and academic consensus, several HRGs and CSOs working in the framework of border surveillance issues perceive to be marginalised from the overall national and European border management system, and report(ed) and denounce(d) this marginalisation at different levels. The first goal of the paper is thus to explore this perceived marginalisation, giving an account on the main reasons for it, as they are expressed by HRGs and CSOs. At the same time, this review takes into account and outlines the ways in which HRGs and CSOs are included in border management, focusing in particular on FRONTEX, from the point of view of legislation and of its consultancy bodies. With these aims, following the focus of the ARESIBO project, the paper focuses in particular on the Mediterranean Region, with some references to the Hungarian-Serbian border. In its conclusions, the paper introduces the ARESIBO Participatory Model (APM), a participatory methodology elaborated in the frame of the project ARESIBO as a proposal to enhance participation of HRGs and CSOs in the development of border surveillance technologies, thus addressing this perceived marginalisation in a more consistent and structured manner
+                    <sup>
+                        <xref ref-type="other" rid="FN2">2</xref>
+                    </sup>.</p>
+            </sec>
+            <sec>
+                <title>What is the role of HRGs and CSOs in border management and in SOSTs decision making?</title>
+                <p>The analysis of the perceived marginalization of HRGs and CSOs in decision making related to border surveillance and border management stems from the consideration that many HRGs and CSOs have reported and criticized several human rights violations in recent years, including the rejection (i.e., 
+                    <italic toggle="yes">refoulement
+                        <sup>
+                            <xref ref-type="other" rid="FN3">3</xref>
+                        </sup>
+                    </italic>) of migrants and asylum seekers that involved border surveillance and management methods. Additionally, HRGs have asserted that they are being more and more excluded from discussions and decisions on these matters. According to such viewpoints, a security-focused, profit-driven, and technology-based approach to the  3mportanti replacing one that prioritizes human rights, portraying migration as primarily a security threat and technology as the primary means to address it.</p>
+                <p>Although it might be viewed as being somewhat essentialist, this dichotomy is a useful theoretical tool for evaluating and analysing in a broader context the various positions taken by HRGs and CSOs regarding border control technologies and how those positions may interact with the defence of immigrants&#x2019; and asylum seekers&#x2019; human rights as well as the rights of European citizens. The significant points made by various HRGs and CSOs in response to three primary research questions are summarized in this section.</p>
+                <p>The three research questions are the following. How do HRGs and CSOs describe the alleged marginalization process and which role do these stakeholders play in Europe&#x2019;s public and political discourse on that regard? Second, what are the major opinions about the platforms for engagement and points of contact between EU institutions and HRGs/CSOs? Third, what is the dialectic existing between the issues of respect of human rights and the articulated and complex system of procedures and rules put in place to enforce border controls in the EU?</p>
+                <p>Following this approach, to set the ground for the in-depth analysis of perceived marginalization of HRGs and CSOs in relation to border surveillance and border management policy making, the paper first provides for the results of a) a press review on EU relevant public debates involving the issues of border control and human rights (par. 3); b) a review of the integration of Protection of Fundamental Rights in Frontex legal basis, guidelines and code of conduct (par. 4). Second, the review focuses on the progressive creation of a &#x201c;border-industrial complex&#x201d; in Europe (par. 5), as some HRGs put it when criticizing what they perceived to be as an increased political and financial influence of industrial security lobbies on Frontex
+                    <sup>
+                        <xref ref-type="other" rid="FN4">4</xref>
+                    </sup> politics at the expense of a more human rights-oriented approach. Finally, the review focuses on how participatory tools used by EU institutions to consult HRGs and CSOs on migration policies and border management/surveillance have been received and applied (par. 7), and on the main criticisms moved by CSOs and HRGs regarding these processes, focusing in particular on the case of Frontex&#x2019;s Consultative Forum on Human Rights (par. 6).</p>
+            </sec>
+            <sec>
+                <title>Border management, HRGs/CSOs and human rights: a press review</title>
+                <p>Euro|topics
+                    <sup>
+                        <xref ref-type="other" rid="FN5">5</xref>
+                    </sup> served as the main tool for the press-review analysis realised for this contribute, in the framework of ARESIBO. Since 2005, euro|topics offers data on more than 500 print and online publications from more than 30 nations, including every EU member state.</p>
+                <p>From a methodological standpoint, the portal was searched for using both the terms &#x201c;border&#x201d; and &#x201c;human rights&#x201d;, focusing on the timeframe 2019&#x2013;2021. Results that were neither directly nor indirectly related to EU member states or EU institutions, as well as articles that focused on more general geopolitical issues, were not considered. Covid-19-related articles were also removed from the list. This decision has been taken to avoid an excessive focus on the pandemic circumstance and its impact on borders&#x2019; management (precisely because of the exceptional nature of the situation).</p>
+                <p>The review included 51 materials that directly or indirectly address human rights concerns in relation to border security. The selection has been based on 10 debates included in articles published on relevant European newspapers in 2019&#x2013;2021
+                    <sup>
+                        <xref ref-type="other" rid="FN6">6</xref>
+                    </sup>. According to the 10 selected debates, the 51 newspaper articles are distributed as follows:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>1. </label>
+                        <p>Cases of sexual abuse of children by refugees or asylum seekers in Finland (1 article).</p>
+                    </list-item>
+                    <list-item>
+                        <label>2. </label>
+                        <p>The Central Mediterranean migrant crisis which stood at the centre of a debate among EU member states on migrant rescue and re-distribution, in Summer 2019, and again in Spring-Summer 2020 (12 articles).</p>
+                    </list-item>
+                    <list-item>
+                        <label>3. </label>
+                        <p>The presentation of the new EU Commission by President Ursula von der Leyen, in September 2019 (3 articles).</p>
+                    </list-item>
+                    <list-item>
+                        <label>4. </label>
+                        <p>39 dead bodies of migrants found in a lorry nearby London, in October 2019 (4 articles);</p>
+                    </list-item>
+                    <list-item>
+                        <label>5. </label>
+                        <p>The Aegean Sea migrant crisis involving the island of Lesbos, Chios and Samos, which experienced a huge pressure with the installation of overcrowded refugee camps, between Autumn 2019 and Winter 2020 (4 articles);</p>
+                    </list-item>
+                    <list-item>
+                        <label>6. </label>
+                        <p>The January 2020 ECHR ruling that gave Spain permission to continue pushing back undocumented migrants from Ceuta and Melilla to Morocco, a procedure known as "hot return" (3 articles);</p>
+                    </list-item>
+                    <list-item>
+                        <label>7. </label>
+                        <p>The 2020 migrant crisis on the border between Greece-Turkey (19 articles);</p>
+                    </list-item>
+                    <list-item>
+                        <label>8. </label>
+                        <p>The massive fire that destroyed the Moira camp in Greece in September 2020, which was built to house 2,800 people but was occupied at the time by 12,000 asylum seekers (1 article);</p>
+                    </list-item>
+                    <list-item>
+                        <label>9. </label>
+                        <p>The New EU Asylum Pact presented by the EU Commission in September 2020, few weeks after the Moira Fire (2 articles);</p>
+                    </list-item>
+                    <list-item>
+                        <label>10. </label>
+                        <p>The response to media reports from December 2020 that claimed Frontex was personally responsible for unlawful pushing back of immigrant crossings at the Greek sea border (2 articles).</p>
+                    </list-item>
+                </list>
+                <p>The selected articles provide a variety of viewpoints, which can be grouped, analysed, and classified in accordance with opinions on EU border control and immigration policy, using two criteria. First, the fairness of implemented policies considering human rights and, more broadly, EU fundamental principles. Second, the effectiveness of imposed restrictions in comparison to illegal immigration and human trafficking, as one of the national and EU interests that must be upheld.</p>
+                <p>In this perspective, a relevant majority of articles &#x2013; 31 out of 51 &#x2013; put into question the fairness of EU policies, measures, and/or practices in border and migration control, while 19 out of 51 articles address the effectiveness of those same policies, measures, and practices. 11 out of 51 articles address both the fairness and the efficacy of these policies, measurements, and/or practices, whereas only 2 out of the 11 articles state that they are both unfair and ineffective. The approach to EU border management is not presented as fair but ineffective in any of the articles
+                    <sup>
+                        <xref ref-type="other" rid="FN7">7</xref>
+                    </sup>.</p>
+                <p>In addition, two relevant elements are present in all the article excerpts, both relevant for the purposes of this review. First, considerations and/or criticisms on the use of technology to accomplish the objectives associated to border control remain in the background. Policies and practices that make use of such technology to achieve certain border management goals seem to be the main issue at stake from the perspectives of both &#x201c;realist&#x201d; &#x2013; i.e., those who believe border policies are effective &#x2013; and &#x201c;critical&#x201d;&#x2013; i.e., those who believe border policies are unjust &#x2013; observers. In other words, it seems that mainstream media do not cover in-depth examinations of applied technologies.</p>
+                <p>The second  5mportanti that, even though the term &#x201c;human rights&#x201d; is mentioned in more than one article, along with references to the 1951 Geneva Convention
+                    <sup>
+                        <xref ref-type="other" rid="FN8">8</xref>
+                    </sup> and the European Convention on Human Rights (ECHR)
+                    <sup>
+                        <xref ref-type="other" rid="FN9">9</xref>
+                    </sup>, there is no direct mention of specific HRGs or CSOs in the selected articles.</p>
+            </sec>
+            <sec>
+                <title>The role of Frontex for the protection of human rights: legal framework, guidelines and Code of Conduct</title>
+                <p>For what concerns Frontex and its role towards the protection of human rights, 
+                    <xref ref-type="bibr" rid="ref-8">Hruschka (2020)</xref> affirms that the fundamental objective of Frontex &#x2013; &#x00ab;
+                    <italic toggle="yes">to eliminate irregular border crossings of the external borders</italic>&#x00bb; &#x2013; is in constant conflict with &#x00ab;
+                    <italic toggle="yes">a human rights-based approach to the European migrant policy</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-8">Hruschka, 2020</xref>). Over time, this friction caused various public scandals, and the Agency frequently came under criticism from political groups, CSOs and HRGs.</p>
+                <p>However, the respect and the commitment for fundamental rights has been a part of Frontex&#x2019;s mandate since its origins. The review of the primary legislative provisions that form the Agency&#x2019;s legal basis demonstrates how increasingly important the preservation of basic rights has become to Frontex during these last few years. The goal of this section is to highlight that a human rights-based approach is enshrined in the legal provisions that created and regulate the work of the Agency, even if it is not always possible to assess consistently how these principles and rules are effectively applied in border management.</p>
+                <p>Following this approach, this review analysed the four (4) main documents which constitute the legal basis of the Agency&#x2019;s action and mandate
+                    <sup>
+                        <xref ref-type="other" rid="FN10">10</xref>
+                    </sup>. These four documents will be briefly recalled hereinafter in relation to their relevance to the human rights&#x2019; dimension.</p>
+                <p>The first 6mportanti the Regulation No. 2007/2004 of 26 October 2004. This Regulation of the EU is the first legal cornerstone for Frontex. The document refers to the respect and protection of fundamental rights in a very limited manner, with only Recital 22 mentioning it, as follows: &#x00ab;
+                    <italic toggle="yes">This Regulation respects the fundamental rights and observes the principles recognised by article 6(2) of the Treaty on European Union and reflected in the Charter of Fundamental Rights of the European Union</italic>&#x00bb;.</p>
+                <p>In this sense, it may be possible to argue that this reference to the fundamental principles governing the action of the EU is more a technicality and a legal duty than a real commitment enshrined in the Agency&#x2019;s mandate. However, in the next document considered for this article, Regulation No 1168/2011, which is an amendment to the Regulation No. 2007/2004, references to fundamental rights increase significantly. Article 1 of this regulation suggests that the &#x00ab;
+                    <italic toggle="yes">development of a forward-looking and comprehensive European migration policy, based on human rights, solidarity and responsibility, especially for those Member States facing specific and disproportionate pressures, remains a key policy objective for the Union</italic>&#x00bb;. It must be noted also that this document refers to &#x201c;fundamental rights&#x201d; over 35 times. Notably, such references include the broad contours of Frontex's mandate as well as several distinct areas of the Agency&#x2019;s activity, including refugees and asylum seekers, staff training, and collaboration with third countries
+                    <sup>
+                        <xref ref-type="other" rid="FN11">11</xref>
+                    </sup>.</p>
+                <p>A further evolution and increased attention to the fundamental rights dimension has been recorded in 2016 with the adoption and entry in force of Regulation No 2016/1624. References to &#x201c;fundamental rights&#x201d; are present in this document over 100 times and they address the general framework of Frontex&#x2019;s mandate in a specific manner. More in detail, art. 2 strengthens the role of fundamental rights in the Agency&#x2019;s overall mandate
+                    <sup>
+                        <xref ref-type="other" rid="FN12">12</xref>
+                    </sup>; art. 14 rebalances the weight of fundamental rights in Frontex&#x2019;s tasks and competences
+                    <sup>
+                        <xref ref-type="other" rid="FN13">13</xref>
+                    </sup>; and, for the first time ever since Frontex exists, art. 47 lists in a consistent and comprehensive manner the main fundamental rights references and international conventions guiding the Agency&#x2019;s action
+                    <sup>
+                        <xref ref-type="other" rid="FN14">14</xref>
+                    </sup>.</p>
+                <p>Finally, there are almost 200 instances of &#x201c;fundamental rights&#x201d; mentioned in the most recent legal act devoted to Frontex, the Regulation 2019/1896. These references cover the broad contours of Frontex&#x2019;s mandate as well as several distinct areas of the Agency&#x2019;s activity, including administration of hotspot regions, staff training, return decisions and operations, collaboration with foreign countries, and development of a complaint mechanism
+                    <sup>
+                        <xref ref-type="other" rid="FN15">15</xref>
+                    </sup>, which can be identified as the most innovative part of the document for what concerns human rights.</p>
+                <p>It is therefore possible to affirm that Frontex&#x2019;s legal basis clearly enshrines fundamental rights and freedoms in its mandate. Moreover, the Agency strictly adheres to the Charter of Fundamental Rights of the EU, the European Convention for the Protection of Human Rights and Fundamental Freedoms, as well as relevant international law. It is, however, more difficult to ascertain how these guiding principles are then translated into action.</p>
+                <p>In this perspective, it seems relevant to focus on two documents that regulate the Agency&#x2019;s actions: Frontex&#x2019;s Fundamental Rights Strategy and Code of Conduct. Since 2012, Frontex&#x2019;s Fundamental Rights Officer oversees the drafting of the Agency&#x2019;s Fundamental Rights Strategy (as foresaw by the Regulation 1168/2011 and confirmed in the Regulation 2019/1896) to integrate fundamental rights&#x2019; respect and protection in the performance of its daily tasks. The Strategy is implemented within the Agency&#x2019;s Action Plan, and it specifies practical fundamental rights protections that direct the Agency's operational efforts in the direction of the accomplishment of its mission and operational objectives. Frontex openly disseminates among the pertinent national, European, and/or international entities the goals and content of its Strategy, aiming to increase the transparency of its operations in the process.</p>
+                <p>The Frontex Strategy for 2021 has been developed in accordance with 9 principles that direct the Agency&#x2019;s actions and conduct with regard to border surveillance and the management of migratory flows. Here is a synthetic overview of such principles according to the Agency&#x2019;s Fundamental Rights Strategy endorsed by the Fundamental Rights Officer on 25 January 2021 and adopted by the Management Board on 14 February 2021: &#x00ab;
+                    <italic toggle="yes">1. Right to seek asylum. 2. Attention to the needs of vulnerable persons or groups and persons in a vulnerable situation, including children. 3. Best interests of the child as a primary consideration when taking any decisions affecting children. 4. Equality and non-discrimination in the design and implementation of border management measures. 5. Gender equality as an integral part of their work and resolve to include gender considerations throughout their operational activities. 6. Accountability of the agency to the European parliament and to the council as well as to the court of justice of the European union. 7. Transparency, good administration and access to documents held or produced by the agency. 8. Fundamental rights due diligence to all agency&#x2019;s activities, ensuring the highest standard of performance, assessing and mitigating the risk of violating fundamental rights from planning through monitoring and evaluation. 9. Protection of personal data</italic>&#x00bb; (pp. 5&#x2013;6).</p>
+                <p>The Strategy 7mportanti s7 a section dedicated to the state-of-the-art in the use of technology and in the development of SOSTs in border surveillance that may improve European Integrated Border Management and ensure Frontex&#x2019;s compliance with fundamental rights. In this perspective, the document states that &#x00ab;
+                    <italic toggle="yes">Compliance with fundamental rights, including the protection of personal data and non-discrimination, shall be a core element in the establishment and running of large-scale information systems under the responsibility of the Agency</italic>&#x00bb;, stressing that &#x00ab;
+                    <italic toggle="yes">coherent approach to the strategic and ethical aspects of sustainability and social responsibility is a key factor</italic>&#x00bb; (p. 12) in this regard
+                    <sup>
+                        <xref ref-type="other" rid="FN16">16</xref>
+                    </sup>.</p>
+                <p>As mentioned before in this paragraph, the 2011 amendment of the Frontex system included in Regulation 1168/2011 also added the requirement for the Agency to create a Code of Conduct that lays out &#x00ab;
+                    <italic toggle="yes">procedures intended to guarantee the principles of the rule of law and respect for fundamental rights with particular focus on unaccompanied minors and vulnerable persons, as well as on persons seeking international protection, applicable to all persons participating in the activities of the Agency</italic> &#x00bb; (art. 2&#x00b0;). The Agency&#x2019;s 
+                    <italic toggle="yes">Code of Conduct for all persons participating in Frontex operational activities</italic> is conceived to help &#x00ab;
+                    <italic toggle="yes">demonstrate the commitment made by Frontex to promote and enforce the highest professional and behavioural standards during operational activities. Such a commitment extends to fully respecting, upholding and fulfilling fundamental rights</italic>&#x00bb; (p. 5). There are seven articles of the 
+                    <italic toggle="yes">Code of Conduct</italic> that might be considered as most relevant when it comes to the promotion and protection of fundamental rights by the Agency and its personnel.</p>
+                <p>The first section of the 
+                    <italic toggle="yes">Code</italic> considering fundamental freedoms and human rights is art. 4. This article provides for the promotion, respect and fulfilment of fundamental rights for all individuals &#x00ab;
+                    <italic toggle="yes">regardless of their sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, nationality, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation or other status, with particular focus on vulnerable persons</italic>&#x00bb; and it &#x00ab;
+                    <italic toggle="yes">ensure respect for the relevant international and European instruments regarding fundamental rights protection, including the asylum acquis&#x00bb;.</italic> The second relevant section is included in art. 5, which provides for the respect and fulfilment of the rights of individuals seeking for international protection
+                    <sup>
+                        <xref ref-type="other" rid="FN17">17</xref>
+                    </sup> (i.e. asylum seekers, refugees). Thirdly, art. 6 insists on the performance of duties dimension. In fact, it provides for the accountability of the Agency&#x2019;s staff on fundamental rights in performing their duties. The fourth relevant section is included in art. 9 where the 
+                    <italic toggle="yes">Code of Conduct</italic> affirms the confidentiality principle in relation with the procession of personal data and the need to comply with EU and national laws on personal data protection. The next two sections are included respectively in art. 10 and art. 12. Art. 10 insists on the need to stick on behavioural standards for the staff employed by the Agency
+                    <sup>
+                        <xref ref-type="other" rid="FN18">18</xref>
+                    </sup>, while art. 12 provides for the strict application of non-discrimination principle to all activities implemented by Frontex. The seventh, and last, section of the 
+                    <italic toggle="yes">Code</italic> (art. 20)
+                    <italic toggle="yes"/> establishes the duty to cooperate and inform affirming that &#x00ab;
+                    <italic toggle="yes">participants must provide information about the complaint mechanism and complaint form to any person who wants to report an alleged fundamental rights violation under that mechanism&#x201d; (p. 21)</italic>&#x00bb;
+                    <sup>
+                        <xref ref-type="other" rid="FN19">19</xref>
+                    </sup>.</p>
+            </sec>
+            <sec>
+                <title>1. HRGs and CSOs vis-&#x00e0;-vis the security-industrial complex</title>
+                <p>This paragraph focuses on the alleged dependence of Frontex from the &#x201c;industrial-military complex&#x201d;, which, according to some HRGs&#x2019; and CSOs&#x2019; narrative and perception, tends to impose its will and vision on the action of the Agency when it comes to fundamental rights and respect of fundamental freedoms in border controls and management.</p>
+                <p> It is rather challenging to put together a comprehensive map of every critical viewpoint HRGs have expressed on border controls and surveillance technologies. In fact, a tremendous number of remarks, inquiries, complaints, allegations, and claims have been made by HRGs and CSOs against the general EU migration policy and the action of Frontex in the last 5 to 10 years. These positions, although frequently have a similar ethical foundation, vary from one another depending on the specific area of influence of each group, which can be territorially or thematically defined. For any of the aforementioned HRGs, such differentiation ensures a particular environment for action as well as areas for self-organization and self-representation. Thus, the goal of this analysis is to concentrate on a specific standpoint that several groups appear to share: the perception of a progressive disregard for fundamental rights concerns and priorities when defining border control policies and deploying surveillance technologies. In other words, HRGs and CSOs actually view themselves as marginalized actors within the framework of border control policy-making, in favour of the emergence of a so-called &#x201c;
+                    <italic toggle="yes">European security-industrial complex</italic>&#x201d;.</p>
+                <p>The term &#x201c;
+                    <italic toggle="yes">security-industrial complex</italic>&#x201d; and its conceptual variants recall the earlier &#x201c;
+                    <italic toggle="yes">military-industrial complex</italic>&#x201d;, which was used to describe the close connection existing at the time of Cold War between State institutions, their military apparatuses, and the economic sectors supporting them, merging in a potent bundle of interests, in particular in the USA
+                    <sup>
+                        <xref ref-type="other" rid="FN20">20</xref>
+                    </sup>. The security-industrial complex is accredited to have shifted the same logic on the field of borders control and internal security, at European level. In other words, while criticising the overall structure of EU migration policy, several NGOs, HRGs, and think-tanks maintain that the security and technology sectors are intensifying their lobbying efforts to affect EU policies towards migration in general and Frontex activity in particular.</p>
+                <p>This theoretical approach is at the same time sustained and sustaining field action and lobbying efforts of HRGs. However, it must be said that such a definition is not matched by the research production at an EU level; by searching the term in the JRC repository, for instance, no results are found
+                    <sup>
+                        <xref ref-type="other" rid="FN21">21</xref>
+                    </sup>. The definition of security-industrial complex and its conceptual variations &#x2013; i.e. surveillance-industrial complex &#x2013; benefits, nevertheless, of a growing attention in academic research and, of course, in the human rights activists&#x2019; public debate.</p>
+                <p>According to researcher Mark Akkerman in an article published in the journal Crisis, the &#x00ab;
+                    <italic toggle="yes">creation of the Schengen Area, which coupled the opening of the internal EU borders with robust control at the external borders</italic>&#x00bb; marks the beginning of this trend. He does, however, add that &#x00ab;
+                    <italic toggle="yes">especially since the &#x201c;refugee crisis&#x201d; of 2015, the EU has accelerated the boosting and militarising of border security, enormously</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-1">Akkerman, 2020</xref>). The author correlates this process with the increase in the EU budget dedicated for strengthening member states&#x2019; border security (
+                    <xref ref-type="bibr" rid="ref-1">Akkerman, 2020</xref>)
+                    <sup>
+                        <xref ref-type="other" rid="FN22">22</xref>
+                    </sup>. According to the European Parliament Legislative Train 04/32021 IBMF, the instrument for financial support for border management and visas, &#x00ab;
+                    <italic toggle="yes">The IBMF would provide funding towards building and enhancing Member States&#x2019; capacities in the common visa policy area and in dealing with migratory challenges and potential future threats at external borders, but also in addressing serious cross-border crime and ensuring a high level of internal security within the EU&#x201d;. According to the European Parliament briefing Migration and border management. Heading 4 of the 2021- 2027 MFF, its budget would amount to &#x201c;&#x20ac; 6,5 billion (in 2018 prices) for the 2021&#x2013;2027 period</italic>&#x00bb;, an increase of 135% (p. 5). Additionally, the Multiannual Financial Framework (MFF) foresees a reasonable rise in Frontex funding from 2021 to 2027, &#x00ab;
+                    <italic toggle="yes">since 2019 already the third largest traditional EU agency based on the contributions it received</italic>&#x00bb; (p. 5).</p>
+                <p>Akkerman as well as Douo, Izuzquiza and Silva highlight how these processes are somehow fuelled by the diffusion of a public representation of migration essentially as a threat, a problem that can only be addressed increasing security measures (
+                    <xref ref-type="bibr" rid="ref-1">Akkerman, 2020</xref>; 
+                    <xref ref-type="bibr" rid="ref-5">Douo 
+                        <italic toggle="yes">et al.</italic>, 2021</xref>). Most of the critical reviews of EU border control policies and Frontex conduct focus indeed on migration issues. In this perspective, in the report 
+                    <italic toggle="yes">Guarding the Fortress. The role of Frontex in the militarization and securitisation of migration flows in the European Union</italic> researcher Ainhoa Ruiz Benedicto of the Centre Del&#x00e0;s d&#x2019;Estudis per la Pau argues that &#x00ab;
+                    <italic toggle="yes">population movement is understood and treated as a suspicious activity that needs to be controlled, monitored and registered, while the migration of often forcibly displaced people and refugees is seen as a security threat that must be intercepted</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-15">Ruiz Benedicto, 2019</xref>, 5).</p>
+                <p>Following the same perspective, Ruiz argues that the concept of &#x201c;securitisation&#x201d; aims to describe a process &#x00ab;
+                    <italic toggle="yes">which expands the vulnerability to threats. This means that elements belonging to the sphere of public policy come to be seen as matters of security, which in turn diversifies and generates new threats</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-15">Ruiz Benedicto, 2019</xref>, 12). Securitizations would create the chance to employ border control in a border context as a technique to identify and screen those elements that, while attempting to cross the border, pose a hazard to the organization in charge of managing the aforementioned border. According to Ruiz, the &#x201c;securitization approach&#x201d; in modern European countries mandates the &#x00ab;
+                    <italic toggle="yes">technologization of security, wherein security is subordinated to technology</italic>&#x00bb; and &#x00ab;
+                    <italic toggle="yes">data-gathering and analysis systems are increasingly consolidated, together with an expansion of the collection of biometric data and its analysis, using algorithms to detect elements of risk</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-15">Ruiz Benedicto, 2019</xref>, 12). Such perspective on securitisation processes also includes the militarization paradigm, since it conflates the spheres of public safety and war and it integrates military principles in civil matters like borders&#x2019; control: &#x00ab;
+                    <italic toggle="yes">the use of force and coercion, more weapons equating to more security, and the achievement of security by eliminating threats</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-15">Ruiz Benedicto, 2019</xref>, 12). According to Akkerman and Ruiz, &#x00ab;
+                    <italic toggle="yes">the lobby organisations of large European Commission and EU border agencies</italic>&#x00bb; play a crucial role in pushing the securitization paradigm, which is not just promoted at the political and military levels (
+                    <xref ref-type="bibr" rid="ref-1">Akkerman, 2020</xref>; 
+                    <xref ref-type="bibr" rid="ref-15">Ruiz Benedicto, 2019</xref>).</p>
+                <p>In parallel, in their 2017 report 
+                    <italic toggle="yes">Market forces</italic>, Statewatch and the Transnational Institute (TNI) interpreted the development of EU funded research projects in the field of security as the attempt of building up a strong network capable to orient the whole system towards treating the entire population as potential objects of suspicion
+                    <sup>
+                        <xref ref-type="other" rid="FN23">23</xref>
+                    </sup>. Such a strong assumption is supported by the description of the &#x201c;
+                    <italic toggle="yes">European security-industrial complex</italic>&#x201d; throughout the entire report, in which the establishment of the European Security Research Programme (ESRP) in 2007 assumes a crucial role. Also, Jones claim that a conflict arose around the creation of ESRP between the attempt to develop a &#x201c;human security&#x201d; research agenda, as proposed by some actors involved in its development, and the resistance opposed by the traditional setting fuelled by security industry, aimed at directly commercialising industry &#x201c;solutions&#x201d; (
+                    <xref ref-type="bibr" rid="ref-9">Jones, 2017</xref>, 15). He affirms that, in the end, the ESRP was designed under the heavy influence of security, defence and technology corporations and research institutes. In his understanding of the issue, this happened at the same time as &#x00ab;
+                    <italic toggle="yes">the EU acquired more legislative and financial powers in matters related to the Area of Freedom, Security and Justice&#x2019;, leading to the acquisition of significant infrastructure for border control and law enforcement and the development of new transnational bodies and networks</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-9">Jones, 2017</xref>, 15).</p>
+                <p>Similar findings are included in a 2010 study undertaken for the European Parliament (EP) that highlights that, under the 7
+                    <sup>th</sup> Research Framework Programme FP7 2007&#x2013;2013, &#x00ab;
+                    <italic toggle="yes">social science has too often been relegated to a mere &#x2018;ethical&#x2019; afterthought, subordinated to concerns with technical deliverables and profit&#x201d; and that &#x201c;technological tools and services cannot be developed without a thorough legal, social and political assessment, in order to determine their impact and effects</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-3">Bigo 
+                        <italic toggle="yes">et al.</italic>, 2014</xref>). The study argues that &#x00ab;
+                    <italic toggle="yes">Security research puts research at the service of industry rather than society. This assumption overrules all other societal considerations, which are relegated to preoccupations with societal acceptance of security technologies</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-3">Bigo 
+                        <italic toggle="yes">et al.</italic>, 2014</xref>).</p>
+                <p>According to the Horizon Europe Strategic Plan 2021&#x2013;24, that was published by the Directorate&#x2013;General for Research and Innovation (European Commission), the advisory group&#x2019;s overall composition has changed over time, to varied degrees adjusting the proportion of industrial and other interests. However, the European Commission now explicitly aims to ensure greater industry involvement in 11mportan strategic direction and the resulting projects.</p>
+                <p>Hayes describes the interaction between governments, state agencies, and businesses engaged in monitoring as &#x201c;intimate&#x201d;, creating a &#x00ab;
+                    <italic toggle="yes">perverse political and economic model</italic>&#x00bb; using the concept of &#x00ab;
+                    <italic toggle="yes">the surveillance-industrial complex</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-7">Hayes, 2012</xref>). According to this author, the surveillance-industrial complex is characterized by a blending of internal and external defence lines, which has led to a significant transfer of military logics and technologies into the field of policing and security. This, in turn, has an impact on the requirement to promote interoperability of various security levels and systems (
+                    <xref ref-type="bibr" rid="ref-7">Hayes, 2012</xref>).</p>
+                <p>But what is the real role of industry lobbies in EU security?</p>
+                <p>Lemberg-Pedersen and R&#x00fc;bner Hansen affirm that &#x00ab;
+                    <italic toggle="yes">the framing of technological border infrastructures as a politically neutral growth area</italic>&#x00bb; promote &#x00ab;
+                    <italic toggle="yes">European industrial competitiveness, abstracts from the violent and politically contested character that EU border politics have attained during the last decades</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-10">Lemberg-Pedersen &amp; R&#x00fc;bner Hansen, 2020</xref>, 48). The authors argue that, in the framework of a EU border market that is multisectoral &#x00ab;
+                    <italic toggle="yes">but dominated by the security and defence industry</italic>&#x00bb;, the latter influences EU policy-making
+                    <italic toggle="yes"/> processes through the organisation and participation in so-called &#x201c;blurred forums&#x201d; &#x2013;
+                    <italic toggle="yes"/> roundtables, Commission-initiated expert groups, consultations about research programmes
+                    <italic toggle="yes"/> and hardware/software fairs and meetings hosted by industry or public actors &#x2013; that bring
+                    <italic toggle="yes"/> together public policy-makers with the private interest of technology suppliers to shape EU
+                    <italic toggle="yes"/> border control priorities and technological capacity (
+                    <xref ref-type="bibr" rid="ref-10">Lemberg-Pedersen &amp; R&#x00fc;bner Hansen, 2020</xref>, 47). The report aims also to show how the same logic affects academia and research, as these institutions are further imbricated in the development of EU border technology through FP7 and H2020 consortiums.</p>
+                <p>The marginalisation of human rights groups and civil society organisations appears to be as a fundamental characteristic emerging from the arguments proposed by HRGs and scholars who insist on the progressive implementation of a European Border Industrial Complex and its conceptual variations.</p>
+                <p>This was stressed also in the conclusions of the already mentioned EU Parliament Review of security measures in the 7
+                    <sup>th</sup> Research Framework Programme FP7 2007&#x2013;2013, stating that: &#x00ab;
+                    <italic toggle="yes">The policymaking process on security research sidesteps a number of societal actors. This is reflected both in the high-level Public-Partner Dialogue and in the second-track expert groups tasked with defining security research, where representatives of security industry and public security bodies are overwhelmingly present, at the expense of actors who may speak in the name of the citizens, including MEPs or non-governmental organisations. The unequal representation of industry, security agency and civil society in the policymaking process helps interests of the latter</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-3">Bigo 
+                        <italic toggle="yes">et al.</italic>, 2014</xref>, 33). The analysis of the Commission's suggestions for an EU security industrial policy further demonstrates further that &#x00ab;
+                    <italic toggle="yes">the question of fundamental freedoms and rights is reduced to a matter of commercial considerations and as a limit to the acquisition of otherwise high-performance products. We can thus anticipate that funded security research in the future will be mainly put at the service of industry rather than society</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-3">Bigo 
+                        <italic toggle="yes">et al.</italic>, 2014</xref>, 7).</p>
+                <p>Furthermore, Statewatch and TNI examined from the same angle the case of the European Organisation for Security (EOS), the main lobby group for the security sector in Europe. Through the three year, FP7-funded ARCHIMEDES project (EU contribution: &#x20ac;1.4 million), EOS proposed the adoption of a tailored model to promote a &#x201c;common innovation culture&#x201d; and align research agendas between EU and member states: the &#x00ab;
+                    <italic toggle="yes">end-to-end approach for security research and innovation</italic>&#x00bb; that proposes the formal integration of public authorities and private companies in a new type of &#x201c;governance&#x201d; structure. This was to be achieved by bringing together so-called end-users and operators into a &#x00ab;
+                    <italic toggle="yes">permanent public-private dialogue</italic>&#x00bb; in order to reinforce cooperation with the supply side, that is, the industry. The broadest range of actors participating in this debate, according to EOS's final report, would represent the best course of action. However, several critics pointed out that the platform as it is presented by the report &#x00ab;
+                    <italic toggle="yes">would be made up of pretty much anyone with an interest in security, except for citizens and their elected representatives</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-9">Jones, 2017</xref>, 34). EOS itself has praised a democratic approach that involves the broadest possible range of people, but 12mportan stated that such an approach needs to be tempered, as the dialogue had to be taken &#x00ab;
+                    <italic toggle="yes">in a closed and trusted environment that allows (when needed) sharing of confidential information</italic>&#x00bb;, such as those already been established as part of Archimedes through a number of industry stakeholder roundtables organised and led by EOS itself (
+                    <xref ref-type="bibr" rid="ref-9">Jones, 2017</xref>, 35). Archimedes final report states that concerns over fundamental rights are &#x00ab;
+                    <italic toggle="yes">politically correct but not necessarily a competitive advantage at MS and international level</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-9">Jones, 2017</xref>, 36).</p>
+                <p>Other scholars analyse these dynamics focusing on Frontex. In their report 
+                    <italic toggle="yes">Lobbying Fortress Europe. The making of a border-industrial complex</italic> the authors frame the increasing relationships between the EU border agency and &#x201c;arms, surveillance, and biometrics companies&#x201d; as a &#x00ab;
+                    <italic toggle="yes">significant overlap between the companies that directly lobby Frontex and the companies that benefit from EU procurement for building Europe&#x2019;s walls, both physical and virtual</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-5">Douo 
+                        <italic toggle="yes">et al.</italic>, 2021</xref>). In this perspective, in its 
+                    <italic toggle="yes">Decision of 18 April 2018 on discharge in respect of the implementation of the budget of the European Border and Coast Guard Agency (Frontex) for the financial year 2016 (2017/2164(DEC)</italic>, the European Parliament, indeed, demanded Frontex to introduce a system of lobby transparency, consisting in a transparency register and
+                    <italic toggle="yes"/> in the disclosure of all its meeting with third party stakeholders.</p>
+                <p>In a recent report, a prominent group of scholars argue that &#x00ab;
+                    <italic toggle="yes">forging a tight relationship between Frontex, industry, and member states therefore delivers a win-win-win scenario for these three parties</italic>&#x00bb; but &#x00ab;
+                    <italic toggle="yes">in absence of sufficient democratic control and oversight, people&#x2019;s rights &#x2013; in particular, the fundamental rights of people who migrate &#x2013; are not only disregarded, but perpetually endangered</italic>&#x00bb;. In particular, the authors insist that &#x00ab;
+                    <italic toggle="yes">groups working to defend human rights are left on the side-lines</italic>&#x00bb; of a border-industrial complex in the making (
+                    <xref ref-type="bibr" rid="ref-5">Douo 
+                        <italic toggle="yes">et al.</italic>, 2021</xref>). The authors emphasize that none of the 138 private organizations that Frontex met with between 2017 and 2019 were human rights organizations, and that only one of them was an NGO. After analysing the documentation produced following 17 industry meetings held during the same timeframe, the report also notes that &#x00ab;
+                    <italic toggle="yes">omission from almost every one of these discussions is the potential impact on human rights of these technologies and products, including undermining people&#x2019;s fundamental right to privacy, presumption of innocence, and liberty</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-5">Douo 
+                        <italic toggle="yes">et al.</italic>, 2021</xref>).</p>
+                <p>The authors analysed industry presentations and concluded that in these documents migrants were considered not &#x00ab;
+                    <italic toggle="yes">as subjects of border crossing but rather objects that need to be managed</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-5">Douo 
+                        <italic toggle="yes">et al.</italic>, 2021</xref>), presenting it more like the target of an industrial process rather than stressing the human dimension of this &#x201c;target&#x201d;, operating a sort of complete dehumanization of the target of the product, not considering at all the fundamental rights dimension, or considering 13mpor merely secondary.</p>
+                <p>Ruiz has a similar viewpoint; after analysing Frontex&#x2019;s founding regulations and mandate, the author claims that the &#x00ab;
+                    <italic toggle="yes">EU considers migration a security risk on a par with crimes such as drug trafficking or smuggling, paving the way for the approval of exceptional measures to address it</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-15">Ruiz Benedicto, 2019</xref>, 6). Furthermore, considering 19 main joint operations carried out by Frontex (2005&#x2013;2018) to analyse the &#x201c;practice of securitisation&#x201d; implemented by the Agency, Ruiz comes to the conclusion that none of these joint operations conducted had a specific mandate to rescue people or to include civilian shipping fleets in its actions, focusing almost exclusively on fighting different cross-border crimes, most of which related to flows of migrants; thus insisting on security of borders rather than on security and well-being of migrants
+                    <sup>
+                        <xref ref-type="other" rid="FN24">24</xref>
+                    </sup>. In other words, migrations are treated by Frontex more as a criminal matter rather than a humanitarian issue that poses relevant problems when it comes to the respect of human rights of migrants. Ruiz clearly states that in the framework of these operations, Frontex adopts security practices that criminalise people who are fleeing from poverty, war and violence. It also plays an active role in operations to return migrants to their country of origin. Accordingly, humanitarian and civilian organisations are actively prevented to rescue people in distress (
+                    <xref ref-type="bibr" rid="ref-15">Ruiz Benedicto, 2019</xref>, 6&#x2013;19).</p>
+            </sec>
+            <sec>
+                <title>Frontex and the marginalization of HRGs and CSOs: the case of the Consultative Forum</title>
+                <p>As said, from its creation Frontex has been criticised for its tendency to disregard human rights in the implementation of its activities. Due to this criticism, EU institutions have emphasized Frontex's dedication to promoting and upholding &#x201c;behavioural standards" in a way that reflects the principles of the Charter of Fundamental Rights. So, the Regulation (EU) No 1168/2011 established the Consultative Forum on Fundamental Rights to ensure that fundamental rights are being upheld.</p>
+                <p>The Consultative Forum began operating in 2012, and included nine civil society organizations, four international organisations &#x2013; i.e., OSCE/ODIHR, Council of Europe, UNHCR, IOM &#x2013; and two other EU agencies, namely the European Asylum Support Office (EASO) and the Agency for Fundamental Rights (FRA). The Consultative Forum was downsized to fourteen people in January 2020. Several pertinent organizations, including the AIRE center, Caritas Europa, ECRE, and PICUM, are no longer a part of the Consultative Forum in this most recent composition. In accordance with Article 108 of the Regulation No 168/2011, the role of the Consultative Forum is to assist the Agency &#x00ab;
+                    <italic toggle="yes">by providing independent advice in fundamental rights matters</italic>&#x00bb;. To this end, any issue pertaining to fundamental rights may be discussed within the Consultative Forum. The Consultative Forum creates annual work plans in which it lays out the goals and tasks to be accomplished in order to better guarantee that Frontex activities are aware of essential aspects of fundamental rights and to offer strategies for more effectively promoting their respect in Agency operations. Annual reports from the Consultative Forum give a summary of the activities the organization has been involved in.</p>
+                <p>In principle, the Consultative Forum offers a unique chance for CSOs and other organizations to influence Frontex from within, strengthening the Agency&#x2019;s commitment to fundamental human rights. Members of the Consultative Forum have the option of requesting information and documents directly from Frontex regarding basic rights-related problems pertaining to the Agency&#x2019;s operations. Additionally, members have begun actively participating in Frontex operations since 2014, including the highly contested return operations, as well as other operations at land and sea borders.</p>
+                <p>However, according to the key findings of the Final Report 
+                    <italic toggle="yes">External Evaluation of the effectiveness and impact of Frontex Consultative Forum on Fundamental Rights</italic> published in July 2019 as well as from the Consultative Forum yearly reports of 2017, 2018 and 2019 (the last publicly available), several factors hamper the Consultative Forum activity, such as: the lack of consultation and implementation of the Consultative Forum&#x2019;s advice, the problems faced by CSOs and HRGs in getting access to relevant information, and the understaffing and availability of Consultative Forum&#x2019;s members.</p>
+                <p>As for the first issue, the lack of consultation and implementation of the forum&#x2019;s advice, Douo, Izuzquiza and Silva, pointed out that the Forum may be consulted on any matter pertaining to basic rights, although Frontex ultimately decides when and which issues to consult on. For instance, as evidenced by the work programmes of the Consultative Forum, none of the issues that the Agency discussed with industries in the meetings examined in the report or, more generally, &#x00ab;
+                    <italic toggle="yes">in relation to procurement of technologies or relationships with security companies</italic>&#x00bb;, were subject to consultation (
+                    <xref ref-type="bibr" rid="ref-5">Douo 
+                        <italic toggle="yes">et al.</italic>, 2021</xref>).</p>
+                <p>The 2019 report discusses the implementation of the European Integrated Border Management Strategy (EIBMS), highlighting its importance, since it is likely to provide guidance in the process and influence the overall Fundamental Rights Strategy of the Agency. In this perspective, the Consultative Forum expressed concern that &#x00ab;
+                    <italic toggle="yes">regrettably, and despite initial discussions, the expertise and advice of the Consultative Forum were not sought in the development of the Frontex European Integrated Border Management Strategy</italic>&#x00bb; (p. 23). Other instances where the Consultative Forum's counsel was not requested are included in the 2019 report, despite the fact that the topics in question would fall inside the Consultative Forum's expertise and mandate. For instance, in contrast to previous years&#x2019; practices and in spite of Frontex&#x2019;s expanding duties in this area, the Consultative Forum was not consulted for guidance on the creation and execution of Frontex training programs and courses in 2019 (p. 33).</p>
+                <p>The Consultative Forum&#x2019;s 2019 report asserts also that Frontex blatantly disregarded its recommendations in at least other two cases, which are connected to the broader framework of European external border control regulations. Concerns have been voiced, for instance, on the potential impact of enhanced Frontex aircraft surveillance over the Central Mediterranean and the disclosure of information to the Libyan Maritime Rescue Coordination Centre about search and rescue incidents that Frontex identifies. The Consultative Forum stressed the increased number of individuals being brought back &#x00ab;
+                    <italic toggle="yes">to face arbitrary detention and horrific conditions in Libya</italic>&#x00bb;. Similar concerns were raised regarding Frontex&#x2019;s Multipurpose Aerial Surveillance (MAS) in Croatia, whereas consistent reports of police violence and illegal pushbacks of migrants by Croatian authorities, as documented by media and various organisations, including those represented in the Consultative Forum, became public and available (p. 24).</p>
+                <p>The Consultative Forum&#x2019;s suggestions regarding Frontex operational activities in Hungary are yet another situation that stands out. Highlighting the fact that Hungary was subject to a Commission infringement proceeding for its asylum laws and policies, the Consultative Forum suggested &#x00ab;
+                    <italic toggle="yes">that Frontex refrain from supporting returns from Hungary and suspend any return-related activities from the country</italic>&#x00bb;, also given &#x00ab;
+                    <italic toggle="yes">the direct responsibility of the Agency to ensure respect for the principle of non-refoulement in all its activities</italic>&#x00bb;. Frontex continued to provide operational support to Hungary in spite of this. This decision was driven by the idea that the Agency&#x2019;s presence may help to improve the situation; as a result, Frontex even increased the number of employees stationed at the Serbian-Hungarian border. The Consultative Forum observes, however, that from its perspective, there was no real improvement of the overall situation (p. 25).</p>
+                <p>Another important issue highlighted in the external evaluation is that of consultation and implementation of the Forum&#x2019;s advice. In this perspective, the evaluation established that, despite the fact the Forum&#x2019;s work was described as relevant and useful by Frontex staff, &#x00ab;
+                    <italic toggle="yes">an important number of the Forum&#x2019;s recommendations and opinions did not translate into concrete actions or were only partially incorporated by the Agency</italic>&#x00bb; (p. 114), although recommendations are usually operational and targeted. The external evaluation stresses also that: &#x00ab;
+                    <italic toggle="yes">The Forum&#x2019;s recommendations and opinions are not binding and merely advisory, and that Frontex has discretionary competence to decide whether (and how) to follow the Forum&#x2019;s advice on a specific issue</italic>&#x00bb;. Frontex had no obligation &#x00ab;
+                    <italic toggle="yes">to reply the Forum&#x2019;s recommendations/opinions or to inform the Forum on any actions taken on the basis of their advice</italic>&#x00bb; (p. 115). However, it 15mporta noted that failure to implement them hampered a better protection of fundamental rights in Frontex&#x2019;s activity. The external evaluation concludes that the Agency will be required to update the Consultative Forum on the follow-up on its suggestions under the new Frontex Regulation that was proposed in September 2018, which is meant to increase transparency on this matter (pp. 93&#x2013;94).</p>
+                <p>The second factor hampering the Consultative Forum activity and effectiveness is the issue of access to information. As pointed out by Giannetto, in the last years the Consultative Forum &#x00ab;
+                    <italic toggle="yes">has repeatedly lamented issues with access to information, which should be effective as per art. 108 of the EBCG regulation (2019/1896)</italic>&#x00bb; (
+                    <xref ref-type="bibr" rid="ref-6">Giannetto, 2020</xref>). A review of the Consultative Forum&#x2019;s yearly reports confirms this analysis
+                    <sup>
+                        <xref ref-type="other" rid="FN25">25</xref>
+                    </sup>.</p>
+                <p>The issue of accessibility and the provision of pertinent information to the Consultative Forum are both considered by the external evaluation too. In this regard, the evaluation report stresses that, while interviewing Consultative Forum&#x2019;s members, &#x00ab;
+                    <italic toggle="yes">the need to access information about the respect of fundamental rights</italic>&#x00bb; have been identified as &#x00ab;
+                    <italic toggle="yes">one of the main challenges faced by the Forum in fulfilling its mandate</italic>&#x00bb; (p. 133). Although the Consultative Forum standardized its processes for asking Frontex for information on matters pertaining to fundamental rights, it seems that Frontex still takes time to respond to these requests, and in several instances the information provided, particularly operational plans, were incomplete, as was the case with operational activities carried out by the Agency in Hungary (2019, p. 134). Furthermore, it appears that requesting information from the Agency has become a very time-consuming activity for Consultative Forum&#x2019;s members.</p>
+                <p>The third factor which significantly hampers the Consultative Forum activity, according to the external evaluation, is understaffing and availability of Consultative Forum&#x2019;s members. The Consultative Forum&#x2019;s sixth annual report for 2018 claims that Frontex&#x2019;s capacity to uphold its obligations in the field of fundamental rights was inhibited by the understaffing of the Agency&#x2019;s Fundamental Rights Office. Since 2014, this has been a constant problem: adequate staffing is paramount to ensuring the implementation of fundamental rights obligations under the EBCG regulation and is presented as particularly relevant due to the future expansion on Frontex&#x2019;s mandate. In this persspective, the Consultative Forum&#x2019;s claims that the Fundamental Rights Office&#x2019;s work is being compromised in important areas due to the understaffing situation, such as &#x00ab;
+                    <italic toggle="yes">monitoring of operations, handling of complaints, provision of advice on training, risk analysis, third country cooperation and return activities</italic>&#x00bb; (p. 19).</p>
+                <p>Most of the stakeholders who participated in the evaluation process highlighted a significant lack of human resources, both in terms of the staff deployed and the constrained time that Forum members have to contribute to the work of the Forum, according to the evaluation report included in the seventh annual report of the Consultative Forum of 2019. These factors would affect the Consultative Forum&#x2019;s ability to carry out its mission. On the one hand, most of the stakeholder suggested the implementation of &#x00ab;
+                    <italic toggle="yes">an independent and permanent Secretariat with sufficient budget and human resources to effectively assist the Forum not only the administrative tasks but also with the substantive work</italic>&#x00bb; (p. 21). On the other hand, consulted stakeholders expressed concern that some CSOs find it difficult to keep up with the work of the Consultative Forum and continue with their work in their respective organizations at the same time because membership in the Consultative Forum does not provide for compensation. It was suggested as a solution to this issue to provide some form of monetary compensation for the efforts made by Forum participants. (pp. 145&#x2013;146).</p>
+            </sec>
+            <sec>
+                <title>The deployment of SOSTs in border surveillance and the role/perception of HRGs and CSOs</title>
+                <p>This section analyses the specific issue of the SOSTs deployed in the framework of border controls. This issue is closely connected to both the involvement of HRGs and CSOs in decisional processes related borders&#x2019; management and surveillance and the attention given by EU institutions to the human rights&#x2019; dimension. By this point of view there is a specific focus on the relationship existing between CSOs, HRGs and European Institutions in drafting and approval process of two EU regulation instruments: the Smart Borders Package (SBP) and the legislative proposal on Artificial Intelligence (AI).</p>
+                <p>Starting with the consultations held between EU institutions and HRGs/CSOs on the SBP regulation, related to the use of biometrics and the duration of retention of personal data collected during border controls, the 2013 version of the Smart Borders Package &#x2013; then approved in an amended version in 2017 &#x2013; consisted of three proposals: first, the creation of an Entry/Exit System (EES), aimed at replacing manually procedures on third-countries nationals&#x2019; passports with a digitalised stamping system and automatic overstays calculations; second a Registered Traveller Programme, providing a pre-screening option for frequent third country travellers, so to access EU territory through automated border check systems following Member States&#x2019; nationals standard procedures; and third an amendment of the Schengen Borders Code to update existing regulations with the technical changes needed to implement the abovementioned systems.</p>
+                <p>The purpose of the consultation was to obtain &#x00ab;
+                    <italic toggle="yes">views and opinions to underpin the ongoing impact assessment of the Smart Borders Package (...) and gather new ideas and knowledge</italic>&#x00bb; and it was organised around a set of questions as follows: use of biometric identifiers, process to accelerate border crossing for non-EU citizens, data, law enforcement access to the Entry/Exit System data, stamping, comments/other questions (impacts on asylum seekers, impacts on those who may need to issue invitations, other comments). For the purpose of this analysis, the sets on &#x201c;use of biometric identifiers&#x201d; and &#x201c;data&#x201d; have been taken into consideration, as well as the question on the impact on asylum seekers, as migration policies are often under the lens of many civil society organisations. Among the 39 contributions available at the Consultation&#x2019;s dedicated Web page, 9 of them were submitted by civil society organisations, namely: 5 NGOs, 2 confessional organisations. 1 University, 1 transportation workers&#x2019; union. There were two scales of evaluation which were implicitly proposed by the survey itself: the fairness and the efficacy of the proposed measures.</p>
+                <p>The positions of each CSOs are not included here for obvious reasons of spac 17mport it is possible to summarise affirming that the results of the questionnaires were fully in line with what proposed by 
+                    <xref ref-type="bibr" rid="ref-20">Pavone and Degli Esposti (2010)</xref> when the two authors affirmed that a trade between security &#x2013; i.e., the efficacy of proposed technologies &#x2013; and privacy &#x2013; i.e., the fairness of proposed technologies &#x2013; does not seem to take place. Instead, organisations which contest the efficacy of the use of biometrics link their concerns with potential infringements of fundamental rights such as privacy, family life, freedom of movement etc. On the other hand, there are organisations which affirm that the efficacy of those technologies do not foresee issues related with the fairness of proposed measures. In their research, Pavone and Degli Esposti find out that some of the main concerns expressed by the participants were first related to potenti mportanti s sesses (being migrations a very sensitive political matter) and, more generally, an infringement of the democratic framework; second, to uncertain professional and moral profile of surveillance operators, an issue which calls for clear rules and reliable mechanisms of sanction. It seems that there is no trade off at all between the two opposite dimensions of security and privacy. How to tackle this issue?</p>
+                <p>The two authors also indicate that the context &#x2013; that is, the reason why a particular technology was chosen to be deployed &#x2013; rather than the technology itself appears to be at the heart of participants&#x2019; worries. Naturally, in such a scenario, dependability on the institutions in charge of the deployment of chosen technology is inherent. Because trust cannot be viewed as a good to be exchanged, it should be created as a result of citizens&#x2019; involvement (the perspective adopted when considering privacy and security as a trade-off relationship). The proposed framework does, in fact, echo the stance taken by HRGs during the Consultation on the Smart Borders Package as previously described
+                    <sup>
+                        <xref ref-type="other" rid="FN26">26</xref>
+                    </sup>.</p>
+                <p>Continuing with the analysis of the legislative proposal on Artificial Intelligence (AI) to be used in borders&#x2019; controls, in January 2021 a large group of HRGs and CSOs, including those gathered under the European Digital Rights (EDRi) umbrella association, wrote an open letter to the EU Commission, calling for the introduction of &#x201c;red lines&#x201d;, i.e., regulatory limitations in order to guarantee fundamental rights vis-&#x00e0;-vis the implementation of artificial intelligence (AI) tools (i.e. drones and biometric systems) in border surveillance. The signatory organisations focused their attention, among other topics, on biometric mass surveillance, and on the use of AI at the border and in migration control. According to their letter, &#x00ab;
+                    <italic toggle="yes">AI has been tested to purportedly detect lies for the purposes of immigration applications at European borders and to monitor deception in English language tests through voice analysis, all of which lack credible scientific basis. In addition, EU migration policies are increasingly underpinned by AI systems, such as facial recognition, algorithmic profiling and prediction tools for use within migration management processes, including for forced deportation</italic>&#x00bb; (p. 2). Stating that such uses may infringe on data protection rights, the right to privacy, to non-discrimination and to seek asylum, the signatories propose a ban or a moratorium on the use of AI at borders, until their compliance with international human rights standards will be assessed by an independent part.</p>
+                <p>Also in this case, the position expressed by the organisations signing the letter overlaps the two only apparently opposed and complementary issues: the real efficacy of the proposed AI developments; and the fairness of AI indiscriminate application in the context of borders control. But what is even mo  mportanti s  is tha the letter was not considered by the EU in the process of adoption of the regulation, which regularly entered into force not considering these concerns and questions.</p>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>This non-systematic review aimed at exploring the perceived marginalisation that HRGs and CSOs claim and denounce in relation to border management and surveillance at European level.</p>
+            <p>First, the text presented a press review on EU relevant public debates involving the issues of border control and human rights showing that, in mainstream media, criticism on SOST and their use in this framework remain on the background. Instead, policies and practices that make use of such technology to achieve border management goals appear to be the main issue at stake. Second, Frontex&#x2019;s legal framework, guidelines and Code of Conduct were analysed to pinpoint the increasing weight of the concept of fundamental rights protection in the legal basis of the Agency&#x2019;s action and mandate. Third, the review focused on the concept of &#x201c;border-industrial complex&#x201d; as one of the main theoretical frameworks used by HRGs and CSOs to criticize the increasing political and financial influence of industrial security lobbies in border management, at the expense of a more human rights-oriented approach. Then, to present a case study on this perceived marginalisation, the case of Frontex&#x2019;s Consultative Forum on Human Rights was outlined focusing on the main factors that, according to the evaluation reports, hinder the effective functioning of this consultative body. Finally, the review focused on how participatory tools used by EU institutions to engage HRGs and CSOs on migration policies and border management/surveillance have been received and implemented.</p>
+            <p>It is quite difficult to compose an overall mapping of every critical position expressed by human rights groups on surveillance technologies and border control. A huge number of statements, inquires, complaints, allegations and claims have been produced in the last years. As they often share a common ethical ground, these stances differ one from the other according to the specific field of action of every group &#x2013; being it territorially or thematically defined. Such a differentiation guarantees, in turn, a specific setting of action and spaces of self-organisation and self-representation for any of the abovementioned HRGs. The attempt of this analysis is thus to focus on a relevant aspect which seem to be shared by many of these groups: the perception of a progressive disregard of issues and priorities related to human rights when defining border control policies and the deployment of surveillance technologies; HRGs consider indeed themselves as marginalised actors in the framework of border control policy-making arena.</p>
+            <p>In the framework of ARESIBO, this non-systematic review had the purpose to provide insights to elaborate a participatory model that, addressing the perceived marginalisation of HRGs and CSOs, could foster their engagement is SOST design. The ARESIBO Participatory Model (APM) is a rather innovative participatory model built on the previous experiences and practical knowledge acquired in significant projects by one of the ARESIBO consortium&#x2019;s partners (i.e. ISIG &#x2013; Institute of International Sociology), and it represents a working proposal and a practical tool to tackle the perceived marginalisation of HRGs and CSOs. The APM has been developed and tested in the framework of ARESIBO activities and it has been elaborated upon the participatory techniques developed and implemented by ISIG in the framework of its cooperation and activities with the Council of Europe, as well as on the theoretical model on participatory tools proposed by Ostrom and Gardner in 1994 (i.e., the Institutional framework of Common-pool resources management &#x2013; 
+                <xref ref-type="bibr" rid="ref-21">Ostrom, Gardner and Walker, 1994</xref>, and the Civil participation framework of the Council of Europe &#x2013; ISIG/CoE 2017).</p>
+            <p>The detailed description of the functioning and of the structure of the APM will be included in the next paper of the research diptych based on the results of the ARESIBO project named: 
+                <italic toggle="yes">From marginalization to engagement of citizens in SOSTs decision-making: participatory models setting a common ground for border surveillance and respect of fundamental rights. The case of ARESIBO H2020 project</italic>.</p>
+            <p>The APM represents a working proposal that uses innovative tools and participatory techniques to tackle the perceived marginalisation of HRGs and CSOs, as well as a model that can be applied &#x2013; after further appropriate testing and dissemination &#x2013; in similar contexts and situations.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <p>All data underlying the results are available as part of the article and no additional source data are required.</p>
+        </sec>
+        <fn-group>
+            <fn id="FN1">
+                <p>
+                    <sup>1</sup> &#x00ab;
+                    <italic toggle="yes">Frontex, the European Border and Coast Guard Agency, promotes, coordinates and develops European border management in line with the EU fundamental rights charter and the concept of Integrated Border Management</italic>&#x00bb;. Please see: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://frontex.europa.eu/about-frontex/who-we-are/origin-tasks/">https://frontex.europa.eu/about-frontex/who-we-are/origin-tasks/</ext-link>.</p>
+            </fn>
+            <fn id="FN2">
+                <p>
+                    <sup>2</sup> The APM is thoroughly presented in the methodology article &#x201c;Towards the engagement of citizens in SOSTs decision-making: participatory models setting a common ground for border surveillance and respect of fundamental rights. The case of ARESIBO H2020 project&#x201d;, also published on the Open Research Europe platform.</p>
+            </fn>
+            <fn id="FN3">
+                <p>
+                    <sup>3</sup> &#x00ab;
+                    <italic toggle="yes">The principle of non-refoulement forms an essential protection under international human rights, refugee, humanitarian and customary law. It prohibits States from transferring or removing individuals from their jurisdiction or effective control when there are substantial grounds for believing that the person would be at risk of irreparable harm upon return, including persecution, torture, ill treatment or other serious human rights violations</italic>&#x00bb;. This principle is included in all major conventions and international instruments dealing with the protection of human rights in general (e.g., e Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the International Convention for the Protection of All Persons from Enforced Disappearance), as well as at a regional and European level (e.g., art. 18, Right to Asylum Charter of Fundamental Rights of the European Union). However, probably the most important documents which developed and applied the non-refoulement principle consistently and continuously have been the 1951 UN Refugee Convention and the 1967 Additional Protocol, both dealing with refugees and asylum seekers and confirming the centrality of this legal principle. Please see:</p>
+                <p>
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ohchr.org/sites/default/files/Documents/Issues/Migration/GlobalCompactMigration/ThePrincipleNon-RefoulementUnderInternationalHumanRightsLaw.pdf">https://www.ohchr.org/sites/default/files/Documents/Issues/Migration/GlobalCompactMigration/ThePrincipleNon-RefoulementUnderInternationalHumanRightsLaw.pdf</ext-link> for more details.</p>
+            </fn>
+            <fn id="FN4">
+                <p>
+                    <sup>4</sup> Frontex has been established in 2004 and is the EU Agency created for the coordination of external borders management by EU countries and Schengen associated countries. It also helps to harmonise border controls across the EU. The agency facilitates cooperation between border authorities in each EU country, providing technical support and expertise. As stated on the Agency website Frontex is the Agency in charge of &#x00ab;
+                    <italic toggle="yes">ensur[ing] safe and well-functioning external borders providing security</italic>&#x00bb;. 
+                    <ext-link ext-link-type="uri" xlink:href="https://frontex.europa.eu/">https://frontex.europa.eu</ext-link>.</p>
+            </fn>
+            <fn id="FN5">
+                <p>
+                    <sup>5</sup> euro|topics. 
+                    <ext-link ext-link-type="uri" xlink:href="https://eurotopics.net/">https://eurotopics.net/</ext-link>.</p>
+            </fn>
+            <fn id="FN6">
+                <p>
+                    <sup>6</sup> The complete list of the newspaper articles resulting from the research has not been included in this paper for obvious reasons of space.</p>
+            </fn>
+            <fn id="FN7">
+                <p>
+                    <sup>7</sup> The analysis proposed by ARESIBO presents also four other relevant dimensions which are somehow related to human rights and border management, even if they are not directly related to the approach and the field of analysis of this paper. It is important nevertheless to briefly recall them here. The first one is the role those third-party countries, particularly Turkey and Libya, play in the so-called &#x201c;outsourcing border control&#x201d; debate which is highlighted in 18 out of 51 articles that address the possibility of moving forward, re-framing, or giving up with such a strategy. They address the reality that the EU relies on external nations to control migratory flows &#x2013; countries that often do not recognize the most significant human rights conventions. The second is that 7 articles out of 51 stress the issue of solidarity among EU member States in managing the burden of migration flows, which according to some of the selected sources lies mostly on the most exposed countries like Italy, Spain, Malta and Greece. Thirdly, 4 out of 51 articles agree that the existing structure of EU migration laws actually encourages illegal immigration, creating the circumstances for the market for human trafficking and people smuggling to thrive. Finally, only 4 articles out of 51 explicitly quote Frontex.</p>
+            </fn>
+            <fn id="FN8">
+                <p>
+                    <sup>8</sup> The 1951 Refugee Convention and its 1967 Protocol are considered as the key legal documents that form the basis of the work of the UN High Committee for Refugees (UNHCR): &#x00ab;
+                    <italic toggle="yes">With 149 State parties to either or both, they define the term &#x2018;refugee&#x2019; and outlines the rights of refugees, as well as the legal obligations of States to protect them. The core principle is non-refoulement, which asserts that refugees should not be returned to a country where they face serious threats to their life or freedom. This is now considered a rule of customary international law. UNHCR serves as the &#x2018;guardian&#x2019; of the 1951 Convention and its 1967 Protocol. According to the legislation, States are expected to cooperate with [UNHCR] in ensuring that the rights of refugees are respected and protected</italic>&#x00bb;. See 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.unhcr.org/1951-refugee-convention.html">https://www.unhcr.org/1951-refugee-convention.html</ext-link>.</p>
+            </fn>
+            <fn id="FN9">
+                <p>
+                    <sup>9</sup> See 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.echr.coe.int/documents/convention_eng.pdf">https://www.echr.coe.int/documents/convention_eng.pdf</ext-link>.</p>
+            </fn>
+            <fn id="FN10">
+                <p>
+                    <sup>10</sup> REGULATION (EU) No 1168/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 October 2011 amending Council Regulation (EC) No 2007/2004 establishing a European Agency for the Management of Operational Cooperation at the External Borders of the Member States of the European Union.</p>
+                <p>REGULATION (EU) No 1168/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 October 2011 amending Council Regulation (EC) No 2007/2004 establishing a European Agency for the Management of Operational Cooperation at the External Borders of the Member States of the European Union.</p>
+                <p>REGULATION (EU) 2016/1624 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 September 2016 on the European Border and Coast Guard and amending Regulation (EU) 2016/399 of the European Parliament and of the Council and repealing Regulation (EC) No 863/2007 of the European Parliament and of the Council, Council Regulation (EC) No 2007/2004 and Council Decision 2005/267/EC.</p>
+                <p>REGULATION (EU) 2019/1896 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 November 2019 on the European Border and Coast Guard and repealing Regulations (EU) No 1052/2013 and (EU) 2016/1624.</p>
+            </fn>
+            <fn id="FN11">
+                <p>
+                    <sup>11</sup> It is important to recall briefly here the most important articles of the Regulation No. 1168/2011 referring directly to fundamental rights: art. 9 (rights of refugees and asylum seekers), art. 18 (inclusion of fundamental rights in the training of Frontex&#x2019;s personnel), art. 22 (fundamental rights and relations with third countries), art. 29 (importance of human rights in relation to Frontex&#x2019;s overall mandate). Relevant is also art. 26a which includes substantial provisions related to the obligations of Frontex towards the respect of fundamental rights: a) art. 26a 1 claim for drawing up and further developing a Fundamental Rights Strategy and for &#x00ab;
+                    <italic toggle="yes">an effective mechanism to monitor the respect for fundamental rights in all the activities</italic>&#x00bb;; b) art. 26a 2 calls for establishing a Consultative Forum for Fundamental Rights &#x00ab;
+                    <italic toggle="yes">to assist the Executive Director and the Management Board in fundamental rights matters</italic>&#x00bb;; c) art. 26a 3 provides for designing a Fundamental Rights Officer &#x00ab;
+                    <italic toggle="yes">independent in the performance of his/her duties</italic>&#x00bb; and reporting &#x00ab;
+                    <italic toggle="yes">directly to the Management Board and the Consultative Forum. (&#x2026;) contribut(ing) to the mechanism for monitoring fundamental rights</italic>&#x00bb;; d) art. 26a 4 states that the Consultative Forum and the Fundamental Rights Officer shall have &#x00ab;
+                    <italic toggle="yes">access to all information concerning respect for fundamental rights, in relation to all the activities of the Agency</italic>&#x00bb;.</p>
+            </fn>
+            <fn id="FN12">
+                <p>
+                    <sup>12</sup> Regulation No 2016/1624 Art. 2: &#x00ab;
+                    <italic toggle="yes">The aim is to manage the crossing of the external borders efficiently and address migratory challenges and potential future threats at those borders, thereby contributing to addressing serious crime with a cross-border dimension and ensuring a high level of internal security within the Union. At the same time, it is necessary to act in full respect for fundamental rights and in a manner that safeguards the free movement of persons within the Union</italic>&#x00bb;.</p>
+            </fn>
+            <fn id="FN13">
+                <p>
+                    <sup>13</sup> Regulation No 2016/1624 Art. 14: &#x00ab;
+                    <italic toggle="yes">The extended tasks and competence of the Agency should be balanced with strengthened fundamental rights safeguards and increased accountability</italic>&#x00bb;.</p>
+            </fn>
+            <fn id="FN14">
+                <p>
+                    <sup>14</sup> Regulation No 2016/1624 Art. 47: &#x00ab;
+                    <italic toggle="yes">The European Border and Coast Guard, which includes the Agency and the national authorities of Member States which are responsible for border management, including coast guards to the extent that they carry out border control tasks, should fulfil its tasks in full respect for fundamental rights, in particular the Charter of Fundamental Rights of the European Union (&#x2018;the Charter&#x2019;), the European Convention for the Protection of Human Rights and Fundamental Freedoms, relevant international law, including the United Nations Convention on the Rights of the Child, the Convention on the Elimination of All Forms of Discrimination Against Women, the Convention Relating to the Status of Refugees and obligations related to access to international protection, in particular the principle of nonrefoulement, the United Nations Convention on the Law of the Sea, the International Convention for the Safety of Life at Sea, and the International Convention on Maritime Search and Rescue. In accordance with Union law and those instruments the Agency should assist Member States in conducting search and rescue operations in order to protect and save lives whenever and wherever so required</italic>&#x00bb;</p>
+            </fn>
+            <fn id="FN15">
+                <p>
+                    <sup>15</sup> The most relevant and innovative articles of the Regulation No. 2019/1896 referring directly to fundamental rights are (the complete text of these articles will not be recalled here for obvious reasons of space): art. 1 (the role of fundamental rights in the Agency&#x2019;s overall mandate); art. 24 (the role of fundamental rights in balancing the extension of tasks and competences of the Agency and the weight of fundamental rights in Frontex&#x2019;s tasks and competencies); art. 42 (the respect of fundamental rights in the management of external borders); art. 55 (the respect of fundamental rights in hotspot areas); art. 78 (the inclusion of fundamental rights in the training of Frontex&#x2019;s personnel); art. 81 (the role of fundamental rights in return decisions and operations); art. 91 (the role of fundamental rights in negotiations and collaborations with third countries); art. 104 (the establishment and implementation of a complaint mechanism to safeguard the respect for fundamental rights in all the activities of the Agency).</p>
+            </fn>
+            <fn id="FN16">
+                <p>
+                    <sup>16</sup> In addition to that the Strategy addresses the issue of personal information, stating also that &#x00ab;
+                    <italic toggle="yes">Any processing of personal data, including gathering, retention, exchange and deletion of information, shall be handled with respect for fundamental rights, including the right to private and family life and protection of personal data</italic>&#x00bb; (p.12). In regard to the collection of biometric data, the document highlights that this shall be done &#x00ab;
+                    <italic toggle="yes">only when authorised by law and with respect for integrity of the person, with provision of sufficient and adequate information, refraining from the use of force, and in an age-, gender and culturally sensitive manner, respecting the EU and international legal framework</italic>&#x00bb; (p.12). Finally, for what concerns automated tools and the use of artificial intelligence in border management, the document stresses that these tools &#x00ab;
+                    <italic toggle="yes">shall always be used in full compliance with EU data protection legislation and with appropriate safeguards, and in line with human dignity and the principle of non- discrimination, and shall be monitored, including through personal oversight, and verified regularly</italic>&#x00bb; (p.12).</p>
+            </fn>
+            <fn id="FN17">
+                <p>
+                    <sup>17</sup> &#x00ab;
+                    <italic toggle="yes">Participants must: a) promote, respect, fulfil and protect the right of persons seeking international protection to be identified, receive adequate assistance and be informed in an appropriate way, preferably using a number of the most common languages that third-country nationals understand or are reasonably believed to understand, about their rights and relevant procedures</italic>&#x00bb; (p. 12).</p>
+            </fn>
+            <fn id="FN18">
+                <p>
+                    <sup>18</sup> &#x00ab;
+                    <italic toggle="yes">Participants, whether on or off duty, must: (&#x2026;) b) act with fairness, impartiality and non-discrimination and treat all persons with dignity, courtesy and respect; (&#x2026;) e) not be ignorant of cultural differences when interacting with persons so as to cause misunderstandings</italic>&#x00bb; (p.14).</p>
+            </fn>
+            <fn id="FN19">
+                <p>
+                    <sup>19</sup> It seems useful to remind here that in addition to the Code of Conduct, the Agency created a separate 
+                    <italic toggle="yes">Code of Conduct for return operations and return interventions</italic> that Frontex supervised or organized in collaboration with the Fundamental Rights Office and Consultative Forum. The purpose of this document, which serves as a supplement to the Code of Conduct's rules, is to precisely govern Return Operations (RO) and Return Interventions (RI) in full respect of the fundamental rights of the returnees.</p>
+            </fn>
+            <fn id="FN20">
+                <p>
+                    <sup>20</sup> The definition had risen to the honours of the story due to a well-known intervention of US President Dwight D. Eisenhower in 1961, when he warned the country about the huge influence which the &#x201c;
+                    <italic toggle="yes">military-industrial complex</italic>&#x201d; was progressively acquiring in the country.</p>
+            </fn>
+            <fn id="FN21">
+                <p>
+                    <sup>21</sup> The political debate does not diffusely account for this framing as well, even though some exceptions can be found as, for instance, the 
+                    <italic toggle="yes">Review of security measures in the 7th Research Framework Programme FP7 2007&#x2013;2013</italic>, a study delivered in 2014 for the LIBE Committee &#x2013; European Parliament Committee on Civil Liberties, Justice and Home Affairs (
+                    <xref ref-type="bibr" rid="ref-3">Bigo 
+                        <italic toggle="yes">et al.</italic>, 2014</xref>).</p>
+            </fn>
+            <fn id="FN22">
+                <p>
+                    <sup>22</sup> The External Borders Fund (2007&#x2013;2013) amounted to &#x20ac;1.76 billion and its successor &#x2013; the so-called Internal Security Fund Borders (2014&#x2013;2020) &#x2013; to &#x20ac;2.70 billion while the new Integrated Border Management Fund (IBMF) (2021&#x2013;2027) will reach &#x20ac;12.49 billion (
+                    <xref ref-type="bibr" rid="ref-1">Akkerman, 2020</xref>). Same figures are included also in the Communication from the Commission COM(2020) 442 final of the 27.05.2020: &#x201c;The EU budget powering the recovery plan for Europe&#x201d;.</p>
+            </fn>
+            <fn id="FN23">
+                <p>
+                    <sup>23</sup> The report provides also an analysis of the distribution of research funding by theme in the European Security Research Programme 2007&#x2013;2013, supporting two main considerations:</p>
+                <p>1. The substantial matching of the structure and the topics with those proposed by the European Security Research Advisory Board (ESRAB) in the report 
+                    <italic toggle="yes">Meeting the challenge</italic> published in 2006. ESRAB composition reflected the weight of industry in such a body: of the 50 seats, 14 were indeed occupied by defence and security industries, 18 by Member States, 14 by academics and research institutes, 2 to the European Defence Agency and Europol and finally 2 to groups described as &#x201c;civil liberty groups and think tanks&#x201d; (
+                    <xref ref-type="bibr" rid="ref-2">Hayes, 2009</xref>, 15&#x2013;18).</p>
+                <p>2. Projects were undertaken by consortiums primarily made up of corporations and other companies, research organisations, higher education institutes, state agencies and ministries. Corporations and major technical research institutes took the majority of funding, respectively corresponding to 40% (&#x20ac;552 million) and 25% of the total &#x20ac;1.4 billion budget (
+                    <xref ref-type="bibr" rid="ref-2">Hayes, 2009</xref>, 15&#x2013;18).</p>
+            </fn>
+            <fn id="FN24">
+                <p>
+                    <sup>24</sup> Only in 1 operation &#x2013; 
+                    <italic toggle="yes">Vega Children</italic>, aimed at controlling cross-border movements of child migrants &#x2013;, there was an actual cooperation between Frontex and a humanitarian organisation, the United Nations High Commissioner for Refugees (UNHCR). Documents on joint operations were found on government websites but were not mentioned in the Frontex annual reports, indicating some irregularity in the transparency of these reports</p>
+            </fn>
+            <fn id="FN25">
+                <p>
+                    <sup>25</sup> In the 
+                    <italic toggle="yes">Fifth annual report of the Consultative Forum</italic> of 2017, there is a paragraph entitled &#x201c;Limitations in providing the Forum with access to information&#x201d;, where it is stated that: &#x00ab;
+                    <italic toggle="yes">the Forum continues to face serious and further limitations particularly in relation to relevant operational reference and guiding documents. Given the constraints these places on its work, the Forum repeatedly raised this concern with Frontex management. A final response or constructive proposal from Frontex in this regard was yet to be received by the end of 2017</italic>&#x00bb; (p. 17). On a comparable note, in the 2019 report the Consultative Forum regrets that its delegation was not allowed to acquire first-hand information by directly observing Frontex officers in Albania while in the performance of duties such as screening, debriefing and border surveillance. Following the document, this possibility would have constituted a crucial step towards understanding the role of the Agency in third countries and its Joint Operation in Albania (p. 33).</p>
+            </fn>
+            <fn id="FN26">
+                <p>
+                    <sup>26</sup> However, it's interesting to note that not all of the issues raised during the consultation process are viewed as valid concerns by all of the NGOs providing feedback. Indeed, Access Now and EDRi argued that the length of the data retention period should follow the ruling of the European Court of Justice rather than being discussed through a democratic process. This particular viewpoint clarifies the evidence that spaces of participation are criticized not only when they are perceived to be "too tight" to address demands and claims developed by NGOs, but also when they are perceived to be "too broad," thus raising questions about issues that must be taken into account as preconditions rather than negotiable positions.</p>
+            </fn>
+        </fn-group>
+        <ref-list>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Akkerman</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>How the arms industry drives Fortress Europe&#x2019;s expansion.</article-title>Crisis. Revisiting Europe's &#x201c;migration crisis&#x201d;,<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://crisismag.net/2020/06/27/how-the-arms-industry-drives-fortress-europes-expansion/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Baldin-Edwards</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Blitz</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Crawley</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The politics of evidence-based policy in Europe's 'migration crisis'.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Ethn Migr Stud.</italic>
+               </source>
+               <year>2019</year>;<volume>45</volume>(<issue>12</issue>):<fpage>2139</fpage>&#x2013;<lpage>2155</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/1369183X.2018.1468307</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bigo</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Jeandesboz</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Martin-Maze</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Review of Security Measures in the 7
+                        <sup>th</sup> Research Framework Programme FP7 2007-2013.</article-title>Study for the LIBE committee,<year>2014</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.europarl.europa.eu/RegData/etudes/etudes/join/2014/509979/IPOL-LIBE_ET(2014)509979_EN.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cymbranowicz</surname>
+                            <given-names>K</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The development of the European Union in the areas of migration, visa and asylum after 2015. Priorities, effects, perspectives.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Studia Migracyjne&#x2013;Przegl&#x0105;d Polonijny.</italic>
+               </source>
+               <year>2020</year>;<volume>175</volume>(<issue>1</issue>):<fpage>67</fpage>&#x2013;<lpage>95</lpage>.
+                    <pub-id pub-id-type="doi">10.4467/25444972SMPP.20.004.11795</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Douo</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Izuzquiza</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Silva</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Lobbying Fortress Europe. The making of a border-industrial complex.</article-title>Corporate Europe Observatory,<year>2021</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://corporateeurope.org/en/lobbying-fortress-europe">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Giannetto</surname>
+                            <given-names>L</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Frontex, Civil Society Organsations, and Human Rights at the EU Borders: A Complex Relationship.</article-title>University of Oxford-Faculty of Law,<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://blogs.law.ox.ac.uk/research-subject-groups/centre-criminology/centreborder-criminologies/blog/2020/10/frontex-civil">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hayes</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The surveillance-industrial complex.</article-title>In: Ball, K., Haggerty, K. D., and Lyon, D. (eds.).
+                    <source>
+
+                        <italic toggle="yes">Routledge Handbook of Surveillance Studies.</italic>
+               </source>London and New York: Routledge,<year>2012</year>;<volume>2012</volume>:<fpage>167</fpage>&#x2013;<lpage>175</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780203814949-27/surveillance-industrial-complex-ben-hayes">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hayes</surname>
+                            <given-names>B</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>NeoConOpticon: The EU Security-Industrial Complex.</article-title>statewatch and Transnational Institut &#x2013; TNI,<year>2009</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.tni.org/files/download/neoconopticon_0.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hruschka</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Frontex and the Duty to Respect and Protect Human Rights.</article-title>Varfassungblogs,<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://verfassungsblog.de/frontex-and-the-duty-to-respect-and-protect-human-rights/">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Jones</surname>
+                            <given-names>C</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Market Forces. The development of the EU security-industrial complex.</article-title>TNI and statewatch,<year>2017</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.tni.org/en/publication/market-forces-the-development-of-the-eu-security-industrial-complex">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lemberg-Pedersen</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>R&#x00fc;bner Hansen</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Profit and Protection in EU Markets for Border Control.</article-title>Submission to the Office of the United Nations High Commissioner for Human Rights (OHCHR),<year>2020</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://vbn.aau.dk/ws/portalfiles/portal/329630203/OHCHR_Report_Submission_Version_17.3.2020.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>McAdam</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Who&#x2019;s Who at the Border? A rights-based approach to identifying human trafficking at international borders.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Anti-Trafficking Review.</italic>
+               </source>
+               <year>2013</year>; (<issue>2</issue>):<fpage>33</fpage>&#x2013;<lpage>49</lpage>.
+                    <pub-id pub-id-type="doi">10.14197/atr.20121322</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ostrom</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gardner</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Walker</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Rules, games, and common-pool resources</article-title>. University of Michigan press<year>1994</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.press.umich.edu/pdf/9780472065462-fm.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Pavone</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Esposti</surname>
+                            <given-names>SD</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Public assessment of new surveillance-oriented security technologies: Beyond the trade-off between privacy and security.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Public Underst Sci.</italic>
+               </source>
+               <year>2010</year>;<volume>21</volume>(<issue>5</issue>):<fpage>556</fpage>&#x2013;<lpage>72</lpage>.
+                    <pub-id pub-id-type="pmid">23823165</pub-id>
+                    <pub-id pub-id-type="doi">10.1177/0963662510376886</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ruiz Benedicto</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Guarding the Fortress. The role of Frontex in the militarisation and securitisation of migration flows in the European Union.</article-title>Centre Del&#x00e0;s d&#x2019;Estudis per la pau,<year>2019</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.tni.org/files/publication-downloads/informe40_eng_ok.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <mixed-citation publication-type="journal">
+                    <collab>UN OHCHR</collab>:
+                    <article-title>Recommended Principles and Guidelines on Human Rights at International Borders</article-title>.<year>2014</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ohchr.org/sites/default/files/Documents/Issues/Migration/OHCHR_Recommended_Principles_Guidelines.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report35746">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17146.r35746</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Perret</surname>
+                        <given-names>Sarah</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35746a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-7657-1895</uri>
+                </contrib>
+                <aff id="r35746a1">
+                    <label>1</label>ESPOL, Lille Catholic University, Lille, Hauts-de-France, France</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Perret S</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35746"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15078.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The article is an output of the EU H2020 R&amp;D project entitled &#x201c;ARESIBO: Enhancing border security with augmented reality and enriched situation awareness&#x201d;. The paper aims to review the perceived marginalisation of CSOs and HRGs, its reasons, and the elements that seem to make this marginalisation less substantial. Through a review of FRONTEX&#x2019;s legal framework on human rights, and secondary sources such as press articles (mainly from 
+                <italic>Euro/topics</italic>), reports/documents (from NGOs, CSOs and FRONTEX), the article analyses why CSOs and HRGs feel marginalised from EU border security decisions and designs, and how their claims for the respect of human rights at the border are consider within the EU border security Agency, FRONTEX.</p>
+            <p> </p>
+            <p> 
+                <bold>General Comments</bold>
+            </p>
+            <p> </p>
+            <p> Overall, the article addresses a very interesting and important topic that is at the forefront of the controversies within border security field. The paper well presents the main issues shaping this question of the CSOs and HRGs participations in defining the EU border security and addressing the concern of their perceived marginalization. The paper is well structured and presents clear research questions about the perception of potentially marginalisation of HRGs and CSOs and the role played by the different stakeholders; the identification of the key views regarding the space of interactions between EU institutions and HRGs and CSOs; and finally the characteristics of the dialectic that is at stake between the issue of human rights and the one of EU border controls.</p>
+            <p> </p>
+            <p> However, several weaknesses remain. Indeed, some of the elements put forward need to be made more explicit, and above all the literature needs to be updated.</p>
+            <p> </p>
+            <p> 
+                <bold>Recommendations</bold> 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The main weakness is the bibliography which ignores the many studies carried out about the actors and knowledge that make up security at the EU's borders, such as the work of Bigo, Jeandesboz, Bellanova and Duez, Leese, Martins and Jumbert, or Calcara, Csernatoni, and Lavall&#x00e9;e. These studies bring other important elements to understand the dynamic that is at stake in the process of knowledge production on border security. But, above all, I believe that this paper also makes an important contribution to the debate on the place of critical actors and voices within the field of border security (Austin, Bellanova, and Kaufmann; Leese, Lid&#x00e9;n, and Nikolova ; Martin-Maz&#x00e9;). Yet, this debate is not mentioned in the article.</p>
+                    </list-item>
+                    <list-item>
+                        <p>On several occasions, the authors provide no sources to explain or illustrate what they are referring to when they speak of &#x201c;many HRGs and CSOs have reported and criticized several human rights violations in recent years&#x201d; (p. 4) at the EU's borders. I suggest having a look on the several EU Ombudsman Decisions regarding FRONTEX activities (cf. 2014 
+                            <ext-link ext-link-type="uri"
+                               xlink:href="https://www.ombudsman.europa.eu/en/decision/en/59740">Decision</ext-link>). It would be useful to provide 2 or 3 examples here.</p>
+                    </list-item>
+                    <list-item>
+                        <p>As already highlighted by other reviewers, the acronym SOSTs needs to be introduced and explained from its first use in the article to enable readers unfamiliar with the subject to understand what it is. It also seems important to detail what these SOSTs actually and materially refer to.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The abstract should be updated to reflect the changes made between V1 and V2, in particular when it is mentioned that this is a 'systematic review', and the paper specifies that, in the end, it is a 'non-systematic review'.</p>
+                    </list-item>
+                    <list-item>
+                        <p>p. 8: It would be helpful for the reader to have at least one sentence to conclude/transition the section on Frontex&#x2019;s legal framework on human rights, and another to explain why it is interesting to address the question of the links between the EU agency and the &#x201c;military-industrial complex&#x201d;.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Are all factual statements correct and adequately supported by citations?</p>
+            <p>Partly</p>
+            <p>Is the review written in accessible language?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn appropriate in the context of the current research literature?</p>
+            <p>Partly</p>
+            <p>Is the topic of the review discussed comprehensively in the context of the current literature?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Border, EU R&amp;D programs, Migration, Political science, Security studies, Technology</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report35754">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17146.r35754</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Binder</surname>
+                        <given-names>Clemens</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35754a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-9842-0139</uri>
+                </contrib>
+                <aff id="r35754a1">
+                    <label>1</label>University of Copenhagen, Copenhagen, Denmark</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Binder C</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35754"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15078.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This paper aims to provide an overview over the perceived marginalization of Civil Society Organizations (CSOs) and Human-Rights Organisations (HROs) in decision-making processes about Surveillance-Oriented Security Technologies (SOSTs) in border security and migration control. The paper to this end draws on examples where these processes of perceived marginalization occur and provides empirical insights into relevant documents and structures of CSO involvement, such as the Frontex Consultative Forum on Fundamental Rights. It opens up a very crucial lacuna, which is the lack of civil society engagement with political processes in border management, specifically when it comes to technological aspects. Moreover, the paper aims to show that the missing CSO involvement is often a reason for problematic developments in the fields of human rights, as HROs are excluded. Moreover, the paper seeks to analyze modes of exclusion. While I command the ambition and research interest of this paper, it unfortunately suffers from serious shortcomings that undermine the quality of the analysis. It is a well-structured paper and the author&#x2019;s prove ample knowledge of the topic itself. Nevertheless, in order to make this a good publication and valuable contribution, which it certainly has the potential to be, some larger improvements are needed. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The paper lacks a clear thread that ties together the strands of analysis. By now, it seems as a scattered analysis of different relevant, interesting topics, but it is not made clear enough how these topics are connected in a larger context. Even with this being more of a review than an original research article, a good review requires thematical guidance. CSO and HRO involvement alone is very broad and therefore, the review might be systematic within the strands of analayis, but it lacks a clear connection between the different topics. It is stated that SOSTs are seen as a hook, however, hitherto that is not the case (see also below). However, I think a good way to resolve this issue could indeed be a stronger focus on SOSTs.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The paper does not engage with a wide array of literature that is existent in the field, be it on Frontex&#x2019; negligence in terms of CSOs and human rights (Campesi 2022; Fj&#x00f8;rtoft 2020; Glouftsios 2023; Perkowski 2021; Pollak and Slominski 2009) on the security industry and market (Binder 2020; Dadusc and Mudu 2020; Hoijtink 2014; Pacciardi and Berndtsson 2022) or on technologies (Bellanova and Glouftsios 2022; Glouftsios and Loukinas 2022; Leese 2022; Martins 2023; Pollozek 2020; Tazzioli 2018). That makes the claim of a systematic review somewhat weaker and undermines the quality of the analysis as such. However, also in terms of NGO reports, some of the reports are outdated and could be replaced by more current iterations.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The paper, although claiming it being a central hook and mentioning it even in the title, does sideline the debate on SOSTs and pushes it to the end. That is a weakness that easily could be turned into a strength, as particularly in terms of connections to the security-industrial complex, there are important ties. SOSTs generally need to be integrated more into the analysis if they have a central role. Otherwise the paper promises something that it does not hold in its current version. Moreover, there is no clear definition of what a SOST is, including examples.</p>
+                    </list-item>
+                    <list-item>
+                        <p>I struggle to understand the role and significance of the media analysis in the paper. I&#x2019;m not necessarily advocating for eliminating it, but in its current version, it seems detached and of little analytical value against the backdrop of the paper&#x2019;s objectives. What do CSOs and HROs have to do with what emerges in a small sample of media articles? Here, either a clarification for the analytical position of this part is needed, or the part should be replaced by e.g. a more thorough analysis of SOSTs, which seem to be the main interest of this paper.</p>
+                    </list-item>
+                    <list-item>
+                        <p>There is only a superficial engagement with the security-industrial complex that is shaped very much by a few reports on this issue. The paper only mentions the Security Research Programmes very briefly, although they are fundamental parts of industrial involvement and shape the role of industry. For example, they do not look into the Protection and Security Advisory Group (PASAG) of Horizon 2020, which is a central forum for industrial involvement. Moreover, there needs to be a clearer problematization, i.e. &#x2013; we already know that industry is strong and lobbies in technological programmes to a large extent, but what does that mean in the connection to CSOs and HROs? How is industry detrimental to human rights and CSO involvement. Also, what happens if CSOs interact with industry. Citing the reports is fine, but they also tend to scandalize a bit and put less focus on the very precise processes that come along with technology production, industry and security actors engaging.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Similarly, the part on the Consultative forum could profit from a more concrete case study. The authors really have an opportunity there to delve into specific cases that were discussed by the consultative forum and highlight along the lines of one or two cases the critique and the argument they try to put forward.</p>
+                    </list-item>
+                    <list-item>
+                        <p>While it is an overview, sometimes the own contribution is missing. It is hinted that there is another paper, but without reading the other paper, this is more of a literature review that lacks a clear argument. That should not mean that the paper doesn&#x2019;t have the chance to produce that, however for that purpose, there needs to be a clear improvement in terms of rationale and narrative. Also, the paper cannot expect the reader to have read the other paper, so the ARESIBO-material needs to be at least briefly introduced &#x2013; not least because it is prominent in the introduction.</p>
+                    </list-item>
+                </list> This is, all criticism aside, nevertheless an interesting and insightful read, which is also why I am advocating to eventually publish it. However, the points I have mentioned above leave me with some substantial reservations that need to be addressed before this paper goes out in the public. I am aware of this being a review, but also for a review, I suggest a clear argumentation, case studies in order to exemplify and a more integrated analysis. Nevertheless, I think the authors have done a good job in compiling this draft and I am confident they&#x2019;ll be able to substantiate this article and deliver a valuable contribution to an important debate.</p>
+            <p>Are all factual statements correct and adequately supported by citations?</p>
+            <p>Partly</p>
+            <p>Is the review written in accessible language?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn appropriate in the context of the current research literature?</p>
+            <p>Partly</p>
+            <p>Is the topic of the review discussed comprehensively in the context of the current literature?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Border Studies, Migration Studies, Security Studies, European Union, Science and Technology</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-35754-1">
+                    <label>1</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Controlling the Schengen Information System (SIS II): The Infrastructural Politics of Fragility and Maintenance</article-title>.
+                        <source>
+                            <italic>Geopolitics</italic>
+                        </source>.<year>2022</year>;<volume>27</volume>(<issue>1</issue>) :
+                        <elocation-id>10.1080/14650045.2020.1830765</elocation-id>
+                  <fpage>160</fpage>-<lpage>184</lpage>
+                        <pub-id pub-id-type="doi">10.1080/14650045.2020.1830765</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-2">
+                    <label>2</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Care without Control: The Humanitarian Industrial Complex and the Criminalisation of Solidarity</article-title>.
+                        <source>
+                            <italic>Geopolitics</italic>
+                        </source>.<year>2022</year>;<volume>27</volume>(<issue>4</issue>) :
+                        <elocation-id>10.1080/14650045.2020.1749839</elocation-id>
+                  <fpage>1205</fpage>-<lpage>1230</lpage>
+                        <pub-id pub-id-type="doi">10.1080/14650045.2020.1749839</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-3">
+                    <label>3</label>
+                    <mixed-citation>
+                        <person-group person-group-type="author"/>:
+                        <article-title>&#x201c;Developing Future Borders. The Politics of Security Research and Emerging Technologies in Border Security.&#x201d; In Emerging Security Technologies and EU Governance Actors, Practices and Processes, edited by Raluca Csernatoni, Antonio Calcara, and Chantal Lavall&#x00e9;e</article-title>.
+                        <source>
+                            <italic>Abingdon: Routledge</italic>
+                        </source>.<year>2020</year>;<fpage>148</fpage>-<lpage>163</lpage>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-4">
+                    <label>4</label>
+                    <mixed-citation>
+                        <person-group person-group-type="author"/>:
+                        <article-title>Policing Mobility Regimes: Frontex and the Production of the European Borderscape. Routledge Studies in Criminal Justice, Borders and Citizenship</article-title>.
+                        <source>
+                            <italic>London New York: Routledge</italic>
+                        </source>.<year>2022</year>;</mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-5">
+                    <label>5</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Performing secrecy: hiding and obfuscation in Frontex&#x2019;s pushbacks scandal</article-title>.
+                        <source>
+                            <italic>Journal of Ethnic and Migration Studies</italic>
+                        </source>.<year>2023</year>;
+                        <elocation-id>10.1080/1369183X.2023.2226825</elocation-id>
+                  <fpage>1</fpage>-<lpage>21</lpage>
+                        <pub-id pub-id-type="doi">10.1080/1369183X.2023.2226825</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-6">
+                    <label>6</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>More power, more control: The legitimizing role of expertise in Frontex after the refugee crisis</article-title>.
+                        <source>
+                            <italic>Regulation &amp; Governance</italic>
+                        </source>.<year>2022</year>;<volume>16</volume>(<issue>2</issue>) :
+                        <elocation-id>10.1111/rego.12373</elocation-id>
+                  <fpage>557</fpage>-<lpage>571</lpage>
+                        <pub-id pub-id-type="doi">10.1111/rego.12373</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-7">
+                    <label>7</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Capitalizing on emergence: The &#x2018;new&#x2019; civil security market in Europe</article-title>.
+                        <source>
+                            <italic>Security Dialogue</italic>
+                        </source>.<year>2014</year>;<volume>45</volume>(<issue>5</issue>) :
+                        <elocation-id>10.1177/0967010614544312</elocation-id>
+                  <fpage>458</fpage>-<lpage>475</lpage>
+                        <pub-id pub-id-type="doi">10.1177/0967010614544312</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-8">
+                    <label>8</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Fixing State Vision: Interoperability, Biometrics, and Identity Management in the EU</article-title>.
+                        <source>
+                            <italic>Geopolitics</italic>
+                        </source>.<year>2022</year>;<volume>27</volume>(<issue>1</issue>) :
+                        <elocation-id>10.1080/14650045.2020.1830764</elocation-id>
+                  <fpage>113</fpage>-<lpage>133</lpage>
+                        <pub-id pub-id-type="doi">10.1080/14650045.2020.1830764</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-9">
+                    <label>9</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>EU border externalisation and security outsourcing: exploring the migration industry in Libya</article-title>.
+                        <source>
+                            <italic>Journal of Ethnic and Migration Studies</italic>
+                        </source>.<year>2022</year>;<volume>48</volume>(<issue>17</issue>) :
+                        <elocation-id>10.1080/1369183X.2022.2061930</elocation-id>
+                  <fpage>4010</fpage>-<lpage>4028</lpage>
+                        <pub-id pub-id-type="doi">10.1080/1369183X.2022.2061930</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-10">
+                    <label>10</label>
+                    <mixed-citation>
+                        <person-group person-group-type="author"/>:
+                        <article-title>Humanitarianism, Human Rights and Security: The Case of Frontex. InterventionsSource</article-title>.<year>2021</year>;</mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-11">
+                    <label>11</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Experimentalist but not Accountable Governance? The Role of Frontex in Managing the EU's External Borders</article-title>.
+                        <source>
+                            <italic>West European Politics</italic>
+                        </source>.<year>2009</year>;<volume>32</volume>(<issue>5</issue>) :
+                        <elocation-id>10.1080/01402380903064754</elocation-id>
+                  <fpage>904</fpage>-<lpage>924</lpage>
+                        <pub-id pub-id-type="doi">10.1080/01402380903064754</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-12">
+                    <label>12</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Turbulences of speeding up data circulation. Frontex and its crooked temporalities of &#x2018;real-time&#x2019; border control</article-title>.
+                        <source>
+                            <italic>Mobilities</italic>
+                        </source>.<year>2020</year>;<volume>15</volume>(<issue>5</issue>) :
+                        <elocation-id>10.1080/17450101.2020.1801304</elocation-id>
+                  <fpage>677</fpage>-<lpage>693</lpage>
+                        <pub-id pub-id-type="doi">10.1080/17450101.2020.1801304</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-13">
+                    <label>13</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Security knowledges: circulation, control, and responsible research and innovation in EU border management</article-title>.
+                        <source>
+                            <italic>Science as Culture</italic>
+                        </source>.<year>2023</year>;<volume>32</volume>(<issue>3</issue>) :
+                        <elocation-id>10.1080/09505431.2023.2222739</elocation-id>
+                  <fpage>435</fpage>-<lpage>459</lpage>
+                        <pub-id pub-id-type="doi">10.1080/09505431.2023.2222739</pub-id>
+                    </mixed-citation>
+                </ref>
+                <ref id="rep-ref-35754-14">
+                    <label>14</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Spy, track and archive: The temporality of visibility in Eurosur and Jora</article-title>.
+                        <source>
+                            <italic>Security Dialogue</italic>
+                        </source>.<year>2018</year>;<volume>49</volume>(<issue>4</issue>) :
+                        <elocation-id>10.1177/0967010618769812</elocation-id>
+                  <fpage>272</fpage>-<lpage>288</lpage>
+                        <pub-id pub-id-type="doi">10.1177/0967010618769812</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report35751">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17146.r35751</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Duez</surname>
+                        <given-names>Denis</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35751a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r35751a1">
+                    <label>1</label>Institute for European Studies, Universit&#x00e9; Saint-Louis - Bruxelles, Bruxelles, Belgium</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>13</day>
+                <month>11</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Duez D</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35751"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15078.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The paper reviewed is the first part of a research diptych carried out as part of a Horizon 2020 project called ARESIBO. The aim of the ARESIBO project is to improve the efficiency of border surveillance systems by providing the operational teams and tactical command and control level with accurate and comprehensive information related to border control.</p>
+            <p> </p>
+            <p> The paper explores the perceived marginalization of human rights groups (HRGs) and civil society organizations (CSOs) in border surveillance decision-making process at European level. It explains the main reasons for it, essentially from the point of view of HRGs and CSOs themselves. The text is well structured. The argument unfolds in three stages. The first stage aims at presenting a press review of EU relevant public debates involving the issues of border control and human rights in mainstream media, with a particular focus on the use of Surveillance-Oriented Security Technologies (SOSTs). The second stage examines the growing importance attached to the protection of human rights in the legal framework governing the activities of the Frontex Agency. Finally, the third stage consists of an analysis of the marginalization of HRGs and CSOs in the decision-making process, mainly through an analysis of the activities of the Consultative Forum on Fundamental Rights.</p>
+            <p> </p>
+            <p> The paper is well written in an accessible language. It deals with important and politically salient issues, highlighting the complex relations between protecting the fundamental rights of migrants and managing external borders of the European Union. From this point of view, the paper makes a relevant contribution to a highly topical debate.</p>
+            <p> </p>
+            <p> Despite its relevance, however, the paper has several weaknesses. Some of these weaknesses, were already present in the first version, and pointed out by one of the two reviewers. 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The meaning of the acronym SOST is still not explained in the paper's abstract or in the body of the paper. The full term "Surveillance-Oriented Security Technologies" is mentioned only once, in the list of keywords. Insofar as the expression used is not necessarily the most frequently used in academic work or in the most recent official documents to describe the use of new technologies in the field of border control, it would also be useful to clarify what types of technologies are covered by the concept of SOSTs. This clarification is all the more useful as the concept of SOSTs does not perfectly overlap with that of Smart Borders. Not all "smart technologies" are "surveillance technologies". For example, in the 2013 Smart Borders Package mentioned on pages 13-14, some smart technologies are indeed technological "border surveillance" devices (Eurosur), but others are more akin to technologies aiming at facilitating "border checks". On this point, we refer the authors to the terminological definitions in the Schengen Borders Code, which distinguishes between "border controls", "border checks" and "border surveillance" (art. 2).</p>
+                    </list-item>
+                    <list-item>
+                        <p>As with the concept of SOSTs, the scope of the concepts of Civil Society Organizations and Human Rights Groups is not clearly defined. Which organizations precisely fall within these concepts? Conceptual, terminological, and methodological choices that should have been explicitly justified are not explained. A more systematic presentation of the &#x201c;pertinent organization&#x201d; (p.12) could have been made.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Although this criticism has already been formulated for the first version of the paper, the literature cited remains sparse, but also dated. Some of the works cited were published ten years ago. They have since been supplemented by more recent work (see Niovi Vavoula, Rocco Bellanova, Matthias Leese, Giorgios Glouftsios, or Didier Bigo and Julien Jeandesboz more recent works). Some specific concepts are also used without mentioning the authors who imported them in the field of migration-security studies or the debates surrounding them (for example, on the concept of "securitisation" discussed p. 9, see J. Huysmans, Th. Balzacq, etc.). Put briefly, the document does not really take account of the very rich (and recent) academic literature devoted to the question of the relationship between border controls, security technologies and human rights.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The press review carried out using the euro-topics.net database is surprisingly limited. It is surprising that a keyword search covering a period of three years (2019-2020) on a subject as sensitive as migration and human rights results in a total of only 51 articles. One might have expected the choice of very broad keywords such as "border", "human rights" and "technology" to result in a much larger number of items. One can regret the lack of detail provided to the reader regarding the selection of keywords and the choice of the database. Eventually, the limited corpus raises not only the question of the systematic nature of the research, but also that of the validity of the conclusions drawn regarding the structuring of points of view around the issue studied.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The text contains typos that should be corrected: p.4 "3mportanti", p.5 "5mportanti", p.6 "6mportanti", p.7, "7mportanti s7", etc.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Finally, we have not read the paper constituting the second part of the research diptych, the one dealing with the participatory model. However, reading the title of this second part, "Towards the engagement of citizens in SOSTs decision-making: participatory models setting a common ground for border surveillance and respect of fundamental rights. The case of ARESIBO H2020 project", one wonder how the two texts fit together. The first deals with the participation of interest groups (CSOs and HRGs) in the European decision-making process, while the second deals with the participation of 'citizens'. These are two things that are certainly connected, but nonetheless distinct. This last comment is slightly outside the scope of this specific paper review, but the authors would probably benefit from arguing better about the connection between the two papers.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Are all factual statements correct and adequately supported by citations?</p>
+            <p>Partly</p>
+            <p>Is the review written in accessible language?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn appropriate in the context of the current research literature?</p>
+            <p>Partly</p>
+            <p>Is the topic of the review discussed comprehensively in the context of the current literature?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Border studies, security, irregular migration, Area of freedom security and justice</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report30769">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16306.r30769</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Opio&#x0142;a</surname>
+                        <given-names>Wojciech</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30769a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-2473-3375</uri>
+                </contrib>
+                <aff id="r30769a1">
+                    <label>1</label>Department of Regional Studies, University of Opole, Opole, Poland</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>2</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Opio&#x0142;a W</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport30769"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15078.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The reviewed paper: "The missing piece. The perceived marginalization of CSOs and HRGs in SOSTs&#x2019; decision-making processes: a review" is an engaging, non-systematic review of the literature and secondary sources concerning the issue of the role of CSOs and HRGs in border surveillance decision-making process.</p>
+            <p> </p>
+            <p> The review was done on some dimensions of current border surveillance discourse: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>review of media discourse</p>
+                    </list-item>
+                    <list-item>
+                        <p>analysis of legal and institutional framework (Frontex)</p>
+                    </list-item>
+                    <list-item>
+                        <p>analysis of the scientific literature about intersections between "security-industrial complex" and respecting fundamental rights in border surveillance,</p>
+                    </list-item>
+                    <list-item>
+                        <p>a case study of Frontex's Consultative Forum</p>
+                    </list-item>
+                    <list-item>
+                        <p>analysis of usage of participatory tools in border management and migration policies.</p>
+                    </list-item>
+                </list> I have some minor critical remarks about the presented paper, however, my general impression is very positive. It is a comprehensive, detailed insight into a very up-to-date topic. 
+                <list list-type="order">
+                    <list-item>
+                        <p>There is no explanation of the acronym SOST in the paper.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Authors stated, that the paper is a "systematic review", which I can't agree with. I only see elements of the systematic review method in a part about press debates. But even there, authors omit the most relevant criterion of systematic review: it must contain ALL relevant literature, and selection criteria must be described. It would be more proper if authors will use the term "non-systematic review", or "state-of-the-art analysis" instead. For systematic review methodology see for example PRISMA framework (Page, 2021)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Conclusions should be more comprehensive, and authors must state in this part, what is the general impression of analyses done in the paper? Now, the part conclusions are more the introduction to the second part of the paper, about the ARESIBO participatory model.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Cited literature should be enriched. I see only 17 references. If the aim of this paper is the review the state-of-the-art, more articles must be taken into consideration. For example, for the keyword "border surveillance", you can find more than 500 papers in the Scopus database.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Geographical scope of the analysis: paper is concentrated mainly on Mediterranean Region, with few references to the Hungarian-Serbian border. What with other EU borders (Poland/Belarus, Lithuania/Belarus, Finland/Russia, etc)? If these topics don't exist in the literature, isn't it interesting and worth an explanation, what is the reason behind that?</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Are all factual statements correct and adequately supported by citations?</p>
+            <p>Partly</p>
+            <p>Is the review written in accessible language?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn appropriate in the context of the current research literature?</p>
+            <p>Partly</p>
+            <p>Is the topic of the review discussed comprehensively in the context of the current literature?</p>
+            <p>Partly</p>
+            <p>Reviewer Expertise:</p>
+            <p>Cross-border cooperation, political science, border studies</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-30769-1">
+                    <label>1</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>The PRISMA 2020 statement: an updated guideline for reporting systematic reviews.</article-title>
+                        <source>
+                            <italic>BMJ</italic>
+                        </source>.<year>2021</year>;<volume>372</volume>:
+                        <elocation-id>10.1136/bmj.n71</elocation-id>
+                  <fpage>n71</fpage>
+                        <pub-id pub-id-type="pmid">33782057</pub-id>
+                        <pub-id pub-id-type="doi">10.1136/bmj.n71</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report30766">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16306.r30766</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Mihajlova Stratilati</surname>
+                        <given-names>Elena</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r30766a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r30766a1">
+                    <label>1</label>Iustinianus Primus Law Faculty, Ss. Cyril and Methodius University in Skopje, Skopje, North Macedonia</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>2</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Mihajlova Stratilati E</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport30766"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15078.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>&#x0422;he text represents impressive research of what basically boils down to the basic question of how much and whether the need &#x00ab;to eliminate irregular border crossings of the external borders&#x00bb; &#x2013; is in constant conflict with &#x00ab;a human rights-based approach to the European migrant policy &#x00bb;. The second sub-theme in this basic question is basically how much a security-focused, profit-driven, and technology-based approach to the problem is replacing one that prioritizes human rights, portraying migration as primarily a security threat and technology as the primary means to address it.</p>
+            <p> </p>
+            <p> The text makes in-depth analyzes to explore this perceived marginalization of human rights groups (HRGs) and civil society organizations (CSOs) in border surveillance, giving an account on the main reasons for it, as they are expressed by HRGs and CSOs. At the same time, this review takes into account and outlines the ways in which HRGs and CSOs are included in border management, focusing in particular on FRONTEX, from the point of view of legislation and of its consultancy bodies. In its conclusions, the paper introduces the ARESIBO Participatory Model (APM), a participatory methodology elaborated in the frame of the project ARESIBO as a proposal to enhance participation of HRGs and CSOs in the development of border surveillance technologies, thus addressing this perceived marginalization in a more consistent and structured manner. For this purpose, the paper is an application of extremely relevant knowledge about EU policies in the context of migration as well as the broader areas of migration and international human rights.</p>
+            <p> </p>
+            <p> &#x0422;he paper abounds with references crucial to the research, but above all it is an extraordinary attempt to select relevant issues as reference points along which the discussion/elaboration moves and which make the research extremely relevant, together with a complete and detailed presentation of theses from "both sides of the argument".</p>
+            <p> </p>
+            <p> The thesis is an exceptional contribution to the field, relevant to all those who deal with migration, but also EU policies and human rights.</p>
+            <p>Are all factual statements correct and adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the review written in accessible language?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn appropriate in the context of the current research literature?</p>
+            <p>Yes</p>
+            <p>Is the topic of the review discussed comprehensively in the context of the current literature?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>International law and relations, international human rights law, refugee law and migration</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>

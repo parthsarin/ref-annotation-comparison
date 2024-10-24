@@ -1,0 +1,2200 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="review-article"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.16146.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Review</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>A model curriculum in sexual medicine for undergraduate education in Europe</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 1 approved with reservations]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Di Dionisio</surname>
+                        <given-names>Carlo Matteo</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-0780-0209</uri>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Bitzer</surname>
+                        <given-names>Johannes</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Greil-Soyka</surname>
+                        <given-names>Marianne</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Investigation</role>
+                    <role content-type="http://credit.niso.org/">Project Administration</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0009-0003-1404-3087</uri>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Endocrinology and Medical Sexology (ENDOSEX), Department of Systems Medicine, Universita degli Studi di Roma Tor Vergata, Rome, Lazio, Italy</aff>
+                <aff id="a2">
+                    <label>2</label>University Hospital - Department of Obstetrics and Gynecology, Universitat Basel, Basel, Basel-Stadt, Switzerland</aff>
+                <aff id="a3">
+                    <label>3</label>Austrian Academy for Sexual Medicine (OEASM), Salzburg, Austria, Austria</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:Johannes.bitzer@usb.ch">Johannes.bitzer@usb.ch</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>19</day>
+                <month>9</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>153</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>29</day>
+                    <month>8</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Di Dionisio CM et al.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-153/pdf"/>
+            <abstract>
+                <p>Sexual health has been recognized as an essential component of overall health and wellbeing. The current article aims, first, to review the current state of sexual health education in undergraduate medical curricula, identifying gaps, needs and challenges.</p>
+                <p>The main part of this paper describes the development and content of an undergraduate sexual medicine curriculum based on a clear concept of the competencies, students should learn regarding knowledge, skills and attitudes.</p>
+                <p>The content is based on a biopsychosocial understanding of human sexuality elaborated by international experts from different European countries integrating basic knowledge in biology, psychology, sociocultural and political sciences, preventive medicine, and the various therapeutic approaches to help women, men and couples with sexual health problems on a primary care level. In order to enable students to learn the basic skills of sexual history taking and basic sexual counselling two educational videos were produced.</p>
+                <p>The material presented is part of the European Cooperation in Science and Technology (COST) supported project European Sexual Medicine Network (ESMN). The material provided can serve universities to give the training as a 25&#x2013;30 hours course equivalent to 1 ECTS.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>medical education</kwd>
+                <kwd>undergraduate curriculum</kwd>
+                <kwd>sexual health</kwd>
+                <kwd>sexual medicine</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100018693">
+                    <funding-source>Horizon Europe Framework Programme</funding-source>
+                    <award-id>18124</award-id>
+                </award-group>
+                <funding-statement>Horizon Europe Framework Programme 18124 - European Sexual Medicine Network</funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>The present article aims to describe the process that led to the development of a novel sexual medicine curriculum for undergraduate students. This curriculum was created throughout 4 years by a working group of international experts under the network association nominated European Sexual Medicine Network (ESMN)
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>
+                </sup>, which is an European Cooperation in Science and Technology (COST) Action (CA18124).</p>
+            <p>The working group had the following tasks</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>1) </label>
+                    <p>Assess gaps and inequalities regarding undergraduate university education in sexual health, sexual health care and sexual medicine in Europe</p>
+                </list-item>
+                <list-item>
+                    <label>2) </label>
+                    <p>Analyse the difficulties and challenges regarding the creation of a broadly applicable and suitable program for faculties in different countries</p>
+                </list-item>
+                <list-item>
+                    <label>3) </label>
+                    <p>Define a competency- based curriculum with learning objectives regarding knowledge, skills and attitudes based on the biopsychosocial model of sexuality and sexual health</p>
+                </list-item>
+                <list-item>
+                    <label>4) </label>
+                    <p>Elaborate and provide the educational material for use in teaching programs integrated into the existing medical and psychology curriculum</p>
+                </list-item>
+            </list>
+            <p>As discussed in section 3 and 4, the rationale at the foundation of this effort lies in the current lack of effective and inclusive sexual health education in undergraduate, first level educational curricula of European universities. The discussion builds up on the current fragmented state of education and the resulting lack of expertise for healthcare professionals in addressing sexual health issues with patients. It follows with an overview of the challenges that may hinder the development and implementation of a comprehensive sexual medicine curriculum. </p>
+            <p>To fill these gaps and harmonize basic university training in sexual health and sexual medicine, the COST Action European Sexual Medicine Network established a working group to elaborate a model curriculum in sexual medicine for undergraduate education in Europe. This working group consisted of experts representing different disciplines and fields involved in sexual medicine and sexual health care and different regions in Europe and beyond (see Acknowledgments). </p>
+            <p>	The results of this shared effort are described in the main part of the final section of this article.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>For task 1 and 2 an extensive search of all materials related to the topic was carried out in the PubMed and Google Scholar search engines. Relevant research articles focusing on sexual health education in undergraduate medical education published in the period 2006&#x2013;2023 were included in the review. Relevant articles were selected based upon relevance with the current review objectives and analyzed. Keywords used in the search included sexual health, medical education and curriculum (namely sexual health AND medical education; sexual health AND undergraduate medical education; sexual health AND curriculum). The articles published only in the English language were included for the current review. The collected information is presented in the following two sections.</p>
+            <p>For tasks 3 and 4 the working group consisting of sexual medicine experts in the field of gynecology, urology, social science, public health, preventive medicine, internal medicine and endocrinology from different European countries had in person and virtual meetings which followed a modified Delphi procedure to achieve consensus
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>.</p>
+            <p>For all steps described below the chair and vice chair summarized discussions and inputs coming from the experts, sent the material back to the group members to get feedback and corrections which were then integrated and sent back to the group members for evaluation and feedback. Where necessary this procedure was repeated.</p>
+            <p>In a first step the group had to define the competencies undergraduates should obtain and the related learning objectives. In the next step the group members were invited to suggest topics to be covered by the program which were considered to be essential parts of basic knowledge. After having agreed on the topics experts were invited to contribute to the topics chosen by sending slides to the chair and vice chair. Each slide had to be accompanied by learning objectives, text, references and self-assessment questions for the students. The chair and vice chair integrated the material into a first format of the 10 topics and sent the proposals out for review and comments from the group. This procedure was repeated several times to arrive at the final format which is shown in the text below and accessible through the internet link given at the end</p>
+        </sec>
+        <sec sec-type="results">
+            <title>Results</title>
+            <sec>
+                <title>Gaps and inequalities regarding education and training in sexual health care across Europe</title>
+                <p>Sexual health is closely linked to both physical and mental wellbeing
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-3">3</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-6">6</xref>
+                    </sup>. It encompasses the life of the individual as a fundamental component, constantly evolving and changing with it. Accordingly, sexuality is closely related to general health and for this reason, various medical conditions and treatments can have a negative impact on a person's sexual function, interpersonal relationships and well-being
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-7">7</xref>,
+                        <xref ref-type="bibr" rid="ref-8">8</xref>
+                    </sup>. The importance to not overlook sexuality appears evident at the time of a cancer treatment, for example, where most often the side effects impact heavily on the interpersonal (intimate) relationship of the patient and may affect therapy adherence
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-9">9</xref>
+                    </sup>; or, in those cases in which a sexual dysfunction can represent a marker of an underlying, non-diagnosed, illness
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-10">10</xref>,
+                        <xref ref-type="bibr" rid="ref-11">11</xref>
+                    </sup>. Therefore, it is crucial for healthcare providers to consider and address their patients' sexual health alongside other medical issues.</p>
+                <p>Various barriers have been identified at the time of a clinical visit, that prevent both healthcare providers and patients to talk freely about sexual health issues. Among these, some of the most frequently reported are: lack of training in communication, fear of offending the patient, discomfort with discussing sexual health, lack of education and competence in treating sexual health issues and lack of time in the appointment
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-12">12</xref>
+                    </sup>. Patients view sexual health as an important aspect of their well-being and happiness, but they are afraid and may feel ashamed to address intimate issues. They expect their physicians to first open the discussion about sexual health problems
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-13">13</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-16">16</xref>
+                    </sup>. However, many doctors feel they lack adequate education on sexual health and, consequently, do not routinely inquire about sexuality because they feel incompetent or are afraid to lose too much time
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-17">17</xref>&#x2013;
+                        <xref ref-type="bibr" rid="ref-19">19</xref>
+                    </sup>.</p>
+                <p>A significant contributing factor to this, identified repeatedly in the literature, is the insufficient attention given to sexual health education in medical school
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-5">5</xref>,
+                        <xref ref-type="bibr" rid="ref-20">20</xref>,
+                        <xref ref-type="bibr" rid="ref-21">21</xref>
+                    </sup>.</p>
+                <p>Despite the broadly acknowledged importance of sexual health education in medicine, many medical schools still do not offer sufficient training on this topic
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-19">19</xref>,
+                        <xref ref-type="bibr" rid="ref-22">22</xref>,
+                        <xref ref-type="bibr" rid="ref-23">23</xref>
+                    </sup>. This gap in education must be addressed to better equip future physicians with the knowledge, skills and attitudes necessary to provide comprehensive care for their patients
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-24">24</xref>
+                    </sup>. Medical schools should prioritize the inclusion of sexual health education in their curriculums, providing students with the resources and opportunities to develop their competence in this area. This matters also for those universities that may already implement some components of sexual medicine but do so only for topics related to sexually transmitted diseases, pregnancy, reproductive anatomy, and infertility. A comprehensive sexual medicine education should be composed of a multidisciplinary curriculum, providing a health-oriented, biopsychosocial view of human sexuality
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-25">25</xref>,
+                        <xref ref-type="bibr" rid="ref-26">26</xref>
+                    </sup>.</p>
+                <p>Multiple surveys have identified this lack in a variety of countries, especially in the USA, Brazil and Northern Europe
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-5">5</xref>,
+                        <xref ref-type="bibr" rid="ref-12">12</xref>,
+                        <xref ref-type="bibr" rid="ref-27">27</xref>,
+                        <xref ref-type="bibr" rid="ref-28">28</xref>
+                    </sup>. The European region, in particular demonstrates a lack of standardized and unified sexual education inside the existing training curricula
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-29">29</xref>,
+                        <xref ref-type="bibr" rid="ref-30">30</xref>
+                    </sup>. Results from a survey conducted by the European Federation of Sexology (EFS)
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-31">31</xref>
+                    </sup> on existing programs and certifications on sexology in Europe, identified 6 different training models in 25 countries:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Medical model (in France, Czech Republic, Russia, Poland, Romania and Latvia);</p>
+                    </list-item>
+                    <list-item>
+                        <p>Clinical model, integrating medical and psychological approaches (in Italy, Netherlands and Turkey);</p>
+                    </list-item>
+                    <list-item>
+                        <p>Distinct training in clinical sexology and human sexuality (in Germany, Austria and Spain);</p>
+                    </list-item>
+                    <list-item>
+                        <p>Sex therapy model (in Portugal, Austria, Greece, Israel, Croatia, and United Kingdom);</p>
+                    </list-item>
+                    <list-item>
+                        <p>Human sexuality model (in Belgium and Switzerland);</p>
+                    </list-item>
+                    <list-item>
+                        <p>Nordic human sexuality model (in Sweden, Denmark, Finland, Norway, Iceland and Estonia);</p>
+                    </list-item>
+                </list>
+                <p>The available education in the field of sexology typically consists of national programs that encompass a range of courses. These programs may lead to a degree, certificate, or diploma in different areas and levels of sexology 
+                    <italic toggle="yes">(trained in; doctor in; sexologist; sex therapist; etc.).</italic> The majority of this training focuses on providing additional education to professionals who have already acquired a primary educational level. For this reason, it is more common to find sexual health and medicine education in complementary, master or postgraduate courses. </p>
+                <p>In the last two decades the postgraduate education in sexual health, sexual medicine and sexology has seen an enormous growth, mainly through European and International Scientific societies. In particular: International Society for Sexual Medicine (ISSM), European Society for Sexual Medicine (ESSM), International society for the Study of Women&#x2019;s Sexual Health (ISSWSH) and several national societies as well as various universities. The concern remains that sexuality and sexual health care are not well integrated into the undergraduate education for future health care professionals including training in medicine and psychology, as at best sexuality education may be offered as elective courses within the basic health professional curriculum. In most European universities, sexology is not an essential component of the teaching curriculum, even for medical students. This marginalization within the existing educational system makes it difficult to enable future health care professionals to provide basic sexual health care.</p>
+            </sec>
+            <sec>
+                <title>The challenge(s) to create a training program in basic sexual health care for undergraduates</title>
+                <p>Developing a comprehensive sexual medicine curriculum does not concern only the ability to resume and integrate a variety of multidisciplinary concepts around sexual health. The number of challenges that must be considered is not insignificant as they encompass the whole educational environment of sexual medicine.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Scientific evidence and biopsychosocial, multidisciplinary approach</italic>
+                    </bold>
+                </p>
+                <p>The first challenge is to create a curriculum that respects quality criteria, the most important one being that the information provided is 
+                    <bold>scientifically accurate</bold>, 
+                    <bold>complete, up-to-date and adapted to its final receivers</bold>. It should not be limited to anatomy and pathology, and should instead provide knowledge about aspects of biology, psychology, and social factors altogether (i.e., the biopsychosocial model of human sexuality)
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-32">32</xref>
+                    </sup>. It should not overlap with the same depth topics that are already taught in medical courses, but should identify them accordingly, so that students can learn and integrate available knowledge inside a more holistic approach. The development of such an educational package should be guided by inputs from different healthcare specialties and disciplines: obstetrics, gynecology, urology, psychiatry; sex therapists, psychologists, and sexologists; and public health experts
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-24">24</xref>,
+                        <xref ref-type="bibr" rid="ref-33">33</xref>
+                    </sup>. Another step towards this holistic approach would aim to create a working group composed of international experts from different countries and regions, to assure the inclusion of different sociocultural and political backgrounds important to understand patients&#x2019; concerns and sexual problems.</p>
+                <p>From a didactic point of view the challenge lies in harmonizing topics of human biology, psychology and social and political aspects, without overweighting too much a single topic. The educational level should be comprehensive, but not go beyond the level of the current courses on human anatomy, pathology, etc. It should result in a balanced biopsychosocial educational package on sexual health without deepening or discounting too much. Most importantly, the sexual medicine curriculum should include topics that are missing or not covered enough from the current available courses (i.e. gender minorities and inclusive care, digital sexuality, non-normative sexual behavior, sexuality and aging, sexual coercion and violence, sexual rights, to cite a few)
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-24">24</xref>
+                    </sup>, and should be aimed at developing those skills that practicing physicians identify as challenging (i.e. sexual history taking)
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-26">26</xref>
+                    </sup>.</p>
+                <p>Another challenging aspect is that this curriculum should, where possible, be applied to a larger pool of students other than just those of medical schools. The rationale is simple: given the strict linkage between health and sexuality, it is highly likely that healthcare professionals of all kinds will come across patients who have questions or difficulties related to their sexual health
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-24">24</xref>
+                    </sup>. Moreover, it is strongly suggested that this should start during the first years of University, rather than the latest and or during residencies, as difficulty in discussing the sexual health of patients emerges prior to graduation
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-34">34</xref>
+                    </sup> and is easier to overcome if students can practice during their routine care
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-28">28</xref>
+                    </sup>.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Delivery and implementation of the curriculum</italic>
+                    </bold>
+                </p>
+                <p>Effective delivery of the Curriculum to students faces three main challenges. </p>
+                <p>The first consists of tailoring the program to the social climate of the students. Current generations, studying today at university level, were born and raised through a digital era, to which their ability to learn is connected
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-25">25</xref>
+                    </sup>. In this sense, implementation through internet platforms, modular and accessible anytime, anywhere to learn and practice at their will could represent a dissemination modality to be preferred, especially considering the evolution of digital technologies for self-help and sexual health
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-35">35</xref>
+                    </sup>.</p>
+                <p>The second, far more important, is that this tailored and timed education should connect knowledge acquisition with attitude formation and skills practice. To detach from a purely theoretical approach and instead opt for an experiential learning approach: through the use of roleplay, workshops, case discussion and standardized patients; through (multidisciplinary) team-work and direct constructive feedback from peers and educators. The resulting increase in knowledge and 
+                    <italic toggle="yes">savoir-faire</italic> allows one to develop a professional attitude, as discussed in the next section.</p>
+                <p>The third challenging aspect relates to both content creation and student education. A key component of the curriculum is to develop and foster a professional stance. By teaching about the diversity of sexual expression, the curriculum shall prepare to meet patients with different sexual values and expression in respect to one&#x2019;s own. There is no interest in altering the student&#x2019;s subjective view of sexuality, but rather the objective is to raise awareness and the ability to maintain an objective, unbiased, non-judgmental evidence-based stance during patient care for a sexual concern
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-5">5</xref>,
+                        <xref ref-type="bibr" rid="ref-26">26</xref>
+                    </sup>.</p>
+                <p>Finally, the last challenges regard the mode of implementation, the University structure (Faculty, Educational board) and the sustainability of the curriculum.</p>
+                <p>An implementation modality to bring sexual health care in medical schools would be to integrate its components into multiple courses throughout the years of training
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-5">5</xref>,
+                        <xref ref-type="bibr" rid="ref-26">26</xref>,
+                        <xref ref-type="bibr" rid="ref-36">36</xref>
+                    </sup>. Considering the current limited space of medical schools curricula for new courses, and the general burden placed on students, the above mentioned proposal is not feasible. A solution to this is represented by shorter implementations, such as modules as short as two days of activities, that connect evidence-based knowledge and skills practice. In the literature, this kind of implementation has been preferred by students, implemented by universities
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-37">37</xref>
+                    </sup>, and has demonstrated positive lasting effects even after ten years
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-20">20</xref>
+                    </sup>.</p>
+                <p>	Another limitation is represented by a lack of resources, training and time by the faculty of the interested medical school. In this case, external experts could be invited to provide education on sexual health topics, both to students and to willing faculty members
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-25">25</xref>
+                    </sup>. At the same time, formal approval by the university educational board might become another complexity.</p>
+                <p>	A final challenge concerns the educational curriculum maintenance and follow up. A comprehensive sexual medicine curriculum, as stated, would need to be updated according to new relevant research, alongside the faculty of experts that may present it; it would need an administrative body, to regulate and manage financial and human resources, and a disseminative body, to bring the curriculum to the attention of willing stakeholders and institutions. </p>
+                <p>To conclude, both students, specialists, researchers and experts have highlighted the need for further sexual medicine education within the undergraduate years. For this reason, a well-timed and implemented curriculum might allow for a seeding process for sexual healthcare, as even a short training program (two days or less) can have a long-lasting impact on the medical competence and confidence in addressing sexual health issues, all to the benefit of patients. </p>
+            </sec>
+            <sec>
+                <title>The design and the content of the curriculum for Sexual Medicine for undergraduates agreed upon by the international working group</title>
+                <p>Working group three designed the curriculum based on the concept of a competence-based program integrating knowledge, skills and attitudes
+                    <sup>
+                        <xref ref-type="bibr" rid="ref-38">38</xref>
+                    </sup>.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Competencies and learning objectives of the curriculum</italic>
+                    </bold>
+                </p>
+                <p>Having participated in the course undergraduate student should be able to successfully:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Perform a sexual history including assessment of sexual health risks and sexual concerns, encourage questions and create an open, confidential and non-judgmental atmosphere following the principles of patient centered communication and patient/professional relationship based on trust and respect</p>
+                    </list-item>
+                    <list-item>
+                        <p>Counsel patients on sexual health protection and promotion (contraception, STIs, violence)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Encourage questions and inform and educate patients and their partners about the basic facts of the anatomy, physiology and psychology of the human sexual response in women and men and their partners</p>
+                    </list-item>
+                    <list-item>
+                        <p>Address proactively sexual wellbeing and sexual function in a respectful non-invasive manner</p>
+                    </list-item>
+                    <list-item>
+                        <p>Take care of patients with sexual problems and concerns in general as well as in the context of disease</p>
+                        <list list-type="bullet">
+                            <list-item>
+                                <p>By practicing patient or couple centered counseling based on proactive respectful asking, empathic listening and providing evidence-based information with respect to the problem presented</p>
+                            </list-item>
+                            <list-item>
+                                <p>By informing patients (couples) about therapeutic options and provide referral if desired by the patient (couple)</p>
+                            </list-item>
+                            <list-item>
+                                <p>Communicate, educate and counsel non only the individual patient but have the skills to include the partner in the process (dyadic setting)</p>
+                            </list-item>
+                        </list>
+                    </list-item>
+                </list>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Knowledge</italic>
+                    </bold>
+                </p>
+                <p>Following a thorough analysis, the working group concluded that the curriculum should include ten major topics covering the necessary background knowledge undergraduate student should have with respect to sexual health and basic sexual health care:</p>
+                <p>Topic 1: Sexual health and sexual rights</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Sexual health concepts, definitions</p>
+                    </list-item>
+                    <list-item>
+                        <p>What is sexual health? Importance of sexual health for general health</p>
+                    </list-item>
+                    <list-item>
+                        <p>Dimensions of sexuality (reproduction, bonding, pleasure, etc); Variety of sexual expression</p>
+                    </list-item>
+                </list>
+                <p>Topic 2: The sexual body. Biology of human sexuality</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>From genes to bodies</p>
+                    </list-item>
+                    <list-item>
+                        <p>Biological (Anatomical and Physiological) processes and constituents of human sexuality</p>
+                    </list-item>
+                    <list-item>
+                        <p>Development, Human Response, Anatomy, Physiology, Endocrinology, Biological systems approach</p>
+                    </list-item>
+                </list>
+                <p>Topic 3: Psychology and Sexuality</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Psychological perspectives and theories</p>
+                    </list-item>
+                    <list-item>
+                        <p>Psychotherapeutic methods to help women and men with sexual problems</p>
+                    </list-item>
+                    <list-item>
+                        <p>Barriers and Facilitators to lead a self-determined sexual life</p>
+                    </list-item>
+                </list>
+                <p>Topic 4: Threats to sexual health, sexuality related health risks; prevention and public health aspects</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Unintended pregnancies and unsafe abortion;</p>
+                    </list-item>
+                    <list-item>
+                        <p>STIs inc. HIV</p>
+                    </list-item>
+                    <list-item>
+                        <p>Sexual violence</p>
+                    </list-item>
+                    <list-item>
+                        <p>Prevention, maintenance and promotion of sexual health</p>
+                    </list-item>
+                </list>
+                <p>Topic 5: Female sexual dysfunction</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Definitions and Prevalence</p>
+                    </list-item>
+                    <list-item>
+                        <p>Diagnosis (biopsychosocial)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Types of treatment (biopsychosocial)</p>
+                    </list-item>
+                </list>
+                <p>Topic 6: Male sexual dysfunction</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Definitions and Prevalence</p>
+                    </list-item>
+                    <list-item>
+                        <p>Diagnosis (biopsychosocial)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Types of treatment</p>
+                    </list-item>
+                    <list-item>
+                        <p>Sexual Dysfunction and the couple</p>
+                    </list-item>
+                </list>
+                <p>Topic 7: Medical conditions and sexuality</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Medical illnesses and treatment impact on sexuality</p>
+                    </list-item>
+                    <list-item>
+                        <p>Medical conditions (including psychiatric morbidity) and sexuality and the biopsychosocial approach in medical sexology</p>
+                    </list-item>
+                </list>
+                <p>Topic 8: Sexual minorities</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Sexual health of minorities</p>
+                    </list-item>
+                    <list-item>
+                        <p>LGBTQI*, Sexual Needs</p>
+                    </list-item>
+                    <list-item>
+                        <p>Need based care</p>
+                    </list-item>
+                </list>
+                <p>Topic 9: Digitalization</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Websites, Apps, Serious Games</p>
+                    </list-item>
+                    <list-item>
+                        <p>Sexual Health Promotion</p>
+                    </list-item>
+                    <list-item>
+                        <p>Sexual Diversity</p>
+                    </list-item>
+                </list>
+                <p>Topic 10: Compulsive sexual behavior, Paraphilias</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Definitions</p>
+                    </list-item>
+                    <list-item>
+                        <p>Contributing factors and risks</p>
+                    </list-item>
+                    <list-item>
+                        <p>Legal framework</p>
+                    </list-item>
+                    <list-item>
+                        <p>Therapeutic approaches</p>
+                    </list-item>
+                </list>
+                <p>This knowledge should be transmitted to students through a series of lectures with learning objectives, slides, text with references and questions</p>
+                <p>In a shortened integrated version of the knowledge part of the curriculum the content should be summarized along 5 modules:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Module 1: Sexuality, Biology, Psychology, Sexual Medicine</p>
+                    </list-item>
+                    <list-item>
+                        <p>Module 2: Threats to Sexual Health, Sexual Dysfunctions</p>
+                    </list-item>
+                    <list-item>
+                        <p>Module 3: Sexuality during the life course, Diseases and sexuality</p>
+                    </list-item>
+                    <list-item>
+                        <p>Module 4: Diversity, Sexual minorities, Digitalization</p>
+                    </list-item>
+                    <list-item>
+                        <p>Module 5: Compulsive Sexual Behavior, Paraphilias</p>
+                    </list-item>
+                </list>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Skills</italic>
+                    </bold>
+                </p>
+                <p>The skills training part of the curriculum should focus on the specific challenges regarding communication and counseling on sexual and reproductive health. It is important to address sexual health issues in a patient centered way and when addressing issues in a couple to respectfully consider both partners perspectives.</p>
+                <p>Patient centered communication in Sexual Medicine can include a whole range of topics such as reassuring patients of privacy and explaining confidentially, making efforts to ensure trust and openness, and avoiding assumptions (on topics like sexual orientation, gender identity, monogamy, sexual activities, or age-related practices).</p>
+                <p>This part should be taught by videos and discussions with students (i.e. role play), in particular: </p>
+                <list list-type="bullet">
+                    <list-item>
+                        <label>- </label>
+                        <p>Video 1: Sexual history taking based on the concept of the variety of sexual expression</p>
+                    </list-item>
+                    <list-item>
+                        <label>- </label>
+                        <p>Video 2: How to help patients presenting a sexual problem in the consultation</p>
+                    </list-item>
+                </list>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Attitudes</italic>
+                    </bold>
+                </p>
+                <p>Undergraduate students should be made aware of their beliefs and values regarding sexuality and the impact of these on their care for patients. It will also be important for students to understand the large variability of sexual expressions and develop an open non-judgmental attitude.</p>
+            </sec>
+            <sec>
+                <title>The final version of the curriculum</title>
+                <p>
+                    <bold>After having elaborated and agreed on the main components of a competence-based program in sexual medicine for undergraduates the working group developed the material to allow universities to implement the teaching of basic sexual medicine and sexual health care in existing undergraduate curricula.</bold>
+                </p>
+                <p>The material can be used according to the needs of the undergraduate educational program of medical schools (universities) and academic institutions for the teaching of psychology defined by the respective responsible academic board or dean. Singular topics and a combination of topics can be integrated into the curriculum in the Bachelor or Master program (divided or total). In universities not following the Bologna system the material can be used according to the respective educational needs.</p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Teaching knowledge</italic>
+                    </bold>
+                </p>
+                <p>This part of the curriculum is developed based on the broad understanding of human sexuality as an experience and behavior which integrates biological and psychosocial factors and processes interacting with each other. Based on this concept the 10 topics agreed upon are covered by a respective slide set. Each slide has defined learning objectives, text, references and questions for self-control. These 10 topics represent the comprehensive library (see 
+                    <xref ref-type="fig" rid="f1">Figure 1</xref>).</p>
+                <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                    <label>Figure 1. </label>
+                    <caption>
+                        <title>The comprehensive library.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17430/17dc91ea-e0f6-40e0-b729-834d71fdb372_figure1.gif"/>
+                </fig>
+                <p>These topics provide the core body of information which can be used by lecturers, trainers and teachers according to their needs and their special interests. For teaching purposes this core body of information is structured along five modules (see 
+                    <xref ref-type="fig" rid="f2">Figure 2</xref>).</p>
+                <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                    <label>Figure 2. </label>
+                    <caption>
+                        <title>Modules Example.</title>
+                    </caption>
+                    <graphic orientation="portrait" position="float"
+                        xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/17430/17dc91ea-e0f6-40e0-b729-834d71fdb372_figure2.gif"/>
+                </fig>
+            </sec>
+            <sec>
+                <title>Module 1: Overview about definitions of sexual health; basic biology and psychology of human sexuality</title>
+                <p>Module 1 provides basic knowledge about definitions of sexual health with the implications for public health programs and multidisciplinary sexual health care for the individual provided by different health care professionals whose basic training is built on understanding the main principles and elements of the biology and psychology of the human sexual response.</p>
+                <p>The slides, text, references are made to help students</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Understand human sexuality as an integral part of human existence and behavior and know and understand the concepts of sexual health and sexual rights</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the determinants and contributing factors of sexual health on the international, national and individual level and understand the linkage between sexual health promotion and reproductive health</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about basic models of understanding the human sexual response</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the biology of the sexual response from a systemic perspective with the different interactive elements linked to each other with top down and bottom up signaling pathways acting together in accordance with dual control model (exciting, neutral, inhibiting) including the response of the peripheral sexual organs</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand and know about the different psychological perspectives and concepts regarding human sexuality from bioevolution to cognitive behavioral, psychodynamic and systemic approaches</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the psychological factors (motivations, thoughts, emotions, behavior, communication) contributing to a self-determined and enjoyable sexuality and the psychological factors hindering and inhibiting the development and realization of this individual sexual self-expression</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the Dual Control Model of Sexual Expression from a psychological perspective</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the key determinants for a pleasure-based approach to sexual health, according to the World Association of Sexology</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand which are the most common reasons for individuals to look for counselling and know about the wishes and needs of people regarding their sexual health</p>
+                    </list-item>
+                    <list-item>
+                        <p>Based on the biological and psychological factors contributing to the sexual health of the individual, understand and know about the various professionals involved in helping individuals with sexual problems., in the so- called Multidisciplinary approach</p>
+                    </list-item>
+                </list>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Module 1 is a composition and shortened form of the material produced in topic 1, topic 2 and topic 3. These materials can be used by the teachers to broaden the respective chapters with text, references, questions.</italic>
+                    </bold>
+                </p>
+                <p>Topic 1 includes slides, text, references to help students</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Understand human sexuality as an integral part of human existence and behavior</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know the different ways and large variety of sexual expression</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know and understand the concepts of sexual health and sexual rights</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the objectives and the definition of sexual medicine, sexology</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the public health approach to sexual health</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the prevalence and the variety of sexual problems</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the different ways individuals can get help</p>
+                    </list-item>
+                </list>
+                <p>Topic 2 includes slide, text, references to help students</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Understand the biology of the sexual response from a systemic perspective with the different interactive elements linked to each other with top down and bottom up signaling pathways which together act according to the dual control model (exciting, neutral, inhibiting)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the receptor and effector function of the brain with the involved brain regions</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the role of hormones and neurotransmitters in the regulation of the response</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the role of the autonomic nervous system</p>
+                    </list-item>
+                </list>
+                <p>Topic 3 includes slides text and references to help students</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Understand and know about the different psychological perspectives and concepts regarding human sexuality from bioevolution to cognitive behavioral, psychodynamic and systemic approaches</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the psychological factors (motivations, thoughts, emotions, behavior, communication) contributing to a self-determined and enjoyable sexuality and the psychological factors hindering and inhibiting the development and realization of this individual sexual self-expression</p>
+                    </list-item>
+                    <list-item>
+                        <p>Based on this the students should understand and know about the main psychological and psychotherapeutic interventions from counseling to body centered to individual and systemic psychotherapy</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Module 2: Threats to sexual health; Sexual dysfunctions</title>
+                <p>This module provides the basic knowledge about the threats to sexual health as well as the prevention and promotion of sexual health on a social and an individual level and the most frequent sexual dysfunctions in women, men and couples. The diagnostic approach to describe, differentiate and understand these dysfunctions from a biopsychosocial perspective and the various treatment options including medical and psychosocial interventions are demonstrated as overviews.</p>
+                <p>The slides, text, references are made to help students:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Know about the major and main threats to sexual health and their impact on physical and mental health in general and sexual health more specifically</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the global epidemiology of unintended pregnancies, unsafe abortion, STIs, Sexual violence, Sexual discrimination and their specific health consequences and implications on sexual health</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the multilevel strategies and instruments for Sexual Health Prevention and Promotion (Laws and politics, Education, Sociocultural environment, Economy)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about and the different categories of female and male sexual dysfunctions</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about and understand the biopsychosocial model of sexual function and dysfunction with the four dimensions</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know and understand the different steps to establish a diagnosis in patients complaining about sexual problems: From listening and history taking to a descriptive diagnosis and from there the comprehensive explanatory diagnosis summarizing the biomedical, psychological and sociocultural factors contributing to the problem. Some of these factors are distant and predisposing, some are precipitating and some are recent and maintaining the problem</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about main factors contributing to female and male desire and arousal disorders</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the main factors contributing to female and male orgasmic disorders</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the main factors contributing to female pain disorder</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the specific main factors contributing to male pain disorder</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know and understand the multidimensional therapeutic approach to help individuals with suffering from sexual dysfunction (basic counselling, medical, psychological, psychosexual interventions, physiotherapy) with examples for Desire disorder and Erectile Dysfunction</p>
+                    </list-item>
+                </list>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Module 2 is a composition and shortened form of the material produced in topic 4, topic 5 and topic 6. These materials can be used by the teachers to broaden the respective chapters with slides, text, references and questions.</italic>
+                    </bold>
+                </p>
+                <p>Topic 4 includes slides text and references to help students:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Understand the macro and microfactors which endanger health sexual from the political/legal to the sociocultural to the individual level</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the main threats to sexual health including unwanted pregnancies and unsafe abortions, sexually transmitted infections, sexual violence and sexual dysfunctions</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the instruments to protect and maintain sexual health of the individual acting on these different levels (laws, norms, sexual education, good sexual and reproductive health care including contraception, abortion care, STI prevention)</p>
+                    </list-item>
+                </list>
+                <p>Topic 5 includes slides, text, references and questions to help students:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Know about the different phases of the sexual response in women and the respective dysfunctions and/or problems (Loss of desire leading to personal distress or problems in the relationship, Arousal difficulties manifesting as not getting mentally aroused and/or lack of vaginal lubrication, Difficulties to orgasm, Pain during sexual activity)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know how to diagnose these dysfunctions (history, examination)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the possible contributing factors (medical, psychological, interpersonal, sociocultural)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the treatment options (medical, psychological)</p>
+                    </list-item>
+                </list>
+                <p>Topic 6 includes slides, text, references and questions to help students:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Know about the different phases of the sexual response in women and the respective dysfunctions and/or problems (Loss of desire leading to personal distress or problems in the relationship, Arousal difficulties manifesting as not getting mentally aroused and/or lack of vaginal lubrication, Difficulties to orgasm, Pain during sexual activity)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know how to diagnose these dysfunctions (history, examination)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the possible contributing factors (medical, psychological, interpersonal, sociocultural)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the treatment options (medical, psychological)</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Module 3: Life course approach to sexual health, medical sexology</title>
+                <p>This module provides the basic knowledge about the development of human sexuality along the life course taking into account that sexuality is a not a fixed unchangeable dimension of life but that there are typical developmental aims and strands which expose individuals to life stage related sexual difficulties demanding age sensitive sexual health care from childhood to adolescence, midlife to the elderly individuals and couples. Diseases are part of human life and have an impact on sexual health through biological and psychosocial changes. The module provides an understanding of the different levels through which diseases and treatment can affect sexuality, how a sexual dysfunction in the context of a medical condition can be diagnosed and what the therapeutic options are.</p>
+                <p>The slides, text, references are made to help students:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Know about and understand the strands, aims and stages of sexual development with an understanding of the general developmental steps</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the developmental stages during adolescence and the types and frequency of sexual problems in this life phase</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the impact of pregnancy and of the menopausal transition on sexual function and the hormonal changes in estrogen and testosterone possibly associated with sexual dysfunction</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the impact of aging on sexual function of women and men and the contributing biological factors</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know and understand the common etiopathogenetic factors during all life phases and based on this the common therapeutic approaches</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know the algorithm (model of understanding) leading to the individual sexual problems and dysfunctions in the context of diseases and treatment including the history of preexisting difficulties and resources to the disease and treatment specific factors and from there to the response of the patient and the couple confronted with the disease</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the diagnostic process itself applying communicative skills to encourage patients to talk about sexuality and come to a descriptive diagnosis and from there by exploring disease related factors and psychosocial factors arrive at a comprehensive biopsychosocial diagnosis which is the basis for counseling, information, education and shared decision making regarding the individual therapeutic options</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the way from sexual history to treatment in the case of a patient suffering from a cardiovascular disease</p>
+                    </list-item>
+                </list>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Module 3 is a summarized and shortened form of topic 7 with elements of topic 1, 2, 3.</italic>
+                    </bold>
+                </p>
+                <p>Topic 7 Diseases and their impact on Sexuality</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Know about the different factors contributing to the development of sexual dysfunctions in the context of a disease</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the most frequent pre-existing risks and resources</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the main pathways through which a disease and the treatment can impact sexual health</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the stressors and resources for individuals and couples confronted with a disease and their possible impact on sexual health</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the challenges for partners of patients and the relationship in the context of disease and treatment </p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the general principles of Sexual Health Care in the context of disease and treatment</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about medical and psychosocial factors involved in the development of sexual health symptoms</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the diagnostic approach in medical sexology</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the therapeutic options in medical sexology</p>
+                    </list-item>
+                    <list-item>
+                        <p>Explain the approach in patients with cardiovascular and oncologic diseases</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Module 4: Diversity, Sexual Minorities, Digitalization and New Sexualities</title>
+                <p>Module 4 provides basic information about the diversity and variety of sexual expression, the members and naming of the LGBTQIA+ community, the challenges they faced and still face as a minority on a medical, political and legal level. Based on these challenges the specific sexual health needs of these minorities are described and the responses described which should be provided by the laws, institutions and special services provided by trained health care professionals (e.g contraception).</p>
+                <p>This module provides also basic information about digital technologies (Websites, Apps, Serious Games), their impact on sexual health in general and for the individual person by covering three main areas (sexual health promotion, sexual diversity and clinical sexology).</p>
+                <p>The slides, text, references are made to help students</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Know and understand the large variety of sexual expression with the 5 dimensions of Sexual Identity, Biological Sex, Gender Expression (social dimension), Sexual orientation (mental dimension), Affective orientation-emotional dimension and the various groups summarized under LGBTQIA+ annotation with overlapping individual expressions</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand what is meant by sexual and gender minorities and get an idea about the prevalence of these groups</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the differences in the medical, political and legal environment across time and the globe</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the general and specific health risks for MSM and WSW and the special needs these communities have with respect to Medical Follow up, Psychosocial and Mental Health Care, STI care and care for Sexual Violence Survivors, and Contraception</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the main digital technological tools (Websites, Apps, Serious Games) and the fields and domains in which these tools are used (Sexual Health promotion, Sexual Diversity, Clinical Sexology)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Be able to give examples of Apps, Games and Websites aiming to increase knowledge and competence in the context of sexual violence, sexual diversity and mental health issues for sexual minorities</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the possibilities for individuals with sexual problems to get online information and partially online treatment in general and know about studies showing efficacy and help for patients with erectile dysfunction, vulvodynia, individuals having committed sexual offense against children</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the possibilities for individual suffering from chronic diseases to get Internet based support and know about studies testing efficacy and satisfaction of user</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the issues and difficulties in implementation of these tools</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Module 5: Compulsive sexual behavior, Paraphilias</title>
+                <p>This module provides basic information on Compulsive Sexual Behavior (CSB), its definition and diagnostic presentation. It provides the clinical base to assess compulsive sexual behavior disorder according to the ICD11, while also covering alternative formulations, models of understanding and basic interventions. This chapter concludes by providing the differential diagnosis for CSB.</p>
+                <p>This module also provides basic information regarding Paraphilias and Paraphilic Disorders. Starting from the definitions provided by the DSM5 and ICD11, it covers prevalence and behavioral spectrum; criteria and typology are then presented with each specific diagnostic, concluding with an evidence-based treatment option.</p>
+                <p>The slides, text, references are made to help students</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Understand CSB definition, prevalence and diagnostic criteria according to available diagnostic tools and different populations</p>
+                    </list-item>
+                    <list-item>
+                        <p>Learn about the history of CSB and understand the complex clinical presentation, which has elements of overlap with other disorders</p>
+                    </list-item>
+                    <list-item>
+                        <p>Know about the models of understanding of CSB(D) and of the possible self-reinforcing cycles that maintain this behavior and that justify the variety of expressions that it may assume according to different Authors</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the possible comorbidities and in particular learn how to differentiate between CSB(D) and paraphilic disorders</p>
+                    </list-item>
+                    <list-item>
+                        <p>Learn about available therapeutic interventions and treatments for CSB(D)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand that CSB(D) as a Disorder is still under research and further research is still needed in this field</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand Paraphilias and Paraphilic Disorder definitions, prevalence and diagnostic criteria according to DSM5 and ICD11. Learn about the behavioral spectrum of paraphilias</p>
+                    </list-item>
+                    <list-item>
+                        <p>Understand the typology presented in the ICD11 and the DSM5, and each specific diagnosis for each typology: Exhibitionism, Voyeurism, Pedophilia, Coercive sexual sadism, Frotteurism and other paraphilic disorders</p>
+                    </list-item>
+                    <list-item>
+                        <p>Learn about evidence-based treatment options and the level of treatment based on the intensity, compliance and risk of reoffending of the individual paraphilic disorder</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Teaching attitudes and skills</title>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Video Sexual History Taking</italic>
+                    </bold>
+                </p>
+                <p>The videos are based on international guidelines and follow the principles of respect, nonjudgmental attitude, patient centeredness with active listening, mirroring, responding to emotions and summarizing. The communication should take into account that an individual&#x2019;s sexuality is composed of sexual identity, emotional and sexual orientation, gender identity which develop over the life course. Therefore, sexual history taking should encourage the patient to talk about all these aspects in an environment of trust and respect. The video should be viewed together with students, allow feedback and questions from the student.</p>
+                <p>The moderator should encourage the students to look at specific elements of the communication:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The nonverbal communication, the body language etc.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Which questions are asked and in which way?</p>
+                    </list-item>
+                    <list-item>
+                        <p>What were the answers?</p>
+                    </list-item>
+                    <list-item>
+                        <p>Did and if yes when did the patient feel uncomfortable?</p>
+                    </list-item>
+                    <list-item>
+                        <p>Can students summarize the information describing the sexual identity, sexual health and sexual problems?</p>
+                    </list-item>
+                </list>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Video sexual counseling</italic>
+                    </bold>
+                </p>
+                <p>The video should be viewed together with students. Samples of feedback through questions from the student are:</p>
+                <p>
+                    <italic toggle="yes">Look at the nonverbal communication, the body language etc. Which questions are asked in which way? What were the answers? Did the patient feel uncomfortable and if yes when? How did the counselor structure the conversation? Were there difficult parts? Criticisms etc.?</italic>
+                </p>
+                <p>
+                    <bold>
+                        <italic toggle="yes">Case discussions</italic>
+                    </bold>
+                </p>
+                <p>Various cases related to the modules and topics are presented and discussed (Group discussions).</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Summary</title>
+            <p>Based on the support of the COST-Action ESMN experts from different countries convened to define the necessary elements and components of a competence-based curriculum for undergraduate university students in sexual health/sexual medicine based on reviews and expert discussions. After having agreed on competencies and learning objectives the content of the knowledge, skills and attitude elements of the program were developed following a modified Delphi procedure of multidisciplinary and multinational collaboration realized in personal and virtual meetings.</p>
+            <p>Ten topics were developed. Each topic consists of a slide set whereby each slide is accompanied by learning objectives, text, references and questions for self-evaluation. These ten topics build the background library which can be used by the respective teachers. Following the requirements of the ECTS the material of the ten topics was integrated into five modules covering the major themes (sexual health and rights, biology and psychology, threats to sexual health, sexual dysfunctions, life course approach to sexuality including medical sexology, diversity and digitalization, compulsive sexual behavior and paraphilias). For skills training two teaching videos (sexual history taking, sexual counselling) were produced.</p>
+            <p>The material of the curriculum can be used at different times and in different combinations during the undergraduate curriculum of medicine and psychology.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>The authors wish to extend their thanks to the experts that, during these years, have collaborated for the development of the sexual medicine curriculum. Special thanks to all active members of Working Group 3 (COST-Action ESMN): Johannes Bitzer, Gunta Lazdane, Jacques van Lankveld, Thierry Troussier, Paraskevi-Sofia Kirana, Osmo Kontula, Svetlana de Bartolo, Ond&#x0159;ej Trojan, Zdravko Kamenov, Goran Arbanas, Bruno Pereira, Sam Ward, Alma Brand, Robertas Adomaitis, Faysal el Kak, Asija Zagiragic, Carlo Matteo Di Dionisio, Patricia Pascoal, Piet van Tuijl, Marianne Greil-Soyka, and the European Sexual Medicine Network for their support.</p>
+        </ack>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Greil-Soyka</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Quayle</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bitzer</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>European Sexual Medicine Network: a unique platform for collaboration.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Impot Res.</italic>
+               </source>
+               <year>2021</year>;<volume>33</volume>(<issue>5</issue>):<fpage>499</fpage>&#x2013;<lpage>503</lpage>.
+                    <pub-id pub-id-type="pmid">32409644</pub-id>
+                    <pub-id pub-id-type="doi">10.1038/s41443-020-0299-4</pub-id>
+                    <pub-id pub-id-type="pmcid">8292142</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gangata</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Porter</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Artz</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>A proposed anatomy syllabus for entry&#x2010;level physiotherapists in the United Kingdom: A modified Delphi methodology by physiotherapists who teach anatomy.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Clin Anat.</italic>
+               </source>
+               <year>2023</year>;<volume>36</volume>(<issue>3</issue>):<fpage>503</fpage>&#x2013;<lpage>526</lpage>.
+                    <pub-id pub-id-type="pmid">36601718</pub-id>
+                    <pub-id pub-id-type="doi">10.1002/ca.24001</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Satcher</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>The Surgeon General's call to action to promote sexual health and responsible sexual behavior.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Am J Health Educ.</italic>
+               </source>
+               <year>2001</year>;<volume>32</volume>(<issue>6</issue>):<fpage>356</fpage>&#x2013;<lpage>368</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/19325037.2001.10603498</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="web">
+                    <collab>World Health Organization</collab>:
+                    <article-title>Measuring sexual health: conceptual and practical considerations and related indicators.</article-title>Geneva. WHO.<year>2010</year>; Accessed: 05/03/2023.
+                    <ext-link ext-link-type="uri" xlink:href="https://apps.who.int/iris/handle/10665/70434">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Coleman</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Elders</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Satcher</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Summit on medical school education in sexual health: report of an expert consultation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sex Med.</italic>
+               </source>
+               <year>2013</year>;<volume>10</volume>(<issue>4</issue>):<fpage>924</fpage>&#x2013;<lpage>938</lpage>.
+                    <pub-id pub-id-type="pmid">23551542</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/jsm.12142</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Flynn</surname>
+                            <given-names>KE</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lin</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bruner</surname>
+                            <given-names>DW</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Sexual Satisfaction and the Importance of Sexual Health to Quality of Life Throughout the Life Course of U.S. Adults.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sex Med.</italic>
+               </source>
+               <year>2016</year>;<volume>13</volume>(<issue>11</issue>):<fpage>1642</fpage>&#x2013;<lpage>1650</lpage>.
+                    <pub-id pub-id-type="pmid">27671968</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.jsxm.2016.08.011</pub-id>
+                    <pub-id pub-id-type="pmcid">5075511</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lewis</surname>
+                            <given-names>RW</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fugl-Meyer</surname>
+                            <given-names>KS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Corona</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Definitions/epidemiology/risk factors for sexual dysfunction.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sex Med.</italic>
+               </source>
+               <year>2010</year>;<volume>7</volume>(<issue>4 Pt 2</issue>):<fpage>1598</fpage>&#x2013;<lpage>1607</lpage>.
+                    <pub-id pub-id-type="pmid">20388160</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/j.1743-6109.2010.01778.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>McCabe</surname>
+                            <given-names>MP</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sharlip</surname>
+                            <given-names>ID</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Lewis</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Risk factors for sexual dysfunction among women and men: a consensus statement from the Fourth International Consultation on Sexual Medicine 2015.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sex Med.</italic>
+               </source>
+               <year>2016</year>;<volume>13</volume>(<issue>2</issue>):<fpage>153</fpage>&#x2013;<lpage>167</lpage>.
+                    <pub-id pub-id-type="pmid">26953830</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.jsxm.2015.12.015</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <label>9</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Resnick</surname>
+                            <given-names>MJ</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Koyama</surname>
+                            <given-names>T</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Fan</surname>
+                            <given-names>KH</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Long-term functional outcomes after treatment for localized prostate cancer.</article-title>
+                    <source>
+
+                        <italic toggle="yes">N Engl J Med.</italic>
+               </source>
+               <year>2013</year>;<volume>368</volume>(<issue>5</issue>):<fpage>436</fpage>&#x2013;<lpage>445</lpage>.
+                    <pub-id pub-id-type="pmid">23363497</pub-id>
+                    <pub-id pub-id-type="doi">10.1056/NEJMoa1209978</pub-id>
+                    <pub-id pub-id-type="pmcid">3742365</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <label>10</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Giuliano</surname>
+                            <given-names>FA</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Leriche</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Jaudinot</surname>
+                            <given-names>EO</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Prevalence of erectile dysfunction among 7689 patients with diabetes or hypertension, or both.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Urology.</italic>
+               </source>
+               <year>2004</year>;<volume>64</volume>(<issue>6</issue>):<fpage>1196</fpage>&#x2013;<lpage>1201</lpage>.
+                    <pub-id pub-id-type="pmid">15596196</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.urology.2004.08.059</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <label>11</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Montorsi</surname>
+                            <given-names>P</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ravagnani</surname>
+                            <given-names>PM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Galli</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The artery size hypothesis: a macrovascular link between erectile dysfunction and coronary artery disease.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Am J Cardiol.</italic>
+               </source>
+               <year>2005</year>;<volume>96</volume>(<issue>12</issue>):<fpage>19M</fpage>&#x2013;<lpage>23M</lpage>.
+                    <pub-id pub-id-type="pmid">16387561</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.amjcard.2005.07.006</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <label>12</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Aromaa</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Kero</surname>
+                            <given-names>K</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gr&#x00f6;nlund</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Let's talk about sexuality - A web-based survey of self-reported competence in sexual problems among obstetrician-gynecologists in Finland.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Acta Obstet Gynecol Scand.</italic>
+               </source>
+               <year>2023</year>;<volume>102</volume>(<issue>2</issue>):<fpage>190</fpage>&#x2013;<lpage>199</lpage>.
+                    <pub-id pub-id-type="pmid">36515100</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/aogs.14492</pub-id>
+                    <pub-id pub-id-type="pmcid">9889325</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <label>13</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Moreira Jr</surname>
+                            <given-names>ED</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Brock</surname>
+                            <given-names>G</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Glasser</surname>
+                            <given-names>DB</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Help-seeking behaviour for sexual problems: The global study of sexual attitudes and behaviors.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Clin Pract.</italic>
+               </source>
+               <year>2005</year>;<volume>59</volume>(<issue>1</issue>):<fpage>6</fpage>&#x2013;<lpage>16</lpage>.
+                    <pub-id pub-id-type="pmid">15707457</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/j.1742-1241.2005.00382.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <label>14</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Dias</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Alarc&#x00e3;o</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>da Mata</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Erectile dysfunction in primary care: Sexual health inquiry and cardiovascular risk factors among patients with no previous cardiovascular events.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Revista Portuguesa de Sa&#x00fa;de P&#x00fa;blica.</italic>
+               </source>
+               <year>2016</year>;<volume>34</volume>(<issue>3</issue>):<fpage>250</fpage>&#x2013;<lpage>258</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.rpsp.2016.06.001</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-15">
+                <label>15</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Komlenac</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Siller</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bliem</surname>
+                            <given-names>HR</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Associations between gender role conflict, sexual dysfunctions, and male patients&#x2019; wish for physician&#x2013;patient conversations about sexual health.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Psychology of Men &amp; Masculinities.</italic>
+               </source>
+               <year>2019</year>;<volume>20</volume>(<issue>3</issue>):<fpage>337</fpage>&#x2013;<lpage>346</lpage>.
+                    <pub-id pub-id-type="doi">10.1037/men0000162</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-16">
+                <label>16</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Lonn&#x00e9;e-Hoffmann</surname>
+                            <given-names>RAM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Christensen</surname>
+                            <given-names>SS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hagemann</surname>
+                            <given-names>CT</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>How do women want their gynaecologist to address sexual function? A cross-sectional survey among outpatients.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Reprod Female Child Health.</italic>
+               </source>
+               <year>2022</year>;<volume>1</volume>(<issue>1</issue>):<fpage>11</fpage>&#x2013;<lpage>17</lpage>.
+                    <pub-id pub-id-type="doi">10.1002/rfc2.5</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-17">
+                <label>17</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Alarc&#x00e3;o</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ribeiro</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Miranda</surname>
+                            <given-names>FL</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>General practitioners&#x2019; knowledge, attitudes, beliefs, and practices in the management of sexual dysfunction&#x2014;results of the Portuguese sexos study.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sex Med.</italic>
+               </source>
+               <year>2012</year>;<volume>9</volume>(<issue>10</issue>):<fpage>2508</fpage>&#x2013;<lpage>2515</lpage>.
+                    <pub-id pub-id-type="pmid">22897676</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/j.1743-6109.2012.02870.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-18">
+                <label>18</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ribeiro</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Alarc&#x00e3;o</surname>
+                            <given-names>V</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Sim&#x00f5;es</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>General practitioners' procedures for sexual history taking and treating sexual dysfunction in primary care.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sex Med.</italic>
+               </source>
+               <year>2014</year>;<volume>11</volume>(<issue>2</issue>):<fpage>386</fpage>&#x2013;<lpage>393</lpage>.
+                    <pub-id pub-id-type="pmid">24261826</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/jsm.12395</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-19">
+                <label>19</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Val</surname>
+                            <given-names>AC</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mesquita</surname>
+                            <given-names>LM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Rocha</surname>
+                            <given-names>VDA</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>&#x201c;I&#x2019;ve Never Been Told about That!&#x201d;: the Teaching of Sexualities from the Perspective of Undergraduates at a Federal Medical School.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Revista Brasileira de Educa&#x00e7;&#x00e3;o M&#x00e9;dica.</italic>
+               </source>
+               <year>2019</year>;<volume>43</volume>(<issue>1</issue>):<fpage>108</fpage>&#x2013;<lpage>118</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://figshare.com/articles/dataset/_I_ve_Never_Been_Told_about_That_the_Teaching_of_Sexualities_from_the_Perspective_of_Undergraduates_at_a_Federal_Medical_School/11609217/1">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-20">
+                <label>20</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Clegg</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Pye</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wylie</surname>
+                            <given-names>KR</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Undergraduate training in human sexuality&#x2014;evaluation of the impact on medical doctors' practice ten years after graduation.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sex Med.</italic>
+               </source>
+               <year>2016</year>;<volume>4</volume>(<issue>3</issue>):<fpage>e198</fpage>&#x2013;<lpage>e208</lpage>.
+                    <pub-id pub-id-type="pmid">27267138</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.esxm.2016.04.004</pub-id>
+                    <pub-id pub-id-type="pmcid">5005293</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-21">
+                <label>21</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Codispoti</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Petersen</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Nico</surname>
+                            <given-names>E</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Female sexual medicine: What are students learning in undergraduate medical education?</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sex Med.</italic>
+               </source>
+               <year>2022</year>;<volume>19</volume>(<issue>5</issue>):<fpage>S153</fpage>&#x2013;<lpage>S154</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.jsxm.2022.03.354</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-22">
+                <label>22</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Shindel</surname>
+                            <given-names>AW</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Parish</surname>
+                            <given-names>SJ</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sexuality education in North American medical schools: current status and future directions.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sex Med.</italic>
+               </source>
+               <year>2013</year>;<volume>10</volume>(<issue>1</issue>):<fpage>3</fpage>&#x2013;<lpage>17</lpage>; quiz 18.
+                    <pub-id pub-id-type="pmid">23343168</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/j.1743-6109.2012.02987.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-23">
+                <label>23</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Cesnik</surname>
+                            <given-names>VM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Zerbini</surname>
+                            <given-names>T</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sexuality education for health professionals: A literature review.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Estudos de Psicologia (Campinas).</italic>
+               </source>
+               <year>2017</year>;<volume>34</volume>:<fpage>161</fpage>&#x2013;<lpage>172</lpage>.
+                    <pub-id pub-id-type="doi">10.1590/1982-02752017000100016</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-24">
+                <label>24</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Shindel</surname>
+                            <given-names>AW</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Baazeem</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Eardley</surname>
+                            <given-names>I</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Sexual health in undergraduate medical education: existing and future needs and platforms.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sex Med.</italic>
+               </source>
+               <year>2016</year>;<volume>13</volume>(<issue>7</issue>):<fpage>1013</fpage>&#x2013;<lpage>1026</lpage>.
+                    <pub-id pub-id-type="pmid">27318019</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.jsxm.2016.04.069</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-25">
+                <label>25</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bayer</surname>
+                            <given-names>CR</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Satcher</surname>
+                            <given-names>D</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Moving medical education and sexuality education forward.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Curr Sex Health Rep.</italic>
+               </source>
+               <year>2015</year>;<volume>7</volume>:<fpage>133</fpage>&#x2013;<lpage>139</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s11930-015-0050-1</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-26">
+                <label>26</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Komlenac</surname>
+                            <given-names>N</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Siller</surname>
+                            <given-names>H</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Hochleitner</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Medical students indicate the need for increased sexuality education at an Austrian medical university.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sex Med.</italic>
+               </source>
+               <year>2019</year>;<volume>7</volume>(<issue>3</issue>):<fpage>318</fpage>&#x2013;<lpage>325</lpage>.
+                    <pub-id pub-id-type="pmid">31153879</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.esxm.2019.04.002</pub-id>
+                    <pub-id pub-id-type="pmcid">6728799</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-27">
+                <label>27</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Brockschmidt</surname>
+                            <given-names>L</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ivanova</surname>
+                            <given-names>O</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Ketting</surname>
+                            <given-names>E</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sexuality education in Europe&#x2013;An assessment of the current state, challenges and good practice.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Eur J Public Health.</italic>
+               </source>
+               <year>2019</year>;<volume>29</volume>(<issue>Supplement_ 4</issue>):
+                    <elocation-id>ckz185&#x2013;354</elocation-id>.
+                    <pub-id pub-id-type="doi">10.1093/eurpub/ckz185.354</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-28">
+                <label>28</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Ol&#x00ed;mpio</surname>
+                            <given-names>LM</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Spessoto</surname>
+                            <given-names>LCF</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>F&#x00e1;cio Jr</surname>
+                            <given-names>FN</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sexual health education among undergraduate students of medicine.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Transl Androl Urol.</italic>
+               </source>
+               <year>2020</year>;<volume>9</volume>(<issue>2</issue>):<fpage>510</fpage>&#x2013;<lpage>515</lpage>.
+                    <pub-id pub-id-type="pmid">32420157</pub-id>
+                    <pub-id pub-id-type="doi">10.21037/tau.2020.02.13</pub-id>
+                    <pub-id pub-id-type="pmcid">7215031</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-29">
+                <label>29</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Giami</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>de Colomby</surname>
+                            <given-names>P</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Sexology as a profession in Europe: diversity and common perspectives.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sexologies.</italic>
+               </source>
+               <year>2006</year>;<volume>15</volume>(<issue>1</issue>):<fpage>7</fpage>&#x2013;<lpage>13</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.sexol.2005.11.010</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-30">
+                <label>30</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Porto</surname>
+                            <given-names>R</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bonierbale</surname>
+                            <given-names>M</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Towards a European sexology.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sexologies.</italic>
+               </source>
+               <year>2006</year>;<volume>15</volume>(<issue>1</issue>):<fpage>4</fpage>&#x2013;<lpage>6</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jle.com/en/revues/sex/e-docs/towards_a_european_sexology_330770/article.phtml?tab=citer">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-31">
+                <label>31</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Kontula</surname>
+                            <given-names>O</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>An essential component in promoting sexual health in Europe is training in sexology.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Int J Sex Health.</italic>
+               </source>
+               <year>2011</year>;<volume>23</volume>(<issue>3</issue>):<fpage>168</fpage>&#x2013;<lpage>180</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/19317611.2011.592932</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-32">
+                <label>32</label>
+                <mixed-citation publication-type="report">
+                    <collab>World Health Organization</collab>:
+                    <article-title>Defining sexual health: report of a technical consultation on sexual health, 28-31 January 2002, Geneva.</article-title>WHO.<year>2006</year>; Accessed: 05/03/2023.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.who.int/teams/sexual-and-reproductive-health-and-research/key-areas-of-work/sexual-health/defining-sexual-health">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-33">
+                <label>33</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Foley</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wittmann</surname>
+                            <given-names>D</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Balon</surname>
+                            <given-names>R</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>A multidisciplinary approach to sexual dysfunction in medical education.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Acad Psychiatry.</italic>
+               </source>
+               <year>2010</year>;<volume>34</volume>(<issue>5</issue>):<fpage>386</fpage>&#x2013;<lpage>389</lpage>.
+                    <pub-id pub-id-type="pmid">20833912</pub-id>
+                    <pub-id pub-id-type="doi">10.1176/appi.ap.34.5.386</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-34">
+                <label>34</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Wittenberg</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Gerber</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Recommendations for improving sexual health curricula in medical schools: results from a two-arm study collecting data from patients and medical students.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Sex Med.</italic>
+               </source>
+               <year>2009</year>;<volume>6</volume>(<issue>2</issue>):<fpage>362</fpage>&#x2013;<lpage>368</lpage>.
+                    <pub-id pub-id-type="pmid">19215615</pub-id>
+                    <pub-id pub-id-type="doi">10.1111/j.1743-6109.2008.01046.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-35">
+                <label>35</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Bailey</surname>
+                            <given-names>J</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Mann</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Wayal</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>Sexual health promotion for young people delivered via digital media: a scoping review.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Public Health Research.</italic>
+               </source>
+               <year>2015</year>;<volume>3</volume>(<issue>13</issue>):<fpage>1</fpage>&#x2013;<lpage>119</lpage>.
+                    <pub-id pub-id-type="pmid">26583166</pub-id>
+                    <pub-id pub-id-type="doi">10.3310/phr03130</pub-id>
+            </mixed-citation>
+            </ref>
+            <ref id="ref-36">
+                <label>36</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Zamboni</surname>
+                            <given-names>B</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bezek</surname>
+                            <given-names>K</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Medical students&#x2019; perceptions and preferences for sexual health education.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Sex Education.</italic>
+               </source>
+               <year>2017</year>;<volume>17</volume>(<issue>4</issue>):<fpage>371</fpage>&#x2013;<lpage>385</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/14681811.2017.1299703</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-37">
+                <label>37</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Criniti</surname>
+                            <given-names>S</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Andelloux</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Woodland</surname>
+                            <given-names>MB</given-names>
+                        </name>
+
+                        <etal/>
+               </person-group>:
+                    <article-title>The state of sexual health education in US medicine.</article-title>
+                    <source>
+
+                        <italic toggle="yes">Am J Sex Educ.</italic>
+               </source>
+               <year>2014</year>;<volume>9</volume>(<issue>1</issue>):<fpage>65</fpage>&#x2013;<lpage>80</lpage>.
+                    <pub-id pub-id-type="doi">10.1080/15546128.2013.854007</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-38">
+                <label>38</label>
+                <mixed-citation publication-type="web">
+                    <collab>European Sexual Medicine Network</collab>:
+                    <article-title>COST European Cooperation in Science and Technology (2018) Memorandum of Understanding for the implementation of the COST Action &#x201c;European Sexual Medicine Network&#x201d; CA18124, 28 October 2019.
+</article-title>ESMN.<year>2019</year>; Accessed: 05/03/2023.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.esmn-cost.eu/who-we-are/about-esmn/">Reference Source</ext-link>
+            </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report35221">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.17430.r35221</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Bayer</surname>
+                        <given-names>Carey</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r35221a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r35221a1">
+                    <label>1</label>Morehouse School of Medicine, Atlanta, USA</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>18</day>
+                <month>10</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Bayer C</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport35221"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.16146.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The authors present a well-detailed discussion of the 4-year process undertaken by a working group of experts with varied expertise in sexual health to develop a sexual health curriculum for European undergraduate medical education. The group acknowledges the complexities in not only the topic, but more importantly the training of the topic throughout medical education.&#x00a0;</p>
+            <p> </p>
+            <p> The strengths of the piece include the depth of expertise included, the anchoring to the WHO definition of sexual health, the biopsychosocial-lifespan approach taken, the attempt to delineate knowledge/skills/attitudes needed to provide comprehensive sexual health care, the detailing of the topic/module breakdown, the development of 2 videos to accompany the curriculum, and the acknowledgment that the curriculum may be implemented in various ways depending on the needs of each individual program.</p>
+            <p> </p>
+            <p> The areas where the manuscript can continue to be strengthened include: 
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Discussion of the role of pleasure in addition to well-being early on in the framing</p>
+                    </list-item>
+                    <list-item>
+                        <p>Including education professionals as a part of the team to help revise the objectives in a more measurable fashion (consider the work of Bloom's Taxonomy, Kirkpatrick levels of measurement) -- for example one action verb per objective and utilizing appropriate action verbs for knowledge vs. attitude vs. skill objectives, "Identify..."Weigh..." "Demonstrate"</p>
+                    </list-item>
+                    <list-item>
+                        <p>Consider further delineation in the sections to better detail which are the knowledge objectives vs. attitude objectives vs. skill objectives as this will help with what to implement when and determine which is foundational before moving to next steps (i.e. learning definitions/diagnoses before practicing history-taking)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Consider building in a section to reflect on the learner's history related to sexual health (identifying culture, values/attitudes/beliefs, discomforts) and how personal experiences may impact care provided</p>
+                    </list-item>
+                    <list-item>
+                        <p>Consider either shifting the gendered modules to "cisgender women" "cisgender men" or combining them to include "across genders" and include cisgender and transgender populations</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the discussion of treating, make sure to include a discussion of sexual pharmacology and the impact of medication effects on sexual health</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the discussion of various populations not often included, make sure to include those with disabilities and chronic conditions</p>
+                    </list-item>
+                    <list-item>
+                        <p>The framing mentions "couples" many times throughout and given the variety of relationship structures today, the group may want to consider an approach in training that allows learners to be prepared to care for any patient regardless of relationship structure instead of possible implicit expectations of being in a coupled relationship structure</p>
+                    </list-item>
+                    <list-item>
+                        <p>Consider including evaluation metrics with the curriculum (which will be easier to include with measurable action verbs across the objectives)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Here are a few additional resources that may be helpful as the work evolves:&#x00a0;</p>
+                        <p> </p>
+                        <p> Sexual Health Competencies for Undergraduate Medical Education in North America
+                            <sup>
+                                <xref ref-type="bibr" rid="rep-ref-35221-1">1</xref>
+                            </sup>
+                        </p>
+                        <p> </p>
+                        <p> While this resource focuses on specific populations, it includes great examples of materials, cases, evaluation metrics:</p>
+                        <p> </p>
+                        <p> 
+                            <ext-link ext-link-type="uri"
+                               xlink:href="https://store.aamc.org/implementing-curricular-and-institutional-climate-changes-to-improve-health-care-for-individuals-who-are-lgbt-gender-nonconforming-or-born-with-dsd-a-resource-for-medical-educators.html">https://store.aamc.org/implementing-curricular-and-institutional-climate-changes-to-improve-health-care-for-individuals-who-are-lgbt-gender-nonconforming-or-born-with-dsd-a-resource-for-medical-educators.html</ext-link>
+                        </p>
+                        <p> </p>
+                        <p> Here are examples of other videos you may find helpful for your curriculum:</p>
+                        <p> </p>
+                        <p> 
+                            <ext-link ext-link-type="uri"
+                               xlink:href="https://www.aamc.org/about-us/equity-diversity-inclusion/lgbt-health-resources">https://www.aamc.org/about-us/equity-diversity-inclusion/lgbt-health-resources</ext-link>
+                        </p>
+                    </list-item>
+                    <list-item>
+                        <p>There were a few areas in the manuscript where punctuation was missing/typographical errors; please edit</p>
+                    </list-item>
+                </list> Thanks for your much needed work in this area!</p>
+            <p>Is the review written in accessible language?</p>
+            <p>Partly</p>
+            <p>Are all factual statements correct and adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Are the conclusions drawn appropriate in the context of the current research literature?</p>
+            <p>Partly</p>
+            <p>Is the topic of the review discussed comprehensively in the context of the current literature?</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>My areas of expertise are sexuality education &amp; training health professionals; curriculum development, implementation, and assessment</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <back>
+            <ref-list>
+                <title>References</title>
+                <ref id="rep-ref-35221-1">
+                    <label>1</label>
+                    <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author"/>:
+                        <article-title>Sexual Health Competencies for Undergraduate Medical Education in North America.</article-title>
+                        <source>
+                            <italic>J Sex Med</italic>
+                        </source>.<year>2017</year>;<volume>14</volume>(<issue>4</issue>) :
+                        <elocation-id>10.1016/j.jsxm.2017.01.017</elocation-id>
+                  <fpage>535</fpage>-<lpage>540</lpage>
+                        <pub-id pub-id-type="pmid">28202322</pub-id>
+                        <pub-id pub-id-type="doi">10.1016/j.jsxm.2017.01.017</pub-id>
+                    </mixed-citation>
+                </ref>
+            </ref-list>
+        </back>
+        <sub-article article-type="response" id="comment3749-35221">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Di Dionisio </surname>
+                            <given-names>Carlo Matteo</given-names>
+                        </name>
+                        <aff>Universita degli Studi di Roma La Sapienza, Rome, Lazio, Italy</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>23</day>
+                    <month>10</month>
+               <year>2023</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>Dear Dr. Bayer, Thank you for your invaluable insights and precise observations. The references suggested will be of great help.</p>
+                <p> </p>
+                <p> We would like to address your points as follows:</p>
+                <p> </p>
+                <p> - Regarding point 1, 6, and 7, the material provided indeed covers the role of pleasure (Topic 1), the impact of pharmacology on sexuality (across various Topics, such as 5, 6 and 7) and sexuality in the presence of disabilities or chronic conditions (Topic 7). We will review the contents described in the article to be more extensive and include the ones above. &#x00a0;</p>
+                <p> </p>
+                <p> - For points 2, 3 and 9, involvement of professionals with a background in education is at the top of our priorities. We will focus on delineating knowledge, attitude, and skills objectives (as suggested) for each subject and introducing specific exercises following each topic. Connected to your point 4, in the drafts currently available one of these comes close to your suggestion.</p>
+                <p> </p>
+                <p> &#x00a0; - Concerning points 5 and 8, a careful revision of gender specific language, including the dyadic relationship framework, will be conducted. We commit to a thorough review, to ensure more inclusivity and widening nonbinary aspects.&#x00a0;</p>
+                <p> </p>
+                <p> - In conclusion, we will review the article to provide a more balanced and polished presentation. We have also noted the missing punctuation and errors within the manuscript, that we will edit and rectify. Your expertise offers us potential to grow as educators, and we look forward to presenting a comprehensive version of the curriculum in the near future.</p>
+            </body>
+        </sub-article>
+    </sub-article>
+</article>

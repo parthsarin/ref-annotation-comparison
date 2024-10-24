@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="letter"
+         dtd-version="1.2"
+         xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">Open Res Europe</journal-id>
+            <journal-title-group>
+                <journal-title>Open Research Europe</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2732-5121</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/openreseurope.15227.1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Open Letter</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>InterConnect: A European project that is changing the way energy is consumed</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 1; peer review: 3 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Jean-Philippe</surname>
+                        <given-names>Pierre</given-names>
+                    </name>
+                    <role content-type="http://credit.niso.org/">Conceptualization</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Original Draft Preparation</role>
+                    <role content-type="http://credit.niso.org/">Writing &#x2013; Review &amp; Editing</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3785-2349</uri>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>SHS (Humanities and Social Sciences), ISEN (Higher Institute of Electronics and Digital Technology) Yncr&#x00e9;a M&#x00e9;diterran&#x00e9;e, Toulon, France</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:jean-philippe.pierre@yncrea.fr">jean-philippe.pierre@yncrea.fr</email>
+                </corresp>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>Author Pierre Jean-Philippe is in charge of the societal impact assessment of the InterConnect project Task 9.3.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>1</day>
+                <month>3</month>
+            <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+            <year>2023</year>
+            </pub-date>
+         <volume>3</volume>
+            <elocation-id>41</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>13</day>
+                    <month>1</month>
+               <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Jean-Philippe P</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf"
+                   xlink:href="https://open-research-europe.ec.europa.eu/articles/3-41/pdf"/>
+            <abstract>
+                <p>Project InterConnect is a major European project focusing on energy consumption. With 25 sites in Europe and more than 3,500 users, the InterConnect project has a dual economic and educational benefit for users, which should lead to responsible and sustainable behaviour. Fully meeting the needs of the moment and the choices of the future in terms of energy consumption and management is in line with the ambitious objectives of the European Union set out in the Paris Agreement of December 2015. The originality of this project lies mainly in the choice not to create innovation for its own sake but rather to create innovations that make the existing equipment (heaters, hot water tanks, etc.) more modern and more economical. In a context of economic and social crisis, this approach is bound to be met with a favorable response from low-income households or consumers who are also the most frequent users of energy-consuming equipment. This article is an opportunity, at the beginning of the analysis phase of the data collected during the InterConnect project, to highlight the pedagogical virtues and the capacity of such a project to influence behaviour.</p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Energy</kwd>
+                <kwd>ENR</kwd>
+                <kwd>Consumer</kwd>
+                <kwd>Economy</kwd>
+                <kwd>Ownership</kwd>
+                <kwd>Connected objects</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100010661">
+                    <funding-source>Horizon 2020 Framework Programme</funding-source>
+                    <award-id>857237</award-id>
+                </award-group>
+                <funding-statement>This research was financially supported by the European Union&#x2019;s Horizon 2020 research and innovation programme under the grant agreement No 857237 (Interoperable Solutions Connecting Smart Homes, Buildings and Grids [InterConnect]). </funding-statement>
+                <funding-statement>
+                    <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Disclaimer</title>
+            <p>The views expressed in this article are those of the author(s). Publication in Open Research Europe does not imply endorsement of the European Commission.</p>
+        </sec>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>The European InterConnect project, coordinated by INESC TEC (Instituto de Engenharia de Sistemas e Computadores, Tecnologia e Ciencia), started in October 2019, should help democratize efficient energy management.  France, Germany, Belgium, Italy, Portugal, Greece, and the Netherlands have mobilized 50 universities, associations, and industrial partners to implement control solutions that will make it possible to reduce the electricity consumption of households and that of public and industrial players. This ambitious and innovative experiment has been deployed at 25 sites in Europe and involves more than 3,500 users. From Greece to the Netherlands and from Portugal to Germany, connected solutions are estimated to enable users to reduce their electricity consumption by nearly 15%
+                <sup>
+                    <xref ref-type="other" rid="FN1">1</xref>
+                </sup> through intelligent control that takes into account both the comfort needs and the specific climatic conditions of each user.</p>
+            <p>Although the main aim of this project is to reduce energy consumption, behaviour transformation is no less critical. Indeed, this experiment highlights the fun and educational aspect of applications for monitoring electrical consumption.</p>
+            <p>The news of the last few months highlights the vital need to change our energy model.  The probable passing of the peak oil, the war in Ukraine, and global warming (
+                <xref ref-type="bibr" rid="ref-1">Devika Rao</xref>) ended the idea of unlimited growth. Europeans are now faced with scenarios they thought were science fiction. The prospect of a winter of 2022&#x2013;2023, during which some will have to make supply choices, will encourage most to rationalize their electricity consumption. This European project deserves special attention for several reasons:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>-</label>
+                    <p>In a context of solid tension in the energy market, InterConnect is a significant project in terms of the volume of the experimentation and the diversity of the means implemented. Innovation and technology play a significant role in significantly improving energy use.</p>
+                </list-item>
+                <list-item>
+                    <label>-</label>
+                    <p>Thanks to the effectiveness of the tools and methods deployed, it is entirely conceivable to take advantage of the expected results of InterConnect to put in place an influence strategy that will make it possible to encourage end consumers, whether private, public or industrial, to change their behaviour in terms of energy use.</p>
+                </list-item>
+                <list-item>
+                    <label>-</label>
+                    <p>Once consumers are made aware of this influencing strategy, they become real consumers (consum&#x2019;acteur (
+                        <xref ref-type="bibr" rid="ref-5">Gordon 
+                            <italic toggle="yes">et al.</italic>, 2022</xref>)) of the energy market, both individually and, above all, collectively. InterConnect is, therefore, a lever for the creation of energy communities.</p>
+                </list-item>
+            </list>
+            <p>InterConnect intends to contribute to the democratization of efficient energy management through a flexible and interoperable ecosystem where flexibility on the demand side can be firmly integrated with practical benefits for the end users.</p>
+            <p>In fact, in the last few years, several projects, (home automation, connected heating controllers, water heating controllers, etc.), and technology providers have proposed solutions based on home automation technologies, which allow each energy user to know and control their devices. Few of these offerings were interoperable, and this limitation has always been a significant problem.</p>
+            <p>Indeed, end-users, whether private, public, or industrial, should be able to choose and change their energy supplier or service without having to replace their installations. This would allow them to adopt sustainable behaviour in terms of energy use while benefiting from technological progress.</p>
+            <p>At the same time, there has been a substantial shift towards using digital technology in the energy sector. The generalization of tools has made it possible to focus actions on the user and their behaviour in the market.</p>
+            <p>The opening up to competition between energy suppliers, encouraged by the European Union's regulatory environment, has helped improve the fluidity of all energy market sectors (consumers, suppliers, distributors, etc.) according to website 
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.totalenergies.fr/professionnels/parlons-pro/ouverture-du-marche-de-l-energie-quels-enjeux-pour-quels-benefices">totalenergies.fr</ext-link>  in France, the electricity and gas market has been open to competition since 1 July 2007 for private individuals. Many suppliers have come to vary the market offer (Total Energie, E.Leclerc, etc.). The opening to competition started in 1999 for companies with high energy consumption (more than 100 GWh). Opening up to competition and creating a single market at the European level is part of the EU's energy policy (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.energie-info.fr/fiche_pratique/louverture-du-marche-de-lelectricite-et-du-gaz-naturel-a-la-concurrence/">energie-info</ext-link>). Mastering the systemic dimension has become essential. The consequences of global warming, dwindling gas, and oil reserves, and the tensions linked to the constant increase in energy needs call for a reasoned and systemic organization of consumption.  This is why the InterConnect consortium brings relevant partners from all stakeholders representing this new energy paradigm.</p>
+            <p>The 50 partners include expertise in information and communication technologies (ICT), IoT
+                <sup>
+                    <xref ref-type="other" rid="FN2">2</xref>
+                </sup>, energy, data science, and software. It also consists of the entire value chain, from research and development (R&amp;D) institutions to manufacturers, producers, and retailers. To ensure a more significant impact on a European scale, several relevant associations related to new technologies and energy are also involved. For the experimentation to reach a representative dimension, seven large-scale pilot projects in different countries and with different types of end-users are being deployed. This wide deployment ensures the credibility of the expected results.</p>
+            <p>The primary objective of these pilots is to demonstrate a true digital market environment on power systems with large amounts of intelligent systems and to reduce operating and investment costs, which will benefit energy end-users and help the EU meet its energy efficiency targets. The purpose of this article is to highlight the pedagogical virtues of such a project. This article is an opportunity, at the beginning of the analysis phase of the data collected during the InterConnect project, to highlight the pedagogical virtues and the capacity of such a project to influence encourage the consumption and use of regulation tools.</p>
+        </sec>
+        <sec>
+            <title>The seven pilots</title>
+            <p>Seven pilots make up the experiment. Each one, with its own technical, societal, and geographical specificities, is implementing solutions that should eventually interconnect with those of the others. The entire InterConnect project is expected to be completed by the end of March 2024.</p>
+            <p>These solutions, which have been tested in different territories among different populations with various requirements and habits, should be able to be disseminated more widely throughout Europe and even open up new market opportunities beyond. See 
+                <xref ref-type="table" rid="T1">Table 1</xref> and 
+                <xref ref-type="table" rid="T2">Table 2</xref> for further information.</p>
+            <table-wrap id="T1" orientation="portrait" position="anchor">
+                <label>Table 1. </label>
+                <caption>
+                    <title>The types of experimentation that have been or are being deployed for each pilot.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="left" colspan="2" rowspan="1">Type of equipment</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">1</td>
+                            <td align="left" colspan="1" rowspan="1">Connected household appliances</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">2</td>
+                            <td align="left" colspan="1" rowspan="1">Connected modules</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">3</td>
+                            <td align="left" colspan="1" rowspan="1">Smart meters</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">4</td>
+                            <td align="left" colspan="1" rowspan="1">Smart heat pumps</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">5</td>
+                            <td align="left" colspan="1" rowspan="1">Eco boilers</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">6</td>
+                            <td align="left" colspan="1" rowspan="1">Recharging station</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">7</td>
+                            <td align="left" colspan="1" rowspan="1">Photovoltaic panels</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">8</td>
+                            <td align="left" colspan="1" rowspan="1">Urban heating network</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">9</td>
+                            <td align="left" colspan="1" rowspan="1">Batteries / Storage</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">10</td>
+                            <td align="left" colspan="1" rowspan="1">Energy management platform</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">11</td>
+                            <td align="left" colspan="1" rowspan="1">Wind turbines</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">12</td>
+                            <td align="left" colspan="1" rowspan="1">Customized management application</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <table-wrap id="T2" orientation="portrait" position="anchor">
+                <label>Table 2. </label>
+                <caption>
+                    <title>The nature of the InterConnect project.</title>
+                    <p>See 
+                        <xref ref-type="table" rid="T1">Table 1</xref> for explanations of numbering.</p>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1" style="background-color:#8EAADB">Country</th>
+                            <th align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Location</th>
+                            <th align="center" colspan="1" rowspan="1">Nature of project</th>
+                            <th align="center" colspan="1" rowspan="1">1</th>
+                            <th align="center" colspan="1" rowspan="1">2</th>
+                            <th align="center" colspan="1" rowspan="1">3</th>
+                            <th align="center" colspan="1" rowspan="1">4</th>
+                            <th align="center" colspan="1" rowspan="1">5</th>
+                            <th align="center" colspan="1" rowspan="1">6</th>
+                            <th align="center" colspan="1" rowspan="1">7</th>
+                            <th align="center" colspan="1" rowspan="1">8</th>
+                            <th align="center" colspan="1" rowspan="1">9</th>
+                            <th align="center" colspan="1" rowspan="1">10</th>
+                            <th align="center" colspan="1" rowspan="1">11</th>
+                            <th align="center" colspan="1" rowspan="1">12</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="9" style="background-color:#8EAADB">Belgium</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Antwerp</td>
+                            <td align="left" colspan="1" rowspan="1">Student residence</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="2" style="background-color:#D9E2F3">Gent</td>
+                            <td align="left" colspan="1" rowspan="1">32 flats</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">New Docks + city district, consisting of 1 kindergarten,
+                                <break/>one sports facility, one administration building, and
+                                <break/>400 flats.</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Genk</td>
+                            <td align="left" colspan="1" rowspan="1">Thor Park is a new science and business park located
+                                <break/>on a former mining site. Three buildings</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Hasselt</td>
+                            <td align="left" colspan="1" rowspan="1">Three clusters of multi-apartment buildings and
+                                <break/>approximately 70 flat units and households</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Kobbegem</td>
+                            <td align="left" colspan="1" rowspan="1">There are two residential buildings in the local energy
+                                <break/>community and one in the "virtual" energy community.</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Oud-Heverlee</td>
+                            <td align="left" colspan="1" rowspan="1">The local energy community consists of four buildings
+                                <break/>- the town hall, the OCMW office, the police station,
+                                <break/>and a cr&#x00e8;che.</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Zellik</td>
+                            <td align="left" colspan="1" rowspan="1">Large-scale living laboratory to prove the concept of
+                                <break/>IoT-based technologies</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#8EAADB">France</td>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Toulon</td>
+                            <td align="left" colspan="1" rowspan="1">280 households, one public building, and 1 school in
+                                <break/>the TPM agglomeration</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="2" style="background-color:#8EAADB">Germany</td>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Norderstedt</td>
+                            <td align="left" colspan="1" rowspan="1">Residential demonstration of the German pilot project</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Hamburg</td>
+                            <td align="left" colspan="1" rowspan="1">Hotel owners and operators</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#8EAADB">Greece</td>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Thessaloniki
+                                <break/>Volos
+                                <break/>Athens</td>
+                            <td align="left" colspan="1" rowspan="1">Installation of 200 HERON customer homes and
+                                <break/>transformation of 70 homes into smart homes.</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#8EAADB">Italy</td>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">Milan</td>
+                            <td align="left" colspan="1" rowspan="1">Social landlord with over 600 flats</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="2" style="background-color:#8EAADB">Netherlands</td>
+                            <td align="center" colspan="1" rowspan="2" style="background-color:#D9E2F3">Eindhoven</td>
+                            <td align="left" colspan="1" rowspan="1">The most intelligent house in the Netherlands is
+                                <break/>available to end users.</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="1" rowspan="1">Industrial building equipped with gateways, sensors
+                                <break/>and devices, actuators, and smart plugs.</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="2" style="background-color:#8EAADB">Portugal</td>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">North</td>
+                            <td align="left" colspan="1" rowspan="1">The residential demonstration is deployed in 250
+                                <break/>homes in 5 cities in northern Portugal.</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="1" rowspan="1" style="background-color:#D9E2F3">The entire
+                                <break/>territory</td>
+                            <td align="left" colspan="1" rowspan="1">The commercial demonstration is being developed and
+                                <break/>installed in 12 retail shops throughout Portugal, where
+                                <break/>~75% will have local energy.</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                            <td align="center" colspan="1" rowspan="1"/>
+                            <td align="center" colspan="1" rowspan="1">X</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec>
+            <title>InterConnect uses edge computing and IoT to optimize energy and launch new services</title>
+            <p>The awareness of the limits of fossil fuels, the revolution caused by global targets for a drastic reduction in CO
+                <sub>2</sub> emissions, and the significant spread of energy produced from renewable sources are prompting the development of distributed generation systems, the gradual space of electric mobility and storage systems, and the need to control and reduce final consumption.</p>
+            <p>The many operators who have already started to use the latest technologies to offer new products and services to their customers and align their business models with the new context have demonstrated the actual effectiveness of these technologies (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.novelec.fr/quelles-economies-d-energie-et-quel-impact-ecologique-grace-a-la-domotique/">novelec.fr</ext-link>). However, the abundance of tools and services limits their impact on a larger scale (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.la-fabrique.fr/fr/communique_de_presse/efficacite-energetique-les-promesses-du-numerique/">la-fabrique.fr</ext-link>) Indeed, the lack of a common standard forces users to renew their equipment each time they move to a new home, which has often become incompatible with their new situation.  It is, therefore, necessary to devise solutions to integrate all these tools to optimize energy consumption.</p>
+            <p>The Internet of Things (IoT) and edge computing are increasingly important in the evolution of product and service offerings. InterConnect builds on the inherent nature of IoT solutions, which allows the integration of a broad and heterogeneous range of technologies such as sensors, smart meters, machines (appliances, air conditioners, etc.), charging units, transformers, and inverters. Each pilot develops its own network(s) controlled by an interoperability platform intended to interconnect with the other pilots. The resulting network, which "speaks the same language", will be able to accommodate the connected tools of its neighbors without the end user having to change his equipment or habits. This configuration and management of microgrids, the dissemination of charging systems for electric vehicles, and the introduction of technologies for controlling and managing connected objects are just some of the new opportunities available to customers and energy suppliers.</p>
+            <p>In an increasingly constrained market and in order to meet the ever-growing demand, the interoperability platform is proving to be an irreplaceable ally in the future management of complex, heterogeneous and large-scale energy production, transmission, distribution and storage systems.</p>
+            <p>The InterConnect pilots should be able to harmonise their experiments by striving for an integrated and strongly market-oriented approach. To this end, the deployment of an integrated Distribution System Operator (DSO) framework for an interoperable energy system supports the exchange of standardised information between the different smart grid stakeholders, and integrates several components that can be used for flexibility, such as Home Energy Managements Systems (HEMS)
+                <sup>
+                    <xref ref-type="other" rid="FN3">3</xref>
+                </sup> and Building Energy Management Systems (BEMS), storage, e-mobility, etc.</p>
+            <p>The use of existing Smart Grid projects (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://www.smartgrid.gov/the_smart_grid/smart_grid.html">smartgrid.gov</ext-link>) to demonstrate a range of technologies and solutions in an integrated environment should ensure effective management of the pilot projects. A specific transnational coordination working group has been set up to help pilot project managers ensure quality control, monitoring of key performance indicators and consistency with a common implementation plan. A common four-step methodology was adopted for each pilot:</p>
+            <p>Step 1 - Knowledge:</p>
+            <p>A field study identifies needs and opportunities (potential services and business models) and selects the most representative end-users possible who will test the solutions developed to improve their energy consumption patterns.</p>
+            <p>Step 2 - Definition:</p>
+            <p>This second step leads to the design and construction of demonstrators using creative problem solving facilitation, where challenges are tackled collectively so that solutions are shared.</p>
+            <p>Step 3 - Demonstration:</p>
+            <p>This validates or invalidates the technology with end-users who have had the opportunity to test it in their daily lives, over a sufficiently long period of time to verify its soundness. Ideally, this period extends over two winters.</p>
+            <p>Step 4 - Evaluation:</p>
+            <p>Finally, the objective review and evaluation of end-user feedback and experience will confirm the viability of the solution as is or after improvement.</p>
+            <p>A project of this magnitude requires adjustments in order to integrate other partners who can bring in other technologies or know-how. Open calls allow the ecosystem of actors involved to be broadened and provide opportunities for innovative SMEs and start-ups at European level.</p>
+        </sec>
+        <sec>
+            <title>Presentation of the French pilot</title>
+            <p>In order to give a concrete idea of the experiments that are carried out by the different pilots, we propose to detail a little more precisely the work of the French pilot, which is a mix between the experiments of the pilots of the North (Germany, Belgium and the Netherlands) and those of the South (Greece, Italy and Portugal).</p>
+            <p>The societal impact study conducted on the whole InterConnect project and piloted by Yncr&#x00e9;a M&#x00e9;diterran&#x00e9;e is composed of two main chapters</p>
+            <p>- a quantitative study (based on a series of questionnaires)</p>
+            <p>- a qualitative study (based on targeted semi-structured interviews).</p>
+            <p>The first analyses commented on in this text are therefore based on the study of the first interviews conducted by the French pilot (data not yet available).</p>
+            <p>The French project concerns both public buildings and private rental or ownership housing, buildings or houses, spread over the territory of the Toulon Provence M&#x00e9;diterran&#x00e9;e (TPM) metropolis.</p>
+            <p>For the benefit of private individuals, two partners have the task of deploying their solutions. These are ENGIE
+                <sup>
+                    <xref ref-type="other" rid="FN4">4</xref>
+                </sup>, one of the main French energy distributors, and ThermoVault
+                <sup>
+                    <xref ref-type="other" rid="FN5">5</xref>
+                </sup>. The former was to recruit 250 private testers and the latter 200, but the COVID-19 health crisis has seriously disrupted these recruitments. Initially, the two partners focused their recruitment on social landlords, hoping to reach a population that was sensitive to energy savings. According to the preliminary analyses of these landlords in the French sample (data not yet published), we find that this target group is more resistant to the project than other types of population. There are three reasons for this. Firstly, the tenants of these dwellings are often, septuagenarians  (30 % of end-users already recruited) who, according to the interviews (data not yet published) conducted with them, are not inclined to change or who entrust these steps to their sons or daughters, who are more difficult to reach because they are absent, working or living far away.  Other people, who benefit from support from social organisations (more than half of the respondents benefit from local social support) take care of all or part of their bills, so they do not feel concerned by a scheme designed to enable them to make savings. Finally, another significant part (50 % of respondents) of this population says that they are attached to their supplier, generally EDF (Electricit&#x00e9; de France is the historical distributor in France), and do not wish to change. This population is wary of the proliferation of energy offers due to unfulfilled promises or even scams and prefers institutional or historical players. The advent of the crisis in Ukraine and the risks it poses to energy prices might have led one to believe that saving energy or benefiting from a secure tariff (ENGIE offers a fixed price for the next three years) would appeal to this lower income population. In fact, this is not the case, they show little interest in the international situation and do not measure the risk that this represents for their energy bills. All the data collected for the 7 pilots and the resulting impact assessment will be published in the second half of 2024.</p>
+            <p>The choice was therefore made to extend the recruitment to other sites such as city centers, residential and suburban areas, in order to reach a wider panel of testers. Communication campaigns were put in place on the illuminated panels of the municipalities of the Metropolis to reach more people. This means of communication did not improve recruitment. Finally, in order to reach a more technophile and environmentally aware population, communication campaigns were organised for members of economic clusters, entrepreneurial associations and engineering students and their families. The latter strategy has been beneficial and has significantly improved recruitment.</p>
+            <p>Two major lessons can be drawn from the difficulties of recruiting testers for a project of this type. The choice of targets for recruitment must be carefully considered, taking into account both the needs of the potential users and the context. It seems that in times of crisis, whatever it may be, the uncertainty of the situation encourages a majority of people to take no risks, to accept no changes, even if these changes may be beneficial to them. Moreover, in the French case in particular, canvassing is felt to be intrusive and negative, 80% of leaflets are thrown away without even being read, laws impose time limits on telephone canvassing. Indeed, potential customers are constantly solicited and many people say they are saturated with proposals, offers and promotions. It was noted that most of the letters sent by social landlords to their tenants to inform them of the holding of meetings in their building entrance to present InterConnect, were thrown in the bin without even being opened. The team in charge of holding the information sessions in the entrance halls of the buildings were able to see this when they found the letters informing them of the sessions intact in the wastepaper baskets. It is therefore preferable to rely on events in which they freely choose to participate (meetings of associations, co-ownerships, etc.).</p>
+            <p>Despite recruitment difficulties, the two partners have started the deployment of their solutions on time and have kept the recruitment of testers open until the end of 2022. The choice was made to target as a priority the main areas of electricity consumption in households, namely the production of domestic hot water and heating. According to the French Agency for Ecological Transition (
+                <ext-link ext-link-type="uri"
+                      xlink:href="https://expertises.ademe.fr/batiment/passer-a-laction/elements-dequipement/leau-chaude-sanitaire">ADEME</ext-link>) electricity consumption linked to water heating represents on average 15% of a household's energy expenditure. In this respect, the consumption of domestic hot water, used for domestic purposes, is the second largest energy expenditure item after electric heating (radiators, convectors, etc.). The two partners ENGIE and ThermoVault therefore installed in the testers' homes a system for controlling the hot water tank and up to four systems for controlling the electric heaters (TIKO boxes and probes for example &#x2013; 
+                <xref ref-type="fig" rid="f1">Figure 1</xref>, TIKO devices). For the sake of efficiency, only electric convector heaters and traditional hot water tanks were fitted. The latter represent 87%
+                <sup>
+                    <xref ref-type="other" rid="FN6">6</xref>
+                </sup> and 46.5%
+                <sup>
+                    <xref ref-type="other" rid="FN7">7</xref>
+                </sup> of the equipment respectively, which guarantees the relevance of the results obtained.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>TIKO company's devices. </title>
+                    <p>Photo by author.</p>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16469/c63c3319-1e96-4d0d-adb1-59895eb9d49d_figure1.gif"/>
+            </fig>
+            <p>This intelligent equipment is initially used to trigger the operation of the heating or hot water tank at the time when electricity is least expensive, while guaranteeing users a level of comfort at least equal to that known before the experimentation. The control is ensured by the Smart Orchestrator platform, developed by engineers from Inetum
+                <sup>
+                    <xref ref-type="other" rid="FN8">8</xref>
+                </sup> and ISEN
+                <sup>
+                    <xref ref-type="other" rid="FN9">9</xref>
+                </sup> (Institut Sup&#x00e9;rieur de l'Electronique et du Num&#x00e9;rique) YNCREA M&#x00e9;diterran&#x00e9;e and the two partners, based on a dynamic tariff
+                <sup>
+                    <xref ref-type="other" rid="FN10">10</xref>
+                </sup>. While waiting for this tariff to come into force at European level, the tariff is simulated in order to calculate the real savings that would be generated. To make the experiment attractive, this simulation is carried out by the operator and the hypothetically generated savings are rewarded with gift vouchers. Thus, due to the fixed 3-year contract and the principle of reimbursing the "savings generated", the tester runs no risk of seeing his or her bill increase as a result of participating in the experiment.</p>
+            <p>In a second phase, after having familiarised themselves with the concepts of dynamic tariffs, end users can also intervene directly in the control of their heating systems by means of a digital application made available to them by ENGIE. This adaptation phase is deliberately deferred because it becomes all the more effective when the user sees the effect of the resources deployed on their bill. In this case, a user is willing to use new means that will enable him to reinforce these effects. In its May 2015 report, the Acad&#x00e9;mie des technologies defines adaptation as a necessary stage of appropriation, which it defines as follows:  "One of the important stages in the adoption process is that of 'instrumentation', during which the technical object must be transformed into an 'instrument', which our body, in all its components, must learn to handle. This phase requires &#x2018;co-adaptation&#x2019;, i.e. the technical object can be modified (sometimes referred to as &#x2018;hijacking&#x2019;, ranging from "customisation" to the use of a new tool). from 'customisation' to the invention of new uses, but also that our body must adopt body must adopt new behaviours, learn new gestures, develop automatisms and anticipation capacities&#x201d; (
+                <xref ref-type="bibr" rid="ref-2">Acad&#x00e9;mie des technologies</xref>). The implementation of these connected objects in the home and participation in their use require this adaptation. During discussions with end-users to present them with the mobile control application made available to them, we noted, particularly with tenants of social landlords and despite precise information, that they were not interested in the effects of the devices deployed in their homes. It is because they are invited to compare their bills that they become aware that they themselves can further improve these effects. Without this prior realisation, they generally do not take ownership of the technology.</p>
+            <p>Finally, to complete the range of tools that should help reduce the testers' electricity consumption, connected household appliances are also made available to them, free of charge (
+                <xref ref-type="fig" rid="f2">Figure 2</xref>). Our partners Bosh, Whirlpool and Miele provide washing machines, tumble dryers and dishwashers for a large number of households. This provision of connected objects not only generates savings due to their more recent design, but also offers testers the possibility of triggering them either when energy is cheaper or during a peak in local renewable energy production.</p>
+            <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                <label>Figure 2. </label>
+                <caption>
+                    <title>Deployment of connected objects in the framework of the InterConnect project typical home - pilot France.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16469/c63c3319-1e96-4d0d-adb1-59895eb9d49d_figure2.gif"/>
+            </fig>
+            <p>The plan below shows the deployment of these facilities in a typical household.</p>
+            <p>Each eligible home is equipped with connected household appliances (1), a hot water tank control system (2) and electric radiator control systems (3). Consumption data is collected in real time using an Linky Radio Transmitter ERL set up by Enedis.</p>
+            <p>As far as public testers are concerned, two solutions are deployed. These are charging stations for electric vehicles (already operational) and collective boilers (study in progress).</p>
+            <p>Wirelane GmbH
+                <sup>
+                    <xref ref-type="other" rid="FN11">11</xref>
+                </sup> supplies charging stations for electric vehicles. The town of Le Pradet, a commune of the Metropolis, has equipped its technical area with this equipment. The municipal team, which is very committed to the development of less energy-consuming solutions, has also had solar panels installed on the school buildings in the town centre and is planning to install car park shades equipped with solar panels.</p>
+            <p>Still within the framework of the test, public buildings in the Metropolis (museums, schools, etc.) are being identified for the installation of connected collective boilers proposed by the company Daikin, also a partner in the project. The aim here is to offer Cybergrid flexibility in the context of the overarching pilot.</p>
+            <p>Whether they are intended for private homes or public buildings, the means deployed by the French pilot have the primary objective of reducing consumption.</p>
+        </sec>
+        <sec>
+            <title>Reducing consumption through technology</title>
+            <p>At a time of real tension in the energy market, InterConnect is trying to reduce end-user electricity consumption by 15% by relying on the dynamic tariff
+                <sup>
+                    <xref ref-type="other" rid="FN12">12</xref>
+                </sup>, (
+                <xref ref-type="fig" rid="f3">Figure 3</xref>) which follows the movements of the energy market based on fluctuations between production and demand in Europe. The IOT systems (connected objects), sensors and control tools deployed by each pilot should help to achieve this goal. The general idea is not to make the devices concerned more energy-efficient, but rather to rationalise their use so that they provide the same service but optimise the times of consumption, if possible outside the hours of high voltage on the distribution networks, by triggering their operation at the right moment.</p>
+            <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                <label>Figure 3. </label>
+                <caption>
+                    <title>Example of qualitative variations in energy prices over the course of a day (source: 
+                        <ext-link ext-link-type="uri" xlink:href="https://www.engie.be/fr/tarif-dynamic/">ENGIE</ext-link>. Copyright permissions granted).</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16469/c63c3319-1e96-4d0d-adb1-59895eb9d49d_figure3.gif"/>
+            </fig>
+            <p>For example, turning on electric radiators just a few minutes before the occupants of a room arrive, rather than maintaining the desired temperature over time or turning them on at maximum power at the last moment, generates obvious savings.</p>
+            <p>In addition, the use of the latest generation of connected household appliances further enhances the efficiency of the project. These rather favourable energy class means, switched on at the most advantageous times of the day by remote triggering, also generate substantial savings either by reducing consumption or by choosing the least expensive time.</p>
+            <p>Let's take the example of a household with solar panels, during the time of day the energy cost is the most advantageous. The machine can be switched on when the production is the most interesting  (high price and high self-generation) and in case of bad weather forecast or sudden deterioration of the sunshine conditions, the user can choose to switch on the machine in the least expensive time slot. Simple programming does not allow such flexibility.</p>
+            <p>It is also important to note that most of the appliances installed in the project no longer have belt-driven drums, but work by induction, which results in even greater energy savings.</p>
+        </sec>
+        <sec>
+            <title>From experimentation to pedagogy</title>
+            <p>According to 
+                <xref ref-type="bibr" rid="ref-4">Hoffman &amp; Novak (2018)</xref>, "The Internet of Things (IoT) has the potential to revolutionise the consumer experience" in that the new usage experiences they offer, have the potential to revolutionise consumers' daily lives. Moreover, their penetration into the home shows that their appropriation contributes to the creation of value by consumers.</p>
+            <p>The initial feedback (from the first unpublished responses to the questionnaires of the quantitative study - 49 questionnaires) from this vast experiment deployed in seven European countries and involving 3,500 testers highlights the educational virtues of such a project. Indeed, whatever the testers, if the idea of making energy savings is the primary reason for participating in the experiment, the fact that they can contribute to generating additional savings by being involved in their own consumption encourages participants to get involved over the long term.</p>
+            <p>The mobile application (
+                <xref ref-type="fig" rid="f4">Figure 4</xref>) that accompanies the remote monitoring and control equipment plays an essential role for users. It allows them to visualise in real time the savings made. This application is part of the services offered by ENGIE to its customers and has been adapted to take into account the sensors deployed as part of the InterConnect project. The simplicity of the principle encourages everyone to do better the next day. This playful aspect, rewarded by an almost instantaneous gain, plays an important educational role.</p>
+            <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                <label>Figure 4. </label>
+                <caption>
+                    <title>ENGIE Mobile Appliance (source: InterConnect presentation leaflet for ENGIE. Copyright permissions granted).</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16469/c63c3319-1e96-4d0d-adb1-59895eb9d49d_figure4.gif"/>
+            </fig>
+            <p>Moreover, thanks to this tool, the tester becomes a bit of a co-constructor of his or her usage. Usage, which refers to the notion of habit, is understood as a "social construct" that involves various levels, namely "the genealogy of usage, the appropriation process, the development of the social link, and the integration of usage into social relationships" (Jou&#x00eb;t, 2000). The common four-stage methodology (Knowledge - Definition - Demonstration - Evaluation) adopted by each pilot of the InterConnect project is entirely consistent with the first two levels proposed by 
+                <xref ref-type="bibr" rid="ref-6">Josiane Jou&#x00eb;t</xref>.  For his part, the user, thus involved, can also improve the energy efficiency of his installation by installing new connected objects (switches, light bulbs, small household appliances, etc.).</p>
+            <p>Gradually, the user "develops habits" and says to themselves that it would be a shame to "waste" the potential gains of the experiment. It is obvious, despite the little hindsight we have on this experiment, that the educational virtue of the mobile application will allow for lasting changes in the behaviour of these consumers. First of all, on an individual basis, by motivating them to generate more savings and by the progressive awareness that is created. Then, quickly, this change in individual behaviour spreads to the immediate environment and neighbourhood. Either by encouraging people to join the experimentation or by conveying a positive message about these technologies. This "oil spot" effect is difficult to measure but remains a strong expectation of the project. It is important to remember that social uses are generated by individuals or groups of individuals. Serge Proulx emphasises that with the development of web technologies, we are witnessing "collective and networked uses" (
+                <xref ref-type="bibr" rid="ref-7">Proulx</xref>) of new technologies. In the context that interests us, in order to further stimulate users, the creation of a blog for them contributes to this sharing.</p>
+            <p>The following diagram (
+                <xref ref-type="fig" rid="f5">Figure 5</xref>), inspired by the work of 
+                <xref ref-type="bibr" rid="ref-10">Poole and DeSanctis (1990)</xref> process of technology appropriation in the organisational context and adapted by Ang&#x00e9;lique Roux (
+                <xref ref-type="bibr" rid="ref-8">Roux, 2007</xref>), highlights this dynamic aspect of the appropriation process.</p>
+            <fig fig-type="figure" id="f5" orientation="portrait" position="float">
+                <label>Figure 5. </label>
+                <caption>
+                    <title>From use to practice: appropriation processes.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16469/c63c3319-1e96-4d0d-adb1-59895eb9d49d_figure5.gif"/>
+            </fig>
+            <p>In order to measure these changes in behaviour, a study of societal impacts is being carried out throughout the project.</p>
+            <p>The quantitative part of this study consists of three questionnaires (not yet published) are to be distributed at the beginning, middle and end of the experiment in order to take stock of the situation before the project, to observe the first impacts at 12 months and the lasting impacts at the end of the project. These questionnaires cover 4 items, namely</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>-</label>
+                    <p>adaptation of premises and equipment</p>
+                </list-item>
+                <list-item>
+                    <label>-</label>
+                    <p>energy management</p>
+                </list-item>
+                <list-item>
+                    <label>-</label>
+                    <p>changes in comfort</p>
+                </list-item>
+                <list-item>
+                    <label>-</label>
+                    <p>savings made.</p>
+                </list-item>
+            </list>
+            <p>The qualitative part of the study will be based on the semantic study of the interview reports of a representative panel of 6 to 7 end users of each pilot.</p>
+        </sec>
+        <sec>
+            <title>Energy communities, win-win projects</title>
+            <p>In May 2019, the European Union adopted the Clean Energy Package
+                <sup>
+                    <xref ref-type="other" rid="FN13">13</xref>
+                </sup>. The third priority of this initiative is to put the consumer at the heart of the energy system. To this end, the EU asks Member States to support the creation of energy communities by promoting the two concepts of renewable energy communities and citizen energy communities.</p>
+            <p>The awareness and sensitisation created by the InterConnect project among user groups creates the right conditions to push experimentation further by encouraging them to form energy communities. In this win-win system, our "experimenters/consumers" become real experts in better consumption.</p>
+            <p>Some pilots already rely on existing energy communities to conduct their experimentation. Others, like the French pilot, have set themselves the objective of taking advantage of the positive effects of the experiment to organise one or more energy communities.</p>
+            <p>The idea of the French pilot is to support a municipality, a condominium or a group of consumers in their efforts to create an energy community using the tools developed within the framework of InterConnect, such as the "smart orchestrator" platform. This community should be structured around two axes:</p>
+            <list list-type="bullet">
+                <list-item>
+                    <label>-</label>
+                    <p>That of energy production (collective or individual). In this case, the producers decide to supply their surplus production to the community. The Smart Orchestrator registers the production of each individual and redirects it in priority to the members of the community.</p>
+                </list-item>
+                <list-item>
+                    <label>-</label>
+                    <p>The second axis is consumption. Community members prioritise the consumption of green energy by triggering their consumption when it is available.</p>
+                </list-item>
+            </list>
+            <p>Production and consumption, recorded by the smart meter, are then rewarded by a virtual currency ("green-coin") or an existing local currency to which the reward system would be linked, and would be used in local shops (short cycle), to pay for services (vehicle recharging) or to reinvest in improving production capacities.</p>
+            <p>This notion of rewarding a virtuous act, be it production or consumption, is certainly an essential element in the constitution of a community, in any case, this is what we will try to demonstrate in our experiment. This community must be perceived and experienced as a project of general interest that meets economic development objectives, biodiversity conservation objectives and social interest protection objectives. The "reward" must not only compensate, but also offset. Compensation would facilitate the social and environmental acceptability of such projects.</p>
+            <p>The ideal, but not exclusive, community model could be carried by a municipality that invests in renewable energy production (e.g. solar panels installed on municipal buildings) and organises a community of self-consuming homeowners and tenants of social landlords. In this case, social acceptability would be ensured by the participation of all types of taxpayers, environmental acceptability would be guaranteed by the type of production chosen collectively and the economic aspect rewarding both the consumer and the producer would make it possible to promote local exchanges, improve (investment) and maintain the communal renewable energy production system.</p>
+            <p>The diagram (
+                <xref ref-type="fig" rid="f6">Figure 6</xref>) details the principle of exchange with the network and within the community. The Smart Orchestrator platform (currently being developed for the project, not yet available) acts as a "switch". When a PV user does not need it, the surplus is made available to other users in the community (
+                <xref ref-type="fig" rid="f7">Figure 7</xref>). Thus, it registers the input equivalent as green energy and informs the users of the most opportune moment to consume "green" and accounts for the consumption of each community member. These overproduction and green consumption are converted into points that allow the user to obtain discount vouchers from partner shops or to convert them into local currency to pay in partner shops or to recharge an electric vehicle.</p>
+            <fig fig-type="figure" id="f6" orientation="portrait" position="float">
+                <label>Figure 6. </label>
+                <caption>
+                    <title>Energy community model for the InterConnect project pilot France.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16469/c63c3319-1e96-4d0d-adb1-59895eb9d49d_figure6.gif"/>
+            </fig>
+            <fig fig-type="figure" id="f7" orientation="portrait" position="float">
+                <label>Figure 7. </label>
+                <caption>
+                    <title>Additional aspects of energy community model for the InterConnect project pilot France.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16469/c63c3319-1e96-4d0d-adb1-59895eb9d49d_figure7.gif"/>
+            </fig>
+            <p>The creation of one or more energy communities based on the InterConnect project experiments would have a particularly remarkable effect at this time of tension on energy prices, since it would combine resources designed to reduce electricity consumption by 15% with a capacity to produce renewable energy that could further reduce the need for the public grid.</p>
+            <p>The reward system is managed by an independent operator who is responsible for collecting discounts in the listed shops and converting the points obtained by users (
+                <xref ref-type="fig" rid="f8">Figure 8</xref>).</p>
+            <fig fig-type="figure" id="f8" orientation="portrait" position="float">
+                <label>Figure 8. </label>
+                <caption>
+                    <title>Principle of remuneration within the energy community.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                     xlink:href="https://s3-eu-west-1.amazonaws.com/openreseurope/manuscripts/16469/c63c3319-1e96-4d0d-adb1-59895eb9d49d_figure8.gif"/>
+            </fig>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>Because of the strong tensions on the energy market and the European Union's choice to deal with them in a community way, InterConnect is a project that is totally in line with current events. Through the volume of the experiments and the diversity of the means implemented, it is an opportunity to select pragmatic solutions that will make it possible to reduce the consumption of the most widespread equipment in European homes (electric heaters and electric water heaters).</p>
+            <p>The educational virtues of such an initiative based on a win-win principle, where energy suppliers are subject to less demand from a population that knows how to consume better and is aware of its essential role in the environment, is an encouraging first step towards achieving the ambitious EU objectives set out in the December 2015 Paris Agreement in the energy-climate frameworks for 2030 to reduce emissions by at least 40% compared to 1990.</p>
+            <p>Finally, this awareness-raising among consumers, making them true consumer actors in the energy market on an individual level, has led us to propose the basis of an energy community model that could become an effective solution for reducing the use of fossil fuels while democratising renewable energy. </p>
+            <p>Because it fully meets the needs of the moment and the choices of the future in terms of energy consumption and management, the InterConnect project has a dual economic and educational interest among users, which should lead to responsible and sustainable behaviour.</p>
+            <p>The originality of this project therefore lies largely in the choice, not to create innovation for its own sake, but rather to create innovations that make the existing more modern and more economical. In a context of economic and social crises, this approach is bound to meet with a favourable response from the low-income customers, who are also the most numerous users of energy-consuming equipment.</p>
+            <p>In the 15 months or so before the end of the project (March 2024), it will be interesting to measure the societal impacts it has produced. An important semantic study is being conducted in this context and will lead to the identification of the most relevant vocabulary to be used to provide arguments to support future European projects or the marketing of solutions tested in InterConnect.</p>
+        </sec>
+    </body>
+    <back>
+        <sec sec-type="data-availability">
+            <title>Data availability</title>
+            <p>No data are associated with this article.</p>
+        </sec>
+        <fn-group>
+            <fn>
+                <p id="FN1">
+                    <sup>1</sup> Average estimate and objective sought by the project partners.</p>
+            </fn>
+            <fn>
+                <p id="FN2">
+                    <sup>2</sup> IoT: Internet of Things - describes the network of physical terminals, "objects", that incorporate sensors, software and other technologies to connect to and exchange data with other terminals and systems on the Internet.</p>
+            </fn>
+            <fn>
+                <p id="FN3">
+                    <sup>3</sup> (Home Energy Managements Systems - HEMS). The HEMS system allows users to monitor energy consumption in real time through live feeds providing data.</p>
+            </fn>
+            <fn>
+                <p id="FN4">
+                    <sup>4</sup> ENGIE specializes in low-carbon energy and services. They are committed to accelerating the transition to a carbon-neutral world through more energy-efficient and environmentally friendly solutions. Guided by their raison d'&#x00ea;tre, they reconcile economic performance with a positive impact on people and the planet by leveraging their core businesses (gas, renewable energies, services) to offer solutions to their customers. ENGIE's raison d'&#x00ea;tre is to act to accelerate the transition to a carbon-neutral economy through more energy-efficient and environmentally friendly solutions.</p>
+            </fn>
+            <fn>
+                <p id="FN5">
+                    <sup>5</sup> ThermoVault is a Belgian startup that has developed an all-in-one software and hardware IoT platform for energy services that transforms existing water heaters and space heaters into a grid-responsive, energy-efficient and lucrative energy storage device that saves electricity consumers and utilities money while enabling the integration of renewable energy.</p>
+            </fn>
+            <fn>
+                <p id="FN6">
+                    <sup>6</sup> Insee estimates that about 87% of electrically heated homes use wall-mounted radiators.</p>
+            </fn>
+            <fn>
+                <p id="FN7">
+                    <sup>7</sup> According to Agence de la Transition Ecologique - 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://expertises.ademe.fr/batiment/passer-a-laction/elements-dequipement/leau-chaude-sanitaire">ADEME</ext-link> Expertises, more than half of the dwellings produce their hot water independently. If we look at the distribution according to the production energy, electricity is the first source of DHW production in main residences (46.5%) with a more important share in single-family houses (51.9%). Gas (38.4%) is the main source in collective housing, with 48.8%, against 30.4% in single-family houses. Oil still heats 9% of the main residences.</p>
+            </fn>
+            <fn>
+                <p id="FN8">
+                    <sup>8</sup> Inetum (formerly Gfi Informatique) is a French digital services company (ESN).</p>
+            </fn>
+            <fn>
+                <p id="FN9">
+                    <sup>9</sup> ISEN Yncrea M&#x00e9;diterran&#x00e9;e (Institut Sup&#x00e9;rieur de l'Electronique et du Num&#x00e9;rique) is an engineering school with an integrated preparatory course, offering 3 or 5 year courses leading to an engineering degree. The school is spread over two sites, Toulon and Marseille, and offers various specialities such as robotics, renewable energies, telecommunications and biomedical.</p>
+            </fn>
+            <fn>
+                <p id="FN10">
+                    <sup>10</sup> The dynamic tariff proposes to follow the price of energy which fluctuates every day and every hour according to the price of electricity on the wholesale markets.</p>
+            </fn>
+            <fn>
+                <p id="FN11">
+                    <sup>11</sup> Wirelane GmbH is a German company and partner of InterConnect that develops, plans, installs and operates charging infrastructures. It offers hardware, software and services from a single source.</p>
+            </fn>
+            <fn>
+                <p id="FN12">
+                    <sup>12</sup> "
+                    <xref ref-type="bibr" rid="ref-3">The European Directive 2019/44</xref> of 5 June 2019 concerning common rules for the internal market in electricity provides for the obligation for suppliers of more than 200,000 sites to develop a dynamic pricing offer." It gives the right to consumers equipped with the Linky meter to benefit from a dynamic pricing offer, in order to take advantage of the flexibility of the markets. Thus, each supplier with more than 200,000 customers will have to propose at least one dynamic pricing offer, meeting the following criteria </p>
+                <p>- the electricity price must be indexed to at least 50% of one or more spot market indices (daily or intraday)</p>
+                <p>- the offer must reflect market price variations at least on an hourly basis</p>
+                <p>- the monthly bill is capped at twice the monthly bill that the customer would have paid at the regulated tariff (in the basic option) for an equivalent meter power.</p>
+            </fn>
+            <fn>
+                <p id="FN13">
+                    <sup>13</sup> The "Clean Energy Package" or "Clean Energy Package for all Europeans", whose discussions began in November 2016, was adopted on 22 May 2019 by the European Council.</p>
+                <p>This set of texts aims to adapt the directives and regulations that define the applicable framework for the years 2020&#x2013;2030 in order to accompany the energy transition at controlled cost and provide
+and provide clean and accessible energy to all Europeans.</p>
+                <p>The Clean Energy Package defines 3 priorities: </p>
+                <p>- Energy efficiency;</p>
+                <p>- Achieving world leadership in the renewable energy sector;</p>
+                <p>- Putting the consumer at the heart of the energy system.</p>
+            </fn>
+        </fn-group>
+        <ref-list>
+            <ref id="ref-2">
+                <mixed-citation publication-type="journal">
+                    <collab>Acad&#x00e9;mie des technologies</collab>:
+                    <article-title>la question de l&#x2019;appropriation des technologies.</article-title>Rapport vot&#x00e9; le 13 mai 2015.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://academie-technologies-prod.s3.amazonaws.com/2015/12/15/15/08/10/664/appropriation_technol_internet.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-1">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Devika Rao</surname>
+                        </name>
+               </person-group>:
+                    <article-title>Europe's energy crisis, explained.</article-title>The Week,<year>2022</year>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://theweek.com/climate-change/1016912/climate-changes-role-in-europes-energy-crisis">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <mixed-citation publication-type="journal">
+                    <article-title>Directive (UE) 2019/944 du Parlement europ&#x00e9;en et du Conseil du 5 juin 2019 concernant des r&#x00e8;gles communes pour le march&#x00e9; int&#x00e9;rieur de l'&#x00e9;lectricit&#x00e9; et modifiant la directive 2012/27/UE (refonte) (Texte pr&#x00e9;sentant de l'int&#x00e9;r&#x00ea;t pour l'EEE)</article-title>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32019L0944&amp;from=NL">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Gordon</surname>
+                            <given-names>A</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Bouchard</surname>
+                            <given-names>M</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Olivier</surname>
+                            <given-names>V</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Consom&#x2019;acteur:  D&#x00e9;finition. Dictionnaire d&#x2019;agro&#x00e9;cologie. </article-title>
+               <year>2022</year>.
+                    <pub-id pub-id-type="doi">10.17180/eqy2-0870</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Hoffman</surname>
+                            <given-names>DL</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>Novak</surname>
+                            <given-names>TP</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Consumer and Object Experience in the Internet of Things: An Assemblage Theory Approach.</article-title>
+                    <source>
+
+                        <italic toggle="yes">J Consum Res.</italic>
+               </source>
+               <year>2018</year>;<volume>44</volume>(<issue>6</issue>):<fpage>1178</fpage>&#x2013;<lpage>1204</lpage>.
+                    <pub-id pub-id-type="doi">10.1093/jcr/ucx105</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Jou&#x00eb;t</surname>
+                            <given-names>J</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Retour critique sur la sociologie des usages. </article-title>R&#x00e9;seaux - &#x00ab; Communiquer &#x00e0; l&#x2019;&#x00e8;re des r&#x00e9;seaux &#x201c;.<year>2000</year>;<volume>18</volume>(<issue>100</issue>):<fpage>487</fpage>&#x2013;<lpage>521</lpage>.
+                    <pub-id pub-id-type="doi">10.3406/reso.2000.2235</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Proulx</surname>
+                            <given-names>S</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Penser les usages des TIC aujourd&#x2019;hui:  enjeux, mod&#x00e8;les, tendances.</article-title>In: Vieira Lise et Pin&#x00e8;de-Wojciechowski Nathalie (dir.),
+                    <italic toggle="yes">Enjeux et usages des T.I.C.:  aspects sociaux et culturels,.</italic>Tome 1, Presses universitaires de Bordeaux Bordeaux,<year>2005</year>;<fpage>7</fpage>&#x2013;<lpage>20</lpage>.
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://sergeproulx.uqam.ca/wp-content/uploads/2010/12/2005-proulx-penser-les-usa-43.pdf">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Poole</surname>
+                            <given-names>MS</given-names>
+                        </name>
+
+                        <name name-style="western">
+                            <surname>DeSanctis</surname>
+                            <given-names>G</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>Understanding the use of Group Decision Support Systems: The Theory of Adaptive Structuration. 
+</article-title>
+                    <source>
+
+                        <italic toggle="yes">Organizations and communication technology.</italic>
+               </source>
+               <year>1990</year>;<fpage>173</fpage>.
+                    <pub-id pub-id-type="doi">10.4135/9781483325385.N8</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+
+                        <name name-style="western">
+                            <surname>Roux</surname>
+                            <given-names>A</given-names>
+                        </name>
+               </person-group>:
+                    <article-title>De l&#x2019;usage &#x00e0; la pratique:  les processus d&#x2019;appropriation. Emprunts &#x00e0; la th&#x00e9;orie de la structuration et empreinte du chercheur. </article-title>Communication et organisation.<year>2007</year>;<fpage>124</fpage>&#x2013;<lpage>139</lpage>.
+                    <pub-id pub-id-type="doi">10.4000/communicationorganisation.168</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="reviewer-report" id="report33671">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16469.r33671</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Yang</surname>
+                        <given-names>Shiyu</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33671a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0001-5447-7398</uri>
+                </contrib>
+                <aff id="r33671a1">
+                    <label>1</label>Cornell University, Ithaca, New York, USA</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>15</day>
+                <month>8</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Yang S</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33671"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15227.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The paper presents the InterConnect project, which aims to reduce energy consumption and promote responsible and sustainable behavior among its users. The project's key innovation is its interoperability platform, which allows for the integration of a broad range of technologies and enables the configuration and management of microgrids, charging systems for electric vehicles, and technologies for controlling and managing connected objects. Although limited technical details are provided, the interoperability platform could be useful for improving the energy efficiency of the connected and complex existing systems in homes and buildings. The project also focuses on raising awareness and educating users about energy consumption and management through its mobile application and energy community model. Scale-up of the solutions in the project may face some social and technical challenges, which are also worth discussing.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Partly</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Partly</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Intelligent building control, Building decarbonization, Building energy efficiency, Renewable energy integration</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report33674">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16469.r33674</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Rathor</surname>
+                        <given-names>Sumit</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r33674a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0003-3049-7022</uri>
+                </contrib>
+                <aff id="r33674a1">
+                    <label>1</label>Department of Electrical Engg and Computer Science, Khalifa University, Abu Dhabi, Abu Dhabi, United Arab Emirates</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>31</day>
+                <month>7</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Rathor S</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport33674"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15227.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The author presented the manuscript "InterConnect: A European project that is changing the way energy is consumed," aiming at minimizing households' energy consumption through experiments on 3500 users. The study relies on IoT applications to control household devices through signaling and educating users about the need to reduce energy usage. There are many such studies conducted by researchers through different simulation strategies however the presented study is at a demonstration level, providing an excellent contribution to the research community. Still, there is scope for studying users' comfort levels by adjusting their devices based on power demand curves.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Partly</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Energy, Policy, Electric Power System, Renewable Energy Source Integration</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="reviewer-report" id="report31979">
+        <front-stub>
+            <article-id pub-id-type="doi">10.21956/openreseurope.16469.r31979</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Juri&#x0161;evi&#x0107;</surname>
+                        <given-names>Neboj&#x0161;a</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r31979a1">1</xref>
+                    <role>Referee</role>
+                    <uri content-type="orcid">https://orcid.org/0000-0002-1609-6313</uri>
+                </contrib>
+                <aff id="r31979a1">
+                    <label>1</label>University of Kragujevac, Jovana Cvijic&#x0301;a, Kragujevac, Serbia</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>13</day>
+                <month>6</month>
+            <year>2023</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2023 Juri&#x0161;evi&#x0107; N</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport31979"
+                          related-article-type="peer-reviewed-article"
+                          xlink:href="10.12688/openreseurope.15227.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The study InterConnect: A European Project Changing the Way Energy Is Consumed describes the current status of a project aimed at improving energy management in societies by focusing on energy consumption in buildings. In this regard, the study presents the findings of a pilot project in France, one of seven countries included in InterConect. In particular, the study is based on IoT applications in 1) residential and 2) public buildings. The study aim is to manage building electricity demand so that energy is not only used more efficiently, but also synchronized with fluctuations in electricity generation and demand. This should be made possible by adopting a dynamic electricity tariff, which would cause electricity prices to fluctuate in relatively discrete time intervals. Using this solution would optimize the &#x201c;energy behavior&#x201d; of the buildings more than the relatively simple programming available in non-dynamic tariff systems.</p>
+            <p> </p>
+            <p> Although some of the data mentioned in the study are still unavailable, the study makes a significant contribution to the professional and general public by highlighting all of the challenges research team had to overcome in order to properly deploy and investigate the solution effectiveness.</p>
+            <p> </p>
+            <p> Aside from demonstrating direct benefits from technology use, the paper also confirms the indirect effect through citizen education and the formation of energy communities. The findings presented in this paper can be used as examples of good practice to inspire similar actions in other regions.</p>
+            <p>Where applicable, are recommendations and next steps explained clearly for others to follow? (Please consider whether others in the research community would be able to implement guidelines or recommendations and/or constructively engage in the debate)</p>
+            <p>Yes</p>
+            <p>Does the article adequately reference differing views and opinions?</p>
+            <p>Yes</p>
+            <p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p>
+            <p>Yes</p>
+            <p>Is the rationale for the Open Letter provided in sufficient detail? (Please consider whether existing challenges in the field are outlined clearly and whether the purpose of the letter is explained)</p>
+            <p>Yes</p>
+            <p>Is the Open Letter written in accessible language? (Please consider whether all subject-specific terms, concepts and abbreviations are explained)</p>
+            <p>Yes</p>
+            <p>Reviewer Expertise:</p>
+            <p>Energy Efficiency, Energy Management, Energy and Buildings</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+</article>
