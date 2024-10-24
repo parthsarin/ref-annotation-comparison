@@ -32,7 +32,7 @@ Consequently, this sample is excluded from the evaluation. We chose this sample 
 This table shows statistics for annotation using different APIs on the entire (3,587) dataset:
 | | Coverage | Duration | Cost |
 |--------------------|----------|----------|------|
-| Crossref API | $0.00 | 1h | |
+| Crossref API | | 1h | $0.00 |
 | Google Scholar API | | | |
 | Language Model | | 4h | |
 | DOI Search | | | |
