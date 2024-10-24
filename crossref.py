@@ -143,7 +143,16 @@ def main(args):
         response = requests.get(f'http://api.crossref.org/works?query.bibliographic="{ref["text"]}"&rows=1')
         response = response.json()
 
-        items = response['message']['items']
+        try:
+            items = response['message']['items']
+        except Exception:
+            annotated_refs.append({
+                "doi": ref['doi'],
+                "text": ref['text'],
+                "elt_text": ref['elt_text'],
+                "prediction": f"<mixed-citation></mixed-citation>"
+            })
+            continue
 
         if not items:
             annotated_refs.append({
