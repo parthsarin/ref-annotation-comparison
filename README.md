@@ -26,3 +26,11 @@ We used one-shot annotation from GPT-4o mini to produce the reference annotation
 ```
 
 Consequently, this sample is excluded from the evaluation. We chose this sample because it contains a complex JATS structure (e.g. 10 unique sub-elements of the `<mixed-citation>` tag).
+
+## Evaluation
+
+|          | Crossref API | Google Scholar API | Language Model | DOI Search |
+| -------- | ------------ | ------------------ | -------------- | ---------- |
+| Coverage |              |                    |                |            |
+| Duration | 1h           |                    | 4h             |            |
+| Cost     |              |                    |                |            |
