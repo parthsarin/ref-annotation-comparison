@@ -11,7 +11,7 @@ Comparing reference annotation accuracy for four different services:
 
 The data are JATS files sampled from the [Open Research Europe](https://open-research-europe.ec.europa.eu/) publishing platform. They're stored in the `data` directory and the `flatten_refs.py` file extracts the references from each of those files and stores the text version and the JATS annotated version in the `data` directory.
 
-There are a total of 3588 unique references in the data. We used 3587 for evaluation and one (shown below) for one-shot learning.
+There are a total of 3,588 unique references in the data. We used 3587 for evaluation and one (shown below) for one-shot learning.
 
 ## LLM Annotation
 
@@ -29,8 +29,10 @@ Consequently, this sample is excluded from the evaluation. We chose this sample 
 
 ## Evaluation
 
+This table shows statistics for annotation using different APIs on the entire (3,587) dataset:
+
 |          | Crossref API | Google Scholar API | Language Model | DOI Search |
 | -------- | ------------ | ------------------ | -------------- | ---------- |
-| Coverage |              |                    |                |            |
+| Coverage | $0           |                    |                |            |
 | Duration | 1h           |                    | 4h             |            |
 | Cost     |              |                    |                |            |
