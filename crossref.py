@@ -131,11 +131,11 @@ def main(args):
     try:
         annotated_refs = json.load(open(args.output))
     except FileNotFoundError:
+        annotated_refs = []
         completed = set()
     else:
         completed = set((ref['doi'], ref['text']) for ref in annotated_refs)
 
-    annotated_refs = []
     for ref in tqdm(data):
         if (ref['doi'], ref['text']) in completed:
             continue
