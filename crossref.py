@@ -140,7 +140,7 @@ def main(args):
         if (ref['doi'], ref['text']) in completed:
             continue
 
-        response = requests.get(f'http://api.crossref.org/works?query.bibliographic="{ref["text"]}"&rows=1')
+        response = requests.get(f'http://api.crossref.org/works?query.bibliographic="{ref["text"]}"&rows=2')
         response = response.json()
 
         try:
@@ -163,6 +163,28 @@ def main(args):
             })
             continue
 
+
+        scores = items[0]['score'], items[1]['score']
+
+        # if the scores are within 5 points of each other it's inconclusive
+        if abs(scores[0] - scores[1]) < 5:
+            annotated_refs.append({
+                "doi": ref['doi'],
+                "text": ref['text'],
+                "elt_text": ref['elt_text'],
+                "prediction": f"<mixed-citation></mixed-citation>"
+            })
+            continue
+
+        # if the top score is too low, it's inconclusive
+        if scores[0] < 50:
+            annotated_refs.append({
+                "doi": ref['doi'],
+                "text": ref['text'],
+                "elt_text": ref['elt_text'],
+                "prediction": f"<mixed-citation></mixed-citation>"
+            })
+            continue
 
         annotated_refs.append({
             "doi": ref['doi'],
