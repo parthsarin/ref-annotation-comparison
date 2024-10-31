@@ -34,7 +34,7 @@ This table shows statistics for annotation using different APIs on the entire (3
 
 |                                  | Coverage | `article-title` Match | `fpage` Match | `year` Match | Avg Cost / Ref | Duration |
 | :------------------------------- | :------- | :-------------------- | :------------ | :----------- | :------------- | :------- |
-| Language Model                   | 100.00%  | 85.60%                | 92.51%        | 98.99%       | $0.003         | 4h       |
-| Crossref API                     | 96.82%   | 43.88%                | 87.02%        | 97.14%       | $0.00          | 1h       |
-| Crossref (confident, conclusive) | 63.18%   | 63.27%                | 89.13%        | 99.33%       | $0.00          | 1h       |
-| Anystyle                         | 100.00%  | 66.99%                | 1.31%         | 10.68%       | $0.00          | 4m       |
+| Language Model                   | 100.00%  | 85.60%                | 92.12%        | 92.30%       | $0.003         | 4h       |
+| Crossref API                     | 96.82%   | 43.88%                | 77.04%        | 65.44%       | $0.00          | 1h       |
+| Crossref (confident, conclusive) | 63.18%   | 63.27%                | 84.92%        | 84.63%       | $0.00          | 1h       |
+| Anystyle                         | 100.00%  | 66.99%                | 0.00%         | 0.44%        | $0.00          | 4m       |

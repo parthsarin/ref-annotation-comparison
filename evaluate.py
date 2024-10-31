@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import editdistance
 from prettytable import PrettyTable, TableStyle
 
-def test_matches(predictions, element='article-title'):
+def test_matches(predictions, element='article-title', tol=5):
     elt_matches = 0
     total_articles = 0
     for ref in predictions:
@@ -40,7 +40,7 @@ def test_matches(predictions, element='article-title'):
             continue
 
         # edit distance
-        if editdistance.eval(correct_elt, prediction_elt) <= 5:
+        if editdistance.eval(correct_elt, prediction_elt) <= tol:
             elt_matches += 1
 
     return elt_matches / total_articles
@@ -71,8 +71,8 @@ for file in FILES:
         file['name'],
         f"{hits / len(predictions):.2%}",
         f"{test_matches(predictions, 'article-title'):.2%}",
-        f"{test_matches(predictions, 'fpage'):.2%}",
-        f"{test_matches(predictions, 'year'):.2%}",
+        f"{test_matches(predictions, 'fpage', tol=0):.2%}",
+        f"{test_matches(predictions, 'year', tol=0):.2%}",
         file['cost'],
         file['duration']
     ])
