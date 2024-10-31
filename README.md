@@ -3,6 +3,7 @@
 Comparing reference annotation accuracy for four different services:
 
 - [Crossref API](https://www.crossref.org/documentation/retrieve-metadata/rest-api/)
+- [Anystyle](https://anystyle.io/)
 - [Google Scholar API](https://github.com/scholarly-python-package/scholarly)
 - Language Model
 - Gazzi-style DOI extraction
@@ -31,10 +32,9 @@ Consequently, this sample is excluded from the evaluation. We chose this sample 
 
 This table shows statistics for annotation using different APIs on the entire (3,587) dataset:
 
-|                            | Coverage | Title Match | Avg Cost / Ref | Duration |
-| -------------------------- | -------- | ----------- | -------------- | -------- |
-| Crossref API               | 96.8%    | 42.47%      | $0.00          | 1h       |
-| Crossref (only conclusive) | 96.8%    | 42.47%      | $0.00          | 1h       |
-| Google Scholar API         |          |             |                |          |
-| Language Model             | 100%     | 85.6%       | $0.003         | 4h       |
-| DOI Search                 |          |             |                |          |
+|                                  | Coverage | `article-title` Match | `fpage` Match | `year` Match | Avg Cost / Ref | Duration |
+| :------------------------------- | :------- | :-------------------- | :------------ | :----------- | :------------- | :------- |
+| Language Model                   | 100.00%  | 85.60%                | 92.51%        | 98.99%       | $0.003         | 4h       |
+| Crossref API                     | 96.82%   | 43.88%                | 87.02%        | 97.14%       | $0.00          | 1h       |
+| Crossref (confident, conclusive) | 63.18%   | 63.27%                | 89.13%        | 99.33%       | $0.00          | 1h       |
+| Anystyle                         | 100.00%  | 66.99%                | 1.31%         | 10.68%       | $0.00          | 4m       |
