@@ -163,28 +163,32 @@ def main(args):
             })
             continue
 
+        if args.confident:
+            if items[0]['score'] < 50:
+                annotated_refs.append({
+                    "doi": ref['doi'],
+                    "text": ref['text'],
+                    "elt_text": ref['elt_text'],
+                    "prediction": f"<mixed-citation></mixed-citation>"
+                })
+                continue
 
-        scores = items[0]['score'], items[1]['score']
+        if args.conclusive:
+            try:
+                scores = items[0]['score'], items[1]['score']
 
-        # if the scores are within 5 points of each other it's inconclusive
-        if abs(scores[0] - scores[1]) < 5:
-            annotated_refs.append({
-                "doi": ref['doi'],
-                "text": ref['text'],
-                "elt_text": ref['elt_text'],
-                "prediction": f"<mixed-citation></mixed-citation>"
-            })
-            continue
+                # if the scores are within 5 points of each other it's inconclusive
+                if abs(scores[0] - scores[1]) < 5:
+                    annotated_refs.append({
+                        "doi": ref['doi'],
+                        "text": ref['text'],
+                        "elt_text": ref['elt_text'],
+                        "prediction": f"<mixed-citation></mixed-citation>"
+                    })
+                    continue
+            except IndexError:
+                pass
 
-        # if the top score is too low, it's inconclusive
-        if scores[0] < 50:
-            annotated_refs.append({
-                "doi": ref['doi'],
-                "text": ref['text'],
-                "elt_text": ref['elt_text'],
-                "prediction": f"<mixed-citation></mixed-citation>"
-            })
-            continue
 
         annotated_refs.append({
             "doi": ref['doi'],
@@ -202,6 +206,8 @@ if __name__ == "__main__":
 
     parser.add_argument("--data", type=str, help="Path to the JSON file containing the references.", default="data/refs.json")
     parser.add_argument("--output", type=str, help="Path to the output JSON file.", default="out/crossref.json")
+    parser.add_argument("--confident", action="store_true", help="Only annotate references with a high confidence score.", default=False)
+    parser.add_argument("--conclusive", action="store_true", help="Only annotate references that are conclusive.", default=False)
 
     args = parser.parse_args()
     main(args)
