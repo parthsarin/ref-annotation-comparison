@@ -47,6 +47,6 @@ This table shows statistics for annotation using different APIs on the entire (3
 | Crossref                         | 96.82%   | 43.88%                | 77.04%        | 65.44%       | $0.00          | 1h       |
 | Crossref (confident, conclusive) | 63.18%   | 63.27%                | 84.92%        | 84.63%       | $0.00          | 1h       |
 | Anystyle                         | 100.00%  | 66.99%                | 0.00%         | 0.44%        | $0.00          | 4m       |
-| OpenAlex                         | 11.34%   | 0.35%                 | 0.00%         | 10.21%       | $0.00          | 1h       |
+| OpenAlex                         | 11.35%   | 0.50%                 | 0.00%         | 11.11%       | $0.00          | 1h       |
 | CiteAs                           | 8.35%    | 29.73%                | 51.85%        | 34.21%       | $0.00          | 4h       |
 | DOI Extraction                   | 59.39%   |                       |               |              |                |          |
