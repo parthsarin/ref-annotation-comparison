@@ -5,14 +5,14 @@ Comparing reference annotation accuracy for four different services:
 - [Crossref](https://www.crossref.org/documentation/retrieve-metadata/rest-api/)
 - [Anystyle](https://anystyle.io/)
 - Language Model
+- Gazzi-style DOI extraction
+- [OpenAlex](https://openalex.org/)
 
 Services to be tested:
 
 - [Google Scholar API](https://github.com/scholarly-python-package/scholarly)
-- Gazzi-style DOI extraction
 - [CiteAs](https://citeas.org/)
 - [Semantic Scholar](https://www.semanticscholar.org/)
-- [OpenAlex](https://openalex.org/)
 - [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - Other things mentioned on [this Crossref blog post](https://www.crossref.org/labs/resolving-citations-we-dont-need-no-stinkin-parser/)
 - Other things mentioned on [this totally different Crossref blog post]
@@ -47,4 +47,6 @@ This table shows statistics for annotation using different APIs on the entire (3
 | Crossref                         | 96.82%   | 43.88%                | 77.04%        | 65.44%       | $0.00          | 1h       |
 | Crossref (confident, conclusive) | 63.18%   | 63.27%                | 84.92%        | 84.63%       | $0.00          | 1h       |
 | Anystyle                         | 100.00%  | 66.99%                | 0.00%         | 0.44%        | $0.00          | 4m       |
+| OpenAlex                         | 11.26%   | 0.00%                 | 0.00%         | 5.17%        | $0.00          | 1h       |
+| CiteAs                           | 39.36%   | 29.73%                | 51.85%        | 35.14%       | $0.00          | 4h       |
 | DOI Extraction                   | 59.39%   |                       |               |              |                |          |

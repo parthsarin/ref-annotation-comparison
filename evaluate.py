@@ -60,7 +60,9 @@ FILES = [
     {'path': 'out/llm.json', 'name': 'Language Model', 'cost': '$0.003', 'duration': '4h'},
     {'path': 'out/crossref.json', 'name': 'Crossref API', 'cost': '$0.00', 'duration': '1h'},
     {'path': 'out/crossref_confident_conclusive.json', 'name': 'Crossref (confident, conclusive)', 'cost': '$0.00', 'duration': '1h'},
-    {'path': 'out/anystyle.json', 'name': 'Anystyle', 'cost': '$0.00', 'duration': '4m'}
+    {'path': 'out/anystyle.json', 'name': 'Anystyle', 'cost': '$0.00', 'duration': '4m'},
+    {'path': 'out/openalex.json', 'name': "OpenAlex", 'cost': '$0.00', 'duration': '1h'},
+    {'path': 'out/citeas.json', 'name': 'CiteAs', 'cost': '$0.00', 'duration': '4h'}
 ]
 
 for file in FILES:

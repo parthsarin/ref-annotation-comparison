@@ -6,6 +6,7 @@ Annotates the references with the OpenAlex API.
 """
 import json
 import requests
+from requests.exceptions import JSONDecodeError
 from dotenv import load_dotenv
 import argparse
 from tqdm import tqdm
@@ -93,12 +94,12 @@ def openalex_to_mixed_citation(data):
 
 def get_reference(ref, idx):
     r = requests.get(f'https://api.openalex.org/works?search={ref["text"]}')
-    r = r.json()
 
     try:
+        r = r.json()
         hit = r['results'][0]
         prediction = openalex_to_mixed_citation(hit)
-    except (IndexError, KeyError):
+    except Exception:
         prediction = "<mixed-citation></mixed-citation>"
 
     result = {
@@ -117,18 +118,19 @@ def main(args):
     try:
         annotated_refs = json.load(open(args.output))
         completed = set((ref['doi'], ref['text']) for ref in annotated_refs)
-    except FileNotFoundError:
+    except Exception:
         annotated_refs = []
         completed = set()
 
-    with ThreadPoolExecutor(max_workers=5) as executor:
-        future_to_ref = {executor.submit(get_reference, ref, i): ref for i, ref in enumerate(data) if (ref['doi'], ref['text']) not in completed}
+    for ref in tqdm(data):
+        if (ref['doi'], ref['text']) in completed:
+            continue
 
-        for future in tqdm(as_completed(future_to_ref), total=len(future_to_ref)):
-            annotated_refs.append(future.result())
+        result = get_reference(ref, 0)
+        annotated_refs.append(result)
 
-            with open(args.output, "w") as f:
-                json.dump(annotated_refs, f, indent=2)
+        with open(args.output, "w") as f:
+            json.dump(annotated_refs, f, indent=2)
 
 
 if __name__ == "__main__":
