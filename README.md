@@ -7,11 +7,11 @@ Comparing reference annotation accuracy for four different services:
 - Language Model
 - Gazzi-style DOI extraction
 - [OpenAlex](https://openalex.org/)
+- [CiteAs](https://citeas.org/)
 
 Services to be tested:
 
 - [Google Scholar API](https://github.com/scholarly-python-package/scholarly)
-- [CiteAs](https://citeas.org/)
 - [Semantic Scholar](https://www.semanticscholar.org/)
 - [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - Other things mentioned on [this Crossref blog post](https://www.crossref.org/labs/resolving-citations-we-dont-need-no-stinkin-parser/)
